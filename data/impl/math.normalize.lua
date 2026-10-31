@@ -1,0 +1,3 @@
+local value, startValue, endValue = ...
+if startValue == endValue then return 0 end
+return (value - startValue) / (endValue - startValue)

@@ -1,0 +1,5 @@
+---
+name: math.sign
+status: implemented
+outputs:
+- type: number

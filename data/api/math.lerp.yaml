@@ -1,0 +1,5 @@
+---
+name: math.lerp
+status: implemented
+outputs:
+- type: number

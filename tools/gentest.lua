@@ -34,7 +34,8 @@ local function mapify(t)
 end
 
 local function hasproduct(t, p)
-  return not t.products or mapify(t.products)[p]
+  local m = not t.products or mapify(t.products)[p] or (p == 'wowf' and mapify(t.products).wow)
+  return m and true or false
 end
 
 local function stylua(s)

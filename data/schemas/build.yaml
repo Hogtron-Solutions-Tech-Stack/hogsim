@@ -8,9 +8,16 @@ type:
     date:
       required: true
       type: string
+    family:
+      type: string
     flavor:
       required: true
       type: string
+    game:
+      type: string
+    gametypes:
+      type:
+        sequenceof: string
     hash:
       required: true
       type: string

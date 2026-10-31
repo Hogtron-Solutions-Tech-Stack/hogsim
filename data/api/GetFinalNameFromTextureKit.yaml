@@ -1,0 +1,5 @@
+---
+name: GetFinalNameFromTextureKit
+status: implemented
+outputs:
+- type: string

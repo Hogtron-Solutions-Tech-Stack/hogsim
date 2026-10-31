@@ -1,0 +1,3 @@
+local value = ...
+if value > 0 then return 1 elseif value < 0 then return -1 end
+return 0

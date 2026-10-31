@@ -137,7 +137,7 @@ local function supported(obj)
     return true
   end
   for _, p in ipairs(obj.products) do
-    if p == args.product then
+    if p == args.product or (args.product == 'wowf' and p == 'wow') then
       return true
     end
   end

@@ -1,0 +1,5 @@
+---
+name: math.round
+status: implemented
+outputs:
+- type: number

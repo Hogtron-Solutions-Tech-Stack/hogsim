@@ -1,0 +1,5 @@
+---
+name: math.normalize
+status: implemented
+outputs:
+- type: number

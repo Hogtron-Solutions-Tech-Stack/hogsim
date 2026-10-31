@@ -1,0 +1,6 @@
+---
+name: table.indexof
+status: implemented
+outputs:
+- nilable: true
+  type: number

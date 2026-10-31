@@ -1,0 +1,5 @@
+---
+name: table.isempty
+status: implemented
+outputs:
+- type: boolean
