@@ -1,0 +1,7 @@
+---
+name: GetButtonMetatable
+status: implemented
+outputs:
+- type: table
+frameworks:
+- api

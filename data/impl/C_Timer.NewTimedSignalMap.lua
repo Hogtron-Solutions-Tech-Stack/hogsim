@@ -1,0 +1,3 @@
+-- the Lua side (TimerUtil.CreateTimedSignalCallbackMap) adds RegisterCallback/Signal methods to this object
+local dispatch = ...
+return { dispatch = dispatch, keys = {} }

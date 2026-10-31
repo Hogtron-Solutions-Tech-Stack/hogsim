@@ -1,0 +1,7 @@
+---
+name: GetOriginalMetatable
+status: implemented
+outputs:
+- type: table
+frameworks:
+- api
