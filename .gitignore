@@ -8,3 +8,5 @@
 /test.out
 /wowless/*.o
 /wowless/*.so
+# never ship client data or run output
+/.hogsim/
