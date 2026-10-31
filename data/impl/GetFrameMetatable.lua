@@ -1,1 +1,2 @@
-return { __index = {} }
+local api = ...
+return api.uiobjectTypes.frame.metatable
