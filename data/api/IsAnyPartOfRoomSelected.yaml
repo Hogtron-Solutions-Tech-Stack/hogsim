@@ -1,6 +1,7 @@
 ---
 name: IsAnyPartOfRoomSelected
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isSelected
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: C_Housing.IsInsideOwnedHouseOrPlot
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isInsideOwnedHouseOrPlot
   type: boolean

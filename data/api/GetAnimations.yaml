@@ -1,6 +1,7 @@
 ---
 name: GetAnimations
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: anims
   type: unknown

@@ -1,6 +1,7 @@
 ---
 name: IsForbidden
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isForbidden
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: C_PlayerInfo.IsAccountBankEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isAccountBankEnabled
   type: boolean

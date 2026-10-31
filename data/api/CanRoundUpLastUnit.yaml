@@ -1,6 +1,7 @@
 ---
 name: CanRoundUpLastUnit
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canRound
   type: boolean

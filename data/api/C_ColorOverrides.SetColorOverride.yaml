@@ -1,6 +1,7 @@
 ---
 name: C_ColorOverrides.SetColorOverride
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
-  - type: unknown
+  - type: colorRGBA

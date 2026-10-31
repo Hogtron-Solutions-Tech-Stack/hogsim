@@ -1,6 +1,7 @@
 ---
 name: GetReverse
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: reverse
   type: boolean

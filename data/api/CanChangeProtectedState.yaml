@@ -1,6 +1,7 @@
 ---
 name: CanChangeProtectedState
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canChange
   type: boolean

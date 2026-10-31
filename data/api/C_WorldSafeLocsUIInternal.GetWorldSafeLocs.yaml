@@ -1,6 +1,7 @@
 ---
 name: C_WorldSafeLocsUIInternal.GetWorldSafeLocs
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: WorldSafeLocInfo
   name: worldSafeLocs

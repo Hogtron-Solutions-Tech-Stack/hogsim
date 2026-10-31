@@ -1,6 +1,7 @@
 ---
 name: C_SuperTrack.IsSuperTrackingContent
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isSuperTracking
   type: boolean

@@ -1,5 +1,6 @@
 ---
 name: C_PerksProgram.PickupPerksVendorItem
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number

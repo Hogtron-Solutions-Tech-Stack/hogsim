@@ -5,7 +5,8 @@ fields:
   type: string
 - name: continent
   type: number
-- name: loc
+- mixin: Vector3DMixin
+  name: loc
   type: unknown
 - name: facing
   type: number

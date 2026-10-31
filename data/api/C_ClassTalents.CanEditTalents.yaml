@@ -1,6 +1,7 @@
 ---
 name: C_ClassTalents.CanEditTalents
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canEdit
   type: boolean

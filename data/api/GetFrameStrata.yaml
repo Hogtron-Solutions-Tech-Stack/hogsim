@@ -1,6 +1,7 @@
 ---
 name: GetFrameStrata
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: strata
   type: unknown

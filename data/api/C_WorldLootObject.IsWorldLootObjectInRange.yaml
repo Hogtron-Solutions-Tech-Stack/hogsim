@@ -1,6 +1,7 @@
 ---
 name: C_WorldLootObject.IsWorldLootObjectInRange
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unit
 outputs:

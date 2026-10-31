@@ -1,6 +1,7 @@
 ---
 name: CreateFrameWithOptions
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: CreateFrameOptions
 outputs:

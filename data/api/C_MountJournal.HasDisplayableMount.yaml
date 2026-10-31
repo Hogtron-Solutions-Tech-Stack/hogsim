@@ -1,6 +1,7 @@
 ---
 name: C_MountJournal.HasDisplayableMount
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasMount
   type: boolean

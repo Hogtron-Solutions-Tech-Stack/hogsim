@@ -1,6 +1,7 @@
 ---
 name: GetMaximumHealAbsorbs
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: maximumHealAbsorbs
   type: number

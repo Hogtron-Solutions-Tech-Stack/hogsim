@@ -1,6 +1,7 @@
 ---
 name: C_PlayerInfo.GetGlidingInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isGliding
   type: boolean

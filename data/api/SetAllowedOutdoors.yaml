@@ -1,5 +1,6 @@
 ---
 name: SetAllowedOutdoors
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: boolean

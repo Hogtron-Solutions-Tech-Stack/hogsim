@@ -1,6 +1,7 @@
 ---
 name: GetCameraFOVDefaults
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: fieldOfViewDegreesDefault
   type: number

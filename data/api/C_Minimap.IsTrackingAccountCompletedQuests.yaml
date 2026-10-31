@@ -1,6 +1,7 @@
 ---
 name: C_Minimap.IsTrackingAccountCompletedQuests
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: IsTrackingAccountCompletedQuests
   type: boolean

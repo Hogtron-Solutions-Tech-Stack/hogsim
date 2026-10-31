@@ -1,6 +1,7 @@
 ---
 name: C_HouseEditor.GetActiveHouseEditorMode
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: editMode
   type: number

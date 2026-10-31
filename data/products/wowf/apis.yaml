@@ -135,6 +135,11 @@ BuyTrainerService: BuyTrainerService
 C_AccountInfo.GetIDFromBattleNetAccountGUID: C_AccountInfo.GetIDFromBattleNetAccountGUID
 C_AccountInfo.IsGUIDBattleNetAccountType: C_AccountInfo.IsGUIDBattleNetAccountType
 C_AccountInfo.IsGUIDRelatedToLocalAccount: C_AccountInfo.IsGUIDRelatedToLocalAccount
+C_AccountServices.GetPreferredDatacenterLocalities: C_AccountServices.GetPreferredDatacenterLocalities
+C_AccountServices.GetPreferredLocales: C_AccountServices.GetPreferredLocales
+C_AccountServices.IsAccountLockedPostSave: C_AccountServices.IsAccountLockedPostSave
+C_AccountServices.IsAccountSaveEnabled: C_AccountServices.IsAccountSaveEnabled
+C_AccountServices.SetPreferredPlaySettings: C_AccountServices.SetPreferredPlaySettings
 C_AccountStore.BeginPurchase: C_AccountStore.BeginPurchase
 C_AccountStore.GetCategories: C_AccountStore.GetCategories
 C_AccountStore.GetCategoryInfo: C_AccountStore.GetCategoryInfo
@@ -5049,6 +5054,9 @@ C_UnitAuras.SetHiddenGroupBuffs: C_UnitAuras.SetHiddenGroupBuffs
 C_UnitAuras.SetPrivateWarningTextAnchor: C_UnitAuras.SetPrivateWarningTextAnchor
 C_UnitAuras.SwitchAuraDataProvider: C_UnitAuras.SwitchAuraDataProvider
 C_UnitAuras.WantsAlteredForm: C_UnitAuras.WantsAlteredForm
+C_UnitAurasPrivate.AddPrivateAuraUpdateCallback: C_UnitAurasPrivate.AddPrivateAuraUpdateCallback
+C_UnitAurasPrivate.GetAllPrivateAuras: C_UnitAurasPrivate.GetAllPrivateAuras
+C_UnitAurasPrivate.GetAuraDataByAuraInstanceIDPrivate: C_UnitAurasPrivate.GetAuraDataByAuraInstanceIDPrivate
 C_UserFeedback.SubmitBug: C_UserFeedback.SubmitBug
 C_UserFeedback.SubmitSuggestion: C_UserFeedback.SubmitSuggestion
 C_VideoOptions.AreHighResTexturesAvailable: C_VideoOptions.AreHighResTexturesAvailable
@@ -5815,6 +5823,7 @@ GetBoundsRect: GetBoundsRect
 GetBreakpoints: GetBreakpoints
 GetBuildInfo: GetBuildInfo
 GetBuildOption: GetBuildOption
+GetButtonMetatable: GetButtonMetatable
 GetButtonState: GetButtonState
 GetBuybackItemInfo: GetBuybackItemInfo
 GetBuybackItemLink: GetBuybackItemLink
@@ -5972,6 +5981,7 @@ GetDungeonDifficultyID: GetDungeonDifficultyID
 GetDungeonForRandomSlot: GetDungeonForRandomSlot
 GetDuration: GetDuration
 GetEdgeScale: GetEdgeScale
+GetEditBoxMetatable: GetEditBoxMetatable
 GetEditorModeContext: GetEditorModeContext
 GetEffectiveAlpha: GetEffectiveAlpha
 GetEffectivelyFlattensRenderLayers: GetEffectivelyFlattensRenderLayers
@@ -6061,6 +6071,7 @@ GetGameMessageInfo: GetGameMessageInfo
 GetGameTime: GetGameTime
 GetGlancingBlowChance: GetGlancingBlowChance
 GetGlancingBlowPenalty: GetGlancingBlowPenalty
+GetGlobalEnvironment: GetGlobalEnvironment
 GetGMStatus: GetGMStatus
 GetGMTicket: GetGMTicket
 GetGraphicsAPIs: GetGraphicsAPIs
@@ -6496,6 +6507,7 @@ GetOptOutOfLoot: GetOptOutOfLoot
 GetOrder: GetOrder
 GetOrientation: GetOrientation
 GetOrigin: GetOrigin
+GetOriginalMetatable: GetOriginalMetatable
 GetOSLocale: GetOSLocale
 GetOverrideAPBySpellPower: GetOverrideAPBySpellPower
 GetOverrideBarIndex: GetOverrideBarIndex
@@ -6848,6 +6860,7 @@ GetTextScale: GetTextScale
 GetTexture: GetTexture
 GetTextureFileID: GetTextureFileID
 GetTextureFilePath: GetTextureFilePath
+GetTextureMetatable: GetTextureMetatable
 GetTextureSliceMargins: GetTextureSliceMargins
 GetTextureSliceMode: GetTextureSliceMode
 GetTextWidth: GetTextWidth
@@ -8893,16 +8906,3 @@ WithdrawGuildBankMoney: WithdrawGuildBankMoney
 WorldLootObjectExists: WorldLootObjectExists
 xpcall: xpcall
 ZeroCachedCenterXY: ZeroCachedCenterXY
-C_UnitAurasPrivate.GetAuraDataByAuraInstanceIDPrivate: C_UnitAurasPrivate.GetAuraDataByAuraInstanceIDPrivate
-C_UnitAurasPrivate.GetAllPrivateAuras: C_UnitAurasPrivate.GetAllPrivateAuras
-C_UnitAurasPrivate.AddPrivateAuraUpdateCallback: C_UnitAurasPrivate.AddPrivateAuraUpdateCallback
-C_AccountServices.SetPreferredPlaySettings: C_AccountServices.SetPreferredPlaySettings
-C_AccountServices.IsAccountSaveEnabled: C_AccountServices.IsAccountSaveEnabled
-C_AccountServices.IsAccountLockedPostSave: C_AccountServices.IsAccountLockedPostSave
-C_AccountServices.GetPreferredLocales: C_AccountServices.GetPreferredLocales
-C_AccountServices.GetPreferredDatacenterLocalities: C_AccountServices.GetPreferredDatacenterLocalities
-GetButtonMetatable: GetButtonMetatable
-GetTextureMetatable: GetTextureMetatable
-GetEditBoxMetatable: GetEditBoxMetatable
-GetOriginalMetatable: GetOriginalMetatable
-GetGlobalEnvironment: GetGlobalEnvironment

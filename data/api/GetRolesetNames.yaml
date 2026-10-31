@@ -1,6 +1,7 @@
 ---
 name: GetRolesetNames
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: string
   name: rolesets

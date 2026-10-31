@@ -1,6 +1,7 @@
 ---
 name: C_HousingCatalog.CreateCatalogSearcher
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: searcher
   type: unknown

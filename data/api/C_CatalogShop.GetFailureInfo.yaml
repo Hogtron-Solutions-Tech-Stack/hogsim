@@ -1,6 +1,7 @@
 ---
 name: C_CatalogShop.GetFailureInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: errorResultEnum
   nilable: true

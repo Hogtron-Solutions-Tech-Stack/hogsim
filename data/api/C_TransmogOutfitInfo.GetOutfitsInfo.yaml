@@ -1,6 +1,7 @@
 ---
 name: C_TransmogOutfitInfo.GetOutfitsInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: TransmogOutfitEntryInfo
   name: outfitsInfo

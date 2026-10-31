@@ -1,6 +1,7 @@
 ---
 name: SetTimerDuration
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
   - default: Immediate

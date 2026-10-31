@@ -1,6 +1,7 @@
 ---
 name: C_StringUtil.WrapString
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: string
   - nilable: true

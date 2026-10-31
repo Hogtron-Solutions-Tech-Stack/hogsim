@@ -1,6 +1,7 @@
 ---
 name: GetParticleOverrideScale
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: scale
   nilable: true

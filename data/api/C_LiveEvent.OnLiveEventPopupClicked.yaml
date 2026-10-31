@@ -1,5 +1,6 @@
 ---
 name: C_LiveEvent.OnLiveEventPopupClicked
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number

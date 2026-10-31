@@ -1,6 +1,7 @@
 ---
 name: C_PetInfo.GetPetHappiness
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: happiness
   type: number

@@ -1,6 +1,7 @@
 ---
 name: C_PetInfo.GetPetLoyalty
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: loyaltyName
   type: string

@@ -1,6 +1,7 @@
 ---
 name: GetWindow
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: window
   type: unknown

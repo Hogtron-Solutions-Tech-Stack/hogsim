@@ -1,6 +1,7 @@
 ---
 name: CanMove
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: moveRestriction
   type: number

@@ -1,6 +1,7 @@
 ---
 name: C_Housing.GetVisitCooldownInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: spellCooldownInfo
   type: SpellCooldownInfo

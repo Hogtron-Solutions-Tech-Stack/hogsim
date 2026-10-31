@@ -1,6 +1,7 @@
 ---
 name: C_StringUtil.CreateNumericRuleFormatter
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: formatter
   type: unknown

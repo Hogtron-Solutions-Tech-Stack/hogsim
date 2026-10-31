@@ -1,6 +1,7 @@
 ---
 name: GetUTF8CursorPosition
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: cursorPosition
   type: number

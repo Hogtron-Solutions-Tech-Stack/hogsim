@@ -1,6 +1,7 @@
 ---
 name: C_PerksActivities.GetPerksUIThemePrefix
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: kitPrefix
   type: string

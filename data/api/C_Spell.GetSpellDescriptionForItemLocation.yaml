@@ -1,6 +1,7 @@
 ---
 name: C_Spell.GetSpellDescriptionForItemLocation
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
   - type: unknown

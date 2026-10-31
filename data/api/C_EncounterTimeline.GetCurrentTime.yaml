@@ -1,6 +1,7 @@
 ---
 name: C_EncounterTimeline.GetCurrentTime
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: currentTime
   type: unknown

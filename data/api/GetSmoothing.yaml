@@ -1,6 +1,7 @@
 ---
 name: GetSmoothing
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: weights
   type: unknown

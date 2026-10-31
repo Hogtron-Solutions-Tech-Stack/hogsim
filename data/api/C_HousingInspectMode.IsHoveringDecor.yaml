@@ -1,6 +1,7 @@
 ---
 name: C_HousingInspectMode.IsHoveringDecor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isHoveringDecor
   type: boolean

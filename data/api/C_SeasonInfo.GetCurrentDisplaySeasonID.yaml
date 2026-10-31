@@ -1,6 +1,7 @@
 ---
 name: C_SeasonInfo.GetCurrentDisplaySeasonID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: seasonID
   type: number

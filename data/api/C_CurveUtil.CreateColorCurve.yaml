@@ -1,6 +1,7 @@
 ---
 name: C_CurveUtil.CreateColorCurve
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: curve
   type: unknown

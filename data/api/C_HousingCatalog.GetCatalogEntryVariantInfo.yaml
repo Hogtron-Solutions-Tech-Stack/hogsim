@@ -1,6 +1,7 @@
 ---
 name: C_HousingCatalog.GetCatalogEntryVariantInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: HousingCatalogEntryVariantID
 outputs:

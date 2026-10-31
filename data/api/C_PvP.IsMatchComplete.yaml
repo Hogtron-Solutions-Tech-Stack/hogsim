@@ -1,6 +1,7 @@
 ---
 name: C_PvP.IsMatchComplete
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isComplete
   type: boolean

@@ -14,7 +14,8 @@ fields:
   type: number
 - name: icon
   type: number
-- name: normalizedPosition
+- mixin: Vector2DMixin
+  name: normalizedPosition
   type: unknown
 - name: state
   type: number

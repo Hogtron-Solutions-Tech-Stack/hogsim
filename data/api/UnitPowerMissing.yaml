@@ -1,6 +1,7 @@
 ---
 name: UnitPowerMissing
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
   - nilable: true

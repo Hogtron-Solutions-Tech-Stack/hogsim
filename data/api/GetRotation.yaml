@@ -1,8 +1,10 @@
 ---
 name: GetRotation
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: radians
   type: number
-- name: normalizedRotationPoint
+- mixin: Vector2DMixin
+  name: normalizedRotationPoint
   type: unknown

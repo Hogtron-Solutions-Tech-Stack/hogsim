@@ -5,7 +5,8 @@ fields:
   type: number
 - name: name
   type: string
-- name: position
+- mixin: Vector2DMixin
+  name: position
   type: unknown
 - name: atlasName
   type: string

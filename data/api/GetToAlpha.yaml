@@ -1,6 +1,7 @@
 ---
 name: GetToAlpha
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: normalizedAlpha
   type: number

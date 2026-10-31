@@ -1,6 +1,7 @@
 ---
 name: C_TransmogOutfitInfo.TransmogEventActive
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: transmogEventActive
   type: boolean

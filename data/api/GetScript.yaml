@@ -1,6 +1,7 @@
 ---
 name: GetScript
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
   - default: Extrinsic

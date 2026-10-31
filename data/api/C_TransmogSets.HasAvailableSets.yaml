@@ -1,6 +1,7 @@
 ---
 name: C_TransmogSets.HasAvailableSets
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasAvailableSets
   type: boolean

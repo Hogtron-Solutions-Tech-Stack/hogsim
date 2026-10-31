@@ -1,6 +1,7 @@
 ---
 name: GetDegrees
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: angle
   type: number

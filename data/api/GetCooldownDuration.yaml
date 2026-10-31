@@ -1,6 +1,7 @@
 ---
 name: GetCooldownDuration
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: duration
   type: number

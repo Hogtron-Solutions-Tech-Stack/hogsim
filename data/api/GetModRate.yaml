@@ -1,6 +1,7 @@
 ---
 name: GetModRate
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: modRate
   type: number

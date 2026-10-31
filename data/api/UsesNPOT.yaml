@@ -1,6 +1,7 @@
 ---
 name: UsesNPOT
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: usesNPOT
   nilable: true

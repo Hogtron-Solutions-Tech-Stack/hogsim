@@ -1,6 +1,7 @@
 ---
 name: C_ItemSocketInfo.HasBoundGemProposed
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasBoundGemProposed
   type: boolean

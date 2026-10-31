@@ -1,5 +1,6 @@
 ---
 name: C_BlizzCon2026.SetExperience
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number

@@ -1,6 +1,7 @@
 ---
 name: GetPropagateKeyboardInput
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: propagate
   type: boolean

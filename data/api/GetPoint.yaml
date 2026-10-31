@@ -1,9 +1,11 @@
 ---
 name: GetPoint
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
 outputs:
-- name: point
+- mixin: Vector2DMixin
+  name: point
   nilable: true
   type: unknown

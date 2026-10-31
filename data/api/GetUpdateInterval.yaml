@@ -1,6 +1,7 @@
 ---
 name: GetUpdateInterval
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: updateInterval
   type: number

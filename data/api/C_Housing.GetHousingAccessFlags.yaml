@@ -1,6 +1,7 @@
 ---
 name: C_Housing.GetHousingAccessFlags
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: accessFlags
   type: unknown

@@ -1,6 +1,7 @@
 ---
 name: C_PvP.IsInRatedMatchWithDeserterPenalty
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isInRatedMatchWithDeserterPenalty
   type: boolean

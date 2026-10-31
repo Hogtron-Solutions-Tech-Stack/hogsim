@@ -1,6 +1,7 @@
 ---
 name: C_ChallengeMode.IsChallengeModeResettable
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canReset
   type: boolean

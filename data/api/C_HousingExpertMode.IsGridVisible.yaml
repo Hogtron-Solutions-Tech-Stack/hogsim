@@ -1,6 +1,7 @@
 ---
 name: C_HousingExpertMode.IsGridVisible
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: gridVisible
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: GetStatusBarDesaturation
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: desaturation
   type: unknown

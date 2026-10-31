@@ -1,6 +1,7 @@
 ---
 name: C_EncounterTimeline.GetTrackList
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: EncounterTimelineTrackInfo
   name: tracks

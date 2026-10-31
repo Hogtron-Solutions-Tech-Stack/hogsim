@@ -1,6 +1,7 @@
 ---
 name: GetDrawSwipe
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: drawSwipe
   type: boolean

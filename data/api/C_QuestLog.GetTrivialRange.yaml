@@ -1,6 +1,7 @@
 ---
 name: C_QuestLog.GetTrivialRange
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: range
   type: number

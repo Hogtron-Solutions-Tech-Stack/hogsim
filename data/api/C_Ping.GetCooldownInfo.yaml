@@ -1,6 +1,7 @@
 ---
 name: C_Ping.GetCooldownInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: cooldownInfo
   type: PingCooldownInfo

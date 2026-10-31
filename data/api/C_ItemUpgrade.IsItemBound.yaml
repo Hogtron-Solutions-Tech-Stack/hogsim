@@ -1,6 +1,7 @@
 ---
 name: C_ItemUpgrade.IsItemBound
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isBound
   type: boolean

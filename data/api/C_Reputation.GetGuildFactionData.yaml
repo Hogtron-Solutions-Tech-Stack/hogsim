@@ -1,6 +1,7 @@
 ---
 name: C_Reputation.GetGuildFactionData
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: guildFactionData
   nilable: true

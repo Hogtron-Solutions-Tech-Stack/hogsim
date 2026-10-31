@@ -1,6 +1,7 @@
 ---
 name: C_DamageMeter.GetAvailableCombatSessions
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: DamageMeterAvailableCombatSession
   name: availableSessions

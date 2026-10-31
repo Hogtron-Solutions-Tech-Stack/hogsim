@@ -1,6 +1,7 @@
 ---
 name: ConsoleEcho
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: string
   - default: false

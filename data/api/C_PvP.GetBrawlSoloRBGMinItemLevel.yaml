@@ -1,6 +1,7 @@
 ---
 name: C_PvP.GetBrawlSoloRBGMinItemLevel
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: minItemLevel
   type: number

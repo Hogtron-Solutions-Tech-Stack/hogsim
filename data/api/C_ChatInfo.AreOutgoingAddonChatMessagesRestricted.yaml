@@ -1,6 +1,7 @@
 ---
 name: C_ChatInfo.AreOutgoingAddonChatMessagesRestricted
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isRestricted
   type: boolean

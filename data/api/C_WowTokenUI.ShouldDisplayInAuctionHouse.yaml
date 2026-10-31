@@ -1,6 +1,7 @@
 ---
 name: C_WowTokenUI.ShouldDisplayInAuctionHouse
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: displayInAH
   type: boolean

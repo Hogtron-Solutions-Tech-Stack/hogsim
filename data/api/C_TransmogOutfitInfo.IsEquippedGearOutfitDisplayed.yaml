@@ -1,6 +1,7 @@
 ---
 name: C_TransmogOutfitInfo.IsEquippedGearOutfitDisplayed
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isDisplayed
   type: boolean

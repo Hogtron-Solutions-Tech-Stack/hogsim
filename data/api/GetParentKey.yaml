@@ -1,6 +1,7 @@
 ---
 name: GetParentKey
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: parentKey
   type: string

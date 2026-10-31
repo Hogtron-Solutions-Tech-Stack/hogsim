@@ -1,5 +1,6 @@
 ---
 name: SetFixedColor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: boolean

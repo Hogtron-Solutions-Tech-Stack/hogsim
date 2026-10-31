@@ -1,6 +1,7 @@
 ---
 name: GetFogOfWarMaskTexture
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: asset
   nilable: true

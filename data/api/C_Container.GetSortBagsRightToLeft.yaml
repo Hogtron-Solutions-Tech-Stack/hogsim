@@ -1,6 +1,7 @@
 ---
 name: C_Container.GetSortBagsRightToLeft
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isEnabled
   type: boolean

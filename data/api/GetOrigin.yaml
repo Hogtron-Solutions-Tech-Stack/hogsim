@@ -1,6 +1,7 @@
 ---
 name: GetOrigin
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: point
   type: unknown

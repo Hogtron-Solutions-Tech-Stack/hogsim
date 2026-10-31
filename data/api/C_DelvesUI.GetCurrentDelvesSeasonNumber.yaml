@@ -1,6 +1,7 @@
 ---
 name: C_DelvesUI.GetCurrentDelvesSeasonNumber
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: seasonNumber
   type: number

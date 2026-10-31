@@ -1,6 +1,7 @@
 ---
 name: GetTextureSliceMode
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: sliceMode
   type: number

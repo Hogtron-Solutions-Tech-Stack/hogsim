@@ -1,6 +1,7 @@
 ---
 name: C_ActionBar.GetOverrideBarIndex
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: overrideBarIndex
   type: number

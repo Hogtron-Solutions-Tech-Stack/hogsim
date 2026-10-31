@@ -1,6 +1,7 @@
 ---
 name: C_Spell.GetDeadlyDebuffInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
 outputs:

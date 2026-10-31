@@ -1,6 +1,7 @@
 ---
 name: GetCollapsingStarCost
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: cost
   type: number

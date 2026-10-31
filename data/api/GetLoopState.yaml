@@ -1,6 +1,7 @@
 ---
 name: GetLoopState
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: loopState
   type: string

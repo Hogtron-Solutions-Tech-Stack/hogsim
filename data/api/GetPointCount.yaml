@@ -1,6 +1,7 @@
 ---
 name: GetPointCount
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: count
   type: number

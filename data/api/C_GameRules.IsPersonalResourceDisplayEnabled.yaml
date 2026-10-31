@@ -1,6 +1,7 @@
 ---
 name: C_GameRules.IsPersonalResourceDisplayEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isPersonalResourceDisplayEnabled
   type: boolean

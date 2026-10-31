@@ -9,9 +9,10 @@ fields:
 - name: sliceMode
   nilable: true
   type: number
-- name: color
+- mixin: ColorMixin
+  name: color
   nilable: true
-  type: unknown
+  type: colorRGBA
 - name: anchorOffsets
   nilable: true
   type: AuraContainerTooltipAnchorOffsets

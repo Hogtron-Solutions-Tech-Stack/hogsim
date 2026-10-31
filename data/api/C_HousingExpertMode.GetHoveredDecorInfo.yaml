@@ -1,6 +1,7 @@
 ---
 name: C_HousingExpertMode.GetHoveredDecorInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: info
   nilable: true

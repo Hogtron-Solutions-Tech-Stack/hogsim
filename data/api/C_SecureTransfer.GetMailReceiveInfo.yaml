@@ -1,6 +1,7 @@
 ---
 name: C_SecureTransfer.GetMailReceiveInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: mailInfo
   type: MailReceiveInfo

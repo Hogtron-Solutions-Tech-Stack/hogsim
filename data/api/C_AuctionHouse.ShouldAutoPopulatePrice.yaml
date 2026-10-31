@@ -1,6 +1,7 @@
 ---
 name: C_AuctionHouse.ShouldAutoPopulatePrice
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: shouldAutoPopulatePrice
   type: boolean

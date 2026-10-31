@@ -1,6 +1,7 @@
 ---
 name: IsCpuBound
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isCpuBound
   nilable: true

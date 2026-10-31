@@ -1,6 +1,7 @@
 ---
 name: C_Reputation.AreLegacyReputationsShown
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: areLegacyReputationsShown
   type: boolean

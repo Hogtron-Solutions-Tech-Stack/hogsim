@@ -1,6 +1,7 @@
 ---
 name: C_ItemSocketInfo.GetSocketItemRefundable
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: socketItemRefundable
   type: boolean

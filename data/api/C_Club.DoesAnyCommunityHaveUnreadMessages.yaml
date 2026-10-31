@@ -1,6 +1,7 @@
 ---
 name: C_Club.DoesAnyCommunityHaveUnreadMessages
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasUnreadMessages
   type: boolean

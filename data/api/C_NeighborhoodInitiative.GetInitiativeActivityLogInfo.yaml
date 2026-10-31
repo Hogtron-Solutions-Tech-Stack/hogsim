@@ -1,6 +1,7 @@
 ---
 name: C_NeighborhoodInitiative.GetInitiativeActivityLogInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: info
   nilable: true

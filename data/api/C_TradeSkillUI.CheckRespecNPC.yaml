@@ -1,6 +1,7 @@
 ---
 name: C_TradeSkillUI.CheckRespecNPC
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canInteract
   type: boolean

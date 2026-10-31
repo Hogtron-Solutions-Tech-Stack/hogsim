@@ -1,6 +1,7 @@
 ---
 name: GetAccessRestrictions
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: restrictions
   type: number

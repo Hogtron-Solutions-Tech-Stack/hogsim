@@ -1,6 +1,7 @@
 ---
 name: GetJustifyV
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: justifyV
   type: unknown

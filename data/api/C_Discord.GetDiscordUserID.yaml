@@ -1,6 +1,7 @@
 ---
 name: C_Discord.GetDiscordUserID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: userID
   type: number

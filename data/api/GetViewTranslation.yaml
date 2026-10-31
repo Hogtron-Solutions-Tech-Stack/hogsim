@@ -1,6 +1,7 @@
 ---
 name: GetViewTranslation
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: x
   type: number

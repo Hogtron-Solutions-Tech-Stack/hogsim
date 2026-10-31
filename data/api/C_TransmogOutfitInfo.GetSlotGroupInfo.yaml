@@ -1,6 +1,7 @@
 ---
 name: C_TransmogOutfitInfo.GetSlotGroupInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: TransmogOutfitSlotGroup
   name: slotGroups

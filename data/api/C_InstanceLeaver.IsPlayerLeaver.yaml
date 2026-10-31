@@ -1,6 +1,7 @@
 ---
 name: C_InstanceLeaver.IsPlayerLeaver
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isLeaver
   type: boolean

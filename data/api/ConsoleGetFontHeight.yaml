@@ -1,6 +1,7 @@
 ---
 name: ConsoleGetFontHeight
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: fontHeightInPixels
   type: number

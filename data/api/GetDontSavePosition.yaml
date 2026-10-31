@@ -1,6 +1,7 @@
 ---
 name: GetDontSavePosition
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: dontSave
   type: boolean

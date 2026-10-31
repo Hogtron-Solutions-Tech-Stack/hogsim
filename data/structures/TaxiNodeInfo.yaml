@@ -3,7 +3,8 @@ name: TaxiNodeInfo
 fields:
 - name: nodeID
   type: number
-- name: position
+- mixin: Vector2DMixin
+  name: position
   type: unknown
 - name: name
   type: string

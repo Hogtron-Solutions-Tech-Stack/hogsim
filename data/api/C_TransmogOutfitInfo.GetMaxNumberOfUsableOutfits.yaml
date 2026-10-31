@@ -1,6 +1,7 @@
 ---
 name: C_TransmogOutfitInfo.GetMaxNumberOfUsableOutfits
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: maxOutfitCount
   type: number

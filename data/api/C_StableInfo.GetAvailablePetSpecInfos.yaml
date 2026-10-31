@@ -1,6 +1,7 @@
 ---
 name: C_StableInfo.GetAvailablePetSpecInfos
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: PetSpecInfo
   name: petSpecInfos

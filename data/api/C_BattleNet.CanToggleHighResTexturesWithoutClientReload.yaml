@@ -1,6 +1,7 @@
 ---
 name: C_BattleNet.CanToggleHighResTexturesWithoutClientReload
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canToggle
   type: boolean

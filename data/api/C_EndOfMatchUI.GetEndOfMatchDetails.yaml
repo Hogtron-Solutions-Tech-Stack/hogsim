@@ -1,6 +1,7 @@
 ---
 name: C_EndOfMatchUI.GetEndOfMatchDetails
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: matchDetails
   nilable: true

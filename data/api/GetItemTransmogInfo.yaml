@@ -1,9 +1,11 @@
 ---
 name: GetItemTransmogInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
 outputs:
-- name: itemTransmogInfo
+- mixin: ItemTransmogInfoMixin
+  name: itemTransmogInfo
   nilable: true
   type: unknown

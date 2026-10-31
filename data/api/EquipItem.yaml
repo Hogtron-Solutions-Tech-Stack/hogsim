@@ -1,5 +1,6 @@
 ---
 name: EquipItem
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number

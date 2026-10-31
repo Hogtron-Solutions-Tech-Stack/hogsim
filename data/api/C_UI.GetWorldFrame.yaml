@@ -1,6 +1,7 @@
 ---
 name: C_UI.GetWorldFrame
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: worldFrame
   type: unknown

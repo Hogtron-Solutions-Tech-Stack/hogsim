@@ -1,8 +1,10 @@
 ---
 name: TransformCameraSpaceToModelSpace
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
 outputs:
-- name: modelPosition
+- mixin: Vector3DMixin
+  name: modelPosition
   type: unknown

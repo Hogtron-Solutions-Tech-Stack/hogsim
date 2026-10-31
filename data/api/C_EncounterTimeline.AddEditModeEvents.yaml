@@ -1,6 +1,7 @@
 ---
 name: C_EncounterTimeline.AddEditModeEvents
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: loopTimerDuration
   type: unknown

@@ -1,6 +1,7 @@
 ---
 name: C_ExternalEventURL.HasURL
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasURL
   type: boolean

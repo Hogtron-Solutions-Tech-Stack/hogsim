@@ -1,6 +1,7 @@
 ---
 name: C_NeighborhoodInitiative.GetTrackedInitiativeTasks
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: trackedInitiativeTasks
   type: InitiativeTasksTracked

@@ -1,6 +1,7 @@
 ---
 name: C_HousingDecor.IsDecorSelected
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasSelectedDecor
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: IsStoredOnlyActive
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isActive
   type: boolean

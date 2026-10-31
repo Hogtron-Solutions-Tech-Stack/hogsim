@@ -1,6 +1,7 @@
 ---
 name: C_CraftingOrders.GetNumFavoriteCustomerOptions
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: numFavorites
   type: number

@@ -1,6 +1,7 @@
 ---
 name: C_BattleNet.AreFriendTagsEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: areFriendTagsEnabled
   type: boolean

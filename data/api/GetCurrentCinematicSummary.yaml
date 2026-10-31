@@ -1,6 +1,7 @@
 ---
 name: GetCurrentCinematicSummary
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: summary
   type: string

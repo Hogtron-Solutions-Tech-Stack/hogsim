@@ -1,6 +1,7 @@
 ---
 name: IsUsingModelCenterToTransform
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: useCenter
   type: boolean

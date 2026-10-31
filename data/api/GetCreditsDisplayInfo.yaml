@@ -1,6 +1,7 @@
 ---
 name: GetCreditsDisplayInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: CreditsDisplayInfo
   name: info

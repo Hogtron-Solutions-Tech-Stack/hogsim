@@ -1,8 +1,7 @@
 ---
 name: C_ColorOverrides.GetDefaultColorForQuality
-status: unimplemented
-inputs:
-- - type: number
+status: implemented
 outputs:
-- name: color
-  type: unknown
+- type: table
+frameworks:
+- env

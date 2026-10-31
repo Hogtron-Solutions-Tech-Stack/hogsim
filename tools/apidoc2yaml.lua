@@ -71,6 +71,7 @@ local prim = {
   time_t = 'number', size = 'number', uiUnit = 'number', BigInteger = 'number', BigUInteger = 'number',
   WOWMONEY = 'number', cstring = 'string', string = 'string', stringView = 'string', WOWGUID = 'string',
   textureKit = 'string', textureAtlas = 'string', uiAddon = 'string', luaFunction = 'function', table = 'table',
+  colorRGBA = 'colorRGBA', colorRGB = 'colorRGB',
 }
 -- ctx: input | output | field (structure fields and event payloads)
 local function maptype(ty, ctx)
@@ -89,6 +90,7 @@ local function rec(x, ctx)
   if x.Name and ctx ~= 'input' then r.name = x.Name end
   if x.Nilable then r.nilable = true end
   if x.Type == 'table' and x.InnerType then r.innerType = maptype(x.InnerType, 'field') end
+  if x.Mixin and ctx ~= 'input' then r.mixin = x.Mixin end
   if ctx == 'input' and x.Default ~= nil and type(x.Default) ~= 'table' then r.default = x.Default end
   return r
 end
@@ -102,6 +104,11 @@ end
 local stats = { structures = 0, apis = 0, stubs = 0, events = 0, enums = 0, constants = 0 }
 
 -- 1. structures first: stubs reference them by name and prep.lua needs their defaults
+-- colorRGBA / colorRGB are engine value types in the docs (with ColorMixin); model them as structures.
+structs.colorRGBA = structs.colorRGBA or { Name = 'colorRGBA', Type = 'Structure', Fields = {
+  { Name = 'r', Type = 'number' }, { Name = 'g', Type = 'number' }, { Name = 'b', Type = 'number' }, { Name = 'a', Type = 'number' } } }
+structs.colorRGB = structs.colorRGB or { Name = 'colorRGB', Type = 'Structure', Fields = {
+  { Name = 'r', Type = 'number' }, { Name = 'g', Type = 'number' }, { Name = 'b', Type = 'number' } } }
 for name, st in pairs(structs) do
   if not knownStructs[name] then
     local fields = {}
@@ -122,7 +129,7 @@ for _, d in ipairs(docs) do
     stats.apis = stats.apis + 1
     local path = 'data/api/' .. name .. '.yaml'
     if not plpath.exists(path) then
-      local api = { name = name, status = 'unimplemented' }
+      local api = { name = name, status = 'unimplemented', comment = 'generated from Blizzard_APIDocumentationGenerated' }
       if fn.Arguments and #fn.Arguments > 0 then
         local sig = {}
         for _, a in ipairs(fn.Arguments) do sig[#sig + 1] = rec(a, 'input') end

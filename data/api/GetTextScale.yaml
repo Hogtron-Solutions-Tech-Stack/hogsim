@@ -1,6 +1,7 @@
 ---
 name: GetTextScale
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: textScale
   type: number

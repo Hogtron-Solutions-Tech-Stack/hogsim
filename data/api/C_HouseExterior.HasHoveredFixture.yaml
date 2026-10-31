@@ -1,6 +1,7 @@
 ---
 name: C_HouseExterior.HasHoveredFixture
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: anyHoveredFixture
   type: boolean

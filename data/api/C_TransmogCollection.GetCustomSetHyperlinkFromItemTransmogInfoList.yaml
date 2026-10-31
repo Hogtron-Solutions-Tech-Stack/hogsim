@@ -1,6 +1,7 @@
 ---
 name: C_TransmogCollection.GetCustomSetHyperlinkFromItemTransmogInfoList
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - innerType: unknown
     type: table

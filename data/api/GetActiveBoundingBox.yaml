@@ -1,8 +1,11 @@
 ---
 name: GetActiveBoundingBox
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
-- name: boxBottom
+- mixin: Vector3DMixin
+  name: boxBottom
   type: unknown
-- name: boxTop
+- mixin: Vector3DMixin
+  name: boxTop
   type: unknown

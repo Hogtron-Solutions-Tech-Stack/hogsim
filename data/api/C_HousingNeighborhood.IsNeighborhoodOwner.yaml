@@ -1,6 +1,7 @@
 ---
 name: C_HousingNeighborhood.IsNeighborhoodOwner
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isOwner
   type: boolean

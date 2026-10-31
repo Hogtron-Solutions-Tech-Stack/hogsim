@@ -1,6 +1,7 @@
 ---
 name: GetDesiredUnitCount
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: count
   nilable: true

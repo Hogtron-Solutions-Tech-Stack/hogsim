@@ -1,6 +1,7 @@
 ---
 name: C_EncounterTimeline.GetEventHighlightTime
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: highlightTime
   type: unknown

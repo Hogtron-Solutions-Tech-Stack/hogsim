@@ -1,6 +1,7 @@
 ---
 name: IsProtected
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isProtected
   type: boolean

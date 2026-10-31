@@ -1,6 +1,7 @@
 ---
 name: C_HousingLayout.IsDraggingRoom
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isDragging
   type: boolean

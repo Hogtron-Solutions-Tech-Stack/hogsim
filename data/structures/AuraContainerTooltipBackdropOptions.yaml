@@ -3,12 +3,14 @@ name: AuraContainerTooltipBackdropOptions
 fields:
 - name: backdropInfo
   type: AuraContainerTooltipBackdropInfo
-- name: borderColor
+- mixin: ColorMixin
+  name: borderColor
   nilable: true
-  type: unknown
-- name: centerColor
+  type: colorRGBA
+- mixin: ColorMixin
+  name: centerColor
   nilable: true
-  type: unknown
+  type: colorRGBA
 - name: anchorOffsets
   nilable: true
   type: AuraContainerTooltipAnchorOffsets

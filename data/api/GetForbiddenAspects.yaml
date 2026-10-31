@@ -1,6 +1,7 @@
 ---
 name: GetForbiddenAspects
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: aspects
   type: number

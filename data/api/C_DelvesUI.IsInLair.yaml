@@ -1,6 +1,7 @@
 ---
 name: C_DelvesUI.IsInLair
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: result
   type: boolean

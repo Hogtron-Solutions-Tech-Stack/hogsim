@@ -1,6 +1,7 @@
 ---
 name: GetSourceLocation
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: location
   type: string

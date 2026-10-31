@@ -1,6 +1,7 @@
 ---
 name: C_GamepadTargeting.Disable
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: targetAlreadySelected
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: C_Spell.GetSpellCooldownDuration
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
   - default: false

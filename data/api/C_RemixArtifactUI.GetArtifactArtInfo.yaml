@@ -1,6 +1,7 @@
 ---
 name: C_RemixArtifactUI.GetArtifactArtInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: artifactArtInfo
   type: RemixArtifactArtInfo

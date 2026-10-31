@@ -1,6 +1,7 @@
 ---
 name: C_ActionBar.GetTempShapeshiftBarIndex
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: tempShapeshiftBarIndex
   type: number

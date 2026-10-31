@@ -1,6 +1,7 @@
 ---
 name: C_PartyInfo.IsRaidListEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isRaidListEnabled
   type: boolean

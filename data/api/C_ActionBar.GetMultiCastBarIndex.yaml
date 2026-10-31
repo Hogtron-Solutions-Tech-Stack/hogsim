@@ -1,6 +1,7 @@
 ---
 name: C_ActionBar.GetMultiCastBarIndex
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: multiCastBarIndex
   type: number

@@ -1,6 +1,7 @@
 ---
 name: C_CVar.SetTempCVar
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: string
   - nilable: true

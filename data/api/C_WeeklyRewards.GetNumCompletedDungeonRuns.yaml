@@ -1,6 +1,7 @@
 ---
 name: C_WeeklyRewards.GetNumCompletedDungeonRuns
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: numHeroic
   type: number

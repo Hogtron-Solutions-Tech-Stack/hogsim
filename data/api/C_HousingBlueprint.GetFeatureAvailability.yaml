@@ -1,6 +1,7 @@
 ---
 name: C_HousingBlueprint.GetFeatureAvailability
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: blueprintsAvailability
   type: number

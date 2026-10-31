@@ -1,6 +1,7 @@
 ---
 name: GetManaRegenFromSpirit
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: powerRegen
   type: number

@@ -1,6 +1,7 @@
 ---
 name: GetOrientation
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: orientation
   type: unknown

@@ -353,7 +353,8 @@ AZERITE_EMPOWERED_ITEM_LOOTED:
     type: string
 AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED:
   payload:
-  - name: azeriteEmpoweredItemLocation
+  - mixin: ItemLocationMixin
+    name: azeriteEmpoweredItemLocation
     type: unknown
 AZERITE_ESSENCE_ACTIVATED:
   payload:
@@ -386,7 +387,8 @@ AZERITE_ITEM_ENABLED_STATE_CHANGED:
     type: boolean
 AZERITE_ITEM_EXPERIENCE_CHANGED:
   payload:
-  - name: azeriteItemLocation
+  - mixin: ItemLocationMixin
+    name: azeriteItemLocation
     type: unknown
   - name: oldExperienceAmount
     type: number
@@ -394,7 +396,8 @@ AZERITE_ITEM_EXPERIENCE_CHANGED:
     type: number
 AZERITE_ITEM_POWER_LEVEL_CHANGED:
   payload:
-  - name: azeriteItemLocation
+  - mixin: ItemLocationMixin
+    name: azeriteItemLocation
     type: unknown
   - name: oldPowerLevel
     type: number
@@ -4307,7 +4310,8 @@ ENCHANT_SPELL_COMPLETED:
   payload:
   - name: successful
     type: boolean
-  - name: enchantedItem
+  - mixin: ItemLocationMixin
+    name: enchantedItem
     nilable: true
     type: unknown
 ENCHANT_SPELL_SELECTED: {}
@@ -4418,19 +4422,22 @@ EQUIP_BIND_CONFIRM:
   payload:
   - name: slot
     type: number
-  - name: itemLocation
+  - mixin: ItemLocationMixin
+    name: itemLocation
     type: unknown
 EQUIP_BIND_REFUNDABLE_CONFIRM:
   payload:
   - name: slot
     type: number
-  - name: itemLocation
+  - mixin: ItemLocationMixin
+    name: itemLocation
     type: unknown
 EQUIP_BIND_TRADEABLE_CONFIRM:
   payload:
   - name: slot
     type: number
-  - name: itemLocation
+  - mixin: ItemLocationMixin
+    name: itemLocation
     type: unknown
 EQUIPMENT_SETS_CHANGED: {}
 EQUIPMENT_SWAP_FINISHED:
@@ -5559,7 +5566,8 @@ ITEM_DATA_LOAD_RESULT:
 ITEM_INTERACTION_CHARGE_INFO_UPDATED: {}
 ITEM_INTERACTION_ITEM_SELECTION_UPDATED:
   payload:
-  - name: itemLocation
+  - mixin: ItemLocationMixin
+    name: itemLocation
     nilable: true
     type: unknown
 ITEM_KEY_ITEM_INFO_RECEIVED:
@@ -8126,11 +8134,13 @@ TRANSMOGRIFY_ITEM_UPDATE: {}
 TRANSMOGRIFY_OPEN: {}
 TRANSMOGRIFY_SUCCESS:
   payload:
-  - name: transmogLocation
+  - mixin: TransmogLocationMixin
+    name: transmogLocation
     type: unknown
 TRANSMOGRIFY_UPDATE:
   payload:
-  - name: transmogLocation
+  - mixin: TransmogLocationMixin
+    name: transmogLocation
     nilable: true
     type: unknown
   - name: action

@@ -1,6 +1,7 @@
 ---
 name: C_HousingNeighborhood.GetCornerstoneNeighborhoodInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: neighborhoodInfo
   type: NeighborhoodInfo

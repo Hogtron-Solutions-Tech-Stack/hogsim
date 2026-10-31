@@ -1,5 +1,6 @@
 ---
 name: C_ReportSystem.SetScreenshotPreviewTexture
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown

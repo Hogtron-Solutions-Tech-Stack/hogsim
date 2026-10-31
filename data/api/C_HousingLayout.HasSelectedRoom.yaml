@@ -1,6 +1,7 @@
 ---
 name: C_HousingLayout.HasSelectedRoom
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasSelectedRoom
   type: boolean

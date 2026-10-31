@@ -1,6 +1,7 @@
 ---
 name: C_ActionBar.HasExtraActionBar
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasExtraActionBar
   type: boolean

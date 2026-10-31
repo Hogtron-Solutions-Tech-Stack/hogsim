@@ -1,6 +1,7 @@
 ---
 name: C_CurrencyInfo.GetDragonIslesSuppliesCurrencyID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: dragonIslesSuppliesCurrencyID
   type: number

@@ -1,6 +1,7 @@
 ---
 name: GetMissingHealth
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: missingHealth
   type: number

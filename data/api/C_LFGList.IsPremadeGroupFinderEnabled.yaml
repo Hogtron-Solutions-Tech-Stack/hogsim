@@ -1,6 +1,7 @@
 ---
 name: C_LFGList.IsPremadeGroupFinderEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: enabled
   type: boolean

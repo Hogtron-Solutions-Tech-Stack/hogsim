@@ -1,6 +1,7 @@
 ---
 name: GetDamageAbsorbClampMode
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: damageAbsorbClampMode
   type: number

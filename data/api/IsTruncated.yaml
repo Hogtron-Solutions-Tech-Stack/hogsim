@@ -1,6 +1,7 @@
 ---
 name: IsTruncated
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isTruncated
   type: boolean

@@ -1,5 +1,6 @@
 ---
 name: C_TransmogCollection.DeleteCustomSet
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number

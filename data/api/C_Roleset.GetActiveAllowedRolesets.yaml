@@ -1,6 +1,7 @@
 ---
 name: C_Roleset.GetActiveAllowedRolesets
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: string
   name: allowedRolesets

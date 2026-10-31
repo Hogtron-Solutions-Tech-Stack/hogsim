@@ -1,6 +1,7 @@
 ---
 name: table.freeze
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: table
 outputs:

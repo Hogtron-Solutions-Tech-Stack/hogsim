@@ -1,6 +1,7 @@
 ---
 name: C_RaidLocks.IsRaidLockExtendFeatureSupported
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: raidLockExtendFeatureSupported
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: C_Reputation.GetNumFactions
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: numFactions
   type: number

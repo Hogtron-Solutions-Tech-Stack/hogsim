@@ -1,6 +1,7 @@
 ---
 name: C_HousingNeighborhood.GetNeighborhoodName
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: neighborhoodName
   type: string

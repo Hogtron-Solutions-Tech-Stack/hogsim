@@ -1,6 +1,7 @@
 ---
 name: C_TooltipComparison.GetItemComparisonDelta
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
   - type: unknown

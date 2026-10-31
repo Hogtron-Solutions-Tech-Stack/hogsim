@@ -3,8 +3,9 @@ name: ContributionAppearance
 fields:
 - name: stateName
   type: string
-- name: stateColor
-  type: unknown
+- mixin: ColorMixin
+  name: stateColor
+  type: colorRGB
 - name: tooltipLine
   type: string
 - name: tooltipUseTimeRemaining

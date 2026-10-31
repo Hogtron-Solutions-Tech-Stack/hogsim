@@ -1,6 +1,7 @@
 ---
 name: CanWordWrap
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: wrap
   type: boolean

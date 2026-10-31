@@ -1,6 +1,7 @@
 ---
 name: GetResizeBounds
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: minWidth
   type: number

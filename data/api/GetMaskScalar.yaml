@@ -1,6 +1,7 @@
 ---
 name: GetMaskScalar
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: scalar
   type: number

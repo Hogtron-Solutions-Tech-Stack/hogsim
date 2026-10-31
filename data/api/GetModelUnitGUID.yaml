@@ -1,6 +1,7 @@
 ---
 name: GetModelUnitGUID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: guid
   type: string

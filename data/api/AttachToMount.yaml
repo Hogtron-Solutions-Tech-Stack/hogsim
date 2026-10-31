@@ -1,6 +1,7 @@
 ---
 name: AttachToMount
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
   - type: unknown

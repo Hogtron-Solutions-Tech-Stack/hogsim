@@ -1,6 +1,7 @@
 ---
 name: C_TransmogSets.GetFullBaseSetsCounts
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: numCollected
   type: number

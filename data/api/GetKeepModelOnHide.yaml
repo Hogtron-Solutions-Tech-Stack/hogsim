@@ -1,6 +1,7 @@
 ---
 name: GetKeepModelOnHide
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: keepModelOnHide
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: ReagentsFromBankAllowed
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: allowed
   type: boolean

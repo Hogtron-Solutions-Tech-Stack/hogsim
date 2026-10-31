@@ -1,6 +1,7 @@
 ---
 name: GetNumPoints
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: numPoints
   type: number

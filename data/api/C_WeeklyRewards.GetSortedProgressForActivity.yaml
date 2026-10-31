@@ -1,6 +1,7 @@
 ---
 name: C_WeeklyRewards.GetSortedProgressForActivity
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
   - type: boolean

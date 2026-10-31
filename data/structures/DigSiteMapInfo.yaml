@@ -3,7 +3,8 @@ name: DigSiteMapInfo
 fields:
 - name: researchSiteID
   type: number
-- name: position
+- mixin: Vector2DMixin
+  name: position
   type: unknown
 - name: name
   type: string

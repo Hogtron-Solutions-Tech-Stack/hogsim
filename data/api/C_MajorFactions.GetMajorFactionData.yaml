@@ -1,6 +1,7 @@
 ---
 name: C_MajorFactions.GetMajorFactionData
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
 outputs:

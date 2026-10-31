@@ -1,6 +1,7 @@
 ---
 name: C_TransmogOutfitInfo.GetUISituationCategoriesAndOptions
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: TransmogSituationCategory
   name: categoryData

@@ -1,6 +1,7 @@
 ---
 name: C_PlayerInfo.GetPlayerCharacterData
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: characterData
   type: PlayerInfoCharacterData

@@ -1,6 +1,7 @@
 ---
 name: C_HousingNeighborhood.IsPlotOwnedByPlayer
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isPlayerOwned
   type: boolean

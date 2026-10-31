@@ -1,6 +1,7 @@
 ---
 name: C_QuestLog.GetQuestTimers
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: QuestTimerInfo
   name: questTimers

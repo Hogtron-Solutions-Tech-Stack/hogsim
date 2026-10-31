@@ -1,6 +1,7 @@
 ---
 name: GetRegionParent
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: region
   type: unknown

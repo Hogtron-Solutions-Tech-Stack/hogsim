@@ -1,8 +1,9 @@
 ---
 name: FontScriptInfo
 fields:
-- name: color
-  type: unknown
+- mixin: ColorMixin
+  name: color
+  type: colorRGBA
 - name: height
   type: number
 - name: outline

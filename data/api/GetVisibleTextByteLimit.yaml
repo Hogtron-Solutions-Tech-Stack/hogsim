@@ -1,6 +1,7 @@
 ---
 name: GetVisibleTextByteLimit
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: maxVisibleBytes
   type: number

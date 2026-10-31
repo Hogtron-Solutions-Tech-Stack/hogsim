@@ -3,5 +3,6 @@ name: TooltipComparisonLine
 fields:
 - name: text
   type: string
-- name: color
-  type: unknown
+- mixin: ColorMixin
+  name: color
+  type: colorRGB

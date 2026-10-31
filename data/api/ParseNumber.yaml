@@ -1,6 +1,7 @@
 ---
 name: ParseNumber
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: string
   - type: number

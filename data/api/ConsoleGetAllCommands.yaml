@@ -1,6 +1,7 @@
 ---
 name: ConsoleGetAllCommands
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: ConsoleCommandInfo
   name: commands

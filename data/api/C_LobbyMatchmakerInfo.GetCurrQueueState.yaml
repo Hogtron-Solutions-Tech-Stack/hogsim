@@ -1,6 +1,7 @@
 ---
 name: C_LobbyMatchmakerInfo.GetCurrQueueState
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: queueState
   type: number

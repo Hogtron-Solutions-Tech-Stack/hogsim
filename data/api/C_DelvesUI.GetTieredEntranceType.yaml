@@ -1,6 +1,7 @@
 ---
 name: C_DelvesUI.GetTieredEntranceType
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: entranceType
   type: number

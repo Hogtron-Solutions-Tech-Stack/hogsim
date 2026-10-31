@@ -1,6 +1,7 @@
 ---
 name: C_GameRules.GetNumDisplayedGameModes
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: numDisplayedGameModes
   type: number

@@ -1,6 +1,7 @@
 ---
 name: GetExpiredText
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: text
   nilable: true

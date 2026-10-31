@@ -1,6 +1,7 @@
 ---
 name: GetHyperlinkFormat
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: format
   type: string

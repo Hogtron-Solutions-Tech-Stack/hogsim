@@ -1,6 +1,7 @@
 ---
 name: C_Housing.CanEditCharter
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canEditCharter
   type: boolean

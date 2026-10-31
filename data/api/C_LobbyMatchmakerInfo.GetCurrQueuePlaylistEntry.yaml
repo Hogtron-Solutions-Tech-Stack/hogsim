@@ -1,6 +1,7 @@
 ---
 name: C_LobbyMatchmakerInfo.GetCurrQueuePlaylistEntry
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: playlistEntry
   type: unknown

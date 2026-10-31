@@ -1,6 +1,7 @@
 ---
 name: C_QuestInfoSystem.GetQuestHasShortExpirationWarning
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - nilable: true
     type: number

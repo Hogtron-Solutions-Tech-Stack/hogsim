@@ -1,5 +1,6 @@
 ---
 name: C_HousingCatalog.HousingMarketActionViewBundle
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number

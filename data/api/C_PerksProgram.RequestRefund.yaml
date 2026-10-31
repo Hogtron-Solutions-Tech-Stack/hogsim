@@ -1,5 +1,6 @@
 ---
 name: C_PerksProgram.RequestRefund
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number

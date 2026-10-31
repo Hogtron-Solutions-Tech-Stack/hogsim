@@ -1,6 +1,7 @@
 ---
 name: C_AuraContainerUtil.ProcessAuraTooltipNineSliceOptions
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: AuraContainerTooltipNineSliceOptions
 outputs:

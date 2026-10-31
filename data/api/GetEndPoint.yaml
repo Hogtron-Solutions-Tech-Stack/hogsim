@@ -1,6 +1,7 @@
 ---
 name: GetEndPoint
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: relativePoint
   type: unknown

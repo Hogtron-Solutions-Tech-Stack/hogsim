@@ -1,6 +1,7 @@
 ---
 name: C_EventScheduler.GetScheduledEvents
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: ScheduledEventInfo
   name: events

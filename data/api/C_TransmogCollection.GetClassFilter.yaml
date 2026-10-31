@@ -1,6 +1,7 @@
 ---
 name: C_TransmogCollection.GetClassFilter
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: classID
   type: number

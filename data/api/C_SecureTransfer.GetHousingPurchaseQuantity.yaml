@@ -1,6 +1,7 @@
 ---
 name: C_SecureTransfer.GetHousingPurchaseQuantity
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: quantity
   type: number

@@ -1,6 +1,7 @@
 ---
 name: MouseUp
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - default: LeftButton
     type: string

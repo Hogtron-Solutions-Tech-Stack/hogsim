@@ -1,6 +1,7 @@
 ---
 name: GetFontString
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: fontString
   nilable: true

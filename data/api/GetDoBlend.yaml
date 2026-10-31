@@ -1,6 +1,7 @@
 ---
 name: GetDoBlend
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: doBlend
   type: boolean

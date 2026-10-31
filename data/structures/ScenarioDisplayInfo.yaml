@@ -1,9 +1,10 @@
 ---
 name: ScenarioDisplayInfo
 fields:
-- name: themeColor
+- mixin: ColorMixin
+  name: themeColor
   nilable: true
-  type: unknown
+  type: colorRGB
 - name: startSoundKitID
   nilable: true
   type: number

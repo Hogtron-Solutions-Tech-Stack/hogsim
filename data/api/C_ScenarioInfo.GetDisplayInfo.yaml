@@ -1,6 +1,7 @@
 ---
 name: C_ScenarioInfo.GetDisplayInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: info
   type: ScenarioDisplayInfo

@@ -1,6 +1,7 @@
 ---
 name: C_HousingLayout.GetRoomPlacementBudget
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: placementBudget
   nilable: true

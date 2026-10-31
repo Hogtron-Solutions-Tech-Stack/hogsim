@@ -1,6 +1,7 @@
 ---
 name: GetFacing
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: facing
   type: number

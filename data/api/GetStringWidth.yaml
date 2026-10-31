@@ -1,6 +1,7 @@
 ---
 name: GetStringWidth
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: width
   type: number

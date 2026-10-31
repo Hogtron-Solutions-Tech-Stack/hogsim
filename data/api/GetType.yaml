@@ -1,6 +1,7 @@
 ---
 name: GetType
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: curveType
   type: number

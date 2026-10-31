@@ -1,6 +1,7 @@
 ---
 name: IsGuildTabard
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isGuildTabard
   type: boolean

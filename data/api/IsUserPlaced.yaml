@@ -1,6 +1,7 @@
 ---
 name: IsUserPlaced
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isUserPlaced
   type: boolean

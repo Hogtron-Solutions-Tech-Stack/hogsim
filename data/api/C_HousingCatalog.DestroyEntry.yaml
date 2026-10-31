@@ -1,6 +1,7 @@
 ---
 name: C_HousingCatalog.DestroyEntry
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: HousingCatalogEntryVariantID
   - type: boolean

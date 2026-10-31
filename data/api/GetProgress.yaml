@@ -1,6 +1,7 @@
 ---
 name: GetProgress
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: progress
   type: number

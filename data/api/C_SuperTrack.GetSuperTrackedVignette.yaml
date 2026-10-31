@@ -1,6 +1,7 @@
 ---
 name: C_SuperTrack.GetSuperTrackedVignette
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: vignetteGUID
   nilable: true

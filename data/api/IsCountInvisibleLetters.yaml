@@ -1,6 +1,7 @@
 ---
 name: IsCountInvisibleLetters
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: countInvisibleLetters
   type: boolean

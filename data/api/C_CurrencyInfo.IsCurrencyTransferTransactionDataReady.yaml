@@ -1,6 +1,7 @@
 ---
 name: C_CurrencyInfo.IsCurrencyTransferTransactionDataReady
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isReady
   type: boolean

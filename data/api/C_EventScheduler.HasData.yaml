@@ -1,6 +1,7 @@
 ---
 name: C_EventScheduler.HasData
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasData
   type: boolean

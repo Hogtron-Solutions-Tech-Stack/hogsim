@@ -1,6 +1,7 @@
 ---
 name: C_AuctionHouse.GetItemKeySampleLink
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: ItemKey
 outputs:

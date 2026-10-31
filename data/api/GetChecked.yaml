@@ -1,6 +1,7 @@
 ---
 name: GetChecked
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: checked
   type: boolean

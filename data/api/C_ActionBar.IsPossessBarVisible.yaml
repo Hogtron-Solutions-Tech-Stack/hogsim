@@ -1,6 +1,7 @@
 ---
 name: C_ActionBar.IsPossessBarVisible
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isPossessBarVisible
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: IsPartOfDraggingRoom
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isPartOfDraggingRoom
   type: boolean

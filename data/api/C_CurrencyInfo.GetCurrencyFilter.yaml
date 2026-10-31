@@ -1,6 +1,7 @@
 ---
 name: C_CurrencyInfo.GetCurrencyFilter
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: filterType
   type: number

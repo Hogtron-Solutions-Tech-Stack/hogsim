@@ -1,6 +1,7 @@
 ---
 name: IsOccupiedDoor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isOccupied
   nilable: true

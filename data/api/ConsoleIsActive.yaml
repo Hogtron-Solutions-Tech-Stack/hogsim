@@ -1,6 +1,7 @@
 ---
 name: ConsoleIsActive
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: consoleIsActive
   type: boolean

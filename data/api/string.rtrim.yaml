@@ -1,6 +1,7 @@
 ---
 name: string.rtrim
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: string
   - default: ' \r\n\t'

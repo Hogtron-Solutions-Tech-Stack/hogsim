@@ -1,6 +1,7 @@
 ---
 name: GetOnUpdateMode
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: onUpdateMode
   type: number

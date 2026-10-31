@@ -1,6 +1,7 @@
 ---
 name: C_PerksActivities.GetTrackedPerksActivities
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: trackedPerksActivities
   type: PerksActivitiesTracked

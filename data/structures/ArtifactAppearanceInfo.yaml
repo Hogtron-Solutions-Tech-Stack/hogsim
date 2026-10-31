@@ -17,8 +17,9 @@ fields:
 - name: altHandCameraID
   nilable: true
   type: number
-- name: swatchColor
-  type: unknown
+- mixin: ColorMixin
+  name: swatchColor
+  type: colorRGB
 - name: modelOpacity
   type: number
 - name: modelSaturation

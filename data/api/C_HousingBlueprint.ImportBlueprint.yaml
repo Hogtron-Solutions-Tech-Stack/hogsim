@@ -1,5 +1,6 @@
 ---
 name: C_HousingBlueprint.ImportBlueprint
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: string

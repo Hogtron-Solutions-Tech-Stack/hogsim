@@ -1,6 +1,7 @@
 ---
 name: C_HousingCustomizeMode.IsHoveringRoomComponent
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isHovering
   type: boolean

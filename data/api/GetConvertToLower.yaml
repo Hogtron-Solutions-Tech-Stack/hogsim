@@ -1,6 +1,7 @@
 ---
 name: GetConvertToLower
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: convert
   type: boolean

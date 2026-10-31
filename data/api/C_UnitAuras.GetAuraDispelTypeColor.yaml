@@ -1,10 +1,12 @@
 ---
 name: C_UnitAuras.GetAuraDispelTypeColor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unit
   - type: number
   - type: unknown
 outputs:
-- name: dispelTypeColor
-  type: unknown
+- mixin: ColorMixin
+  name: dispelTypeColor
+  type: colorRGBA

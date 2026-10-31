@@ -1,6 +1,7 @@
 ---
 name: C_HousingLayout.GetBaseRoomFloor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: floor
   type: number

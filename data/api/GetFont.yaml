@@ -1,6 +1,7 @@
 ---
 name: GetFont
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: name
   type: string

@@ -1,10 +1,12 @@
 ---
 name: C_EncounterTimeline.GetEventColor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
   - nilable: true
     type: number
 outputs:
-- name: color
-  type: unknown
+- mixin: ColorMixin
+  name: color
+  type: colorRGBA

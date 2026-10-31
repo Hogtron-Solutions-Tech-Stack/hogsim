@@ -1,6 +1,7 @@
 ---
 name: C_BlizzCon2026.IsColdSwapFeatureEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isEnabled
   type: boolean

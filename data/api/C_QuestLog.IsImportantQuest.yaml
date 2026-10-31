@@ -1,6 +1,7 @@
 ---
 name: C_QuestLog.IsImportantQuest
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
 outputs:

@@ -1,6 +1,7 @@
 ---
 name: C_GuildInfo.RequestPreferredPlaySettings
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: startedSuccessfully
   type: boolean

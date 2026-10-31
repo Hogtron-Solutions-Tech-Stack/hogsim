@@ -1,6 +1,7 @@
 ---
 name: C_PerksProgram.GetCurrencyAmount
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: currencyAmount
   type: number

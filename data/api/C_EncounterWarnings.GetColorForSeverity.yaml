@@ -1,8 +1,10 @@
 ---
 name: C_EncounterWarnings.GetColorForSeverity
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
 outputs:
-- name: color
-  type: unknown
+- mixin: ColorMixin
+  name: color
+  type: colorRGBA

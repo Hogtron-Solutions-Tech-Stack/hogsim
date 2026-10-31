@@ -5,7 +5,8 @@ fields:
   type: number
 - name: scriptTag
   type: string
-- name: position
+- mixin: Vector3DMixin
+  name: position
   type: unknown
 - name: yaw
   type: number

@@ -1,6 +1,7 @@
 ---
 name: GetFadeDuration
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: fadeDurationSeconds
   type: number

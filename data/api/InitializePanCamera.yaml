@@ -1,6 +1,7 @@
 ---
 name: InitializePanCamera
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - default: 0
     type: number

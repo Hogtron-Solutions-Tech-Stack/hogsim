@@ -3,12 +3,14 @@ name: AuraContainerTooltipNineSliceOptions
 fields:
 - name: layoutName
   type: string
-- name: borderColor
+- mixin: ColorMixin
+  name: borderColor
   nilable: true
-  type: unknown
-- name: centerColor
+  type: colorRGBA
+- mixin: ColorMixin
+  name: centerColor
   nilable: true
-  type: unknown
+  type: colorRGBA
 - name: anchorOffsets
   nilable: true
   type: AuraContainerTooltipAnchorOffsets

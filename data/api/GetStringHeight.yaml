@@ -1,6 +1,7 @@
 ---
 name: GetStringHeight
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: height
   type: number

@@ -1,6 +1,7 @@
 ---
 name: GetMaxControlPointOrder
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: maxOrder
   type: number

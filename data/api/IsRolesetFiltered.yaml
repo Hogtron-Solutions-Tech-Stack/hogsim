@@ -1,6 +1,7 @@
 ---
 name: IsRolesetFiltered
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isRolesetFiltered
   type: boolean
