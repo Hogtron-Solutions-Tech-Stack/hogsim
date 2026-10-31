@@ -1,7 +1,5 @@
 ---
 name: C_CurveUtil.CreateCurve
-status: unimplemented
-comment: generated from Blizzard_APIDocumentationGenerated
+status: implemented
 outputs:
-- name: curve
-  type: unknown
+- type: table

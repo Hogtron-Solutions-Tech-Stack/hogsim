@@ -8906,3 +8906,4 @@ WithdrawGuildBankMoney: WithdrawGuildBankMoney
 WorldLootObjectExists: WorldLootObjectExists
 xpcall: xpcall
 ZeroCachedCenterXY: ZeroCachedCenterXY
+C_FunctionContainers.CreateCallback: C_FunctionContainers.CreateCallback
