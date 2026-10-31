@@ -12,5 +12,8 @@ SELECT
 FROM
   UiTextureAtlasMember m
   JOIN UiTextureAtlas a ON a.ID = m.UiTextureAtlasID
+  LEFT JOIN UiTextureAtlasElement e ON e.ID = m.UiTextureAtlasElementID
 WHERE
-  m.CommittedName = ?1;
+  lower(m.CommittedName) = lower(?1)
+  OR lower(e.Name) = lower(?1)
+LIMIT 1;
