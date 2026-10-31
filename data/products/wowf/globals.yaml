@@ -2414,10 +2414,7 @@ Enum:
     MaxValue: 7
     MinValue: 0
     NumValues: 8
-  CombatAudioAlertCastState:
-    Off: 0
-    OnCastEnd: 2
-    OnCastStart: 1
+  CombatAudioAlertCastState: {}
   CombatAudioAlertCastStateMeta:
     MaxValue: 2
     MinValue: 0
@@ -2438,35 +2435,24 @@ Enum:
     MinValue: 0
     NumValues: 10
   CombatAudioAlertDebuffSelfAlertValues:
+    false: 0
     DispelType: 1
-    Off: 0
   CombatAudioAlertDebuffSelfAlertValuesMeta:
     MaxValue: 1
     MinValue: 0
     NumValues: 2
-  CombatAudioAlertPartyPercentValues:
-    Off: 0
-    Under100Percent: 1
-    Under10Percent: 10
-    Under20Percent: 9
-    Under30Percent: 8
-    Under40Percent: 7
-    Under50Percent: 6
-    Under60Percent: 5
-    Under70Percent: 4
-    Under80Percent: 3
-    Under90Percent: 2
+  CombatAudioAlertPartyPercentValues: {}
   CombatAudioAlertPartyPercentValuesMeta:
     MaxValue: 10
     MinValue: 0
     NumValues: 11
   CombatAudioAlertPercentValues:
+    false: 0
     Every10Percent: 1
     Every20Percent: 2
     Every30Percent: 3
     Every40Percent: 4
     Every50Percent: 5
-    Off: 0
   CombatAudioAlertPercentValuesMeta:
     MaxValue: 5
     MinValue: 0
@@ -2510,17 +2496,7 @@ Enum:
     MaxValue: 5
     MinValue: 0
     NumValues: 6
-  CombatAudioAlertPulsePercentValues:
-    Off: 0
-    Under10Percent: 9
-    Under20Percent: 8
-    Under30Percent: 7
-    Under40Percent: 6
-    Under50Percent: 5
-    Under60Percent: 4
-    Under70Percent: 3
-    Under80Percent: 2
-    Under90Percent: 1
+  CombatAudioAlertPulsePercentValues: {}
   CombatAudioAlertPulsePercentValuesMeta:
     MaxValue: 9
     MinValue: 0
@@ -4896,6 +4872,85 @@ Enum:
     MaxValue: 2
     MinValue: 0
     NumValues: 3
+  GameRule:
+    AchievementsPanelDisabled: 0
+    ActionbarIconIntroDisabled: 2
+    ActionButtonTypeOverlayStrategy: 1
+    AlwaysAllowAlliedRaces: 3
+    BagsUIDisabled: 4
+    CharacterCreateUseFixedBackgroundModel: 5
+    CharacterPanelDisabled: 6
+    ChatLinkLevelToastsDisabled: 7
+    CollectionsPanelDisabled: 8
+    CommunitiesPanelDisabled: 9
+    CompactRaidFrameManagerDisabled: 10
+    CustomActionbarOverlayHeightOffset: 11
+    DisableCampsites: 12
+    DisableQuickJoin: 13
+    DisableRaidGroups: 14
+    DisableRealmSelection: 15
+    DisableVas: 16
+    EditModeDisabled: 17
+    EjDungeonsDisabled: 18
+    EjItemSetsDisabled: 19
+    EjJourneysDisabled: 20
+    EjRaidsDisabled: 21
+    EjSuggestedContentDisabled: 22
+    EncounterJournalDisabled: 23
+    ExperienceBarDisabled: 24
+    FinderPanelDisabled: 25
+    ForcedPartyFrameScale: 26
+    FrontEndChat: 27
+    FullCharacterCreateDisabled: 28
+    GuildsDisabled: 29
+    HelpPanelDisabled: 30
+    HideFaction: 31
+    HousingDashboardDisabled: 32
+    IngameCalendarDisabled: 33
+    IngameFriendsListDisabled: 34
+    IngameMailNotificationDisabled: 35
+    IngameTrackingDisabled: 36
+    IngameWhoListDisabled: 37
+    InstanceDifficultyBannerDisabled: 38
+    LandingPageFactionID: 39
+    MacrosDisabled: 40
+    MapPlunderstormCircle: 41
+    MaximizeWorldMapDisabled: 42
+    MerchantFilterDisabled: 43
+    MicrobarScale: 44
+    MinimapDisabled: 45
+    NameplateCastBarDisabled: 46
+    ObjectiveTrackerDisabled: 47
+    PersonalResourceDisplayDisabled: 48
+    PetBattlesDisabled: 49
+    PlayerCastBarDisabled: 50
+    PlayerFrameDisabled: 51
+    PlayerNameplateAlternateHealthColor: 52
+    PlayerNameplateDifficultyIcon: 53
+    PlunderstormAreaSelection: 54
+    ProfessionsPanelDisabled: 55
+    QuestLogMicrobuttonDisabled: 56
+    QuestLogPanelDisabled: 57
+    RaceAlteredFormsDisabled: 58
+    ReleaseSpiritGhostDisabled: 59
+    RepairArmorDisabled: 60
+    RestrictedAchievementCategoryID: 61
+    StoreDisabled: 62
+    TalentsPanelDisabled: 63
+    TargetCastBarDisabled: 64
+    TargetFrameBuffsDisabled: 65
+    TargetFrameDisabled: 66
+    TrackAchievementsDisabled: 67
+    TutorialFrameDisabled: 68
+    UnitFramePvPContextualDisabled: 69
+    UserAddonsDisabled: 71
+    UserScriptsDisabled: 72
+    UseSimpleCharacterSelectList: 70
+    WorldMapDisabled: 73
+    WorldMapFrameStrata: 74
+    WorldMapHelpPlateDisabled: 75
+    WorldMapTrackingOptionsDisabled: 76
+    WorldMapTrackingPinDisabled: 77
   GameRuleFlags:
     AllowClient: 1
     None: 0
@@ -4904,6 +4959,10 @@ Enum:
     MaxValue: 2
     MinValue: 0
     NumValues: 3
+  GameRuleMeta:
+    MaxValue: 77
+    MinValue: 0
+    NumValues: 78
   GameRuleType:
     Bool: 2
     Float: 1

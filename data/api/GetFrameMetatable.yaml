@@ -3,3 +3,5 @@ name: GetFrameMetatable
 status: implemented
 outputs:
 - type: table
+frameworks:
+- api
