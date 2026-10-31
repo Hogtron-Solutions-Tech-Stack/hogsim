@@ -1,0 +1,38 @@
+name: check
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  lua-syntax:
+    name: Lua syntax (tools, engine, data impls)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq lua5.1
+      - name: luac -p on every Lua file we own
+        run: |
+          find tools wowless wowapi addon data/impl data/uiobjects -name '*.lua' -print0 | xargs -0 -n 100 luac5.1 -p
+          echo "checked $(find tools wowless wowapi addon data/impl data/uiobjects -name '*.lua' | wc -l) files"
+  yaml-syntax:
+    name: YAML syntax (products, api, structures)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q pyyaml
+      - name: every yaml parses
+        run: |
+          python3 - <<'PY'
+          import glob, sys, yaml
+          files = glob.glob('data/**/*.yaml', recursive=True)
+          bad = 0
+          for f in files:
+              try:
+                  with open(f, encoding='utf-8') as fh:
+                      yaml.safe_load(fh)
+              except Exception as e:
+                  bad += 1
+                  print(f'{f}: {e}')
+          print(f'{len(files)} yaml files, {bad} broken')
+          sys.exit(1 if bad else 0)
+          PY
