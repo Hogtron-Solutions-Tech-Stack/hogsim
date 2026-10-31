@@ -1,0 +1,5 @@
+---
+name: C_CombatText.SetActiveUnit
+status: unimplemented
+inputs:
+- - type: unit

@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.IsEquippedGearOutfitDisplayed
+status: unimplemented
+outputs:
+- name: isDisplayed
+  type: boolean

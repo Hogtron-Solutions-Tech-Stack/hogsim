@@ -1,0 +1,6 @@
+---
+name: C_Traits.GetLoadoutSerializationVersion
+status: unimplemented
+outputs:
+- name: serializationVersion
+  type: number

@@ -1,0 +1,17 @@
+---
+name: GameModeDisplayInfo
+fields:
+- name: logo
+  type: number
+- name: logoHeight
+  type: number
+- name: logoVerticalOffset
+  type: number
+- name: logoShrunkenHeight
+  type: number
+- name: logoUsesDarkBackdrop
+  type: boolean
+- name: characterCreateExtraHeight
+  type: number
+- name: characterCreateOuterBorder
+  type: number

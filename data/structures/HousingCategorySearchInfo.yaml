@@ -1,0 +1,10 @@
+---
+name: HousingCategorySearchInfo
+fields:
+- name: withStoredEntriesOnly
+  type: boolean
+- name: includeFeaturedCategory
+  type: boolean
+- name: editorModeContext
+  nilable: true
+  type: number

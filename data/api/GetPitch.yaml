@@ -1,0 +1,6 @@
+---
+name: GetPitch
+status: unimplemented
+outputs:
+- name: pitch
+  type: number

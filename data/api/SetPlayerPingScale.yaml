@@ -1,0 +1,5 @@
+---
+name: SetPlayerPingScale
+status: unimplemented
+inputs:
+- - type: number

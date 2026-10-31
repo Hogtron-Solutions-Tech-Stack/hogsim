@@ -1,0 +1,6 @@
+---
+name: C_Macro.RunMacroText
+status: unimplemented
+inputs:
+- - type: string
+  - type: string

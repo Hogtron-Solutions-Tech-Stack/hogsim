@@ -1,0 +1,6 @@
+---
+name: C_EncounterTimeline.HasAnyEvents
+status: unimplemented
+outputs:
+- name: hasAnyEvents
+  type: boolean

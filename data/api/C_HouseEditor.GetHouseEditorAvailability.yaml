@@ -1,0 +1,6 @@
+---
+name: C_HouseEditor.GetHouseEditorAvailability
+status: unimplemented
+outputs:
+- name: result
+  type: number

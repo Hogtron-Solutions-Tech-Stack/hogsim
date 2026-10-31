@@ -1,0 +1,7 @@
+---
+name: HousingCatalogEntryID
+fields:
+- name: recordID
+  type: number
+- name: entryType
+  type: number

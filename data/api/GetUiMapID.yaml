@@ -1,0 +1,6 @@
+---
+name: GetUiMapID
+status: unimplemented
+outputs:
+- name: uiMapID
+  type: number

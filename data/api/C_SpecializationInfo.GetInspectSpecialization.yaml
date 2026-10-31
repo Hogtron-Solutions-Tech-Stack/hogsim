@@ -1,0 +1,8 @@
+---
+name: C_SpecializationInfo.GetInspectSpecialization
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: specializationID
+  type: number

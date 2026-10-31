@@ -1,0 +1,10 @@
+---
+name: GetLightDirection
+status: unimplemented
+outputs:
+- name: directionX
+  type: number
+- name: directionY
+  type: number
+- name: directionZ
+  type: number

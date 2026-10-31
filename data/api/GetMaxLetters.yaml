@@ -1,0 +1,6 @@
+---
+name: GetMaxLetters
+status: unimplemented
+outputs:
+- name: maxLetters
+  type: number

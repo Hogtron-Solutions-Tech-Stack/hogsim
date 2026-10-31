@@ -1,0 +1,7 @@
+---
+name: SetFogOfWarBackgroundTexture
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: boolean
+  - type: boolean

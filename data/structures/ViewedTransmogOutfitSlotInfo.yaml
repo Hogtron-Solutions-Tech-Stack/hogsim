@@ -1,0 +1,28 @@
+---
+name: ViewedTransmogOutfitSlotInfo
+fields:
+- name: transmogID
+  type: number
+- name: displayType
+  type: number
+- name: isTransmogrified
+  type: boolean
+- name: hasPending
+  type: boolean
+- name: isPendingCollected
+  type: boolean
+- name: canTransmogrify
+  type: boolean
+- name: warning
+  type: number
+- name: warningText
+  type: string
+- name: error
+  type: number
+- name: errorText
+  type: string
+- name: texture
+  nilable: true
+  type: number
+- name: sheatheCategory
+  type: number

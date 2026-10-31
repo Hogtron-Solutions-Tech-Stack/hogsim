@@ -1,0 +1,5 @@
+---
+name: SetToPercent
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,6 @@
+---
+name: GetScriptBucketThrottleLimits
+status: unimplemented
+outputs:
+- name: limits
+  type: ScriptBucketThrottleLimits

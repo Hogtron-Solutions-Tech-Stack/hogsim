@@ -1,0 +1,6 @@
+---
+name: GetDisplayText
+status: unimplemented
+outputs:
+- name: displayText
+  type: string

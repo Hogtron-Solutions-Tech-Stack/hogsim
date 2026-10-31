@@ -1,0 +1,10 @@
+---
+name: GetLightPosition
+status: unimplemented
+outputs:
+- name: positionX
+  type: number
+- name: positionY
+  type: number
+- name: positionZ
+  type: number

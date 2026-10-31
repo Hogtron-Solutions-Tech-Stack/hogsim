@@ -1,0 +1,6 @@
+---
+name: C_CurrencyInfo.IsCurrencyTransferTransactionDataReady
+status: unimplemented
+outputs:
+- name: isReady
+  type: boolean

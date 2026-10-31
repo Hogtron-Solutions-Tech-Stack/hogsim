@@ -1,0 +1,8 @@
+---
+name: C_AddOns.GetAddOnDependencies
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: deps
+  type: string

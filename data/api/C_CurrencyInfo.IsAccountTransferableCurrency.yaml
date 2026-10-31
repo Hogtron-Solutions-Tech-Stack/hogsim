@@ -1,0 +1,8 @@
+---
+name: C_CurrencyInfo.IsAccountTransferableCurrency
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isAccountTransferableCurrency
+  type: boolean

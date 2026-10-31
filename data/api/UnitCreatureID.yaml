@@ -1,0 +1,9 @@
+---
+name: UnitCreatureID
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: creatureID
+  nilable: true
+  type: number

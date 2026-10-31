@@ -1,0 +1,6 @@
+---
+name: C_NeighborhoodInitiative.PlayerMeetsRequiredLevel
+status: unimplemented
+outputs:
+- name: success
+  type: boolean

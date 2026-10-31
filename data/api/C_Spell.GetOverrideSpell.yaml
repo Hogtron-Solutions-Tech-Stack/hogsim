@@ -1,0 +1,14 @@
+---
+name: C_Spell.GetOverrideSpell
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: 0
+    type: number
+  - default: true
+    type: boolean
+  - default: 0
+    type: number
+outputs:
+- name: overrideSpellID
+  type: number

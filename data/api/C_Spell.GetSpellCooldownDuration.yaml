@@ -1,0 +1,10 @@
+---
+name: C_Spell.GetSpellCooldownDuration
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: false
+    type: boolean
+outputs:
+- name: duration
+  type: unknown

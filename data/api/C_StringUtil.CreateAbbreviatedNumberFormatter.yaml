@@ -1,0 +1,6 @@
+---
+name: C_StringUtil.CreateAbbreviatedNumberFormatter
+status: unimplemented
+outputs:
+- name: formatter
+  type: unknown

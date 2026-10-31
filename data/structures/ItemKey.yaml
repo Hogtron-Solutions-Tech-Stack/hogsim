@@ -1,0 +1,11 @@
+---
+name: ItemKey
+fields:
+- name: itemID
+  type: number
+- name: itemLevel
+  type: number
+- name: itemSuffix
+  type: number
+- name: battlePetSpeciesID
+  type: number

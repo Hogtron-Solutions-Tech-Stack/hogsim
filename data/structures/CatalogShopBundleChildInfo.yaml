@@ -1,0 +1,9 @@
+---
+name: CatalogShopBundleChildInfo
+fields:
+- name: childProductID
+  type: number
+- name: displayOrder
+  type: number
+- name: quantityInBundle
+  type: number

@@ -1,0 +1,6 @@
+---
+name: C_EncounterWarnings.GetPlayCustomSoundsWhenHidden
+status: unimplemented
+outputs:
+- name: play
+  type: boolean

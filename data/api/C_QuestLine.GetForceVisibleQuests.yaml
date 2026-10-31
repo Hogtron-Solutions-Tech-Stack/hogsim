@@ -1,0 +1,9 @@
+---
+name: C_QuestLine.GetForceVisibleQuests
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: questIDs
+  type: table

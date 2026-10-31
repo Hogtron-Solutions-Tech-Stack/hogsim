@@ -1,0 +1,6 @@
+---
+name: C_PetJournal.GetSearchFilter
+status: unimplemented
+outputs:
+- name: filterText
+  type: string

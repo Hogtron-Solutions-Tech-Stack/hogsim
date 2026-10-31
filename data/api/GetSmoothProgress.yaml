@@ -1,0 +1,6 @@
+---
+name: GetSmoothProgress
+status: unimplemented
+outputs:
+- name: progress
+  type: number

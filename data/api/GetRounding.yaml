@@ -1,0 +1,6 @@
+---
+name: GetRounding
+status: unimplemented
+outputs:
+- name: rounding
+  type: number

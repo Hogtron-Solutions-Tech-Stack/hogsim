@@ -1,0 +1,6 @@
+---
+name: C_SuperTrack.SetSuperTrackedMapPin
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

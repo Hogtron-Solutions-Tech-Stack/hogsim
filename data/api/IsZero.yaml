@@ -1,0 +1,6 @@
+---
+name: IsZero
+status: unimplemented
+outputs:
+- name: isZero
+  type: boolean

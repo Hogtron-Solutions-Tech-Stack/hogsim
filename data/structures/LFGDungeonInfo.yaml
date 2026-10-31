@@ -1,0 +1,10 @@
+---
+name: LFGDungeonInfo
+fields:
+- name: name
+  type: string
+- name: iconID
+  type: number
+- name: link
+  nilable: true
+  type: string

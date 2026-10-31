@@ -1,0 +1,5 @@
+---
+name: C_PingSecure.DisplayError
+status: unimplemented
+inputs:
+- - type: string

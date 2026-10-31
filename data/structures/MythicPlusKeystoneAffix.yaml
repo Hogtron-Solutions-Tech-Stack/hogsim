@@ -1,0 +1,7 @@
+---
+name: MythicPlusKeystoneAffix
+fields:
+- name: id
+  type: number
+- name: seasonID
+  type: number

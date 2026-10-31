@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.IsPlayerInRPE
+status: unimplemented
+outputs:
+- name: isInRPE
+  type: boolean

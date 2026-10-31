@@ -1,0 +1,10 @@
+---
+name: C_Item.GetSetBonusesForSpecializationByItemID
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- innerType: number
+  name: itemSetSpellIDs
+  type: table

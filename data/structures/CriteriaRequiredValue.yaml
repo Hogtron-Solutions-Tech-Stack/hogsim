@@ -1,0 +1,7 @@
+---
+name: CriteriaRequiredValue
+fields:
+- name: criteriaID
+  type: number
+- name: requiredValue
+  type: number

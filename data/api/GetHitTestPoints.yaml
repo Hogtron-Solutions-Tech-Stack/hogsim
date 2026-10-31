@@ -1,0 +1,7 @@
+---
+name: GetHitTestPoints
+status: unimplemented
+outputs:
+- innerType: AnchorBinding
+  name: anchors
+  type: table

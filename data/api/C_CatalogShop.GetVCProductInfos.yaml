@@ -1,0 +1,7 @@
+---
+name: C_CatalogShop.GetVCProductInfos
+status: unimplemented
+outputs:
+- innerType: CatalogShopVCProductInfo
+  name: vcProductInfos
+  type: table

@@ -1,0 +1,40 @@
+---
+name: CooldownViewerCooldown
+fields:
+- name: cooldownID
+  type: number
+- name: spellID
+  nilable: true
+  type: number
+- name: spellCategoryID
+  nilable: true
+  type: number
+- name: overrideSpellID
+  nilable: true
+  type: number
+- name: overrideTooltipSpellID
+  nilable: true
+  type: number
+- name: equipSlot
+  nilable: true
+  type: number
+- name: buffSlot
+  nilable: true
+  type: number
+- innerType: number
+  name: linkedSpellIDs
+  type: table
+- name: selfAura
+  type: boolean
+- name: hasAura
+  type: boolean
+- name: charges
+  type: boolean
+- name: isKnown
+  type: boolean
+- name: isInvisible
+  type: boolean
+- name: flags
+  type: number
+- name: category
+  type: number

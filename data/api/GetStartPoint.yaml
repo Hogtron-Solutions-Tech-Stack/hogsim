@@ -1,0 +1,12 @@
+---
+name: GetStartPoint
+status: unimplemented
+outputs:
+- name: relativePoint
+  type: unknown
+- name: relativeTo
+  type: unknown
+- name: offsetX
+  type: number
+- name: offsetY
+  type: number

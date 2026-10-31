@@ -1,0 +1,6 @@
+---
+name: C_ChatInfo.IsLoggingChat
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

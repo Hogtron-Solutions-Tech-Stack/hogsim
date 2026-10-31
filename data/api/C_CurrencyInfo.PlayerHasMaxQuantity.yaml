@@ -1,0 +1,8 @@
+---
+name: C_CurrencyInfo.PlayerHasMaxQuantity
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hasMaxQuantity
+  type: boolean

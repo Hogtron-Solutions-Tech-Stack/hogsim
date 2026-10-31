@@ -1,0 +1,6 @@
+---
+name: GetFlattensRenderLayers
+status: unimplemented
+outputs:
+- name: flatten
+  type: boolean

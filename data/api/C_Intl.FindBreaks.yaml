@@ -1,0 +1,10 @@
+---
+name: C_Intl.FindBreaks
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+outputs:
+- innerType: number
+  name: byteOffsets
+  type: table

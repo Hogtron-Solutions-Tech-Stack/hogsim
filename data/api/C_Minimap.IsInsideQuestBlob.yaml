@@ -1,0 +1,8 @@
+---
+name: C_Minimap.IsInsideQuestBlob
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isInside
+  type: boolean

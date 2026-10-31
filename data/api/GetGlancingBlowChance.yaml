@@ -1,0 +1,10 @@
+---
+name: GetGlancingBlowChance
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+  - type: number
+outputs:
+- name: result
+  type: number

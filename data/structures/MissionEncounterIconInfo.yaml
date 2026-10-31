@@ -1,0 +1,11 @@
+---
+name: MissionEncounterIconInfo
+fields:
+- name: portraitFileDataID
+  type: number
+- name: missionScalar
+  type: number
+- name: isElite
+  type: boolean
+- name: isRare
+  type: boolean

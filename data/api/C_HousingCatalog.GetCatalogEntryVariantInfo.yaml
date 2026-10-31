@@ -1,0 +1,9 @@
+---
+name: C_HousingCatalog.GetCatalogEntryVariantInfo
+status: unimplemented
+inputs:
+- - type: HousingCatalogEntryVariantID
+outputs:
+- name: info
+  nilable: true
+  type: HousingCatalogEntryVariantInfo

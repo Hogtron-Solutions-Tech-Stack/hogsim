@@ -1,0 +1,9 @@
+---
+name: C_Item.GetItemUpgradeInfo
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: itemUpgradeInfo
+  nilable: true
+  type: ItemUpgradeInfo

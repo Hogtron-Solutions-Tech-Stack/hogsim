@@ -1,0 +1,5 @@
+---
+name: SetCollapsesLayout
+status: unimplemented
+inputs:
+- - type: boolean

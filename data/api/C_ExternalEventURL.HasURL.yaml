@@ -1,0 +1,6 @@
+---
+name: C_ExternalEventURL.HasURL
+status: unimplemented
+outputs:
+- name: hasURL
+  type: boolean

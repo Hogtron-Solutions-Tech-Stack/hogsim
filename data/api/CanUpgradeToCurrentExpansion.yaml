@@ -1,0 +1,6 @@
+---
+name: CanUpgradeToCurrentExpansion
+status: unimplemented
+outputs:
+- name: canUpgradeExpansion
+  type: boolean

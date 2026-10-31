@@ -1,0 +1,17 @@
+---
+name: PlaySoundParams
+fields:
+- name: soundKitID
+  type: number
+- name: uiSoundSubType
+  type: unknown
+- name: forceNoDuplicates
+  type: boolean
+- name: runFinishCallback
+  type: boolean
+- name: overridePriority
+  nilable: true
+  type: number
+- name: volumeOverride
+  nilable: true
+  type: number

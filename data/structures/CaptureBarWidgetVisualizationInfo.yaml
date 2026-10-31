@@ -1,0 +1,47 @@
+---
+name: CaptureBarWidgetVisualizationInfo
+fields:
+- name: shownState
+  type: number
+- name: barValue
+  type: number
+- name: barMinValue
+  type: number
+- name: barMaxValue
+  type: number
+- name: neutralZoneSize
+  type: number
+- name: neutralZoneCenter
+  type: number
+- name: tooltip
+  type: string
+- name: glowAnimType
+  type: number
+- name: fillDirectionType
+  type: number
+- name: tooltipLoc
+  type: number
+- name: widgetSizeSetting
+  type: number
+- name: textureKit
+  type: string
+- name: frameTextureKit
+  type: string
+- name: hasTimer
+  type: boolean
+- name: orderIndex
+  type: number
+- name: widgetTag
+  type: string
+- name: inAnimType
+  type: number
+- name: outAnimType
+  type: number
+- name: widgetScale
+  type: number
+- name: layoutDirection
+  type: number
+- name: modelSceneLayer
+  type: number
+- name: scriptedAnimationEffectID
+  type: number

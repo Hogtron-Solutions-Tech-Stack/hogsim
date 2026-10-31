@@ -1,0 +1,9 @@
+---
+name: SetColorFill
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number
+  - nilable: true
+    type: unknown

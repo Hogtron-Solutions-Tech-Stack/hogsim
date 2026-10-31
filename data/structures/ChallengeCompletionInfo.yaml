@@ -1,0 +1,30 @@
+---
+name: ChallengeCompletionInfo
+fields:
+- name: mapChallengeModeID
+  type: number
+- name: level
+  type: number
+- name: time
+  type: number
+- name: onTime
+  type: boolean
+- name: keystoneUpgradeLevels
+  type: number
+- name: practiceRun
+  type: boolean
+- name: oldOverallDungeonScore
+  nilable: true
+  type: number
+- name: newOverallDungeonScore
+  nilable: true
+  type: number
+- name: isMapRecord
+  type: boolean
+- name: isAffixRecord
+  type: boolean
+- name: isEligibleForScore
+  type: boolean
+- innerType: ChallengeModeCompletionMemberInfo
+  name: members
+  type: table

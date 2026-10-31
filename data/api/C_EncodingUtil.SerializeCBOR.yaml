@@ -1,0 +1,11 @@
+---
+name: C_EncodingUtil.SerializeCBOR
+status: unimplemented
+inputs:
+- - nilable: true
+    type: unknown
+  - nilable: true
+    type: CBORSerializationOptions
+outputs:
+- name: output
+  type: string

@@ -1,0 +1,8 @@
+---
+name: C_PerksProgram.GetPerksProgramItemDisplayInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: item
+  type: PerksProgramItemDisplayInfo

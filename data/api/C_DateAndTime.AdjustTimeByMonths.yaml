@@ -1,0 +1,9 @@
+---
+name: C_DateAndTime.AdjustTimeByMonths
+status: unimplemented
+inputs:
+- - type: CalendarTime
+  - type: number
+outputs:
+- name: newDate
+  type: CalendarTime

@@ -1,0 +1,5 @@
+---
+name: C_LobbyMatchmakerInfo.EnterQueue
+status: unimplemented
+inputs:
+- - type: unknown

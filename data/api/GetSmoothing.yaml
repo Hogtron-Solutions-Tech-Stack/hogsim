@@ -1,0 +1,6 @@
+---
+name: GetSmoothing
+status: unimplemented
+outputs:
+- name: weights
+  type: unknown

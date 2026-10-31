@@ -1,0 +1,10 @@
+---
+name: IsUsingCenterForOrigin
+status: unimplemented
+outputs:
+- name: x
+  type: boolean
+- name: y
+  type: boolean
+- name: z
+  type: boolean

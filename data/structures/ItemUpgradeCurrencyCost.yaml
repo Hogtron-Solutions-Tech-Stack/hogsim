@@ -1,0 +1,9 @@
+---
+name: ItemUpgradeCurrencyCost
+fields:
+- name: cost
+  type: number
+- name: currencyID
+  type: number
+- name: discountInfo
+  type: ItemUpgradeCostDiscountInfo

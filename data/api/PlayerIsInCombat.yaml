@@ -1,0 +1,6 @@
+---
+name: PlayerIsInCombat
+status: unimplemented
+outputs:
+- name: playerIsInCombat
+  type: boolean

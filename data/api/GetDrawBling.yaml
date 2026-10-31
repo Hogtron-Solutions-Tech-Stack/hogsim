@@ -1,0 +1,6 @@
+---
+name: GetDrawBling
+status: unimplemented
+outputs:
+- name: drawBling
+  type: boolean

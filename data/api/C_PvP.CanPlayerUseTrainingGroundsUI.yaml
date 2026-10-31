@@ -1,0 +1,8 @@
+---
+name: C_PvP.CanPlayerUseTrainingGroundsUI
+status: unimplemented
+outputs:
+- name: canUseTrainingGroundsUI
+  type: boolean
+- name: failureReason
+  type: string

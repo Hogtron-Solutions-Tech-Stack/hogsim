@@ -1,0 +1,27 @@
+---
+name: CommentatorPlayerData
+fields:
+- name: unitToken
+  type: string
+- name: name
+  type: string
+- name: faction
+  type: number
+- name: specialization
+  type: number
+- name: damageDone
+  type: number
+- name: damageTaken
+  type: number
+- name: healingDone
+  type: number
+- name: healingTaken
+  type: number
+- name: kills
+  type: number
+- name: deaths
+  type: number
+- name: soloShuffleRoundWins
+  type: number
+- name: soloShuffleRoundLosses
+  type: number

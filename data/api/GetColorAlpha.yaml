@@ -1,0 +1,6 @@
+---
+name: GetColorAlpha
+status: unimplemented
+outputs:
+- name: alpha
+  type: number

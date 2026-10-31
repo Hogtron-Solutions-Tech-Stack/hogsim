@@ -1,0 +1,6 @@
+---
+name: GetRight
+status: unimplemented
+outputs:
+- name: right
+  type: number

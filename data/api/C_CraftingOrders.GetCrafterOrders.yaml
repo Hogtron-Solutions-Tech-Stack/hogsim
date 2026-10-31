@@ -1,0 +1,7 @@
+---
+name: C_CraftingOrders.GetCrafterOrders
+status: unimplemented
+outputs:
+- innerType: CraftingOrderInfo
+  name: orders
+  type: table

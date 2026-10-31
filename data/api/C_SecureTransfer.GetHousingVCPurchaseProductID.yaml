@@ -1,0 +1,6 @@
+---
+name: C_SecureTransfer.GetHousingVCPurchaseProductID
+status: unimplemented
+outputs:
+- name: productID
+  type: number

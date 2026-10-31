@@ -1,0 +1,9 @@
+---
+name: EncounterEventSoundInfo
+fields:
+- name: file
+  type: unknown
+- name: channel
+  type: unknown
+- name: volume
+  type: number

@@ -1,0 +1,6 @@
+---
+name: ReleaseFrontEndCharacterDisplays
+status: unimplemented
+outputs:
+- name: success
+  type: boolean

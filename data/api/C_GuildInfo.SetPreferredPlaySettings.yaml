@@ -1,0 +1,11 @@
+---
+name: C_GuildInfo.SetPreferredPlaySettings
+status: unimplemented
+inputs:
+- - default: 0
+    type: number
+  - default: 0
+    type: number
+outputs:
+- name: startedSuccessfully
+  type: boolean

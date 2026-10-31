@@ -1,0 +1,6 @@
+---
+name: MouseUp
+status: unimplemented
+inputs:
+- - default: LeftButton
+    type: string

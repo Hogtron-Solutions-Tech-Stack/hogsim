@@ -1,0 +1,12 @@
+---
+name: AddMessage
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - type: number
+  - type: number
+  - nilable: true
+    type: unknown
+  - nilable: true
+    type: number

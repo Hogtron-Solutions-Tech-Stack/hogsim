@@ -1,0 +1,36 @@
+---
+name: AdvancedFilterOptions
+fields:
+- name: needsTank
+  type: boolean
+- name: needsHealer
+  type: boolean
+- name: needsDamage
+  type: boolean
+- name: needsMyClass
+  type: boolean
+- name: hasTank
+  type: boolean
+- name: hasHealer
+  type: boolean
+- innerType: number
+  name: activities
+  type: table
+- name: minimumRating
+  type: number
+- name: difficultyNormal
+  type: boolean
+- name: difficultyHeroic
+  type: boolean
+- name: difficultyMythic
+  type: boolean
+- name: difficultyMythicPlus
+  type: boolean
+- name: generalPlaystyle1
+  type: boolean
+- name: generalPlaystyle2
+  type: boolean
+- name: generalPlaystyle3
+  type: boolean
+- name: generalPlaystyle4
+  type: boolean

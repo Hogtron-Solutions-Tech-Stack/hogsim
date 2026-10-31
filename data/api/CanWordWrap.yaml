@@ -1,0 +1,6 @@
+---
+name: CanWordWrap
+status: unimplemented
+outputs:
+- name: wrap
+  type: boolean

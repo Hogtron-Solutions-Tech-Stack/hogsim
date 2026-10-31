@@ -1,0 +1,5 @@
+---
+name: C_TransmogCollection.SetClassFilter
+status: unimplemented
+inputs:
+- - type: number

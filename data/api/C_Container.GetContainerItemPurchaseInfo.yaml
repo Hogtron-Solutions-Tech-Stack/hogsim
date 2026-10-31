@@ -1,0 +1,10 @@
+---
+name: C_Container.GetContainerItemPurchaseInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: boolean
+outputs:
+- name: info
+  type: ItemPurchaseInfo

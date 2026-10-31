@@ -1,0 +1,8 @@
+---
+name: GetTextColorCurve
+status: unimplemented
+outputs:
+- name: curve
+  type: unknown
+- name: property
+  type: number

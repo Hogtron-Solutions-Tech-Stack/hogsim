@@ -1,0 +1,7 @@
+---
+name: SetPaused
+status: unimplemented
+inputs:
+- - type: boolean
+  - default: true
+    type: boolean

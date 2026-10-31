@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.GetCompanionInfoForActivePlayer
+status: unimplemented
+outputs:
+- name: playerCompanionInfoID
+  type: number

@@ -1,0 +1,7 @@
+---
+name: C_EventScheduler.GetOngoingEvents
+status: unimplemented
+outputs:
+- innerType: OngoingEventInfo
+  name: events
+  type: table

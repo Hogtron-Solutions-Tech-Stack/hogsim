@@ -1,0 +1,12 @@
+---
+name: SendWhoFilters
+fields:
+- innerType: number
+  name: classIDs
+  type: table
+- innerType: number
+  name: raceIDs
+  type: table
+- innerType: number
+  name: uiMapIDs
+  type: table

@@ -1,0 +1,7 @@
+---
+name: C_CraftingOrders.GetPersonalOrdersInfo
+status: unimplemented
+outputs:
+- innerType: CraftingOrderPersonalOrdersInfo
+  name: infos
+  type: table

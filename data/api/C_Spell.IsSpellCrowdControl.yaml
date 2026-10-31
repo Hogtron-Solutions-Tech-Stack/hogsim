@@ -1,0 +1,8 @@
+---
+name: C_Spell.IsSpellCrowdControl
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isCrowdControl
+  type: boolean

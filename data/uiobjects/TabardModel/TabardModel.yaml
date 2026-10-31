@@ -9,6 +9,8 @@ methods:
     status: unimplemented
   GetLowerBackgroundFileName:
     status: unimplemented
+  GetLowerBorderFile:
+    status: unimplemented
   GetLowerEmblemFile:
     products:
     - wow
@@ -27,6 +29,8 @@ methods:
     status: unimplemented
   GetUpperBackgroundFileName:
     status: unimplemented
+  GetUpperBorderFile:
+    status: unimplemented
   GetUpperEmblemFile:
     products:
     - wow
@@ -44,6 +48,8 @@ methods:
   GetUpperEmblemTexture:
     status: unimplemented
   InitializeTabardColors:
+    status: unimplemented
+  IsGuildTabard:
     status: unimplemented
   Save:
     status: unimplemented

@@ -1,0 +1,6 @@
+---
+name: C_HousingNeighborhood.GetPreviousHouseIdentifier
+status: unimplemented
+outputs:
+- name: previousHouseIdentifier
+  type: string

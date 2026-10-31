@@ -1,0 +1,6 @@
+---
+name: C_CraftingOrders.ShouldShowCraftingOrderTab
+status: unimplemented
+outputs:
+- name: showTab
+  type: boolean

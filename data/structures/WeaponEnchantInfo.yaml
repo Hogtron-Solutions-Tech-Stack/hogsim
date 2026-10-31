@@ -1,0 +1,15 @@
+---
+name: WeaponEnchantInfo
+fields:
+- name: hasEnchant
+  type: boolean
+- name: enchantType
+  type: number
+- name: timeLeft
+  type: number
+- name: charges
+  type: number
+- name: enchantID
+  type: number
+- name: enchantIconID
+  type: number

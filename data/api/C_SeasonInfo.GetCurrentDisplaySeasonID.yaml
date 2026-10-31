@@ -1,0 +1,6 @@
+---
+name: C_SeasonInfo.GetCurrentDisplaySeasonID
+status: unimplemented
+outputs:
+- name: seasonID
+  type: number

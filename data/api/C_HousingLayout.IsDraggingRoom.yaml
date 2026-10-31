@@ -1,0 +1,8 @@
+---
+name: C_HousingLayout.IsDraggingRoom
+status: unimplemented
+outputs:
+- name: isDragging
+  type: boolean
+- name: isAccessibleDrag
+  type: boolean

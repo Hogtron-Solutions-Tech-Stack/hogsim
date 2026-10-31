@@ -1,0 +1,9 @@
+---
+name: TransmogOutfitCollectionInfo
+fields:
+- name: name
+  type: string
+- name: isWeapon
+  type: boolean
+- name: canHaveIllusions
+  type: boolean

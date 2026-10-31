@@ -1,0 +1,8 @@
+---
+name: C_Spell.GetSpellSkillLineAbilityRank
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: rank
+  type: number

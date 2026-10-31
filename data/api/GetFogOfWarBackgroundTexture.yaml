@@ -1,0 +1,7 @@
+---
+name: GetFogOfWarBackgroundTexture
+status: unimplemented
+outputs:
+- name: asset
+  nilable: true
+  type: unknown

@@ -1,0 +1,6 @@
+---
+name: AutoMissionRound
+fields:
+- innerType: AutoMissionEvent
+  name: events
+  type: table

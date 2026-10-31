@@ -1,0 +1,7 @@
+---
+name: RoomComponentWallpaper
+fields:
+- name: name
+  type: string
+- name: roomComponentTextureRecID
+  type: number

@@ -1,0 +1,8 @@
+---
+name: EditModeLayouts
+fields:
+- innerType: EditModeLayoutInfo
+  name: layouts
+  type: table
+- name: activeLayout
+  type: number

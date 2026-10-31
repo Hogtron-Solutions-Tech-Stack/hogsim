@@ -1,0 +1,11 @@
+---
+name: AutoMissionTargetingInfo
+fields:
+- name: targetIndex
+  type: number
+- name: previewType
+  type: number
+- name: spellID
+  type: number
+- name: effectIndex
+  type: number

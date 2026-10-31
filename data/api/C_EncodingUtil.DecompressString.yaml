@@ -1,0 +1,10 @@
+---
+name: C_EncodingUtil.DecompressString
+status: unimplemented
+inputs:
+- - type: string
+  - default: Deflate
+    type: number
+outputs:
+- name: output
+  type: string

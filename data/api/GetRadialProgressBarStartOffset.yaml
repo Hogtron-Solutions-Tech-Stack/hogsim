@@ -1,0 +1,6 @@
+---
+name: GetRadialProgressBarStartOffset
+status: unimplemented
+outputs:
+- name: offset
+  type: unknown

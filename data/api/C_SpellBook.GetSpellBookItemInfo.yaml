@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.GetSpellBookItemInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: spellBookItemInfo
+  type: SpellBookItemInfo

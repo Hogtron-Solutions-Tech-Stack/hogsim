@@ -1,0 +1,15 @@
+---
+name: ConsoleScriptData
+fields:
+- name: ID
+  type: number
+- name: name
+  type: string
+- name: help
+  type: string
+- name: script
+  type: string
+- name: params
+  type: string
+- name: isLuaScript
+  type: boolean

@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.GetActionTexture
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: textureFileID
+  type: number

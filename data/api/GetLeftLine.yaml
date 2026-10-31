@@ -1,0 +1,8 @@
+---
+name: GetLeftLine
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: leftFontString
+  type: unknown

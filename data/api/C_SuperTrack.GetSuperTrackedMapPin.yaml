@@ -1,0 +1,8 @@
+---
+name: C_SuperTrack.GetSuperTrackedMapPin
+status: unimplemented
+outputs:
+- name: type
+  type: number
+- name: typeID
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_ChatInfo.CanPlayerSpeakLanguage
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: canSpeakLanguage
+  type: boolean

@@ -1,0 +1,10 @@
+---
+name: Format
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: number
+outputs:
+- name: formattedSeconds
+  type: string

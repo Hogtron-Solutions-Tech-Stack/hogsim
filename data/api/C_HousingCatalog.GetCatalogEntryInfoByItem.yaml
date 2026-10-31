@@ -1,0 +1,9 @@
+---
+name: C_HousingCatalog.GetCatalogEntryInfoByItem
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: info
+  nilable: true
+  type: HousingCatalogEntryInfo

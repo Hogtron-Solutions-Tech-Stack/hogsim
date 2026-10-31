@@ -1,0 +1,6 @@
+---
+name: C_ProfSpecs.ShouldShowPointsReminder
+status: unimplemented
+outputs:
+- name: showReminder
+  type: boolean

@@ -1,0 +1,10 @@
+---
+name: C_HousingCatalog.GetCatalogCategoryAndSubcategoryNames
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: categoryName
+  type: string
+- name: subcategoryName
+  type: string

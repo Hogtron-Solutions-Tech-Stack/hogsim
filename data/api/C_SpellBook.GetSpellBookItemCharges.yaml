@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.GetSpellBookItemCharges
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: chargeInfo
+  type: SpellChargeInfo

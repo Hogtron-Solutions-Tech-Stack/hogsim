@@ -1,0 +1,5 @@
+---
+name: C_TransmogCollection.SetAllRacesShown
+status: unimplemented
+inputs:
+- - type: boolean

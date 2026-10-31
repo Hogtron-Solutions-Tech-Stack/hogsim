@@ -1,0 +1,8 @@
+---
+name: C_Ping.GetTextureKitForType
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: uiTextureKitID
+  type: string

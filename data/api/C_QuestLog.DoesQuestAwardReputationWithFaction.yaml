@@ -1,0 +1,9 @@
+---
+name: C_QuestLog.DoesQuestAwardReputationWithFaction
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: awardsReputation
+  type: boolean

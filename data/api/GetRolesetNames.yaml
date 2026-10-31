@@ -1,0 +1,7 @@
+---
+name: GetRolesetNames
+status: unimplemented
+outputs:
+- innerType: string
+  name: rolesets
+  type: table

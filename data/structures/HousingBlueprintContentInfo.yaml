@@ -1,0 +1,17 @@
+---
+name: HousingBlueprintContentInfo
+fields:
+- name: shareCode
+  type: string
+- name: targetHouseGUID
+  nilable: true
+  type: string
+- name: budgetInfo
+  type: HousingBlueprintBudgetInfo
+- innerType: HousingBlueprintContentGroup
+  name: contentGroups
+  type: table
+- name: unmetRequirementFlags
+  type: number
+- name: blockingRequirementFlags
+  type: number

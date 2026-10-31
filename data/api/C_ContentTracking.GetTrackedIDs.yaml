@@ -1,0 +1,9 @@
+---
+name: C_ContentTracking.GetTrackedIDs
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: entryIDs
+  type: table

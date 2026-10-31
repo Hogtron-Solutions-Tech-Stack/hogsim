@@ -1,0 +1,7 @@
+---
+name: C_TradeSkillUI.GetProfessionInventorySlots
+status: unimplemented
+outputs:
+- innerType: unknown
+  name: invSlots
+  type: table

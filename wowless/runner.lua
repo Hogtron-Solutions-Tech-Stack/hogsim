@@ -19,6 +19,15 @@ local function run(cfg)
     rootDir = cfg.dir,
   })
   require('wowless.env').init(api, loader, not cfg.dir)
+  if cfg.dir and not api.env.UIParent then
+    -- forever-sim: modern clients create the top-level parent in the engine (Blizzard_UIParent/UIParent.lua
+    -- starts with assert(UIParent:IsShown())). Create it screen-sized and shown before anything loads.
+    local uiparent = api.CreateUIObject('frame', 'UIParent')
+    uiparent:SetSize(api.states.System.screenWidth, api.states.System.screenHeight)
+    uiparent:SetPoint('BOTTOMLEFT')
+    uiparent:Show()
+    api.log(1, 'created UIParent in the engine')
+  end
   loader.initAddons()
   if cfg.dir then
     loader.loadFrameXml()

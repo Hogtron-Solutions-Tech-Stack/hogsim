@@ -1,0 +1,8 @@
+---
+name: C_GameRules.GetGameRuleAsFrameStrata
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: frameStrata
+  type: string

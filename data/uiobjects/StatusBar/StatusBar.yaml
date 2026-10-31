@@ -17,12 +17,16 @@ inherits:
 methods:
   GetFillStyle:
     status: unimplemented
+  GetInterpolatedValue:
+    status: unimplemented
   GetMinMaxValues:
     fields:
     - name: min
     - name: max
     status: getter
   GetOrientation:
+    status: unimplemented
+  GetRenderMode:
     status: unimplemented
   GetReverseFill:
     status: unimplemented
@@ -48,10 +52,14 @@ methods:
     fields:
     - name: statusBarTexture
     status: getter
+  GetTimerDuration:
+    status: unimplemented
   GetValue:
     fields:
     - name: value
     status: getter
+  IsInterpolating:
+    status: unimplemented
   IsStatusBarDesaturated:
     products:
     - wow
@@ -72,6 +80,8 @@ methods:
     - name: max
     status: setter
   SetOrientation:
+    status: unimplemented
+  SetRenderMode:
     status: unimplemented
   SetReverseFill:
     status: unimplemented
@@ -101,6 +111,10 @@ methods:
     status: unimplemented
   SetStatusBarTexture:
     status: implemented
+  SetTimerDuration:
+    status: unimplemented
+  SetToTargetValue:
+    status: unimplemented
   SetValue:
     fields:
     - name: value

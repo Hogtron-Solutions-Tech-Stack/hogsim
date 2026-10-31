@@ -1,0 +1,6 @@
+---
+name: C_Housing.GetVisitCooldownInfo
+status: unimplemented
+outputs:
+- name: spellCooldownInfo
+  type: SpellCooldownInfo

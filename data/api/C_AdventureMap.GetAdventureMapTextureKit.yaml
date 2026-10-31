@@ -1,0 +1,6 @@
+---
+name: C_AdventureMap.GetAdventureMapTextureKit
+status: unimplemented
+outputs:
+- name: adventureMapTextureKit
+  type: string

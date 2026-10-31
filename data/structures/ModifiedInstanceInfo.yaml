@@ -1,0 +1,19 @@
+---
+name: ModifiedInstanceInfo
+fields:
+- name: lfrItemLevel
+  nilable: true
+  type: number
+- name: normalItemLevel
+  nilable: true
+  type: number
+- name: heroicItemLevel
+  nilable: true
+  type: number
+- name: mythicItemLevel
+  nilable: true
+  type: number
+- name: uiTextureKit
+  type: string
+- name: description
+  type: string

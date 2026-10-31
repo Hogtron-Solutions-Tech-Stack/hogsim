@@ -1,0 +1,5 @@
+---
+name: SetUseTransmogChoices
+status: unimplemented
+inputs:
+- - type: boolean

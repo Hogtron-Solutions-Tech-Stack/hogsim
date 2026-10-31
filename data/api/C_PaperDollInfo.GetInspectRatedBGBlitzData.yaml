@@ -1,0 +1,6 @@
+---
+name: C_PaperDollInfo.GetInspectRatedBGBlitzData
+status: unimplemented
+outputs:
+- name: ratedBGBlitzData
+  type: InspectPVPData

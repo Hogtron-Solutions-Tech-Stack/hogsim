@@ -1,0 +1,7 @@
+---
+name: UnitHealAbsorbInfo
+fields:
+- name: amount
+  type: number
+- name: clamped
+  type: boolean

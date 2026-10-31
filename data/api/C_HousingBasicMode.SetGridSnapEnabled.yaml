@@ -1,0 +1,5 @@
+---
+name: C_HousingBasicMode.SetGridSnapEnabled
+status: unimplemented
+inputs:
+- - type: boolean

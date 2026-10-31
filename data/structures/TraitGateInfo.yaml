@@ -1,0 +1,7 @@
+---
+name: TraitGateInfo
+fields:
+- name: topLeftNodeID
+  type: number
+- name: conditionID
+  type: number

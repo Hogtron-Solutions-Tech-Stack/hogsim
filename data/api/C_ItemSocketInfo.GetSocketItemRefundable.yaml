@@ -1,0 +1,6 @@
+---
+name: C_ItemSocketInfo.GetSocketItemRefundable
+status: unimplemented
+outputs:
+- name: socketItemRefundable
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetStepsPerPage
+status: unimplemented
+outputs:
+- name: stepsPerPage
+  type: number

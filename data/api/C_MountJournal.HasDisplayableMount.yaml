@@ -1,0 +1,6 @@
+---
+name: C_MountJournal.HasDisplayableMount
+status: unimplemented
+outputs:
+- name: hasMount
+  type: boolean

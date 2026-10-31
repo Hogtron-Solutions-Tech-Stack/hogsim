@@ -1,0 +1,25 @@
+---
+name: EncounterTimelineTrackInfo
+fields:
+- name: id
+  type: number
+- name: type
+  type: number
+- name: minimumDuration
+  nilable: true
+  type: unknown
+- name: maximumDuration
+  nilable: true
+  type: unknown
+- name: minimumEventIntroDuration
+  nilable: true
+  type: unknown
+- name: minimumEventGapDuration
+  nilable: true
+  type: unknown
+- name: maximumEventCount
+  nilable: true
+  type: number
+- name: sortDirection
+  nilable: true
+  type: number

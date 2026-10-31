@@ -1,0 +1,17 @@
+---
+name: C_TooltipInfo.GetRecipeResultItem
+status: unimplemented
+inputs:
+- - type: number
+  - innerType: CraftingReagentInfo
+    nilable: true
+    type: table
+  - nilable: true
+    type: string
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+outputs:
+- name: data
+  type: unknown

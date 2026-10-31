@@ -1,0 +1,6 @@
+---
+name: GetFormattedText
+status: unimplemented
+outputs:
+- name: text
+  type: string

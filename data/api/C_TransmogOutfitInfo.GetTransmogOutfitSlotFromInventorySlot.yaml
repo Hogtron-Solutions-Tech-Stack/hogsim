@@ -1,0 +1,8 @@
+---
+name: C_TransmogOutfitInfo.GetTransmogOutfitSlotFromInventorySlot
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: slot
+  type: number

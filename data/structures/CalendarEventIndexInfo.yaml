@@ -1,0 +1,9 @@
+---
+name: CalendarEventIndexInfo
+fields:
+- name: offsetMonths
+  type: number
+- name: monthDay
+  type: number
+- name: eventIndex
+  type: number

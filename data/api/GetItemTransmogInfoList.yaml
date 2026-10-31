@@ -1,0 +1,7 @@
+---
+name: GetItemTransmogInfoList
+status: unimplemented
+outputs:
+- innerType: unknown
+  name: infoList
+  type: table

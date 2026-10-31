@@ -1,0 +1,6 @@
+---
+name: C_TransmogSets.GetTransmogSetsClassFilter
+status: unimplemented
+outputs:
+- name: classID
+  type: number

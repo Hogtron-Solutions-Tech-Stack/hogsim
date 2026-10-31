@@ -1,0 +1,9 @@
+---
+name: C_CombatLogSecure.GetEntryCount
+status: unimplemented
+inputs:
+- - default: false
+    type: boolean
+outputs:
+- name: count
+  type: number

@@ -1,0 +1,9 @@
+---
+name: C_UIWidgetManager.GetTextWithSubtextWidgetVisualizationInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: widgetInfo
+  nilable: true
+  type: TextWithSubtextWidgetVisualizationInfo

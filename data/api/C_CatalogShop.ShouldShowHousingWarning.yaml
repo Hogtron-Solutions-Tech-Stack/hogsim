@@ -1,0 +1,6 @@
+---
+name: C_CatalogShop.ShouldShowHousingWarning
+status: unimplemented
+outputs:
+- name: shouldShowHousingWarning
+  type: boolean

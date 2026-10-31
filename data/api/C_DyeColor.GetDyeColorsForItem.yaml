@@ -1,0 +1,9 @@
+---
+name: C_DyeColor.GetDyeColorsForItem
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- innerType: number
+  name: dyeColorIDs
+  type: table

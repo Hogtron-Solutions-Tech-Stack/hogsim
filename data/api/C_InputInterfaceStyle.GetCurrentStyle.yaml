@@ -1,0 +1,6 @@
+---
+name: C_InputInterfaceStyle.GetCurrentStyle
+status: unimplemented
+outputs:
+- name: style
+  type: number

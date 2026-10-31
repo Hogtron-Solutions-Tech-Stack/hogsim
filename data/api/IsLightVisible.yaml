@@ -1,0 +1,6 @@
+---
+name: IsLightVisible
+status: unimplemented
+outputs:
+- name: isVisible
+  type: boolean

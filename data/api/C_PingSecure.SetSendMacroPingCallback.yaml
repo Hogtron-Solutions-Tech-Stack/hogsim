@@ -1,0 +1,5 @@
+---
+name: C_PingSecure.SetSendMacroPingCallback
+status: unimplemented
+inputs:
+- - type: unknown

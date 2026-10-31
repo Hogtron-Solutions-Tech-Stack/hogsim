@@ -1,0 +1,5 @@
+---
+name: SetAllowRecentAlliesSeeLocation
+status: unimplemented
+inputs:
+- - type: boolean

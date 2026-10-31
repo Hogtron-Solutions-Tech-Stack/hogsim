@@ -1,0 +1,6 @@
+---
+name: IsDraggingThumb
+status: unimplemented
+outputs:
+- name: isDraggingThumb
+  type: boolean

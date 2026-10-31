@@ -1,0 +1,34 @@
+---
+name: PVPPersonalRatedInfo
+fields:
+- name: personalRating
+  type: number
+- name: bestSeasonRating
+  type: number
+- name: bestWeeklyRating
+  type: number
+- name: seasonPlayed
+  type: number
+- name: seasonWon
+  type: number
+- name: weeklyPlayed
+  type: number
+- name: weeklyWon
+  type: number
+- name: lastWeeksBestRating
+  type: number
+- name: hasWonBracketToday
+  type: boolean
+- name: tier
+  type: number
+- name: ranking
+  nilable: true
+  type: number
+- name: roundsSeasonPlayed
+  type: number
+- name: roundsSeasonWon
+  type: number
+- name: roundsWeeklyPlayed
+  type: number
+- name: roundsWeeklyWon
+  type: number

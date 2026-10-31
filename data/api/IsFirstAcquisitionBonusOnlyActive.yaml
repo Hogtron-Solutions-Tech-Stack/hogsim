@@ -1,0 +1,6 @@
+---
+name: IsFirstAcquisitionBonusOnlyActive
+status: unimplemented
+outputs:
+- name: isActive
+  type: boolean

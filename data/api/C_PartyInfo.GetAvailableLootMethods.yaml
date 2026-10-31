@@ -1,0 +1,7 @@
+---
+name: C_PartyInfo.GetAvailableLootMethods
+status: unimplemented
+outputs:
+- innerType: number
+  name: methods
+  type: table

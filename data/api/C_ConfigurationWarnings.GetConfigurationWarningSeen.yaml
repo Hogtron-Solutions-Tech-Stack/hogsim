@@ -1,0 +1,8 @@
+---
+name: C_ConfigurationWarnings.GetConfigurationWarningSeen
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hasSeenConfigurationWarning
+  type: boolean

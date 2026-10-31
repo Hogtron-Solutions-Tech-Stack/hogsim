@@ -1,0 +1,8 @@
+---
+name: C_TooltipInfo.GetItemByGUID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: data
+  type: unknown

@@ -1,0 +1,5 @@
+---
+name: RegisterForMouse
+status: unimplemented
+inputs:
+- - type: unknown

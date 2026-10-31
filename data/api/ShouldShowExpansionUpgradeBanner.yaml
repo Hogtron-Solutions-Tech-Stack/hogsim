@@ -1,0 +1,6 @@
+---
+name: ShouldShowExpansionUpgradeBanner
+status: unimplemented
+outputs:
+- name: showUpgradeBanner
+  type: boolean

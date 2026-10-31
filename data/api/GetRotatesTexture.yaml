@@ -1,0 +1,6 @@
+---
+name: GetRotatesTexture
+status: unimplemented
+outputs:
+- name: rotatesTexture
+  type: boolean

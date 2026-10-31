@@ -1,0 +1,7 @@
+---
+name: EditModeSettingInfo
+fields:
+- name: setting
+  type: number
+- name: value
+  type: number

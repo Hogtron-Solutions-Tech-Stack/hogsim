@@ -1,0 +1,23 @@
+---
+name: EncounterTimelineEventInfo
+fields:
+- name: id
+  type: number
+- name: source
+  type: number
+- name: spellName
+  type: string
+- name: spellID
+  type: number
+- name: iconFileID
+  type: number
+- name: duration
+  type: unknown
+- name: maxQueueDuration
+  type: unknown
+- name: icons
+  type: number
+- name: severity
+  type: number
+- name: isApproximate
+  type: boolean

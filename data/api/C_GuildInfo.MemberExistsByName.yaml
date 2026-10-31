@@ -1,0 +1,8 @@
+---
+name: C_GuildInfo.MemberExistsByName
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: exists
+  type: boolean

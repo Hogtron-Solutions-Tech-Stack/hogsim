@@ -1,0 +1,9 @@
+---
+name: CatalogShopSpellVisualInfo
+fields:
+- name: animID
+  nilable: true
+  type: number
+- name: spellVisualKitID
+  nilable: true
+  type: number

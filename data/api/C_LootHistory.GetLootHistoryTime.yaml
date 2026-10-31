@@ -1,0 +1,6 @@
+---
+name: C_LootHistory.GetLootHistoryTime
+status: unimplemented
+outputs:
+- name: time
+  type: number

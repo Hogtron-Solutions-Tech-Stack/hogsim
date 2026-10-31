@@ -1,0 +1,8 @@
+---
+name: C_TradeSkillUI.CanStoreEnchantInItem
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: canStore
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: SetSmoothScaling
+status: unimplemented
+inputs:
+- - type: boolean

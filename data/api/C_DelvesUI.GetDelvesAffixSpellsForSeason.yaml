@@ -1,0 +1,7 @@
+---
+name: C_DelvesUI.GetDelvesAffixSpellsForSeason
+status: unimplemented
+outputs:
+- innerType: number
+  name: affixSpellIDs
+  type: table

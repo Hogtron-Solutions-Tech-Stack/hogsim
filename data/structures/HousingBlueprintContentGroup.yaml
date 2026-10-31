@@ -1,0 +1,8 @@
+---
+name: HousingBlueprintContentGroup
+fields:
+- name: contentType
+  type: number
+- innerType: HousingBlueprintContentEntry
+  name: entries
+  type: table

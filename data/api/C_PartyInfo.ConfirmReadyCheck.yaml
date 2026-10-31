@@ -1,0 +1,5 @@
+---
+name: C_PartyInfo.ConfirmReadyCheck
+status: unimplemented
+inputs:
+- - type: boolean

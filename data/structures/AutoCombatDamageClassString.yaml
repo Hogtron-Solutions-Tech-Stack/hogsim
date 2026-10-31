@@ -1,0 +1,7 @@
+---
+name: AutoCombatDamageClassString
+fields:
+- name: damageClassValue
+  type: number
+- name: locString
+  type: string

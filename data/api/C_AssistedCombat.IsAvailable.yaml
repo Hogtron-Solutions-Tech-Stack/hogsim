@@ -1,0 +1,8 @@
+---
+name: C_AssistedCombat.IsAvailable
+status: unimplemented
+outputs:
+- name: isAvailable
+  type: boolean
+- name: failureReason
+  type: string

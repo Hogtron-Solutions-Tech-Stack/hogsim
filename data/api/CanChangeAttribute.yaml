@@ -1,0 +1,6 @@
+---
+name: CanChangeAttribute
+status: unimplemented
+outputs:
+- name: canChangeAttributes
+  type: boolean

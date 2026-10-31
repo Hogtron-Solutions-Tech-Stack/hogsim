@@ -1,0 +1,6 @@
+---
+name: C_LFGInfo.GetActiveLFGDungeonName
+status: unimplemented
+outputs:
+- name: name
+  type: string

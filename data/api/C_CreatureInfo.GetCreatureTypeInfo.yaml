@@ -1,0 +1,9 @@
+---
+name: C_CreatureInfo.GetCreatureTypeInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: creatureTypeInfo
+  nilable: true
+  type: CreatureTypeInfo

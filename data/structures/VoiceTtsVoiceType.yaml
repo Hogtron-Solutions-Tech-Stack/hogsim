@@ -1,0 +1,7 @@
+---
+name: VoiceTtsVoiceType
+fields:
+- name: voiceID
+  type: number
+- name: name
+  type: string

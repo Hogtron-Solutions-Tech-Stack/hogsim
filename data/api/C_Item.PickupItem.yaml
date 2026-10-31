@@ -1,0 +1,5 @@
+---
+name: C_Item.PickupItem
+status: unimplemented
+inputs:
+- - type: unknown

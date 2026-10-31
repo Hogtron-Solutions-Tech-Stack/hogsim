@@ -1,0 +1,6 @@
+---
+name: GetNumSearchItems
+status: unimplemented
+outputs:
+- name: numSearchItems
+  type: number

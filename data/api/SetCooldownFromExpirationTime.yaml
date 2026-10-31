@@ -1,0 +1,8 @@
+---
+name: SetCooldownFromExpirationTime
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: unknown
+  - default: 1
+    type: number

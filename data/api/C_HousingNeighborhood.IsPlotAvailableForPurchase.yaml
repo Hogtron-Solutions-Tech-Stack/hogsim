@@ -1,0 +1,6 @@
+---
+name: C_HousingNeighborhood.IsPlotAvailableForPurchase
+status: unimplemented
+outputs:
+- name: isAvailable
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetZoom
+status: unimplemented
+outputs:
+- name: zoomFactor
+  type: number

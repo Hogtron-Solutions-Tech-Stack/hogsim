@@ -1,0 +1,7 @@
+---
+name: ConsoleScriptCollectionData
+fields:
+- name: ID
+  type: number
+- name: name
+  type: string

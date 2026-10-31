@@ -1,0 +1,8 @@
+---
+name: C_Spell.IsAutoRepeatSpell
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isAutoRepeat
+  type: boolean

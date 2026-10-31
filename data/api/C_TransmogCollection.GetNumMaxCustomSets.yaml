@@ -1,0 +1,6 @@
+---
+name: C_TransmogCollection.GetNumMaxCustomSets
+status: unimplemented
+outputs:
+- name: maxCustomSets
+  type: number

@@ -1,0 +1,6 @@
+---
+name: IsDrivableArea
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

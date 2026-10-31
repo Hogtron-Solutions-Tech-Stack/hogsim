@@ -1,0 +1,8 @@
+---
+name: C_PetInfo.GetPetTrainingPoints
+status: unimplemented
+outputs:
+- name: totalPoints
+  type: number
+- name: usedPoints
+  type: number

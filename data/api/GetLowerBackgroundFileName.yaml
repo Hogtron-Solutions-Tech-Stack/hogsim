@@ -1,0 +1,6 @@
+---
+name: GetLowerBackgroundFileName
+status: unimplemented
+outputs:
+- name: file
+  type: number

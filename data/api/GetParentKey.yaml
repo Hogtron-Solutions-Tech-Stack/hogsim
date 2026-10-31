@@ -1,0 +1,6 @@
+---
+name: GetParentKey
+status: unimplemented
+outputs:
+- name: parentKey
+  type: string

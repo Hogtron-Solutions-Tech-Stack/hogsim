@@ -1,0 +1,10 @@
+---
+name: HousingCatalogFilterTagGroupInfo
+fields:
+- name: groupID
+  type: number
+- name: groupName
+  type: string
+- innerType: HousingCatalogFilterTagInfo
+  name: tags
+  type: table

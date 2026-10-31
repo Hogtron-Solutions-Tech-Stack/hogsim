@@ -1,0 +1,11 @@
+---
+name: HouseOwnerCharacterInfo
+fields:
+- name: characterName
+  type: string
+- name: classID
+  type: number
+- name: error
+  type: number
+- name: playerGUID
+  type: string

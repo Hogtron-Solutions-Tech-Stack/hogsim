@@ -1,0 +1,8 @@
+---
+name: HouseExteriorSizeOptionsInfo
+fields:
+- name: selectedSize
+  type: number
+- innerType: HouseExteriorSizeOption
+  name: options
+  type: table

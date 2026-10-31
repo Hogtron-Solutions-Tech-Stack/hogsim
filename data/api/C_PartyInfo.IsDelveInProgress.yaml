@@ -1,0 +1,6 @@
+---
+name: C_PartyInfo.IsDelveInProgress
+status: unimplemented
+outputs:
+- name: isDelveComplete
+  type: boolean

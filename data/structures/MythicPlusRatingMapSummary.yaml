@@ -1,0 +1,13 @@
+---
+name: MythicPlusRatingMapSummary
+fields:
+- name: challengeModeID
+  type: number
+- name: mapScore
+  type: number
+- name: bestRunLevel
+  type: number
+- name: bestRunDurationMS
+  type: number
+- name: finishedSuccess
+  type: boolean

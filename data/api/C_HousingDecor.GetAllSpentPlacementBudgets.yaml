@@ -1,0 +1,12 @@
+---
+name: C_HousingDecor.GetAllSpentPlacementBudgets
+status: unimplemented
+outputs:
+- innerType: number
+  name: interiorSpentBudgets
+  nilable: true
+  type: table
+- innerType: number
+  name: exteriorSpentBudgets
+  nilable: true
+  type: table

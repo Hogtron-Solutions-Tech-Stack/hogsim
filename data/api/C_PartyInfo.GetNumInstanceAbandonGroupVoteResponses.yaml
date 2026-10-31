@@ -1,0 +1,6 @@
+---
+name: C_PartyInfo.GetNumInstanceAbandonGroupVoteResponses
+status: unimplemented
+outputs:
+- name: count
+  type: number

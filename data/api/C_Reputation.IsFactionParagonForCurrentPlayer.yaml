@@ -1,0 +1,8 @@
+---
+name: C_Reputation.IsFactionParagonForCurrentPlayer
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: currentPlayerHasParagon
+  type: boolean

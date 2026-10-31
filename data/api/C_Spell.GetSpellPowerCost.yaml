@@ -1,0 +1,9 @@
+---
+name: C_Spell.GetSpellPowerCost
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- innerType: SpellPowerCostInfo
+  name: powerCosts
+  type: table

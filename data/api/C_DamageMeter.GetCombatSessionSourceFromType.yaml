@@ -1,0 +1,13 @@
+---
+name: C_DamageMeter.GetCombatSessionSourceFromType
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - nilable: true
+    type: string
+  - nilable: true
+    type: number
+outputs:
+- name: sessionSource
+  type: DamageMeterCombatSessionSource

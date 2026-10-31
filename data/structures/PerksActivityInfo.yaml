@@ -1,0 +1,44 @@
+---
+name: PerksActivityInfo
+fields:
+- name: ID
+  type: number
+- name: activityName
+  type: string
+- name: description
+  type: string
+- name: thresholdContributionAmount
+  type: number
+- name: completed
+  type: boolean
+- name: inProgress
+  type: boolean
+- name: tracked
+  type: boolean
+- name: supersedes
+  type: number
+- name: uiPriority
+  type: number
+- name: areAllConditionsMet
+  type: boolean
+- innerType: PerksActivityCondition
+  name: conditions
+  type: table
+- name: eventName
+  nilable: true
+  type: string
+- name: eventStartTime
+  nilable: true
+  type: number
+- name: eventEndTime
+  nilable: true
+  type: number
+- innerType: CriteriaRequirement
+  name: requirementsList
+  type: table
+- innerType: CriteriaRequiredValue
+  name: criteriaList
+  type: table
+- innerType: string
+  name: tagNames
+  type: table

@@ -1,0 +1,6 @@
+---
+name: C_WarbandScene.WarbandScenesAvailable
+status: unimplemented
+outputs:
+- name: areWarbandScenesAvailable
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_HousingBlueprint.ExportRoomBlueprint
+status: unimplemented
+inputs:
+- - type: string
+  - type: string

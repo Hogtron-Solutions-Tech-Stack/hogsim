@@ -1,0 +1,9 @@
+---
+name: C_EncounterEvents.PlayEventSound
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: handle
+  type: unknown

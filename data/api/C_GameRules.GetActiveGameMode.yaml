@@ -1,0 +1,6 @@
+---
+name: C_GameRules.GetActiveGameMode
+status: unimplemented
+outputs:
+- name: gameMode
+  type: unknown

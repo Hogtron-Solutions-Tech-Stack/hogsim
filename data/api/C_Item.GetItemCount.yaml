@@ -1,0 +1,16 @@
+---
+name: C_Item.GetItemCount
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean
+outputs:
+- name: count
+  type: number

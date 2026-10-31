@@ -1,0 +1,6 @@
+---
+name: GetMaxSnapshots
+status: unimplemented
+outputs:
+- name: maxSnapshots
+  type: number

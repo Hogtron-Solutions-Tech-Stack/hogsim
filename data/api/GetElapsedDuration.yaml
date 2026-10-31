@@ -1,0 +1,9 @@
+---
+name: GetElapsedDuration
+status: unimplemented
+inputs:
+- - default: RealTime
+    type: number
+outputs:
+- name: elapsedDuration
+  type: unknown

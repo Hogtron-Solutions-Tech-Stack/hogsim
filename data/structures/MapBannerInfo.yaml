@@ -1,0 +1,12 @@
+---
+name: MapBannerInfo
+fields:
+- name: areaPoiID
+  type: number
+- name: name
+  type: string
+- name: atlasName
+  type: string
+- name: uiTextureKit
+  nilable: true
+  type: string

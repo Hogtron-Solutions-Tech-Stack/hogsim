@@ -1,0 +1,6 @@
+---
+name: GetDontSavePosition
+status: unimplemented
+outputs:
+- name: dontSave
+  type: boolean

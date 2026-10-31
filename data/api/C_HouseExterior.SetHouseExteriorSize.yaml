@@ -1,0 +1,7 @@
+---
+name: C_HouseExterior.SetHouseExteriorSize
+status: unimplemented
+inputs:
+- - type: number
+  - default: Store
+    type: number

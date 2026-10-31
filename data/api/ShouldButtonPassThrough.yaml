@@ -1,0 +1,8 @@
+---
+name: ShouldButtonPassThrough
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: shouldPassThrough
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetUpdateInterval
+status: unimplemented
+outputs:
+- name: updateInterval
+  type: number

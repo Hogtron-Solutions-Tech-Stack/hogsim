@@ -1,0 +1,10 @@
+---
+name: string.ltrim
+status: unimplemented
+inputs:
+- - type: string
+  - default: ' \r\n\t'
+    type: string
+outputs:
+- name: trimmed
+  type: string

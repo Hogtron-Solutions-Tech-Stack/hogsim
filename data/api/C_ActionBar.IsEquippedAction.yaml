@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.IsEquippedAction
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isEquippedAction
+  type: boolean

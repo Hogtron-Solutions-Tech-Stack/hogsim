@@ -1,0 +1,6 @@
+---
+name: SetEditorModeContext
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number

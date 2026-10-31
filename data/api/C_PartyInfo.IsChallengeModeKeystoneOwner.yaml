@@ -1,0 +1,6 @@
+---
+name: C_PartyInfo.IsChallengeModeKeystoneOwner
+status: unimplemented
+outputs:
+- name: isKeystoneOwner
+  type: boolean

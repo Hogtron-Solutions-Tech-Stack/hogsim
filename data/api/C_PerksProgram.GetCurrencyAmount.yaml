@@ -1,0 +1,6 @@
+---
+name: C_PerksProgram.GetCurrencyAmount
+status: unimplemented
+outputs:
+- name: currencyAmount
+  type: number

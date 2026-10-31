@@ -1,0 +1,8 @@
+---
+name: math.isfinite
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: finite
+  type: boolean

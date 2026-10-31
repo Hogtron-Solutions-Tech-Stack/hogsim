@@ -1,0 +1,6 @@
+---
+name: IsUsingMouse
+status: unimplemented
+outputs:
+- name: down
+  type: boolean

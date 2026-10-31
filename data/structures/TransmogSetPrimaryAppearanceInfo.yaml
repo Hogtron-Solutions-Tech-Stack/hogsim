@@ -1,0 +1,7 @@
+---
+name: TransmogSetPrimaryAppearanceInfo
+fields:
+- name: appearanceID
+  type: number
+- name: collected
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: CanRotate
+status: unimplemented
+outputs:
+- name: rotateRestriction
+  type: number

@@ -1,0 +1,9 @@
+---
+name: OngoingEventInfo
+fields:
+- name: areaPoiID
+  type: number
+- name: rewardsClaimed
+  type: boolean
+- name: displayInfo
+  type: EventDisplayInfo

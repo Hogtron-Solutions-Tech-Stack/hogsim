@@ -1,0 +1,5 @@
+---
+name: C_PartyInfo.SetInstanceAbandonVoteResponse
+status: unimplemented
+inputs:
+- - type: boolean

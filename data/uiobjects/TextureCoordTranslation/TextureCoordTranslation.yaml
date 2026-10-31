@@ -2,4 +2,8 @@
 name: TextureCoordTranslation
 inherits:
   Animation: {}
-methods: {}
+methods:
+  GetOffset:
+    status: unimplemented
+  SetOffset:
+    status: unimplemented

@@ -1,0 +1,8 @@
+---
+name: GetRightLine
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: rightFontString
+  type: unknown

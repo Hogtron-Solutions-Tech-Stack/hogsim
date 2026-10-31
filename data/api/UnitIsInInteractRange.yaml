@@ -1,0 +1,8 @@
+---
+name: UnitIsInInteractRange
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: result
+  type: boolean

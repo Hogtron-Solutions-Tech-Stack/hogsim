@@ -1,0 +1,6 @@
+---
+name: C_Minimap.IsTrackingAccountCompletedQuests
+status: unimplemented
+outputs:
+- name: IsTrackingAccountCompletedQuests
+  type: boolean

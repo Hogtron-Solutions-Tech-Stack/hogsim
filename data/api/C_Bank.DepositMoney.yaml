@@ -1,0 +1,6 @@
+---
+name: C_Bank.DepositMoney
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

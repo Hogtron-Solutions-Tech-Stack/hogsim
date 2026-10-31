@@ -1,0 +1,6 @@
+---
+name: C_PaperDollInfo.IsRangedSlotShown
+status: unimplemented
+outputs:
+- name: isShown
+  type: boolean

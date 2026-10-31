@@ -1,0 +1,5 @@
+---
+name: C_Ping.SendMacroPing
+status: unimplemented
+inputs:
+- - type: PingMacroInfo

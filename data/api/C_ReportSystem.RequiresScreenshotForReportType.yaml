@@ -1,0 +1,9 @@
+---
+name: C_ReportSystem.RequiresScreenshotForReportType
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: requiresScreenshot
+  type: boolean

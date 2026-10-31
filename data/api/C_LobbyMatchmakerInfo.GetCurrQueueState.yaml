@@ -1,0 +1,6 @@
+---
+name: C_LobbyMatchmakerInfo.GetCurrQueueState
+status: unimplemented
+outputs:
+- name: queueState
+  type: number

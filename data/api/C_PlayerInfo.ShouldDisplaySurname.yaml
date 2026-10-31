@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.ShouldDisplaySurname
+status: unimplemented
+outputs:
+- name: display
+  type: boolean

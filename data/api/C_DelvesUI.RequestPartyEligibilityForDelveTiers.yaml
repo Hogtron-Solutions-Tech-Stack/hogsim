@@ -1,0 +1,5 @@
+---
+name: C_DelvesUI.RequestPartyEligibilityForDelveTiers
+status: unimplemented
+inputs:
+- - type: number

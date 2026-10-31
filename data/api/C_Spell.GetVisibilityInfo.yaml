@@ -1,0 +1,13 @@
+---
+name: C_Spell.GetVisibilityInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: hasCustom
+  type: boolean
+- name: alwaysShowMine
+  type: boolean
+- name: showForMySpec
+  type: boolean

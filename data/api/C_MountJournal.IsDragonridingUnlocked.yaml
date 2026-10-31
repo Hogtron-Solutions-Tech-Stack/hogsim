@@ -1,0 +1,6 @@
+---
+name: C_MountJournal.IsDragonridingUnlocked
+status: unimplemented
+outputs:
+- name: isUnlocked
+  type: boolean

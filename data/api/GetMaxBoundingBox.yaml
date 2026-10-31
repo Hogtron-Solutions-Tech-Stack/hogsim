@@ -1,0 +1,8 @@
+---
+name: GetMaxBoundingBox
+status: unimplemented
+outputs:
+- name: boxBottom
+  type: unknown
+- name: boxTop
+  type: unknown

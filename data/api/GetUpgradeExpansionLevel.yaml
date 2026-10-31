@@ -1,0 +1,6 @@
+---
+name: GetUpgradeExpansionLevel
+status: unimplemented
+outputs:
+- name: upgradeExpansionLevel
+  type: number

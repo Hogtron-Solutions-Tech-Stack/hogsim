@@ -1,0 +1,11 @@
+---
+name: RatedSoloShuffleSpecStats
+fields:
+- name: weeklyMostPlayedSpecID
+  type: number
+- name: weeklyMostPlayedSpecRounds
+  type: number
+- name: seasonMostPlayedSpecID
+  type: number
+- name: seasonMostPlayedSpecRounds
+  type: number

@@ -1,0 +1,5 @@
+---
+name: SetMask
+status: unimplemented
+inputs:
+- - type: string

@@ -1,0 +1,7 @@
+---
+name: ClubMessageRange
+fields:
+- name: oldestMessageId
+  type: ClubMessageIdentifier
+- name: newestMessageId
+  type: ClubMessageIdentifier

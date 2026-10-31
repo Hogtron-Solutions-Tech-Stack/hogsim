@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.SetBlocked
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

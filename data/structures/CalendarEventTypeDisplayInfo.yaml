@@ -1,0 +1,7 @@
+---
+name: CalendarEventTypeDisplayInfo
+fields:
+- name: displayString
+  type: string
+- name: eventType
+  type: number

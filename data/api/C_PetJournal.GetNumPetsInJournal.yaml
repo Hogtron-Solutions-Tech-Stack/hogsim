@@ -1,0 +1,10 @@
+---
+name: C_PetJournal.GetNumPetsInJournal
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: maxAllowed
+  type: number
+- name: numPets
+  type: number

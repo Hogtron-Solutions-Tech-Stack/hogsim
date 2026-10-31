@@ -1,0 +1,8 @@
+---
+name: C_TransmogOutfitInfo.GetPendingTransmogCost
+status: unimplemented
+outputs:
+- name: cost
+  type: number
+- name: modifierFlags
+  type: number

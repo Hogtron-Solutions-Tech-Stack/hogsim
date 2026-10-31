@@ -1,0 +1,8 @@
+---
+name: C_SpecializationInfo.GetNumSpecializationsForClassID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: specCount
+  type: number

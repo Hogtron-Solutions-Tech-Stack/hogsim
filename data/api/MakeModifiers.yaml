@@ -1,0 +1,6 @@
+---
+name: MakeModifiers
+status: unimplemented
+outputs:
+- name: modifiers
+  type: number

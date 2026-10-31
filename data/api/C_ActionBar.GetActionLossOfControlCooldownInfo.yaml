@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.GetActionLossOfControlCooldownInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: lossOfControlInfo
+  type: SpellLossOfControlInfo

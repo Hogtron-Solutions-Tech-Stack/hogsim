@@ -1,0 +1,13 @@
+---
+name: UIButtonInfo
+fields:
+- name: normal
+  type: string
+- name: pressed
+  type: string
+- name: highlight
+  type: string
+- name: icon
+  type: string
+- name: useNormalAsHiglight
+  type: boolean

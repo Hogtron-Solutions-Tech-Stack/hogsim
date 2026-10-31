@@ -1,0 +1,8 @@
+---
+name: GetAttribute
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: value
+  type: string

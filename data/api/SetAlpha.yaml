@@ -1,0 +1,5 @@
+---
+name: SetAlpha
+status: unimplemented
+inputs:
+- - type: number

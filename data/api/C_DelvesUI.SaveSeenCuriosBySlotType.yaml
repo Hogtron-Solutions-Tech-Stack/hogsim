@@ -1,0 +1,7 @@
+---
+name: C_DelvesUI.SaveSeenCuriosBySlotType
+status: unimplemented
+inputs:
+- - type: number
+  - innerType: number
+    type: table

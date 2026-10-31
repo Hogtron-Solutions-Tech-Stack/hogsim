@@ -1,0 +1,7 @@
+---
+name: GarrisonFollowerDeathInfo
+fields:
+- name: followerID
+  type: unknown
+- name: state
+  type: number

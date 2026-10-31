@@ -1,0 +1,8 @@
+---
+name: canaccesstable
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: canAccessTable
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetFontObject
+status: unimplemented
+outputs:
+- name: font
+  type: unknown

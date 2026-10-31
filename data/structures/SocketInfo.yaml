@@ -1,0 +1,11 @@
+---
+name: SocketInfo
+fields:
+- name: name
+  nilable: true
+  type: string
+- name: icon
+  nilable: true
+  type: number
+- name: gemMatchesSocket
+  type: boolean

@@ -1,0 +1,10 @@
+---
+name: CreatureFamilyInfo
+fields:
+- name: id
+  type: number
+- name: name
+  type: string
+- name: iconFile
+  nilable: true
+  type: number

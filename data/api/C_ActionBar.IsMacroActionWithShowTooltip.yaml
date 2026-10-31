@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.IsMacroActionWithShowTooltip
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isMacroActionWithShowTooltip
+  type: boolean

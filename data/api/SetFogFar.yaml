@@ -1,0 +1,5 @@
+---
+name: SetFogFar
+status: unimplemented
+inputs:
+- - type: number

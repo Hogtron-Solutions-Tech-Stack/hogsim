@@ -1,0 +1,9 @@
+---
+name: C_DyeColor.GetDyeColorInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: dyeColorInfo
+  nilable: true
+  type: DyeColorDisplayInfo

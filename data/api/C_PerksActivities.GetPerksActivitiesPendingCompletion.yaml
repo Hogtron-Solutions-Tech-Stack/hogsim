@@ -1,0 +1,6 @@
+---
+name: C_PerksActivities.GetPerksActivitiesPendingCompletion
+status: unimplemented
+outputs:
+- name: pending
+  type: PerksActivitiesPending

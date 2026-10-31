@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.HasVehicleActionBar
+status: unimplemented
+outputs:
+- name: hasVehicleActionBar
+  type: boolean

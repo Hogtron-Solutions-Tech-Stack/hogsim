@@ -1,0 +1,8 @@
+---
+name: C_EncounterWarnings.GetEditModeWarningInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: warningInfo
+  type: EncounterWarningInfo

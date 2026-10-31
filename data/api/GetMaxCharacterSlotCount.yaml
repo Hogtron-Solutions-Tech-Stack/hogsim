@@ -1,0 +1,6 @@
+---
+name: GetMaxCharacterSlotCount
+status: unimplemented
+outputs:
+- name: maxCharacterSlotCount
+  type: number

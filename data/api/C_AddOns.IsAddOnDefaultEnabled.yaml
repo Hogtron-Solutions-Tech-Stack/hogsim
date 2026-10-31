@@ -1,0 +1,8 @@
+---
+name: C_AddOns.IsAddOnDefaultEnabled
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: defaultEnabled
+  type: boolean

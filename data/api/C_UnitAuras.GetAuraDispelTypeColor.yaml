@@ -1,0 +1,10 @@
+---
+name: C_UnitAuras.GetAuraDispelTypeColor
+status: unimplemented
+inputs:
+- - type: unit
+  - type: number
+  - type: unknown
+outputs:
+- name: dispelTypeColor
+  type: unknown

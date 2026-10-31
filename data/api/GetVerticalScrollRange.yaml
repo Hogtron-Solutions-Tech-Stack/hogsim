@@ -1,0 +1,6 @@
+---
+name: GetVerticalScrollRange
+status: unimplemented
+outputs:
+- name: range
+  type: number

@@ -1,0 +1,6 @@
+---
+name: GetLooping
+status: unimplemented
+outputs:
+- name: loopType
+  type: unknown

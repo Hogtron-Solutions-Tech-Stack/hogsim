@@ -1,0 +1,6 @@
+---
+name: GetDamageAbsorbClampMode
+status: unimplemented
+outputs:
+- name: damageAbsorbClampMode
+  type: number

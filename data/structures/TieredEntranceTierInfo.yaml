@@ -1,0 +1,25 @@
+---
+name: TieredEntranceTierInfo
+fields:
+- name: tier
+  type: number
+- name: suggestedILvl
+  type: number
+- name: overrideTooltipSpellID
+  type: number
+- name: unlocked
+  type: boolean
+- name: tierDescription
+  type: string
+- innerType: TieredEntranceRewardInfo
+  name: rewards
+  type: table
+- name: modifierUIWidgetSetID
+  type: number
+- name: lockedReason
+  nilable: true
+  type: string
+- name: queueAsLFG
+  type: boolean
+- name: difficultyID
+  type: number

@@ -1,0 +1,10 @@
+---
+name: C_QuestInfoSystem.GetQuestRewardCurrencies
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- innerType: QuestRewardCurrencyInfo
+  name: questRewardCurrencyInfo
+  type: table

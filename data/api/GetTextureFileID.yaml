@@ -1,0 +1,6 @@
+---
+name: GetTextureFileID
+status: unimplemented
+outputs:
+- name: textureFile
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_HousingBlueprint.GetBlueprintTypeForCode
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: type
+  type: number

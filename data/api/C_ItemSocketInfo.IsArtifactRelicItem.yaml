@@ -1,0 +1,8 @@
+---
+name: C_ItemSocketInfo.IsArtifactRelicItem
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isArtifactRelicItem
+  type: boolean

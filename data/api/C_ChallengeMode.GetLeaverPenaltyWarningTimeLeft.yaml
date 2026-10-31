@@ -1,0 +1,6 @@
+---
+name: C_ChallengeMode.GetLeaverPenaltyWarningTimeLeft
+status: unimplemented
+outputs:
+- name: timeLeftSeconds
+  type: number

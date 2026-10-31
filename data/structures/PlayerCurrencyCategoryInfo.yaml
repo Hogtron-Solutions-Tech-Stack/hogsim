@@ -1,0 +1,11 @@
+---
+name: PlayerCurrencyCategoryInfo
+fields:
+- name: categoryName
+  type: string
+- innerType: number
+  name: currencyTypes
+  type: table
+- innerType: number
+  name: childCategories
+  type: table

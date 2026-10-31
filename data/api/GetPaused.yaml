@@ -1,0 +1,8 @@
+---
+name: GetPaused
+status: unimplemented
+outputs:
+- name: paused
+  type: boolean
+- name: globalPaused
+  type: boolean

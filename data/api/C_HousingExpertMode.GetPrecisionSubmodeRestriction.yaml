@@ -1,0 +1,8 @@
+---
+name: C_HousingExpertMode.GetPrecisionSubmodeRestriction
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: restriction
+  type: number

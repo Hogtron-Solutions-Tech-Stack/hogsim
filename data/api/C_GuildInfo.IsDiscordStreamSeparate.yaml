@@ -1,0 +1,6 @@
+---
+name: C_GuildInfo.IsDiscordStreamSeparate
+status: unimplemented
+outputs:
+- name: separateStream
+  type: boolean

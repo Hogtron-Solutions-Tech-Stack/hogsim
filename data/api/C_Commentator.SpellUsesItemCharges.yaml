@@ -1,0 +1,8 @@
+---
+name: C_Commentator.SpellUsesItemCharges
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: spellUsesItemCharges
+  type: boolean

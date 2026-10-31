@@ -1,0 +1,6 @@
+---
+name: IsEnabled
+status: unimplemented
+outputs:
+- name: isEnabled
+  type: boolean

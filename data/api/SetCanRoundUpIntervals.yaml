@@ -1,0 +1,5 @@
+---
+name: SetCanRoundUpIntervals
+status: unimplemented
+inputs:
+- - type: boolean

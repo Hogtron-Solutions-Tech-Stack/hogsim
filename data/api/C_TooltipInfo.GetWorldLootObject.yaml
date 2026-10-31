@@ -1,0 +1,8 @@
+---
+name: C_TooltipInfo.GetWorldLootObject
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: data
+  type: unknown

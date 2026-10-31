@@ -1,0 +1,8 @@
+---
+name: MythicPlusRatingSummary
+fields:
+- name: currentSeasonScore
+  type: number
+- innerType: MythicPlusRatingMapSummary
+  name: runs
+  type: table

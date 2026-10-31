@@ -1,0 +1,6 @@
+---
+name: C_GameRules.IsPersonalResourceDisplayEnabled
+status: unimplemented
+outputs:
+- name: isPersonalResourceDisplayEnabled
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.HasRoomPlacementBudget
+status: unimplemented
+outputs:
+- name: hasBudget
+  type: boolean

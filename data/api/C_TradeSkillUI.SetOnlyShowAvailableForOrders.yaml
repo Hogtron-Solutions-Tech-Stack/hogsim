@@ -1,0 +1,5 @@
+---
+name: C_TradeSkillUI.SetOnlyShowAvailableForOrders
+status: unimplemented
+inputs:
+- - type: boolean

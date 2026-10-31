@@ -1,0 +1,6 @@
+---
+name: GetObjectType
+status: unimplemented
+outputs:
+- name: objectType
+  type: string

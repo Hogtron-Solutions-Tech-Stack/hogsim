@@ -1,0 +1,5 @@
+---
+name: C_Spell.CancelSpellByID
+status: unimplemented
+inputs:
+- - type: number

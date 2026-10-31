@@ -1,0 +1,14 @@
+---
+name: C_ContentTracking.GetBestMapForTrackable
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - default: false
+    type: boolean
+outputs:
+- name: result
+  type: number
+- name: mapID
+  nilable: true
+  type: number

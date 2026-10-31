@@ -1,0 +1,7 @@
+---
+name: C_HousingCustomizeMode.ApplyPetToSelectedDecor
+status: unimplemented
+inputs:
+- - nilable: true
+    type: string
+  - type: number

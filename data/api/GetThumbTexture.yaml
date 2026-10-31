@@ -1,0 +1,6 @@
+---
+name: GetThumbTexture
+status: unimplemented
+outputs:
+- name: texture
+  type: unknown

@@ -1,0 +1,8 @@
+---
+name: C_PaperDollInfo.CursorCanGoInSlot
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: canOccupySlot
+  type: boolean

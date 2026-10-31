@@ -1,0 +1,34 @@
+---
+name: SoulbindNode
+fields:
+- name: ID
+  type: number
+- name: row
+  type: number
+- name: column
+  type: number
+- name: icon
+  type: number
+- name: spellID
+  type: number
+- name: playerConditionReason
+  nilable: true
+  type: string
+- name: conduitID
+  type: number
+- name: conduitRank
+  type: number
+- name: state
+  type: number
+- name: conduitType
+  nilable: true
+  type: number
+- innerType: number
+  name: parentNodeIDs
+  type: table
+- name: failureRenownRequirement
+  nilable: true
+  type: number
+- name: socketEnhanced
+  nilable: true
+  type: boolean

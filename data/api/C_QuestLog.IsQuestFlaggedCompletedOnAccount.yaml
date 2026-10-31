@@ -1,0 +1,8 @@
+---
+name: C_QuestLog.IsQuestFlaggedCompletedOnAccount
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isCompletedOnAccount
+  type: boolean

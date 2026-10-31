@@ -1,0 +1,6 @@
+---
+name: C_TooltipInfo.GetWorldCursor
+status: unimplemented
+outputs:
+- name: data
+  type: unknown

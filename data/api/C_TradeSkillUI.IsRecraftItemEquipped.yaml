@@ -1,0 +1,8 @@
+---
+name: C_TradeSkillUI.IsRecraftItemEquipped
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isEquipped
+  type: boolean

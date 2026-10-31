@@ -1,0 +1,6 @@
+---
+name: GetDegrees
+status: unimplemented
+outputs:
+- name: angle
+  type: number

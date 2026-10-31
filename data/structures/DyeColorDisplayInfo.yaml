@@ -1,0 +1,20 @@
+---
+name: DyeColorDisplayInfo
+fields:
+- name: ID
+  type: number
+- name: dyeColorCategoryID
+  type: number
+- name: name
+  type: string
+- name: sortOrder
+  type: number
+- name: swatchColorStart
+  type: unknown
+- name: swatchColorEnd
+  type: unknown
+- name: itemID
+  nilable: true
+  type: number
+- name: numOwned
+  type: number

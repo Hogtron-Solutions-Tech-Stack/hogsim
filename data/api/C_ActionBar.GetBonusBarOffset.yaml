@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.GetBonusBarOffset
+status: unimplemented
+outputs:
+- name: bonusBarOffset
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_DelvesUI.IsEligibleForActiveDelveRewards
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: result
+  type: boolean

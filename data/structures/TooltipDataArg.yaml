@@ -1,0 +1,23 @@
+---
+name: TooltipDataArg
+fields:
+- name: field
+  type: string
+- name: stringVal
+  nilable: true
+  type: string
+- name: intVal
+  nilable: true
+  type: number
+- name: floatVal
+  nilable: true
+  type: number
+- name: boolVal
+  nilable: true
+  type: boolean
+- name: colorVal
+  nilable: true
+  type: unknown
+- name: guidVal
+  nilable: true
+  type: string

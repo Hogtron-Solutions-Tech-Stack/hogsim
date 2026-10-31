@@ -1,0 +1,8 @@
+---
+name: C_NamePlateManager.IsNamePlateUnitBehindCamera
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isBehindCamera
+  type: boolean

@@ -1,0 +1,11 @@
+---
+name: C_DelvesUI.GetUnseenCuriosBySlotType
+status: unimplemented
+inputs:
+- - type: number
+  - innerType: number
+    type: table
+outputs:
+- innerType: number
+  name: unseenCurioNodeIDs
+  type: table

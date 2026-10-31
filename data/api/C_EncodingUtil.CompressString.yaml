@@ -1,0 +1,12 @@
+---
+name: C_EncodingUtil.CompressString
+status: unimplemented
+inputs:
+- - type: string
+  - default: Deflate
+    type: number
+  - default: Default
+    type: number
+outputs:
+- name: output
+  type: string

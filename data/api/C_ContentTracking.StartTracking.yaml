@@ -1,0 +1,10 @@
+---
+name: C_ContentTracking.StartTracking
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: error
+  nilable: true
+  type: number

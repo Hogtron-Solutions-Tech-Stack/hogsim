@@ -1,0 +1,11 @@
+---
+name: UIMapPinInfo
+fields:
+- name: button
+  type: UIButtonInfo
+- name: buttonSelected
+  type: UIButtonInfo
+- name: underlay
+  type: string
+- name: outerGlow
+  type: string

@@ -1,0 +1,27 @@
+---
+name: ArtifactAppearanceInfo
+fields:
+- name: artifactAppearanceID
+  type: number
+- name: appearanceName
+  type: string
+- name: displayIndex
+  type: number
+- name: unlocked
+  type: boolean
+- name: failureDescription
+  nilable: true
+  type: string
+- name: uiCameraID
+  type: number
+- name: altHandCameraID
+  nilable: true
+  type: number
+- name: swatchColor
+  type: unknown
+- name: modelOpacity
+  type: number
+- name: modelSaturation
+  type: number
+- name: obtainable
+  type: boolean

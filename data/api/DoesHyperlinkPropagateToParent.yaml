@@ -1,0 +1,6 @@
+---
+name: DoesHyperlinkPropagateToParent
+status: unimplemented
+outputs:
+- name: canPropagate
+  type: boolean

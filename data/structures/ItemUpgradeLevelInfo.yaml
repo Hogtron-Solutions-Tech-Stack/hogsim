@@ -1,0 +1,24 @@
+---
+name: ItemUpgradeLevelInfo
+fields:
+- name: upgradeLevel
+  type: number
+- name: displayQuality
+  type: number
+- name: itemLevelIncrement
+  type: number
+- innerType: ItemUpgradeStat
+  name: levelStats
+  type: table
+- innerType: ItemUpgradeCurrencyCost
+  name: currencyCostsToUpgrade
+  type: table
+- innerType: ItemUpgradeItemCost
+  name: itemCostsToUpgrade
+  type: table
+- name: moneyCost
+  nilable: true
+  type: number
+- name: failureMessage
+  nilable: true
+  type: string

@@ -1,0 +1,9 @@
+---
+name: C_ActionBar.HasAssistedCombatActionButtons
+status: unimplemented
+inputs:
+- - default: All
+    type: number
+outputs:
+- name: hasButtons
+  type: boolean

@@ -1,0 +1,14 @@
+---
+name: AdventureMapQuestPortraitInfo
+fields:
+- name: portraitDisplayID
+  type: number
+- name: mountPortraitDisplayID
+  type: number
+- name: name
+  type: string
+- name: text
+  type: string
+- name: modelSceneID
+  nilable: true
+  type: number

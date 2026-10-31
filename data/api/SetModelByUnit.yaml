@@ -1,0 +1,20 @@
+---
+name: SetModelByUnit
+status: unimplemented
+inputs:
+- - type: unit
+  - default: false
+    type: boolean
+  - default: true
+    type: boolean
+  - default: false
+    type: boolean
+  - default: true
+    type: boolean
+  - default: false
+    type: boolean
+  - nilable: true
+    type: number
+outputs:
+- name: success
+  type: boolean

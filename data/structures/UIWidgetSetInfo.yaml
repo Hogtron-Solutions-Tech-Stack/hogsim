@@ -1,0 +1,7 @@
+---
+name: UIWidgetSetInfo
+fields:
+- name: layoutDirection
+  type: number
+- name: verticalPadding
+  type: number

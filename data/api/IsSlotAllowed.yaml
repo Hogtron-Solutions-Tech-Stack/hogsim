@@ -1,0 +1,8 @@
+---
+name: IsSlotAllowed
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: allowed
+  type: boolean

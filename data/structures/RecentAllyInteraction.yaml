@@ -1,0 +1,11 @@
+---
+name: RecentAllyInteraction
+fields:
+- name: type
+  type: number
+- name: description
+  type: string
+- name: timestamp
+  type: number
+- name: contextData
+  type: RecentAllyInteractionContextData

@@ -1,0 +1,5 @@
+---
+name: SetCursorHoveredItem
+status: unimplemented
+inputs:
+- - type: unknown

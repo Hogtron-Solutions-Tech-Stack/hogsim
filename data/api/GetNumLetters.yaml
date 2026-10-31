@@ -1,0 +1,6 @@
+---
+name: GetNumLetters
+status: unimplemented
+outputs:
+- name: numLetters
+  type: number

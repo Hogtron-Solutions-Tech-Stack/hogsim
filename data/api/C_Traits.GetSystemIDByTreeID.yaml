@@ -1,0 +1,8 @@
+---
+name: C_Traits.GetSystemIDByTreeID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: systemID
+  type: number

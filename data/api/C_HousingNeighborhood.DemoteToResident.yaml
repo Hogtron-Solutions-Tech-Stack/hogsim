@@ -1,0 +1,5 @@
+---
+name: C_HousingNeighborhood.DemoteToResident
+status: unimplemented
+inputs:
+- - type: string

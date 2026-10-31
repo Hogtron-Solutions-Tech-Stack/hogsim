@@ -1,0 +1,9 @@
+---
+name: IsActive
+status: unimplemented
+inputs:
+- - default: RealTime
+    type: number
+outputs:
+- name: isActive
+  type: boolean

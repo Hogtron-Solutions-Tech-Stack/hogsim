@@ -1,0 +1,6 @@
+---
+name: GetEdgeScale
+status: unimplemented
+outputs:
+- name: edgeScale
+  type: number

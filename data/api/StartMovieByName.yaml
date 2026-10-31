@@ -1,0 +1,14 @@
+---
+name: StartMovieByName
+status: unimplemented
+inputs:
+- - type: string
+  - default: false
+    type: boolean
+  - default: 0
+    type: number
+outputs:
+- name: success
+  type: boolean
+- name: returnCode
+  type: number

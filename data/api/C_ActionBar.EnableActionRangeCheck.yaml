@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.EnableActionRangeCheck
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

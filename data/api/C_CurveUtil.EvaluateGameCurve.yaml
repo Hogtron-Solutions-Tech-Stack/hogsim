@@ -1,0 +1,9 @@
+---
+name: C_CurveUtil.EvaluateGameCurve
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: y
+  type: number

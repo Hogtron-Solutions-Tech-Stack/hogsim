@@ -1,0 +1,9 @@
+---
+name: TransmogSituationOptionData
+fields:
+- name: name
+  type: string
+- name: value
+  type: boolean
+- name: option
+  type: TransmogSituationOption

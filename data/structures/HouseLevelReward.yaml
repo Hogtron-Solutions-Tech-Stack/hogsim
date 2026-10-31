@@ -1,0 +1,29 @@
+---
+name: HouseLevelReward
+fields:
+- name: type
+  type: number
+- name: asset
+  nilable: true
+  type: unknown
+- name: iconTexture
+  nilable: true
+  type: unknown
+- name: iconAtlas
+  nilable: true
+  type: string
+- name: objectName
+  nilable: true
+  type: string
+- name: tooltipText
+  nilable: true
+  type: string
+- name: valueType
+  nilable: true
+  type: number
+- name: oldValue
+  nilable: true
+  type: number
+- name: newValue
+  nilable: true
+  type: number

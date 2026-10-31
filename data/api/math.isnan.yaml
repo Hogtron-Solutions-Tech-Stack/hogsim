@@ -1,0 +1,8 @@
+---
+name: math.isnan
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: 'nan'
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetMotionScriptsWhileDisabled
+status: unimplemented
+outputs:
+- name: motionScriptsWhileDisabled
+  type: boolean

@@ -1,0 +1,15 @@
+---
+name: PingMacroInfo
+fields:
+- name: type
+  nilable: true
+  type: number
+- name: targetToken
+  nilable: true
+  type: string
+- name: spellID
+  nilable: true
+  type: number
+- name: itemID
+  nilable: true
+  type: number

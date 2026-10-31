@@ -1,0 +1,11 @@
+---
+name: C_PingSecure.SetHitTestPingTarget
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - nilable: true
+    type: boolean
+outputs:
+- name: state
+  type: number

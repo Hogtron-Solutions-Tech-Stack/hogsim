@@ -1,0 +1,9 @@
+---
+name: AnimaDiversionFrameInfo
+fields:
+- name: textureKit
+  type: string
+- name: title
+  type: string
+- name: mapID
+  type: number

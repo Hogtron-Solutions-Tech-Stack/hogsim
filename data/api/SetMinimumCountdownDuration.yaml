@@ -1,0 +1,5 @@
+---
+name: SetMinimumCountdownDuration
+status: unimplemented
+inputs:
+- - type: unknown

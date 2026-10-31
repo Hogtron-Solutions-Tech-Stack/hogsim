@@ -1,0 +1,9 @@
+---
+name: HasExpired
+status: unimplemented
+inputs:
+- - default: RealTime
+    type: number
+outputs:
+- name: hasExpired
+  type: boolean

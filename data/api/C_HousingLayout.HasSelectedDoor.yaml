@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.HasSelectedDoor
+status: unimplemented
+outputs:
+- name: hasSelectedDoor
+  type: boolean

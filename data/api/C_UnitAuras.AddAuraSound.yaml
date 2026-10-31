@@ -1,0 +1,10 @@
+---
+name: C_UnitAuras.AddAuraSound
+status: unimplemented
+inputs:
+- - type: number
+  - type: UnitAuraSoundInfo
+outputs:
+- name: auraSoundID
+  nilable: true
+  type: number

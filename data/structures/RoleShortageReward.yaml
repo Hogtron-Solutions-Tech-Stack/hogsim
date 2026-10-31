@@ -1,0 +1,10 @@
+---
+name: RoleShortageReward
+fields:
+- innerType: string
+  name: validRoles
+  type: table
+- name: rewardSpellID
+  type: number
+- name: rewardItemID
+  type: number

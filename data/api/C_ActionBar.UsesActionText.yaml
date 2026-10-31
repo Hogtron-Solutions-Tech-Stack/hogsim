@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.UsesActionText
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: usesActionText
+  type: boolean

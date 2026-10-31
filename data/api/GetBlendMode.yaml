@@ -1,0 +1,6 @@
+---
+name: GetBlendMode
+status: unimplemented
+outputs:
+- name: blendMode
+  type: unknown

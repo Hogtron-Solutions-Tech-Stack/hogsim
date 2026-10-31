@@ -1,0 +1,47 @@
+---
+name: PetInfo
+fields:
+- name: slotID
+  type: number
+- name: icon
+  type: number
+- name: name
+  type: string
+- name: level
+  type: number
+- name: familyName
+  type: string
+- name: specialization
+  type: string
+- name: type
+  type: string
+- innerType: number
+  name: petAbilities
+  type: table
+- innerType: number
+  name: specAbilities
+  type: table
+- name: displayID
+  type: number
+- name: isFavorite
+  type: boolean
+- name: isExotic
+  type: boolean
+- name: uiModelSceneID
+  type: number
+- name: petNumber
+  type: number
+- name: creatureID
+  type: number
+- name: specID
+  type: number
+- name: loyaltyLevel
+  type: number
+- name: loyaltyName
+  type: string
+- name: happinessLevel
+  type: number
+- name: experience
+  type: number
+- name: experienceNeeded
+  type: number

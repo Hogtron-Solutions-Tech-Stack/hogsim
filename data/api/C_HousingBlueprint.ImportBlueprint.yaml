@@ -1,0 +1,5 @@
+---
+name: C_HousingBlueprint.ImportBlueprint
+status: unimplemented
+inputs:
+- - type: string

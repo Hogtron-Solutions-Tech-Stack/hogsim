@@ -1,0 +1,10 @@
+---
+name: C_TradeSkillUI.GetRecipeQualityItemIDs
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: qualityItemIDs
+  nilable: true
+  type: table

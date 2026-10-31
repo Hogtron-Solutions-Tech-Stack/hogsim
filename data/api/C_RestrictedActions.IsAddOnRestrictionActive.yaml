@@ -1,0 +1,8 @@
+---
+name: C_RestrictedActions.IsAddOnRestrictionActive
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: active
+  type: boolean

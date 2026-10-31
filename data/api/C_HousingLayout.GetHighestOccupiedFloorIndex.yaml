@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.GetHighestOccupiedFloorIndex
+status: unimplemented
+outputs:
+- name: highestFloorIndex
+  type: number

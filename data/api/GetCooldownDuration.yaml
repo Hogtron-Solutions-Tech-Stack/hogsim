@@ -1,0 +1,6 @@
+---
+name: GetCooldownDuration
+status: unimplemented
+outputs:
+- name: duration
+  type: number

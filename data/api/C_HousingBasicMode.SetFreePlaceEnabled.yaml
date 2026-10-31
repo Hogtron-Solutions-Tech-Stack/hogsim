@@ -1,0 +1,5 @@
+---
+name: C_HousingBasicMode.SetFreePlaceEnabled
+status: unimplemented
+inputs:
+- - type: boolean

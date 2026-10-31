@@ -1,0 +1,8 @@
+---
+name: C_TradeSkillUI.GetProfessionInfoByRecipeID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: info
+  type: ProfessionInfo

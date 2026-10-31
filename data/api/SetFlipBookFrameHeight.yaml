@@ -1,0 +1,5 @@
+---
+name: SetFlipBookFrameHeight
+status: unimplemented
+inputs:
+- - type: number

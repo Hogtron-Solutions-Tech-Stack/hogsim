@@ -1,0 +1,9 @@
+---
+name: C_Traits.GetConditionInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: condInfo
+  type: TraitCondInfo

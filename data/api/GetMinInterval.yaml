@@ -1,0 +1,7 @@
+---
+name: GetMinInterval
+status: unimplemented
+outputs:
+- name: interval
+  nilable: true
+  type: number

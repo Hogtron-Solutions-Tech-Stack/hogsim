@@ -1,0 +1,9 @@
+---
+name: C_QuestInfoSystem.HasQuestRewardCurrencies
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- name: hasQuestRewardCurrencies
+  type: boolean

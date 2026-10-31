@@ -1,0 +1,6 @@
+---
+name: C_ItemUpgrade.IsItemBound
+status: unimplemented
+outputs:
+- name: isBound
+  type: boolean

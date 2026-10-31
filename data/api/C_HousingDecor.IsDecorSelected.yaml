@@ -1,0 +1,6 @@
+---
+name: C_HousingDecor.IsDecorSelected
+status: unimplemented
+outputs:
+- name: hasSelectedDecor
+  type: boolean

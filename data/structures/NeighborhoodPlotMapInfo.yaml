@@ -1,0 +1,17 @@
+---
+name: NeighborhoodPlotMapInfo
+fields:
+- name: mapPosition
+  type: unknown
+- name: plotDataID
+  type: number
+- name: plotID
+  type: number
+- name: ownerType
+  type: number
+- name: plotCost
+  nilable: true
+  type: number
+- name: ownerName
+  nilable: true
+  type: string

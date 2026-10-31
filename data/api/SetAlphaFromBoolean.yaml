@@ -1,0 +1,9 @@
+---
+name: SetAlphaFromBoolean
+status: unimplemented
+inputs:
+- - type: boolean
+  - default: 255
+    type: unknown
+  - default: 0
+    type: unknown

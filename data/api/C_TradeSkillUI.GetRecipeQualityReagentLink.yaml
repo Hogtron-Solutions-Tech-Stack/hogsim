@@ -1,0 +1,10 @@
+---
+name: C_TradeSkillUI.GetRecipeQualityReagentLink
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number
+outputs:
+- name: link
+  type: string

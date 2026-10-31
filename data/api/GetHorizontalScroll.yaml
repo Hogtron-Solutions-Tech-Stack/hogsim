@@ -1,0 +1,6 @@
+---
+name: GetHorizontalScroll
+status: unimplemented
+outputs:
+- name: offset
+  type: number

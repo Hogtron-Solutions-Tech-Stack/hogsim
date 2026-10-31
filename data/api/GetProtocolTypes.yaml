@@ -1,0 +1,6 @@
+---
+name: GetProtocolTypes
+status: unimplemented
+outputs:
+- name: protocolTypes
+  type: unknown

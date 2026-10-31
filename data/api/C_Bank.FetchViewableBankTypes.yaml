@@ -1,0 +1,7 @@
+---
+name: C_Bank.FetchViewableBankTypes
+status: unimplemented
+outputs:
+- innerType: number
+  name: viewableBankTypes
+  type: table

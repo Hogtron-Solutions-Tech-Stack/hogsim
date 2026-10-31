@@ -1,0 +1,8 @@
+---
+name: C_ChatInfo.IsLoggingCombat
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean
+- name: advanced
+  type: boolean

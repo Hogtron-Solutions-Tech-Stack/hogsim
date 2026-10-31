@@ -1,0 +1,7 @@
+---
+name: C_HouseExterior.GetCurrentHouseExteriorSize
+status: unimplemented
+outputs:
+- name: houseExteriorSize
+  nilable: true
+  type: number

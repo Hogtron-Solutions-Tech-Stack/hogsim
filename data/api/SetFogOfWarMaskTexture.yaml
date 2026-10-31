@@ -1,0 +1,5 @@
+---
+name: SetFogOfWarMaskTexture
+status: unimplemented
+inputs:
+- - type: unknown

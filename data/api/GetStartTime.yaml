@@ -1,0 +1,9 @@
+---
+name: GetStartTime
+status: unimplemented
+inputs:
+- - default: RealTime
+    type: number
+outputs:
+- name: startTime
+  type: unknown

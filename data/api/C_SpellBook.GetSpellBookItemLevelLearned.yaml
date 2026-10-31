@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.GetSpellBookItemLevelLearned
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: levelLearned
+  type: number

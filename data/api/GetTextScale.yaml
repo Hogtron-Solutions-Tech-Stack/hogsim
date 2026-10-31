@@ -1,0 +1,6 @@
+---
+name: GetTextScale
+status: unimplemented
+outputs:
+- name: textScale
+  type: number

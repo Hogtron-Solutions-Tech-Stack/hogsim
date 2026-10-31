@@ -1,0 +1,7 @@
+---
+name: MountCreatureDisplayInfo
+fields:
+- name: creatureDisplayID
+  type: number
+- name: isVisible
+  type: boolean

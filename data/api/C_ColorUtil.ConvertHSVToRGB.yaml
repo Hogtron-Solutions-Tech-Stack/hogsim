@@ -1,0 +1,14 @@
+---
+name: C_ColorUtil.ConvertHSVToRGB
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number
+outputs:
+- name: rgbR
+  type: number
+- name: rgbG
+  type: number
+- name: rgbB
+  type: number

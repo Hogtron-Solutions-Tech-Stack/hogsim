@@ -1,0 +1,6 @@
+---
+name: C_Spell.TargetSpellReplacesBonusTree
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

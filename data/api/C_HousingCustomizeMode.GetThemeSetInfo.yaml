@@ -1,0 +1,9 @@
+---
+name: C_HousingCustomizeMode.GetThemeSetInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: name
+  nilable: true
+  type: string

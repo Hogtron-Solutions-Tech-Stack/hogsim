@@ -1,0 +1,6 @@
+---
+name: C_MountJournal.MountEquipmentAvailable
+status: unimplemented
+outputs:
+- name: isMountEquipmentAvailable
+  type: boolean

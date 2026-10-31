@@ -1,0 +1,6 @@
+---
+name: CollapsesLayout
+status: unimplemented
+outputs:
+- name: collapsesLayout
+  type: boolean

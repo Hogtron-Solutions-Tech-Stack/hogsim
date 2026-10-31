@@ -1,0 +1,6 @@
+---
+name: GetCurrentHealthPercent
+status: unimplemented
+outputs:
+- name: currentHealthPercent
+  type: number

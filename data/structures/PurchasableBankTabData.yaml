@@ -1,0 +1,13 @@
+---
+name: PurchasableBankTabData
+fields:
+- name: tabCost
+  type: number
+- name: canAfford
+  type: boolean
+- name: purchasePromptTitle
+  type: string
+- name: purchasePromptBody
+  type: string
+- name: purchasePromptConfirmation
+  type: string

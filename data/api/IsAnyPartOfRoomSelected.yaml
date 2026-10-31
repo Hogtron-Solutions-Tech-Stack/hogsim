@@ -1,0 +1,6 @@
+---
+name: IsAnyPartOfRoomSelected
+status: unimplemented
+outputs:
+- name: isSelected
+  type: boolean

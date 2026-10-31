@@ -1,0 +1,6 @@
+---
+name: HasLootSpecializations
+status: unimplemented
+outputs:
+- name: hasLootSpecializations
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetFrameLevel
+status: unimplemented
+outputs:
+- name: frameLevel
+  type: number

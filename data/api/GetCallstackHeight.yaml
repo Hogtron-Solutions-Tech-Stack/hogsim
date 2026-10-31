@@ -1,0 +1,6 @@
+---
+name: GetCallstackHeight
+status: unimplemented
+outputs:
+- name: height
+  type: number

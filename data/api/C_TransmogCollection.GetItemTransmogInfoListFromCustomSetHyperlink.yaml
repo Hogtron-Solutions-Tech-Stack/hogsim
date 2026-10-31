@@ -1,0 +1,9 @@
+---
+name: C_TransmogCollection.GetItemTransmogInfoListFromCustomSetHyperlink
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- innerType: unknown
+  name: list
+  type: table

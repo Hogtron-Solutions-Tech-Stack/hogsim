@@ -1,0 +1,5 @@
+---
+name: C_Reputation.ExpandFactionHeader
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,14 @@
+---
+name: PerksActivityThresholdInfo
+fields:
+- name: thresholdOrderIndex
+  type: number
+- name: currencyAwardAmount
+  type: number
+- name: requiredContributionAmount
+  type: number
+- name: pendingReward
+  type: boolean
+- name: itemReward
+  nilable: true
+  type: number

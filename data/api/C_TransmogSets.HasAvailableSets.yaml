@@ -1,0 +1,6 @@
+---
+name: C_TransmogSets.HasAvailableSets
+status: unimplemented
+outputs:
+- name: hasAvailableSets
+  type: boolean

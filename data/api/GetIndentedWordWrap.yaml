@@ -1,0 +1,6 @@
+---
+name: GetIndentedWordWrap
+status: unimplemented
+outputs:
+- name: isIndented
+  type: boolean

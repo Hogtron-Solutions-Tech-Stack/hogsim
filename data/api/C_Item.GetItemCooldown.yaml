@@ -1,0 +1,12 @@
+---
+name: C_Item.GetItemCooldown
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: startTimeSeconds
+  type: number
+- name: durationSeconds
+  type: number
+- name: enableCooldownTimer
+  type: boolean

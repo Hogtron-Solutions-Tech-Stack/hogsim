@@ -1,0 +1,5 @@
+---
+name: C_Container.SetBackpackAutosortDisabled
+status: unimplemented
+inputs:
+- - type: boolean

@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.IsItemAction
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isItemAction
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_CraftingOrders.GetCraftingOrderTime
+status: unimplemented
+outputs:
+- name: time
+  type: number

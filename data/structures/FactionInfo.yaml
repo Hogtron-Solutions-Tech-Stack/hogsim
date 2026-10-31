@@ -1,0 +1,7 @@
+---
+name: FactionInfo
+fields:
+- name: name
+  type: string
+- name: groupTag
+  type: string

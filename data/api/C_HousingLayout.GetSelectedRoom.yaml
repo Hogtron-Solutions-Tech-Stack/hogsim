@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.GetSelectedRoom
+status: unimplemented
+outputs:
+- name: roomGUID
+  type: string

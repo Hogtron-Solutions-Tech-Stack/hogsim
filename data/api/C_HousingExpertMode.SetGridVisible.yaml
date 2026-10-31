@@ -1,0 +1,5 @@
+---
+name: C_HousingExpertMode.SetGridVisible
+status: unimplemented
+inputs:
+- - type: boolean

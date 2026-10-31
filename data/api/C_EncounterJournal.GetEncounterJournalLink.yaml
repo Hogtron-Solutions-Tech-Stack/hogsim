@@ -1,0 +1,11 @@
+---
+name: C_EncounterJournal.GetEncounterJournalLink
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: string
+  - type: number
+outputs:
+- name: link
+  type: string

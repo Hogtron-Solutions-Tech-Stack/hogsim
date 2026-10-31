@@ -1,0 +1,9 @@
+---
+name: C_ScenarioInfo.GetCriteriaInfoByStep
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: scenarioCriteriaInfo
+  type: ScenarioCriteriaInfo

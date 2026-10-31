@@ -1,0 +1,7 @@
+---
+name: C_RemixArtifactUI.GetCurrItemSpecIndex
+status: unimplemented
+outputs:
+- name: specIndex
+  nilable: true
+  type: number

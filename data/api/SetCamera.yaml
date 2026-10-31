@@ -1,0 +1,5 @@
+---
+name: SetCamera
+status: unimplemented
+inputs:
+- - type: number

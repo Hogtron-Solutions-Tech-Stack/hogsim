@@ -1,0 +1,6 @@
+---
+name: SetAbbreviateNumberData
+status: unimplemented
+inputs:
+- - innerType: NumberAbbreviationBreakpoint
+    type: table

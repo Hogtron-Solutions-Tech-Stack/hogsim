@@ -1,0 +1,10 @@
+---
+name: EvaluateTotalDuration
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: RealTime
+    type: number
+outputs:
+- name: result
+  type: unknown

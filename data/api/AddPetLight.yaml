@@ -1,0 +1,7 @@
+---
+name: AddPetLight
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+  - type: ModelLight

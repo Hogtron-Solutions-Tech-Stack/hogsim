@@ -1,0 +1,9 @@
+---
+name: SetItemAppearance
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number

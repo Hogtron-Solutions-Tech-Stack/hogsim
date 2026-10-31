@@ -1,0 +1,14 @@
+---
+name: C_TooltipInfo.GetRuneforgeResultItem
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - nilable: true
+    type: number
+  - innerType: number
+    nilable: true
+    type: table
+outputs:
+- name: data
+  type: unknown

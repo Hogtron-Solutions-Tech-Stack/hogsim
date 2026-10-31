@@ -1,0 +1,6 @@
+---
+name: GetFadeDuration
+status: unimplemented
+outputs:
+- name: fadeDurationSeconds
+  type: number

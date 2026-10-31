@@ -1,0 +1,35 @@
+---
+name: UIWidgetSpellInfo
+fields:
+- name: spellID
+  type: number
+- name: shownState
+  type: number
+- name: enabledState
+  type: number
+- name: tooltip
+  type: string
+- name: text
+  type: string
+- name: stackDisplay
+  type: number
+- name: iconSizeType
+  type: number
+- name: iconDisplayType
+  type: number
+- name: textShownState
+  type: number
+- name: borderColor
+  type: number
+- name: textFontType
+  type: number
+- name: textSizeType
+  type: number
+- name: hAlignType
+  type: number
+- name: tint
+  type: number
+- name: showGlowState
+  type: number
+- name: showAsEarned
+  type: boolean

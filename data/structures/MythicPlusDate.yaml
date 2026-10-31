@@ -1,0 +1,15 @@
+---
+name: MythicPlusDate
+fields:
+- name: year
+  type: number
+- name: month
+  type: number
+- name: day
+  type: number
+- name: hour
+  type: number
+- name: minute
+  type: number
+- name: weekday
+  type: number

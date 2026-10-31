@@ -1,0 +1,6 @@
+---
+name: GetHorizTile
+status: unimplemented
+outputs:
+- name: tiling
+  type: boolean

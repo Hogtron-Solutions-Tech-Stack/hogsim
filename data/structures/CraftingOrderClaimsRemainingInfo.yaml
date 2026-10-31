@@ -1,0 +1,8 @@
+---
+name: CraftingOrderClaimsRemainingInfo
+fields:
+- name: claimsRemaining
+  type: number
+- name: secondsToRecharge
+  nilable: true
+  type: number

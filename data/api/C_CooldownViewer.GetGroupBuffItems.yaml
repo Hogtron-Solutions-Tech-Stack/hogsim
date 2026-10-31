@@ -1,0 +1,7 @@
+---
+name: C_CooldownViewer.GetGroupBuffItems
+status: unimplemented
+outputs:
+- innerType: GroupBuffItem
+  name: groupBuffItems
+  type: table

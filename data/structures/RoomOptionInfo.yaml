@@ -1,0 +1,11 @@
+---
+name: RoomOptionInfo
+fields:
+- name: roomName
+  type: string
+- name: roomID
+  type: number
+- name: learned
+  type: boolean
+- name: numOwned
+  type: number

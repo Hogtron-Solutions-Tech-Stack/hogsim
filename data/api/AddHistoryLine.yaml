@@ -1,0 +1,5 @@
+---
+name: AddHistoryLine
+status: unimplemented
+inputs:
+- - type: string

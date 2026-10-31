@@ -1,0 +1,5 @@
+---
+name: C_Sound.PlayVocalErrorSound
+status: unimplemented
+inputs:
+- - type: unknown

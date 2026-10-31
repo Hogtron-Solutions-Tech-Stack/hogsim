@@ -1,0 +1,6 @@
+---
+name: C_Weather.GetCurrentWeather
+status: unimplemented
+outputs:
+- name: info
+  type: WeatherInfo

@@ -1,0 +1,9 @@
+---
+name: ColorOverrideInfo
+fields:
+- name: overrideType
+  type: number
+- name: overrideColor
+  type: unknown
+- name: overrideColorString
+  type: string

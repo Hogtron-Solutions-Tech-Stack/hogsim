@@ -1,0 +1,6 @@
+---
+name: C_UI.GetWorldFrame
+status: unimplemented
+outputs:
+- name: worldFrame
+  type: unknown

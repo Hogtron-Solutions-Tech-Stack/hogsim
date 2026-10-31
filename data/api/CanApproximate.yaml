@@ -1,0 +1,8 @@
+---
+name: CanApproximate
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: canApproximate
+  type: boolean

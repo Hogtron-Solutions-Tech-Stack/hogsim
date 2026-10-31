@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.GetExtraBarIndex
+status: unimplemented
+outputs:
+- name: extraBarIndex
+  type: number

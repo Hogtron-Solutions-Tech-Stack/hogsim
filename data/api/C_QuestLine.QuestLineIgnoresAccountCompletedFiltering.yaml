@@ -1,0 +1,9 @@
+---
+name: C_QuestLine.QuestLineIgnoresAccountCompletedFiltering
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: questLineIgnoresAccountCompletedFiltering
+  type: boolean

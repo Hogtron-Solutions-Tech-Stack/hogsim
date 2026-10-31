@@ -1,0 +1,8 @@
+---
+name: C_SettingsUtil.OpenSettingsPanel
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+  - nilable: true
+    type: string

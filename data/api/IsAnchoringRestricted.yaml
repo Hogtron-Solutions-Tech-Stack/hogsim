@@ -1,0 +1,6 @@
+---
+name: IsAnchoringRestricted
+status: unimplemented
+outputs:
+- name: isRestricted
+  type: boolean

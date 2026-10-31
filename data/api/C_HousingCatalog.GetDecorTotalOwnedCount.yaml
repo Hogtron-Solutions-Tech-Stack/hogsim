@@ -1,0 +1,8 @@
+---
+name: C_HousingCatalog.GetDecorTotalOwnedCount
+status: unimplemented
+outputs:
+- name: totalOwnedCount
+  type: number
+- name: exemptDecorCount
+  type: number

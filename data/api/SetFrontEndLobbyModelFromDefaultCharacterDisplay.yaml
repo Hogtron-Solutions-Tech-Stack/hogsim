@@ -1,0 +1,8 @@
+---
+name: SetFrontEndLobbyModelFromDefaultCharacterDisplay
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: success
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_PvP.CanSurrenderArena
+status: unimplemented
+outputs:
+- name: CanSurrenderArena
+  type: boolean

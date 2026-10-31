@@ -1,0 +1,10 @@
+---
+name: GetDefaultAbbreviationBreakpoints
+status: unimplemented
+inputs:
+- - nilable: true
+    type: WowLocale
+outputs:
+- innerType: NumberAbbreviationBreakpoint
+  name: breakpoints
+  type: table

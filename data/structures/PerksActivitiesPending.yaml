@@ -1,0 +1,6 @@
+---
+name: PerksActivitiesPending
+fields:
+- innerType: number
+  name: pendingIDs
+  type: table

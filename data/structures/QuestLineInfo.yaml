@@ -1,0 +1,41 @@
+---
+name: QuestLineInfo
+fields:
+- name: questLineName
+  type: string
+- name: questName
+  type: string
+- name: questLineID
+  type: number
+- name: questID
+  type: number
+- name: x
+  type: number
+- name: y
+  type: number
+- name: isHidden
+  type: boolean
+- name: isLegendary
+  type: boolean
+- name: isLocalStory
+  type: boolean
+- name: isDaily
+  type: boolean
+- name: isCampaign
+  type: boolean
+- name: isImportant
+  type: boolean
+- name: isAccountCompleted
+  type: boolean
+- name: isCombatAllyQuest
+  type: boolean
+- name: isMeta
+  type: boolean
+- name: inProgress
+  type: boolean
+- name: isQuestStart
+  type: boolean
+- name: floorLocation
+  type: number
+- name: startMapID
+  type: number

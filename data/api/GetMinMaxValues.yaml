@@ -1,0 +1,8 @@
+---
+name: GetMinMaxValues
+status: unimplemented
+outputs:
+- name: minValue
+  type: number
+- name: maxValue
+  type: number

@@ -1,0 +1,6 @@
+---
+name: IsDragging
+status: unimplemented
+outputs:
+- name: isDragging
+  type: boolean

@@ -1,0 +1,9 @@
+---
+name: C_ActionBar.GetProfessionQuality
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: quality
+  nilable: true
+  type: number

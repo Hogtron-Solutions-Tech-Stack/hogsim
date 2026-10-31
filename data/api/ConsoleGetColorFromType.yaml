@@ -1,0 +1,8 @@
+---
+name: ConsoleGetColorFromType
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: color
+  type: unknown

@@ -1,0 +1,7 @@
+---
+name: GetBreakpoints
+status: unimplemented
+outputs:
+- innerType: NumberAbbreviationBreakpoint
+  name: breakpoints
+  type: table

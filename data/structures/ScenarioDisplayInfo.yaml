@@ -1,0 +1,9 @@
+---
+name: ScenarioDisplayInfo
+fields:
+- name: themeColor
+  nilable: true
+  type: unknown
+- name: startSoundKitID
+  nilable: true
+  type: number

@@ -1,0 +1,9 @@
+---
+name: LootJournalItemInfo
+fields:
+- name: itemID
+  type: number
+- name: icon
+  type: number
+- name: invType
+  type: number

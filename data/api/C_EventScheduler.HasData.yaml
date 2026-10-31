@@ -1,0 +1,6 @@
+---
+name: C_EventScheduler.HasData
+status: unimplemented
+outputs:
+- name: hasData
+  type: boolean

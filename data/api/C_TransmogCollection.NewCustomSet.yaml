@@ -1,0 +1,12 @@
+---
+name: C_TransmogCollection.NewCustomSet
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - innerType: unknown
+    type: table
+outputs:
+- name: customSetID
+  nilable: true
+  type: number

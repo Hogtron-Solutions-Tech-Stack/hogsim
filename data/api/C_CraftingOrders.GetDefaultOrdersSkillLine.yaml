@@ -1,0 +1,7 @@
+---
+name: C_CraftingOrders.GetDefaultOrdersSkillLine
+status: unimplemented
+outputs:
+- name: skillLineID
+  nilable: true
+  type: number

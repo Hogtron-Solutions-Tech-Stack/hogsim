@@ -1,0 +1,5 @@
+---
+name: SetPassThroughButtons
+status: unimplemented
+inputs:
+- - type: unknown

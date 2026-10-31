@@ -1,0 +1,9 @@
+---
+name: C_MajorFactions.GetTotalReputationForRenownLevel
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: totalReputation
+  type: number

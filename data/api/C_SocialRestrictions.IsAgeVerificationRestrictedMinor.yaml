@@ -1,0 +1,6 @@
+---
+name: C_SocialRestrictions.IsAgeVerificationRestrictedMinor
+status: unimplemented
+outputs:
+- name: isMinor
+  type: boolean

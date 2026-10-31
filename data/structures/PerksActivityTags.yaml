@@ -1,0 +1,6 @@
+---
+name: PerksActivityTags
+fields:
+- innerType: string
+  name: tagName
+  type: table

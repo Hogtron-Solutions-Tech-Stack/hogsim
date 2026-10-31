@@ -1,0 +1,6 @@
+---
+name: C_PerksProgram.GetDraggedPerksVendorItem
+status: unimplemented
+outputs:
+- name: perksVendorItemID
+  type: number

@@ -1,0 +1,13 @@
+---
+name: EditModeLayoutInfo
+fields:
+- name: layoutName
+  type: string
+- name: layoutType
+  type: number
+- name: interfaceStyle
+  nilable: true
+  type: number
+- innerType: EditModeSystemInfo
+  name: systems
+  type: table

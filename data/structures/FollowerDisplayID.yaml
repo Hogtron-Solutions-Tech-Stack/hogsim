@@ -1,0 +1,9 @@
+---
+name: FollowerDisplayID
+fields:
+- name: id
+  type: number
+- name: followerPageScale
+  type: number
+- name: showWeapon
+  type: boolean

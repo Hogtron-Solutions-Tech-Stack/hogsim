@@ -1,0 +1,9 @@
+---
+name: ApplySnapshot
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number
+outputs:
+- name: success
+  type: boolean

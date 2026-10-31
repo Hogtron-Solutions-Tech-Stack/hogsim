@@ -1,0 +1,7 @@
+---
+name: CatalogShopVirtualCurrency
+fields:
+- name: amount
+  type: number
+- name: currencyCode
+  type: string

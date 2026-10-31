@@ -1,0 +1,8 @@
+---
+name: SoulbindTree
+fields:
+- name: editable
+  type: boolean
+- innerType: SoulbindNode
+  name: nodes
+  type: table

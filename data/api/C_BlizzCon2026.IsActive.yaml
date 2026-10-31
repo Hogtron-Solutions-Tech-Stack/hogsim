@@ -1,0 +1,6 @@
+---
+name: C_BlizzCon2026.IsActive
+status: unimplemented
+outputs:
+- name: isActive
+  type: boolean

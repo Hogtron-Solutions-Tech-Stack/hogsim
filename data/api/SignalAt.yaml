@@ -1,0 +1,6 @@
+---
+name: SignalAt
+status: unimplemented
+inputs:
+- - type: number
+  - type: unknown

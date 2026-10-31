@@ -1,0 +1,7 @@
+---
+name: GetDoorConnectionInfo
+status: unimplemented
+outputs:
+- name: connectionInfo
+  nilable: true
+  type: DoorConnectionInfo

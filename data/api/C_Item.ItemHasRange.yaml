@@ -1,0 +1,8 @@
+---
+name: C_Item.ItemHasRange
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: result
+  type: boolean

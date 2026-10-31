@@ -1,0 +1,6 @@
+---
+name: C_PetInfo.GetPetLoyalty
+status: unimplemented
+outputs:
+- name: loyaltyName
+  type: string

@@ -1,0 +1,9 @@
+---
+name: LFGRoles
+fields:
+- name: tank
+  type: boolean
+- name: healer
+  type: boolean
+- name: dps
+  type: boolean

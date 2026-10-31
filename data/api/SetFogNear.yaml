@@ -1,0 +1,5 @@
+---
+name: SetFogNear
+status: unimplemented
+inputs:
+- - type: number

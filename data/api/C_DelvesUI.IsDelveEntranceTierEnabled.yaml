@@ -1,0 +1,11 @@
+---
+name: C_DelvesUI.IsDelveEntranceTierEnabled
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isEnabled
+  type: boolean
+- name: failureReason
+  nilable: true
+  type: string

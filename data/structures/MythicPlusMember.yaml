@@ -1,0 +1,10 @@
+---
+name: MythicPlusMember
+fields:
+- name: name
+  nilable: true
+  type: string
+- name: specID
+  type: number
+- name: classID
+  type: number

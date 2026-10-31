@@ -1,0 +1,8 @@
+---
+name: C_TooltipInfo.GetCompanionPet
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: data
+  type: unknown

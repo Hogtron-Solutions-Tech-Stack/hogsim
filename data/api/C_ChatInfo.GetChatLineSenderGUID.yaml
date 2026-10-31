@@ -1,0 +1,8 @@
+---
+name: C_ChatInfo.GetChatLineSenderGUID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: guid
+  type: string

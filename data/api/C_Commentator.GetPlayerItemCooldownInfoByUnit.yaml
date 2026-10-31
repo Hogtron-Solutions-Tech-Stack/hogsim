@@ -1,0 +1,13 @@
+---
+name: C_Commentator.GetPlayerItemCooldownInfoByUnit
+status: unimplemented
+inputs:
+- - type: unit
+  - type: number
+outputs:
+- name: startTime
+  type: number
+- name: duration
+  type: number
+- name: enable
+  type: boolean

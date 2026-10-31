@@ -1,0 +1,6 @@
+---
+name: C_CatalogShop.OpenCatalogShopInteractionFromShop
+status: unimplemented
+outputs:
+- name: shoppingSessionUUIDStr
+  type: string

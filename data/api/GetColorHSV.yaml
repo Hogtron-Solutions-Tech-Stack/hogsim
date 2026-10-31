@@ -1,0 +1,10 @@
+---
+name: GetColorHSV
+status: unimplemented
+outputs:
+- name: hsvX
+  type: number
+- name: hsvY
+  type: number
+- name: hsvZ
+  type: number

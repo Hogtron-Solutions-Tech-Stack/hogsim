@@ -1,0 +1,6 @@
+---
+name: GetScaleAnimationMode
+status: unimplemented
+outputs:
+- name: scaleAnimationMode
+  type: number

@@ -1,0 +1,5 @@
+---
+name: SetRoundLayoutToNearestPixel
+status: unimplemented
+inputs:
+- - type: boolean

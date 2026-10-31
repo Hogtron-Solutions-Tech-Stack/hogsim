@@ -1,0 +1,7 @@
+---
+name: C_TransmogOutfitInfo.GetUISituationCategoriesAndOptions
+status: unimplemented
+outputs:
+- innerType: TransmogSituationCategory
+  name: categoryData
+  type: table

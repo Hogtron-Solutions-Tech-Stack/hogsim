@@ -1,0 +1,6 @@
+---
+name: GetDoBlend
+status: unimplemented
+outputs:
+- name: doBlend
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: SetPropagateMouseMotion
+status: unimplemented
+inputs:
+- - type: boolean

@@ -1,0 +1,11 @@
+---
+name: SetAnimation
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: number
+  - default: 1
+    type: number
+  - default: 0
+    type: number

@@ -1,0 +1,8 @@
+---
+name: FormatNumber
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: formatted
+  type: string

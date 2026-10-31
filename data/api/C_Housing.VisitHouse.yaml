@@ -1,0 +1,7 @@
+---
+name: C_Housing.VisitHouse
+status: unimplemented
+inputs:
+- - type: string
+  - type: string
+  - type: number

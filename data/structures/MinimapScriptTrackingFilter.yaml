@@ -1,0 +1,9 @@
+---
+name: MinimapScriptTrackingFilter
+fields:
+- name: spellID
+  nilable: true
+  type: number
+- name: filterID
+  nilable: true
+  type: number

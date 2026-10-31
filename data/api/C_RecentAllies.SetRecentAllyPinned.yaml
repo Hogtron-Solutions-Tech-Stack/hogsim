@@ -1,0 +1,6 @@
+---
+name: C_RecentAllies.SetRecentAllyPinned
+status: unimplemented
+inputs:
+- - type: string
+  - type: boolean

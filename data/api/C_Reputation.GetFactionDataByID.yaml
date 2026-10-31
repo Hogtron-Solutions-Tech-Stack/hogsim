@@ -1,0 +1,9 @@
+---
+name: C_Reputation.GetFactionDataByID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: factionData
+  nilable: true
+  type: FactionData

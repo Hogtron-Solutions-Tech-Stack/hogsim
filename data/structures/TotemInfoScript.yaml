@@ -1,0 +1,17 @@
+---
+name: TotemInfoScript
+fields:
+- name: haveTotem
+  type: boolean
+- name: totemName
+  type: string
+- name: startTime
+  type: number
+- name: duration
+  type: number
+- name: icon
+  type: number
+- name: modRate
+  type: number
+- name: spellID
+  type: number

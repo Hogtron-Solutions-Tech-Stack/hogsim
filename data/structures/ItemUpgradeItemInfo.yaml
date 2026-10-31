@@ -1,0 +1,30 @@
+---
+name: ItemUpgradeItemInfo
+fields:
+- name: iconID
+  type: number
+- name: name
+  type: string
+- name: itemUpgradeable
+  type: boolean
+- name: displayQuality
+  type: number
+- name: highWatermarkSlot
+  type: number
+- name: currUpgrade
+  type: number
+- name: maxUpgrade
+  type: number
+- name: minItemLevel
+  type: number
+- name: maxItemLevel
+  type: number
+- innerType: ItemUpgradeLevelInfo
+  name: upgradeLevelInfos
+  type: table
+- name: customUpgradeString
+  nilable: true
+  type: string
+- innerType: ItemUpgradeSeasonalCostType
+  name: upgradeCostTypesForSeason
+  type: table

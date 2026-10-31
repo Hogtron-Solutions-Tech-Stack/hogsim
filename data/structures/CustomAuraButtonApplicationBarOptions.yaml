@@ -1,0 +1,10 @@
+---
+name: CustomAuraButtonApplicationBarOptions
+fields:
+- name: maxApplications
+  type: number
+- name: minApplications
+  type: number
+- name: interpolation
+  nilable: true
+  type: number

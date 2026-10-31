@@ -1,0 +1,7 @@
+---
+name: SoulbindModelSceneData
+fields:
+- name: creatureDisplayInfoID
+  type: number
+- name: modelSceneActorID
+  type: number

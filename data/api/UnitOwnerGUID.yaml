@@ -1,0 +1,8 @@
+---
+name: UnitOwnerGUID
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: ownerGUID
+  type: string

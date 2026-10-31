@@ -1,0 +1,5 @@
+---
+name: C_CooldownViewer.SetLayoutData
+status: unimplemented
+inputs:
+- - type: string

@@ -1,0 +1,10 @@
+---
+name: C_ItemUpgrade.GetHighWatermarkForSlot
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: characterHighWatermark
+  type: number
+- name: accountHighWatermark
+  type: number

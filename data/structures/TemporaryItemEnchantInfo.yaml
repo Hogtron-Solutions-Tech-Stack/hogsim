@@ -1,0 +1,11 @@
+---
+name: TemporaryItemEnchantInfo
+fields:
+- name: enchantID
+  type: number
+- name: remainingTimeMs
+  type: number
+- name: chargesRemaining
+  type: number
+- name: hasExpirationTime
+  type: boolean

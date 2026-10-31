@@ -1,0 +1,6 @@
+---
+name: C_SpellBook.GetNumSpellBookSkillLines
+status: unimplemented
+outputs:
+- name: numSpellBookSkillLines
+  type: number

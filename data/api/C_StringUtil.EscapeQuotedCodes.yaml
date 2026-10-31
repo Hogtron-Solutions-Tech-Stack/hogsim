@@ -1,0 +1,8 @@
+---
+name: C_StringUtil.EscapeQuotedCodes
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: escaped
+  type: string

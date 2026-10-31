@@ -1,0 +1,6 @@
+---
+name: C_Container.CalculateTotalNumberOfFreeBagSlots
+status: unimplemented
+outputs:
+- name: totalFreeSlots
+  type: number

@@ -1,0 +1,11 @@
+---
+name: C_SpellBook.GetSpellBookItemAutoCast
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: autoCastAllowed
+  type: boolean
+- name: autoCastEnabled
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetDisplayInfo
+status: unimplemented
+outputs:
+- name: displayID
+  type: number

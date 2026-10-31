@@ -1,0 +1,6 @@
+---
+name: C_Commentator.SetRequestedItemCooldowns
+status: unimplemented
+inputs:
+- - innerType: number
+    type: table

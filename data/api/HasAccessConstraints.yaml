@@ -1,0 +1,6 @@
+---
+name: HasAccessConstraints
+status: unimplemented
+outputs:
+- name: hasAccessConstraints
+  type: boolean

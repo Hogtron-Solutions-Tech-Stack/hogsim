@@ -1,0 +1,6 @@
+---
+name: IsBetaBuild
+status: unimplemented
+outputs:
+- name: isBetaBuild
+  type: boolean

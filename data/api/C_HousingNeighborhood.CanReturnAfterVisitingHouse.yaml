@@ -1,0 +1,6 @@
+---
+name: C_HousingNeighborhood.CanReturnAfterVisitingHouse
+status: unimplemented
+outputs:
+- name: canReturn
+  type: boolean

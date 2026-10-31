@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.IsSpellBookItemLooseFlyoutMember
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: isFlyoutMember
+  type: boolean

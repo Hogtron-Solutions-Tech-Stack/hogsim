@@ -1,0 +1,25 @@
+---
+name: CraftingOrderRequestInfo
+fields:
+- name: orderType
+  type: number
+- name: selectedSkillLineAbility
+  nilable: true
+  type: number
+- name: searchFavorites
+  type: boolean
+- name: initialNonPublicSearch
+  type: boolean
+- name: primarySort
+  type: CraftingOrderSortInfo
+- name: secondarySort
+  type: CraftingOrderSortInfo
+- name: forCrafter
+  type: boolean
+- name: offset
+  type: number
+- name: callback
+  type: unknown
+- name: profession
+  nilable: true
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_ColorOverrides.GetDefaultColorForQuality
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: color
+  type: unknown

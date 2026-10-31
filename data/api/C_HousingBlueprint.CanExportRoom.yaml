@@ -1,0 +1,8 @@
+---
+name: C_HousingBlueprint.CanExportRoom
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: canExport
+  type: boolean

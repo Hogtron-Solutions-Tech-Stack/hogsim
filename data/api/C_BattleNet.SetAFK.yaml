@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.SetAFK
+status: unimplemented
+inputs:
+- - default: true
+    type: boolean

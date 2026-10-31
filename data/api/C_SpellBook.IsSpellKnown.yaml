@@ -1,0 +1,10 @@
+---
+name: C_SpellBook.IsSpellKnown
+status: unimplemented
+inputs:
+- - type: number
+  - default: Player
+    type: number
+outputs:
+- name: isKnown
+  type: boolean

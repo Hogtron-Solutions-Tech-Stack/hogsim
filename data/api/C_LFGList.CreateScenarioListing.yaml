@@ -1,0 +1,12 @@
+---
+name: C_LFGList.CreateScenarioListing
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: boolean
+  - type: boolean
+  - type: number
+outputs:
+- name: canCreate
+  type: boolean

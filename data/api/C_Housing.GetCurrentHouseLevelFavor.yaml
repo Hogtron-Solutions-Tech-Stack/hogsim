@@ -1,0 +1,5 @@
+---
+name: C_Housing.GetCurrentHouseLevelFavor
+status: unimplemented
+inputs:
+- - type: string

@@ -1,0 +1,5 @@
+---
+name: GetUpperEmblemTexture
+status: unimplemented
+inputs:
+- - type: unknown

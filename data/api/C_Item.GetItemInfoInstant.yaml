@@ -1,0 +1,20 @@
+---
+name: C_Item.GetItemInfoInstant
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: itemID
+  type: number
+- name: itemType
+  type: string
+- name: itemSubType
+  type: string
+- name: itemEquipLoc
+  type: string
+- name: icon
+  type: number
+- name: classID
+  type: number
+- name: subClassID
+  type: number

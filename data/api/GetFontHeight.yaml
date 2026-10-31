@@ -1,0 +1,6 @@
+---
+name: GetFontHeight
+status: unimplemented
+outputs:
+- name: height
+  type: number

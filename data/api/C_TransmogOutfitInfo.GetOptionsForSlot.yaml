@@ -1,0 +1,13 @@
+---
+name: C_TransmogOutfitInfo.GetOptionsForSlot
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: TransmogOutfitOptionInfo
+  name: options
+  type: table
+- innerType: TransmogOutfitOptionInfo
+  name: artifactOptions
+  nilable: true
+  type: table

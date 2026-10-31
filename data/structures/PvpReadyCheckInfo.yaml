@@ -1,0 +1,12 @@
+---
+name: PvpReadyCheckInfo
+fields:
+- innerType: PvpRoleQueueInfo
+  name: roles
+  type: table
+- name: numPlayersAccepted
+  type: number
+- name: numPlayersDeclined
+  type: number
+- name: totalNumPlayers
+  type: number

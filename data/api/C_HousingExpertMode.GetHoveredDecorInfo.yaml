@@ -1,0 +1,7 @@
+---
+name: C_HousingExpertMode.GetHoveredDecorInfo
+status: unimplemented
+outputs:
+- name: info
+  nilable: true
+  type: HousingDecorInstanceInfo

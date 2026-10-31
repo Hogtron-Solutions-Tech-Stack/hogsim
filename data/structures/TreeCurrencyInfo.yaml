@@ -1,0 +1,15 @@
+---
+name: TreeCurrencyInfo
+fields:
+- name: traitCurrencyID
+  type: number
+- name: quantity
+  type: number
+- name: maxQuantity
+  nilable: true
+  type: number
+- name: spent
+  type: number
+- name: spentInTree
+  nilable: true
+  type: number

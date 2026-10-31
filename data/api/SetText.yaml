@@ -1,0 +1,5 @@
+---
+name: SetText
+status: unimplemented
+inputs:
+- - type: string

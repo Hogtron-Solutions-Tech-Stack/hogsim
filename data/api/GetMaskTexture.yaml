@@ -1,0 +1,8 @@
+---
+name: GetMaskTexture
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: mask
+  type: unknown

@@ -1,0 +1,6 @@
+---
+name: IsValidForSelectedFloorplan
+status: unimplemented
+outputs:
+- name: isValid
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetCurrentCinematicSummary
+status: unimplemented
+outputs:
+- name: summary
+  type: string

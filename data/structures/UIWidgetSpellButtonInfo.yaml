@@ -1,0 +1,13 @@
+---
+name: UIWidgetSpellButtonInfo
+fields:
+- name: spellID
+  type: number
+- name: tooltip
+  type: string
+- name: icon
+  type: number
+- name: enabledState
+  type: number
+- name: cooldownType
+  type: number

@@ -1,0 +1,6 @@
+---
+name: IsForbidden
+status: unimplemented
+outputs:
+- name: isForbidden
+  type: boolean

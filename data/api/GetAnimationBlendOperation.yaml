@@ -1,0 +1,6 @@
+---
+name: GetAnimationBlendOperation
+status: unimplemented
+outputs:
+- name: blendOp
+  type: number

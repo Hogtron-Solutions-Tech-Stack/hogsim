@@ -1,0 +1,8 @@
+---
+name: AutoCombatResult
+fields:
+- name: winner
+  type: boolean
+- innerType: AutoMissionRound
+  name: combatLog
+  type: table

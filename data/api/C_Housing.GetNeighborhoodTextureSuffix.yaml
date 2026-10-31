@@ -1,0 +1,8 @@
+---
+name: C_Housing.GetNeighborhoodTextureSuffix
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: neighborhoodTextureSuffix
+  type: string

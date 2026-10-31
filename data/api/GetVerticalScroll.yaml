@@ -1,0 +1,6 @@
+---
+name: GetVerticalScroll
+status: unimplemented
+outputs:
+- name: offset
+  type: number

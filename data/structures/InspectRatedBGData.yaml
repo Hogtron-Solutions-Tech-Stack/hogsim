@@ -1,0 +1,9 @@
+---
+name: InspectRatedBGData
+fields:
+- name: rating
+  type: number
+- name: played
+  type: number
+- name: won
+  type: number

@@ -1,0 +1,5 @@
+---
+name: C_PartyInfo.SetRestrictPings
+status: unimplemented
+inputs:
+- - type: number

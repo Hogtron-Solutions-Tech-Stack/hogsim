@@ -1,0 +1,10 @@
+---
+name: RegisterUnitEventCallback
+status: unimplemented
+inputs:
+- - type: string
+  - type: unknown
+  - type: number
+outputs:
+- name: registered
+  type: boolean

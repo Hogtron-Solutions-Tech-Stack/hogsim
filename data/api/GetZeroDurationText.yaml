@@ -1,0 +1,7 @@
+---
+name: GetZeroDurationText
+status: unimplemented
+outputs:
+- name: text
+  nilable: true
+  type: string

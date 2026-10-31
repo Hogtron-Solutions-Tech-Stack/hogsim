@@ -1,0 +1,19 @@
+---
+name: C_PvP.GetRatedSoloRBGRewards
+status: unimplemented
+outputs:
+- name: honor
+  type: number
+- name: experience
+  type: number
+- innerType: BattlefieldItemReward
+  name: itemRewards
+  nilable: true
+  type: table
+- innerType: BattlefieldCurrencyReward
+  name: currencyRewards
+  nilable: true
+  type: table
+- name: roleShortageBonus
+  nilable: true
+  type: RoleShortageReward

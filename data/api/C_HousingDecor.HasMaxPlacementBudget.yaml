@@ -1,0 +1,6 @@
+---
+name: C_HousingDecor.HasMaxPlacementBudget
+status: unimplemented
+outputs:
+- name: hasMaxBudget
+  type: boolean

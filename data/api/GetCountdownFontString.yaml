@@ -1,0 +1,6 @@
+---
+name: GetCountdownFontString
+status: unimplemented
+outputs:
+- name: countdownString
+  type: unknown

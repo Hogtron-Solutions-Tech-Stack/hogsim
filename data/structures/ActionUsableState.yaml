@@ -1,0 +1,9 @@
+---
+name: ActionUsableState
+fields:
+- name: slot
+  type: number
+- name: usable
+  type: boolean
+- name: noMana
+  type: boolean

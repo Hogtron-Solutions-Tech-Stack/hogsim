@@ -1,0 +1,6 @@
+---
+name: C_CVar.AreCVarsLoaded
+status: unimplemented
+outputs:
+- name: loaded
+  type: boolean

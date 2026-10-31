@@ -1,0 +1,8 @@
+---
+name: AuctionHouseFilterGroup
+fields:
+- name: category
+  type: number
+- innerType: number
+  name: filters
+  type: table

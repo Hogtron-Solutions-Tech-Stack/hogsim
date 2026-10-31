@@ -1,0 +1,6 @@
+---
+name: C_Flyout.GetNumFlyouts
+status: unimplemented
+outputs:
+- name: numFlyouts
+  type: number

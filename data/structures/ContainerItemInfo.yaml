@@ -1,0 +1,28 @@
+---
+name: ContainerItemInfo
+fields:
+- name: iconFileID
+  type: number
+- name: stackCount
+  type: number
+- name: isLocked
+  type: boolean
+- name: quality
+  nilable: true
+  type: number
+- name: isReadable
+  type: boolean
+- name: hasLoot
+  type: boolean
+- name: hyperlink
+  type: string
+- name: isFiltered
+  type: boolean
+- name: hasNoValue
+  type: boolean
+- name: itemID
+  type: number
+- name: isBound
+  type: boolean
+- name: itemName
+  type: string

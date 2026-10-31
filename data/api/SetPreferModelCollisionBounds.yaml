@@ -1,0 +1,5 @@
+---
+name: SetPreferModelCollisionBounds
+status: unimplemented
+inputs:
+- - type: boolean

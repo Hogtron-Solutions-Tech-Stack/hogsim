@@ -1,0 +1,15 @@
+---
+name: PerksProgramItemDisplayInfo
+fields:
+- name: overrideModelSceneID
+  nilable: true
+  type: number
+- name: creatureDisplayInfoID
+  nilable: true
+  type: number
+- name: mainHandItemModifiedAppearanceID
+  nilable: true
+  type: number
+- name: offHandItemModifiedAppearanceID
+  nilable: true
+  type: number

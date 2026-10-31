@@ -1,0 +1,14 @@
+---
+name: C_AddOns.IsAddOnLoadable
+status: unimplemented
+inputs:
+- - type: string
+  - default: '0'
+    type: string
+  - default: false
+    type: boolean
+outputs:
+- name: loadable
+  type: boolean
+- name: reason
+  type: string

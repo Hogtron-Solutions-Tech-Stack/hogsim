@@ -1,0 +1,6 @@
+---
+name: C_HousingNeighborhood.GetCornerstoneNeighborhoodInfo
+status: unimplemented
+outputs:
+- name: neighborhoodInfo
+  type: NeighborhoodInfo

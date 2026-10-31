@@ -1,0 +1,6 @@
+---
+name: C_Housing.GetMaxHouseLevel
+status: unimplemented
+outputs:
+- name: level
+  type: number

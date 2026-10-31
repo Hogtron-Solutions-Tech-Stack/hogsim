@@ -1,0 +1,7 @@
+---
+name: NameOverrideEntry
+fields:
+- name: originalName
+  type: string
+- name: overrideName
+  type: string

@@ -7,5 +7,11 @@ methods:
     status: unimplemented
   GetAlpha:
     status: unimplemented
+  GetFontHeight:
+    status: unimplemented
+  GetFontObjectForAlphabet:
+    status: unimplemented
   SetAlpha:
+    status: unimplemented
+  SetFontHeight:
     status: unimplemented

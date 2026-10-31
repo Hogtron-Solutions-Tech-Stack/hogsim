@@ -1,0 +1,6 @@
+---
+name: IsMultiLine
+status: unimplemented
+outputs:
+- name: multiline
+  type: boolean

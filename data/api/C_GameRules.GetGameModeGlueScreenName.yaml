@@ -1,0 +1,6 @@
+---
+name: C_GameRules.GetGameModeGlueScreenName
+status: unimplemented
+outputs:
+- name: screenName
+  type: string

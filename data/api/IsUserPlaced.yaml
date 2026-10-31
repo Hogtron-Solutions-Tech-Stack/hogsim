@@ -1,0 +1,6 @@
+---
+name: IsUserPlaced
+status: unimplemented
+outputs:
+- name: isUserPlaced
+  type: boolean

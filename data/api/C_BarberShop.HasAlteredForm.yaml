@@ -1,0 +1,6 @@
+---
+name: C_BarberShop.HasAlteredForm
+status: unimplemented
+outputs:
+- name: hasAlteredForm
+  type: boolean

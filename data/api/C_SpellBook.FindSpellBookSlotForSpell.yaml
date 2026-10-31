@@ -1,0 +1,18 @@
+---
+name: C_SpellBook.FindSpellBookSlotForSpell
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: false
+    type: boolean
+  - default: true
+    type: boolean
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean
+outputs:
+- name: spellBookItemSlotIndex
+  type: number
+- name: spellBookItemSpellBank
+  type: number

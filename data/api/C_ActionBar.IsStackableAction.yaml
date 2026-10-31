@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.IsStackableAction
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isStackableAction
+  type: boolean

@@ -1,0 +1,37 @@
+---
+name: AccountStoreItemInfo
+fields:
+- name: id
+  type: number
+- name: status
+  type: unknown
+- name: mode
+  type: unknown
+- name: currencyID
+  type: number
+- name: flags
+  type: unknown
+- name: customUIModelSceneID
+  nilable: true
+  type: number
+- name: name
+  type: string
+- name: description
+  nilable: true
+  type: string
+- name: price
+  type: number
+- name: nonrefundable
+  type: boolean
+- name: creatureDisplayID
+  nilable: true
+  type: number
+- name: transmogSetID
+  nilable: true
+  type: number
+- name: displayIcon
+  nilable: true
+  type: number
+- name: refundSecondsRemaining
+  nilable: true
+  type: number

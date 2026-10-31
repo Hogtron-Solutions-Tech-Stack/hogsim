@@ -1,0 +1,7 @@
+---
+name: SpecPerkInfo
+fields:
+- name: perkID
+  type: number
+- name: isMajorPerk
+  type: boolean

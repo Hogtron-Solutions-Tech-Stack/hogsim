@@ -1,0 +1,33 @@
+---
+name: ClubInfo
+fields:
+- name: clubId
+  type: number
+- name: name
+  type: string
+- name: shortName
+  nilable: true
+  type: string
+- name: description
+  type: string
+- name: broadcast
+  type: string
+- name: clubType
+  type: number
+- name: avatarId
+  type: number
+- name: memberCount
+  nilable: true
+  type: number
+- name: favoriteTimeStamp
+  nilable: true
+  type: number
+- name: joinTime
+  nilable: true
+  type: number
+- name: socialQueueingEnabled
+  nilable: true
+  type: boolean
+- name: crossFaction
+  nilable: true
+  type: boolean

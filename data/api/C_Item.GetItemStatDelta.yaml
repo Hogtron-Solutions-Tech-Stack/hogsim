@@ -1,0 +1,9 @@
+---
+name: C_Item.GetItemStatDelta
+status: unimplemented
+inputs:
+- - type: string
+  - type: string
+outputs:
+- name: statTable
+  type: unknown

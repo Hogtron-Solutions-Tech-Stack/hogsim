@@ -1,0 +1,7 @@
+---
+name: C_HousingDecor.GetMaxPetPlacementBudget
+status: unimplemented
+outputs:
+- name: maxBudget
+  nilable: true
+  type: number

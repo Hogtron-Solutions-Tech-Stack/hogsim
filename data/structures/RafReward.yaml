@@ -1,0 +1,47 @@
+---
+name: RafReward
+fields:
+- name: rewardID
+  type: number
+- name: rafVersion
+  type: number
+- name: itemID
+  type: number
+- name: rewardType
+  type: number
+- name: petInfo
+  nilable: true
+  type: RafPetInfo
+- name: mountInfo
+  nilable: true
+  type: RafMountInfo
+- name: appearanceInfo
+  nilable: true
+  type: RafAppearanceInfo
+- name: titleInfo
+  nilable: true
+  type: RafTitleInfo
+- name: appearanceSetInfo
+  nilable: true
+  type: RafAppearanceSetInfo
+- name: illusionInfo
+  nilable: true
+  type: RafIllusionInfo
+- name: canClaim
+  type: boolean
+- name: claimed
+  type: boolean
+- name: canAfford
+  type: boolean
+- name: repeatable
+  type: boolean
+- name: repeatableClaimCount
+  type: number
+- name: monthsRequired
+  type: number
+- name: monthCost
+  type: number
+- name: availableInMonths
+  type: number
+- name: iconID
+  type: number

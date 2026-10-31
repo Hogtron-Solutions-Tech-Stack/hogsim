@@ -1,0 +1,8 @@
+---
+name: C_WorldLootObject.IsWorldLootObjectInRange
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: isWorldLootObjectInRange
+  type: boolean

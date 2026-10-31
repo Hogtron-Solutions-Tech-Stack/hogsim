@@ -1,0 +1,7 @@
+---
+name: C_FriendList.GetWhoRaceFilters
+status: unimplemented
+outputs:
+- innerType: WhoFilter
+  name: filters
+  type: table

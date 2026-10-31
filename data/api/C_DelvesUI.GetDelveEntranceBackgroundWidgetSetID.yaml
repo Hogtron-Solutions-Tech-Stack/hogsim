@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.GetDelveEntranceBackgroundWidgetSetID
+status: unimplemented
+outputs:
+- name: backgroundWidgetSetID
+  type: number

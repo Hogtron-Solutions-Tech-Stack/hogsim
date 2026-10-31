@@ -1,0 +1,6 @@
+---
+name: SetSearchText
+status: unimplemented
+inputs:
+- - nilable: true
+    type: string

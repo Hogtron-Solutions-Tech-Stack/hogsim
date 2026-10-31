@@ -1,0 +1,6 @@
+---
+name: GetWorldScale
+status: unimplemented
+outputs:
+- name: worldScale
+  type: number

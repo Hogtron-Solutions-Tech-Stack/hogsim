@@ -1,0 +1,7 @@
+---
+name: GetFilteredSubcategoryID
+status: unimplemented
+outputs:
+- name: subcategoryID
+  nilable: true
+  type: number

@@ -1,0 +1,6 @@
+---
+name: C_VoiceChat.GetActiveVoiceProviderID
+status: unimplemented
+outputs:
+- name: activeVoiceProviderID
+  type: number

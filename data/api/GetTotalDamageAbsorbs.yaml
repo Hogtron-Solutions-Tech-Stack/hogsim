@@ -1,0 +1,6 @@
+---
+name: GetTotalDamageAbsorbs
+status: unimplemented
+outputs:
+- name: totalDamageAbsorbs
+  type: number

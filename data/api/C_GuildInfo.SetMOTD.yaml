@@ -1,0 +1,5 @@
+---
+name: C_GuildInfo.SetMOTD
+status: unimplemented
+inputs:
+- - type: string

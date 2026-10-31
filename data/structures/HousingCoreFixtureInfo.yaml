@@ -1,0 +1,13 @@
+---
+name: HousingCoreFixtureInfo
+fields:
+- name: selectedVariantFixtureID
+  type: number
+- name: selectedStyleFixtureID
+  type: number
+- innerType: HousingFixtureOption
+  name: currentStyleVariantOptions
+  type: table
+- innerType: HousingFixtureOption
+  name: styleOptions
+  type: table

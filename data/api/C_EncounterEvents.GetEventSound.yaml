@@ -1,0 +1,9 @@
+---
+name: C_EncounterEvents.GetEventSound
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: sound
+  type: EncounterEventSoundInfo

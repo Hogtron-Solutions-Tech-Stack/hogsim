@@ -1,0 +1,15 @@
+---
+name: VoiceChatMember
+fields:
+- name: energy
+  type: number
+- name: memberID
+  type: number
+- name: isActive
+  type: boolean
+- name: isSpeaking
+  type: boolean
+- name: isMutedForAll
+  type: boolean
+- name: isSilenced
+  type: boolean

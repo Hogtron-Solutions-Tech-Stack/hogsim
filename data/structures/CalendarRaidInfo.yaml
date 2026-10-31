@@ -1,0 +1,16 @@
+---
+name: CalendarRaidInfo
+fields:
+- name: name
+  type: string
+- name: calendarType
+  type: string
+- name: raidID
+  type: number
+- name: time
+  type: CalendarTime
+- name: difficulty
+  type: number
+- name: difficultyName
+  nilable: true
+  type: string

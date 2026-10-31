@@ -1,0 +1,8 @@
+---
+name: C_AccountStore.BeginPurchase
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: purchaseStarted
+  type: boolean

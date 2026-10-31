@@ -1,0 +1,46 @@
+---
+name: RecruitingClubInfo
+fields:
+- name: clubFinderGUID
+  type: string
+- name: numActiveMembers
+  type: number
+- name: name
+  type: string
+- name: comment
+  type: string
+- name: guildLeader
+  type: string
+- name: isGuild
+  type: boolean
+- name: emblemInfo
+  type: number
+- name: tabardInfo
+  nilable: true
+  type: GuildTabardInfo
+- innerType: number
+  name: recruitingSpecIds
+  type: table
+- name: recruitmentFlags
+  type: number
+- name: localeSet
+  type: boolean
+- name: recruitmentLocale
+  type: number
+- name: minILvl
+  type: number
+- name: cached
+  type: number
+- name: cacheRequested
+  type: number
+- name: lastPosterGUID
+  type: string
+- name: clubId
+  type: number
+- name: lastUpdatedTime
+  type: number
+- name: isCrossFaction
+  type: boolean
+- name: realmName
+  nilable: true
+  type: string

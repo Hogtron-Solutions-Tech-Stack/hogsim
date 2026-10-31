@@ -1,0 +1,7 @@
+---
+name: GossipOptionUIWidgetSetAndType
+fields:
+- name: widgetType
+  type: number
+- name: uiWidgetSetID
+  type: number

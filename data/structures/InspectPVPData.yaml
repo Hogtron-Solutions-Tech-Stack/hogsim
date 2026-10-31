@@ -1,0 +1,13 @@
+---
+name: InspectPVPData
+fields:
+- name: rating
+  type: number
+- name: gamesWon
+  type: number
+- name: gamesPlayed
+  type: number
+- name: roundsWon
+  type: number
+- name: roundsPlayed
+  type: number

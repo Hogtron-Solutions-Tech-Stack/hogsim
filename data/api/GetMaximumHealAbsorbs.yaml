@@ -1,0 +1,6 @@
+---
+name: GetMaximumHealAbsorbs
+status: unimplemented
+outputs:
+- name: maximumHealAbsorbs
+  type: number

@@ -1,0 +1,5 @@
+---
+name: SetPropagateKeyboardInput
+status: unimplemented
+inputs:
+- - type: boolean

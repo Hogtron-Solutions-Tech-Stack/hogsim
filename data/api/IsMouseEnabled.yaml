@@ -1,0 +1,6 @@
+---
+name: IsMouseEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

@@ -1,0 +1,8 @@
+---
+name: C_TooltipInfo.GetLootItem
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: data
+  type: unknown

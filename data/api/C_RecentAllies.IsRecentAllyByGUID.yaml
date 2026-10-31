@@ -1,0 +1,8 @@
+---
+name: C_RecentAllies.IsRecentAllyByGUID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isRecentAlly
+  type: boolean

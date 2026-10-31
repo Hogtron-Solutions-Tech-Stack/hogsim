@@ -1,0 +1,8 @@
+---
+name: C_Club.AreMembersReady
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: membersReady
+  type: boolean

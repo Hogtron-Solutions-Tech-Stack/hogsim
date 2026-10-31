@@ -1,0 +1,9 @@
+---
+name: C_Item.GetItemLearnTransmogSet
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: setID
+  nilable: true
+  type: number

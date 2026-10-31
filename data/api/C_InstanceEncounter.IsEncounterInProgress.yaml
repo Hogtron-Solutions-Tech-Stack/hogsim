@@ -1,0 +1,6 @@
+---
+name: C_InstanceEncounter.IsEncounterInProgress
+status: unimplemented
+outputs:
+- name: isInProgress
+  type: boolean

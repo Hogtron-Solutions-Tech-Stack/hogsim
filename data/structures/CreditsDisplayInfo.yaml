@@ -1,0 +1,18 @@
+---
+name: CreditsDisplayInfo
+fields:
+- name: isDefault
+  type: boolean
+- name: creditsFileID
+  type: number
+- name: keyArt
+  type: string
+- name: background
+  type: string
+- name: name
+  type: string
+- name: logo
+  type: number
+- name: soundKit
+  nilable: true
+  type: number

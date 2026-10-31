@@ -1,0 +1,6 @@
+---
+name: GetCameraDistance
+status: unimplemented
+outputs:
+- name: distance
+  type: number

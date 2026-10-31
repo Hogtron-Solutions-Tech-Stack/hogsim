@@ -1,0 +1,9 @@
+---
+name: ItemUpgradeStat
+fields:
+- name: displayString
+  type: string
+- name: statValue
+  type: number
+- name: active
+  type: boolean

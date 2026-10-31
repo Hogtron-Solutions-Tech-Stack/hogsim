@@ -1,0 +1,13 @@
+---
+name: C_SpecializationInfo.GetSpecialization
+status: unimplemented
+inputs:
+- - nilable: true
+    type: boolean
+  - nilable: true
+    type: boolean
+  - nilable: true
+    type: number
+outputs:
+- name: specializationIndex
+  type: number

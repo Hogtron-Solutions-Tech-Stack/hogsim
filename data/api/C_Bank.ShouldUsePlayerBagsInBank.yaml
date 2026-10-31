@@ -1,0 +1,6 @@
+---
+name: C_Bank.ShouldUsePlayerBagsInBank
+status: unimplemented
+outputs:
+- name: shouldUsePlayerBagsInBank
+  type: boolean

@@ -1,0 +1,14 @@
+---
+name: C_TooltipInfo.GetItemByID
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+outputs:
+- name: data
+  type: unknown

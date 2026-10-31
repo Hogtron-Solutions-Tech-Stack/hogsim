@@ -1,0 +1,6 @@
+---
+name: IsLoaded
+status: unimplemented
+outputs:
+- name: isLoaded
+  type: boolean

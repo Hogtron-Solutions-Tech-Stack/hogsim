@@ -1,0 +1,6 @@
+---
+name: C_VideoOptions.IsLinearEnabledOnStart
+status: unimplemented
+outputs:
+- name: isEnabled
+  type: boolean

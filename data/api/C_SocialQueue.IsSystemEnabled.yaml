@@ -1,0 +1,6 @@
+---
+name: C_SocialQueue.IsSystemEnabled
+status: unimplemented
+outputs:
+- name: isSystemEnabled
+  type: boolean

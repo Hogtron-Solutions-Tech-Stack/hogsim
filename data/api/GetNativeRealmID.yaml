@@ -1,0 +1,6 @@
+---
+name: GetNativeRealmID
+status: unimplemented
+outputs:
+- name: nativeRealmID
+  type: number

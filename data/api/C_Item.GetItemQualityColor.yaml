@@ -1,0 +1,14 @@
+---
+name: C_Item.GetItemQualityColor
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: colorRGBR
+  type: number
+- name: colorRGBG
+  type: number
+- name: colorRGBB
+  type: number
+- name: qualityString
+  type: string

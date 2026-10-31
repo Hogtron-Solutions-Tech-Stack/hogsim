@@ -1,0 +1,6 @@
+---
+name: C_TradeSkillUI.GetRemainingRecasts
+status: unimplemented
+outputs:
+- name: remaining
+  type: number

@@ -1,0 +1,6 @@
+---
+name: C_CatalogShop.HasNewProducts
+status: unimplemented
+outputs:
+- name: hasNewProducts
+  type: boolean

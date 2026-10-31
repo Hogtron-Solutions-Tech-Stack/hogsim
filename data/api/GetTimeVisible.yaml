@@ -1,0 +1,6 @@
+---
+name: GetTimeVisible
+status: unimplemented
+outputs:
+- name: timeVisibleSeconds
+  type: number

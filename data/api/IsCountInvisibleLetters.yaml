@@ -1,0 +1,6 @@
+---
+name: IsCountInvisibleLetters
+status: unimplemented
+outputs:
+- name: countInvisibleLetters
+  type: boolean

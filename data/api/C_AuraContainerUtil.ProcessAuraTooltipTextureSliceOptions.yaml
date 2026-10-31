@@ -1,0 +1,8 @@
+---
+name: C_AuraContainerUtil.ProcessAuraTooltipTextureSliceOptions
+status: unimplemented
+inputs:
+- - type: AuraContainerTooltipTextureSliceOptions
+outputs:
+- name: result
+  type: AuraContainerTooltipTextureSliceOptions

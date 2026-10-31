@@ -1,0 +1,12 @@
+---
+name: table.getcountinfo
+status: unimplemented
+inputs:
+- - type: table
+outputs:
+- name: numEntries
+  type: number
+- name: numPositiveIntegerKeys
+  type: number
+- name: maxPositiveIntegerKey
+  type: number

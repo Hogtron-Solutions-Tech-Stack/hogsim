@@ -1,0 +1,6 @@
+---
+name: GetIncomingHealOverflowPercent
+status: unimplemented
+outputs:
+- name: incomingHealOverflowPercent
+  type: number

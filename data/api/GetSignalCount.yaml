@@ -1,0 +1,6 @@
+---
+name: GetSignalCount
+status: unimplemented
+outputs:
+- name: count
+  type: number

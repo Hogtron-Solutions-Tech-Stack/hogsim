@@ -1,0 +1,6 @@
+---
+name: C_Commentator.SetBlocklistedItemCooldowns
+status: unimplemented
+inputs:
+- - innerType: number
+    type: table

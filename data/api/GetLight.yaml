@@ -1,0 +1,8 @@
+---
+name: GetLight
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean
+- name: light
+  type: ModelLight

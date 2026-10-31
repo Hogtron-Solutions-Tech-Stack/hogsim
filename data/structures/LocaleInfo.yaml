@@ -1,0 +1,7 @@
+---
+name: LocaleInfo
+fields:
+- name: localeId
+  type: number
+- name: localeName
+  type: string

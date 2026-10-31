@@ -1,0 +1,6 @@
+---
+name: IsUsingGamepad
+status: unimplemented
+outputs:
+- name: down
+  type: boolean

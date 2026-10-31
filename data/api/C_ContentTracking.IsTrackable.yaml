@@ -1,0 +1,9 @@
+---
+name: C_ContentTracking.IsTrackable
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: isTrackable
+  type: boolean

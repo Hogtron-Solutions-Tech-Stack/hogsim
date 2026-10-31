@@ -1,0 +1,10 @@
+---
+name: C_VignetteInfo.GetRecommendedGroupSize
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: minGroupSize
+  type: number
+- name: maxGroupSize
+  type: number

@@ -1,0 +1,5 @@
+---
+name: C_GuildInfo.SetLeader
+status: unimplemented
+inputs:
+- - type: string

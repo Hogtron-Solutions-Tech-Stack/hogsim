@@ -1,0 +1,13 @@
+---
+name: CreateAnimation
+status: unimplemented
+inputs:
+- - nilable: true
+    type: string
+  - nilable: true
+    type: string
+  - nilable: true
+    type: string
+outputs:
+- name: anim
+  type: unknown

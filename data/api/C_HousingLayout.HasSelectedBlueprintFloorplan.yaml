@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.HasSelectedBlueprintFloorplan
+status: unimplemented
+outputs:
+- name: hasSelectedBlueprintFloorplan
+  type: boolean

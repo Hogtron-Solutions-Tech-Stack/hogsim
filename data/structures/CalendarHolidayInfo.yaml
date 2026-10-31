@@ -1,0 +1,15 @@
+---
+name: CalendarHolidayInfo
+fields:
+- name: name
+  type: string
+- name: description
+  type: string
+- name: texture
+  type: number
+- name: startTime
+  nilable: true
+  type: CalendarTime
+- name: endTime
+  nilable: true
+  type: CalendarTime

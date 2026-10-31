@@ -1,0 +1,15 @@
+---
+name: CatalogShopCategoryInfo
+fields:
+- name: ID
+  type: number
+- name: displayName
+  type: string
+- name: iconTexture
+  type: string
+- name: linkTag
+  type: string
+- name: isDisabled
+  type: boolean
+- name: showPersistentRefundButton
+  type: boolean

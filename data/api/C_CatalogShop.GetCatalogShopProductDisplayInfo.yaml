@@ -1,0 +1,8 @@
+---
+name: C_CatalogShop.GetCatalogShopProductDisplayInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: item
+  type: CatalogShopProductDisplayInfo

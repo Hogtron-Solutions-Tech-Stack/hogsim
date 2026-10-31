@@ -1,0 +1,9 @@
+---
+name: C_MountJournal.GetAllCreatureDisplayIDsForMountID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: creatureDisplayIDs
+  type: table

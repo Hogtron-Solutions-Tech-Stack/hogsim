@@ -1,0 +1,11 @@
+---
+name: C_ActionBar.IsActionInRange
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: unit
+outputs:
+- name: isInRange
+  nilable: true
+  type: boolean

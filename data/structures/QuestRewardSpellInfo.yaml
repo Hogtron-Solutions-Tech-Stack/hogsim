@@ -1,0 +1,22 @@
+---
+name: QuestRewardSpellInfo
+fields:
+- name: texture
+  type: number
+- name: name
+  type: string
+- name: garrFollowerID
+  nilable: true
+  type: number
+- name: isTradeskill
+  type: boolean
+- name: isSpellLearned
+  type: boolean
+- name: hideSpellLearnText
+  type: boolean
+- name: isBoostSpell
+  type: boolean
+- name: genericUnlock
+  type: boolean
+- name: type
+  type: number

@@ -1,0 +1,7 @@
+---
+name: C_TransmogSets.GetAvailableSets
+status: unimplemented
+outputs:
+- innerType: TransmogSetInfo
+  name: sets
+  type: table

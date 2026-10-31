@@ -1,0 +1,10 @@
+---
+name: C_Traits.CanEditConfig
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: canEdit
+  type: boolean
+- name: errorMessage
+  type: string

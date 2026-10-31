@@ -1,0 +1,6 @@
+---
+name: GetNumChildren
+status: unimplemented
+outputs:
+- name: numChildren
+  type: number

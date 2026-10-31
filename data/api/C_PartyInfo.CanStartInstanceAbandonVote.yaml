@@ -1,0 +1,6 @@
+---
+name: C_PartyInfo.CanStartInstanceAbandonVote
+status: unimplemented
+outputs:
+- name: canStart
+  type: boolean

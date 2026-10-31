@@ -1,0 +1,5 @@
+---
+name: C_ActionBar.UnregisterActionUIButton
+status: unimplemented
+inputs:
+- - type: unknown

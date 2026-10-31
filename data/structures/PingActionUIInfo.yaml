@@ -1,0 +1,14 @@
+---
+name: PingActionUIInfo
+fields:
+- name: spellID
+  type: number
+- name: itemID
+  type: number
+- name: textureFileDataID
+  type: number
+- name: cooldownInfo
+  nilable: true
+  type: PingActionCooldownUIInfo
+- name: spellCategoryID
+  type: number

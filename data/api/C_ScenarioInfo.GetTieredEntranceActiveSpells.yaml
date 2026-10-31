@@ -1,0 +1,8 @@
+---
+name: C_ScenarioInfo.GetTieredEntranceActiveSpells
+status: unimplemented
+outputs:
+- innerType: number
+  name: spellIDs
+  nilable: true
+  type: table

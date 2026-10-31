@@ -1,0 +1,9 @@
+---
+name: C_BattleNet.SendWhisper
+status: unimplemented
+inputs:
+- - type: number
+  - type: string
+outputs:
+- name: success
+  type: boolean

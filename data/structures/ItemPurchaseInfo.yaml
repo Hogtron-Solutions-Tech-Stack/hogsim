@@ -1,0 +1,13 @@
+---
+name: ItemPurchaseInfo
+fields:
+- name: money
+  type: number
+- name: itemCount
+  type: number
+- name: refundSeconds
+  type: number
+- name: currencyCount
+  type: number
+- name: hasEnchants
+  type: boolean

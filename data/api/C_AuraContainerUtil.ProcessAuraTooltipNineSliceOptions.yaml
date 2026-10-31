@@ -1,0 +1,8 @@
+---
+name: C_AuraContainerUtil.ProcessAuraTooltipNineSliceOptions
+status: unimplemented
+inputs:
+- - type: AuraContainerTooltipNineSliceOptions
+outputs:
+- name: result
+  type: AuraContainerTooltipNineSliceOptions

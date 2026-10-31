@@ -1,0 +1,6 @@
+---
+name: GetObeyHideInTransmogFlag
+status: unimplemented
+outputs:
+- name: obey
+  type: boolean

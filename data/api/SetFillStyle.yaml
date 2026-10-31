@@ -1,0 +1,5 @@
+---
+name: SetFillStyle
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.AreRealIDFriendsEnabled
+status: unimplemented
+outputs:
+- name: areRealIDFriendsEnabled
+  type: boolean

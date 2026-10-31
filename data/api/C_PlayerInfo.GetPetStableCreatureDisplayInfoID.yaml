@@ -1,0 +1,8 @@
+---
+name: C_PlayerInfo.GetPetStableCreatureDisplayInfoID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: creatureDisplayInfoID
+  type: number

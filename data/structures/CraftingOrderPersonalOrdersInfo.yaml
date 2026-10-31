@@ -1,0 +1,9 @@
+---
+name: CraftingOrderPersonalOrdersInfo
+fields:
+- name: profession
+  type: number
+- name: numPersonalOrders
+  type: number
+- name: professionName
+  type: string

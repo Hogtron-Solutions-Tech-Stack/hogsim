@@ -1,0 +1,5 @@
+---
+name: SetToFinalAlpha
+status: unimplemented
+inputs:
+- - type: boolean

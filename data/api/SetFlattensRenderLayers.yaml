@@ -1,0 +1,5 @@
+---
+name: SetFlattensRenderLayers
+status: unimplemented
+inputs:
+- - type: boolean

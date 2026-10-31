@@ -1,0 +1,8 @@
+---
+name: C_PaperDollInfo.GetTemporaryEnchantmentInfo
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: enchantInfo
+  type: TemporaryItemEnchantInfo

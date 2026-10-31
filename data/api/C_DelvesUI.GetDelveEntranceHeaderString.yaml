@@ -1,0 +1,7 @@
+---
+name: C_DelvesUI.GetDelveEntranceHeaderString
+status: unimplemented
+outputs:
+- name: header
+  nilable: true
+  type: string

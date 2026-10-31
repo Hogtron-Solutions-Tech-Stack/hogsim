@@ -1,0 +1,12 @@
+---
+name: C_PingSecure.SendUnitPing
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: number
+  - nilable: true
+    type: boolean
+outputs:
+- name: result
+  type: SendPingResult

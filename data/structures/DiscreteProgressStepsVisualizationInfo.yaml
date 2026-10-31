@@ -1,0 +1,41 @@
+---
+name: DiscreteProgressStepsVisualizationInfo
+fields:
+- name: shownState
+  type: number
+- name: tooltip
+  type: string
+- name: progressMin
+  type: number
+- name: progressMax
+  type: number
+- name: progressVal
+  type: number
+- name: numSteps
+  type: number
+- name: tooltipLoc
+  type: number
+- name: widgetSizeSetting
+  type: number
+- name: textureKit
+  type: string
+- name: frameTextureKit
+  type: string
+- name: hasTimer
+  type: boolean
+- name: orderIndex
+  type: number
+- name: widgetTag
+  type: string
+- name: inAnimType
+  type: number
+- name: outAnimType
+  type: number
+- name: widgetScale
+  type: number
+- name: layoutDirection
+  type: number
+- name: modelSceneLayer
+  type: number
+- name: scriptedAnimationEffectID
+  type: number

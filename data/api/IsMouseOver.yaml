@@ -1,0 +1,15 @@
+---
+name: IsMouseOver
+status: unimplemented
+inputs:
+- - default: 0
+    type: number
+  - default: 0
+    type: number
+  - default: 0
+    type: number
+  - default: 0
+    type: number
+outputs:
+- name: isMouseOver
+  type: boolean

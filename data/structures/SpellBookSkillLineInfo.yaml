@@ -1,0 +1,21 @@
+---
+name: SpellBookSkillLineInfo
+fields:
+- name: name
+  type: string
+- name: iconID
+  type: number
+- name: itemIndexOffset
+  type: number
+- name: numSpellBookItems
+  type: number
+- name: isGuild
+  type: boolean
+- name: shouldHide
+  type: boolean
+- name: specID
+  nilable: true
+  type: number
+- name: offSpecID
+  nilable: true
+  type: number

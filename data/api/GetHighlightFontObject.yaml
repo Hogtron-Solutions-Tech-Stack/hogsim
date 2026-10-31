@@ -1,0 +1,6 @@
+---
+name: GetHighlightFontObject
+status: unimplemented
+outputs:
+- name: font
+  type: unknown

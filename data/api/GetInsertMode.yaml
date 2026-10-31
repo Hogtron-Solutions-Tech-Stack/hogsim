@@ -1,0 +1,6 @@
+---
+name: GetInsertMode
+status: unimplemented
+outputs:
+- name: mode
+  type: unknown

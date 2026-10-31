@@ -1,0 +1,7 @@
+---
+name: C_HousingLayout.GetRoomPlacementBudget
+status: unimplemented
+outputs:
+- name: placementBudget
+  nilable: true
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_DelvesUI.GetCurioRarityByTraitCondAccountElementID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: rarity
+  type: number

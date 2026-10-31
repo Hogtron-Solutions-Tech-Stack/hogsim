@@ -1,0 +1,5 @@
+---
+name: AddForbiddenAspects
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,7 @@
+---
+name: C_PetJournal.GetOwnedPetIDs
+status: unimplemented
+outputs:
+- innerType: string
+  name: ownedPetIDs
+  type: table

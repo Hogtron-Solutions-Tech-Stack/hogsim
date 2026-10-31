@@ -1,0 +1,6 @@
+---
+name: C_RecentAllies.IsRecentAllyDataReady
+status: unimplemented
+outputs:
+- name: isReady
+  type: boolean

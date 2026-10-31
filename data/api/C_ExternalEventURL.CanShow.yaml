@@ -1,0 +1,6 @@
+---
+name: C_ExternalEventURL.CanShow
+status: unimplemented
+outputs:
+- name: canShow
+  type: boolean

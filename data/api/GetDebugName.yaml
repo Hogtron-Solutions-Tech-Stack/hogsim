@@ -1,0 +1,9 @@
+---
+name: GetDebugName
+status: unimplemented
+inputs:
+- - default: false
+    type: boolean
+outputs:
+- name: debugName
+  type: string

@@ -1,0 +1,8 @@
+---
+name: C_WeeklyRewards.GetDifficultyIDForActivityTier
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: difficultyID
+  type: number

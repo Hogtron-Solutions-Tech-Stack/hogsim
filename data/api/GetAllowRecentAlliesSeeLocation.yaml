@@ -1,0 +1,6 @@
+---
+name: GetAllowRecentAlliesSeeLocation
+status: unimplemented
+outputs:
+- name: allowRecentAlliesSeeLocation
+  type: boolean

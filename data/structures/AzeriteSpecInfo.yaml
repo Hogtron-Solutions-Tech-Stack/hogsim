@@ -1,0 +1,7 @@
+---
+name: AzeriteSpecInfo
+fields:
+- name: classID
+  type: number
+- name: specID
+  type: number

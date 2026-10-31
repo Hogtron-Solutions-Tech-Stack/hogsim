@@ -1,0 +1,5 @@
+---
+name: SetTaskBlobRingAlpha
+status: unimplemented
+inputs:
+- - type: number

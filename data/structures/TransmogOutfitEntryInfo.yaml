@@ -1,0 +1,18 @@
+---
+name: TransmogOutfitEntryInfo
+fields:
+- name: outfitID
+  type: number
+- name: name
+  type: string
+- innerType: string
+  name: situationCategories
+  type: table
+- name: icon
+  type: number
+- name: isEventOutfit
+  type: boolean
+- name: isDisabled
+  type: boolean
+- name: playerFacingOutfitIndex
+  type: number

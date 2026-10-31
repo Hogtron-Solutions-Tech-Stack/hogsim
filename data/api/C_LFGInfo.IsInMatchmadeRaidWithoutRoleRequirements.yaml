@@ -1,0 +1,6 @@
+---
+name: C_LFGInfo.IsInMatchmadeRaidWithoutRoleRequirements
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

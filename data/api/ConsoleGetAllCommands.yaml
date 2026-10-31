@@ -1,0 +1,7 @@
+---
+name: ConsoleGetAllCommands
+status: unimplemented
+outputs:
+- innerType: ConsoleCommandInfo
+  name: commands
+  type: table

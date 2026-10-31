@@ -1,0 +1,8 @@
+---
+name: C_HousingBlueprint.CanImportTypeFromCurrentLocation
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: locationValid
+  type: boolean

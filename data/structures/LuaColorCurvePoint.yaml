@@ -1,0 +1,7 @@
+---
+name: LuaColorCurvePoint
+fields:
+- name: x
+  type: number
+- name: y
+  type: unknown

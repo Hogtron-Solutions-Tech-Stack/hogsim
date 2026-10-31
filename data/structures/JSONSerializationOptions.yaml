@@ -1,0 +1,5 @@
+---
+name: JSONSerializationOptions
+fields:
+- name: ignoreSerializationErrors
+  type: boolean

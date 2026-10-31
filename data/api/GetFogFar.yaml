@@ -1,0 +1,6 @@
+---
+name: GetFogFar
+status: unimplemented
+outputs:
+- name: fogFar
+  type: number

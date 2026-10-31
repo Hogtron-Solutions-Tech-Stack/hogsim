@@ -1,0 +1,8 @@
+---
+name: GetPetCritChance
+status: unimplemented
+outputs:
+- name: meleeCrit
+  type: number
+- name: spellCrit
+  type: number

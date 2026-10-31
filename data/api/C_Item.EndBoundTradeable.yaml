@@ -1,0 +1,5 @@
+---
+name: C_Item.EndBoundTradeable
+status: unimplemented
+inputs:
+- - type: string

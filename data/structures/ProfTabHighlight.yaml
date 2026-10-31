@@ -1,0 +1,5 @@
+---
+name: ProfTabHighlight
+fields:
+- name: description
+  type: string

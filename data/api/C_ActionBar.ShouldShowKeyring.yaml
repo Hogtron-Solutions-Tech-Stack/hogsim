@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.ShouldShowKeyring
+status: unimplemented
+outputs:
+- name: isKeyringEnabled
+  type: boolean

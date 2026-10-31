@@ -1,0 +1,5 @@
+---
+name: SetColorAlphaTexture
+status: unimplemented
+inputs:
+- - type: unknown

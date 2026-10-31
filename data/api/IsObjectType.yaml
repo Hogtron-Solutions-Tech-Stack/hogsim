@@ -1,0 +1,8 @@
+---
+name: IsObjectType
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isType
+  type: boolean

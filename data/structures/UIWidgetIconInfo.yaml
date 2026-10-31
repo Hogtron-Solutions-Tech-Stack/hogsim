@@ -1,0 +1,13 @@
+---
+name: UIWidgetIconInfo
+fields:
+- name: sourceType
+  type: number
+- name: sourceID
+  type: number
+- name: sizeType
+  type: number
+- name: tooltip
+  type: string
+- name: tooltipLoc
+  type: number

@@ -1,0 +1,11 @@
+---
+name: GossipPoiInfo
+fields:
+- name: name
+  type: string
+- name: textureIndex
+  type: number
+- name: position
+  type: unknown
+- name: inBattleMap
+  type: boolean

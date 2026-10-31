@@ -1,0 +1,6 @@
+---
+name: GetLowerEmblemFile
+status: unimplemented
+outputs:
+- name: file
+  type: number

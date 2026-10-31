@@ -1,0 +1,9 @@
+---
+name: CreateAbbreviateConfig
+status: unimplemented
+inputs:
+- - innerType: NumberAbbreviationBreakpoint
+    type: table
+outputs:
+- name: config
+  type: unknown

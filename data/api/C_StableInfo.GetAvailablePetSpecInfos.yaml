@@ -1,0 +1,7 @@
+---
+name: C_StableInfo.GetAvailablePetSpecInfos
+status: unimplemented
+outputs:
+- innerType: PetSpecInfo
+  name: petSpecInfos
+  type: table

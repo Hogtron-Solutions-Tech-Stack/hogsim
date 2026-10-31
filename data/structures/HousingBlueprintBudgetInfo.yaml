@@ -1,0 +1,9 @@
+---
+name: HousingBlueprintBudgetInfo
+fields:
+- innerType: HousingBlueprintBudgetEntry
+  name: exteriorBudgets
+  type: table
+- innerType: HousingBlueprintBudgetEntry
+  name: interiorBudgets
+  type: table

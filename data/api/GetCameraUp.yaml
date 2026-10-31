@@ -1,0 +1,10 @@
+---
+name: GetCameraUp
+status: unimplemented
+outputs:
+- name: upX
+  type: number
+- name: upY
+  type: number
+- name: upZ
+  type: number

@@ -1,0 +1,11 @@
+---
+name: UnitEmpoweredStagePercentages
+status: unimplemented
+inputs:
+- - type: unit
+  - default: true
+    type: boolean
+outputs:
+- innerType: number
+  name: percentages
+  type: table

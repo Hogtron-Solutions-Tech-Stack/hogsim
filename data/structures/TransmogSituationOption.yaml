@@ -1,0 +1,11 @@
+---
+name: TransmogSituationOption
+fields:
+- name: situationID
+  type: number
+- name: specID
+  type: number
+- name: loadoutID
+  type: number
+- name: equipmentSetID
+  type: number

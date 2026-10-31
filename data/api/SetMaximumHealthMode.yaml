@@ -1,0 +1,5 @@
+---
+name: SetMaximumHealthMode
+status: unimplemented
+inputs:
+- - type: number

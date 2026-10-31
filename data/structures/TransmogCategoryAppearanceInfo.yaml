@@ -1,0 +1,30 @@
+---
+name: TransmogCategoryAppearanceInfo
+fields:
+- name: visualID
+  type: number
+- name: isCollected
+  type: boolean
+- name: isFavorite
+  type: boolean
+- name: isHideVisual
+  type: boolean
+- name: canDisplayOnPlayer
+  type: boolean
+- name: uiOrder
+  type: number
+- name: exclusions
+  type: number
+- name: isUsable
+  type: boolean
+- name: hasRequiredHoliday
+  type: boolean
+- name: hasActiveRequiredHoliday
+  type: boolean
+- name: minIlvl
+  type: number
+- name: isValidForEquippedItem
+  type: boolean
+- name: alwaysShowItem
+  nilable: true
+  type: boolean

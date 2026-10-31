@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.GetDelvesFactionForSeason
+status: unimplemented
+outputs:
+- name: factionID
+  type: number

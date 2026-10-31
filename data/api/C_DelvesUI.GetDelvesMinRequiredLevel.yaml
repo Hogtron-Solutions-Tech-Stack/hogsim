@@ -1,0 +1,7 @@
+---
+name: C_DelvesUI.GetDelvesMinRequiredLevel
+status: unimplemented
+outputs:
+- name: minRequiredLevel
+  nilable: true
+  type: number

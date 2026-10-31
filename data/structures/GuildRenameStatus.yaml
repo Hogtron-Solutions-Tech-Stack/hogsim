@@ -1,0 +1,25 @@
+---
+name: GuildRenameStatus
+fields:
+- name: isNameChangeEnabled
+  type: boolean
+- name: isPlayerGuildMaster
+  type: boolean
+- name: refundEligibleEndTime
+  type: number
+- name: nextRenameTime
+  type: number
+- name: renamePrice
+  type: number
+- name: refundAmount
+  type: number
+- name: currentGuildMoney
+  type: number
+- name: result
+  type: number
+- name: oldGuildName
+  type: string
+- name: reservedName
+  type: string
+- name: reservedNameExpirationTime
+  type: number

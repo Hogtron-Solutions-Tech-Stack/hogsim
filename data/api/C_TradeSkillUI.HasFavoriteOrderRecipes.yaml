@@ -1,0 +1,6 @@
+---
+name: C_TradeSkillUI.HasFavoriteOrderRecipes
+status: unimplemented
+outputs:
+- name: hasFavorites
+  type: boolean

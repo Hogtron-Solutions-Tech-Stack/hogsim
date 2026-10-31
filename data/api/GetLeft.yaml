@@ -1,0 +1,6 @@
+---
+name: GetLeft
+status: unimplemented
+outputs:
+- name: left
+  type: number

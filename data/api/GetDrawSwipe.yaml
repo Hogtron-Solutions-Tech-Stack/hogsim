@@ -1,0 +1,6 @@
+---
+name: GetDrawSwipe
+status: unimplemented
+outputs:
+- name: drawSwipe
+  type: boolean

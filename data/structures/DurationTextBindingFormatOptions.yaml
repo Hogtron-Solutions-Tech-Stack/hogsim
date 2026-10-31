@@ -1,0 +1,8 @@
+---
+name: DurationTextBindingFormatOptions
+fields:
+- name: formatString
+  type: string
+- innerType: DurationTextBindingFormatComponent
+  name: components
+  type: table

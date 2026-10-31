@@ -1,0 +1,6 @@
+---
+name: IsShown
+status: unimplemented
+outputs:
+- name: isShown
+  type: boolean

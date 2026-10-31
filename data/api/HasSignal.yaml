@@ -1,0 +1,8 @@
+---
+name: HasSignal
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hasSignal
+  type: boolean

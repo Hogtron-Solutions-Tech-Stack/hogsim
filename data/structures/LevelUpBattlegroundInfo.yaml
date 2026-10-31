@@ -1,0 +1,11 @@
+---
+name: LevelUpBattlegroundInfo
+fields:
+- name: id
+  type: number
+- name: icon
+  type: number
+- name: name
+  type: string
+- name: isEpic
+  type: boolean

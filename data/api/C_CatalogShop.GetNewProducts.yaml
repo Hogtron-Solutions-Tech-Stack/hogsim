@@ -1,0 +1,7 @@
+---
+name: C_CatalogShop.GetNewProducts
+status: unimplemented
+outputs:
+- innerType: number
+  name: newProducts
+  type: table

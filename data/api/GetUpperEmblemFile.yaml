@@ -1,0 +1,6 @@
+---
+name: GetUpperEmblemFile
+status: unimplemented
+outputs:
+- name: file
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_UnitAuras.AuraIsBigDefensive
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isBigDefensive
+  type: boolean

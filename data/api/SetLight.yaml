@@ -1,0 +1,6 @@
+---
+name: SetLight
+status: unimplemented
+inputs:
+- - type: boolean
+  - type: ModelLight

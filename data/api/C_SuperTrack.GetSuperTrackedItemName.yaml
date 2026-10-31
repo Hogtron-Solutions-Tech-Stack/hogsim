@@ -1,0 +1,8 @@
+---
+name: C_SuperTrack.GetSuperTrackedItemName
+status: unimplemented
+outputs:
+- name: name
+  type: string
+- name: description
+  type: string

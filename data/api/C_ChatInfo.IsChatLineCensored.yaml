@@ -1,0 +1,8 @@
+---
+name: C_ChatInfo.IsChatLineCensored
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isCensored
+  type: boolean

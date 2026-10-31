@@ -1,0 +1,8 @@
+---
+name: C_Map.IsMapValidForNavBarDropdown
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isValid
+  type: boolean

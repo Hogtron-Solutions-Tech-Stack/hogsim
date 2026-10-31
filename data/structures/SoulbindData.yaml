@@ -1,0 +1,26 @@
+---
+name: SoulbindData
+fields:
+- name: ID
+  type: number
+- name: covenantID
+  type: number
+- name: name
+  type: string
+- name: description
+  type: string
+- name: textureKit
+  type: string
+- name: unlocked
+  type: boolean
+- name: cvarIndex
+  type: number
+- name: tree
+  type: SoulbindTree
+- name: modelSceneData
+  type: SoulbindModelSceneData
+- name: activationSoundKitID
+  type: number
+- name: playerConditionReason
+  nilable: true
+  type: string

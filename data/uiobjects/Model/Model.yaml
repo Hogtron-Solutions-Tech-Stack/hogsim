@@ -98,6 +98,8 @@ methods:
     status: unimplemented
   SetGlow:
     status: unimplemented
+  SetGradientMask:
+    status: unimplemented
   SetLight:
     status: unimplemented
   SetModel:
@@ -127,6 +129,8 @@ methods:
   SetShadowEffect:
     status: unimplemented
   SetTransform:
+    status: unimplemented
+  SetUseGBuffer:
     status: unimplemented
   SetViewInsets:
     status: unimplemented

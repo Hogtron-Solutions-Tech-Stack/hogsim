@@ -1,0 +1,8 @@
+---
+name: GetRotation
+status: unimplemented
+outputs:
+- name: radians
+  type: number
+- name: normalizedRotationPoint
+  type: unknown

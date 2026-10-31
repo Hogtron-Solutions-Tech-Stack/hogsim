@@ -1,0 +1,5 @@
+---
+name: C_AchievementTelemetry.LinkAchievementInClub
+status: unimplemented
+inputs:
+- - type: number

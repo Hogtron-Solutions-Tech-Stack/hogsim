@@ -1,0 +1,10 @@
+---
+name: GetColorRGB
+status: unimplemented
+outputs:
+- name: rgbR
+  type: number
+- name: rgbG
+  type: number
+- name: rgbB
+  type: number

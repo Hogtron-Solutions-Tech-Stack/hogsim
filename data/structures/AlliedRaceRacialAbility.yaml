@@ -1,0 +1,9 @@
+---
+name: AlliedRaceRacialAbility
+fields:
+- name: description
+  type: string
+- name: name
+  type: string
+- name: icon
+  type: number

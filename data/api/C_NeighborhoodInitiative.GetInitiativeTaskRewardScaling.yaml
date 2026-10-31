@@ -1,0 +1,9 @@
+---
+name: C_NeighborhoodInitiative.GetInitiativeTaskRewardScaling
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: scaledAmount
+  type: number

@@ -1,0 +1,8 @@
+---
+name: HasMessageByID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hasMessage
+  type: boolean

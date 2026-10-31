@@ -1,0 +1,8 @@
+---
+name: C_Spell.GetItemCooldown
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: spellCooldownInfo
+  type: SpellCooldownInfo

@@ -1,0 +1,12 @@
+---
+name: C_Spell.GetSpellDisplayCount
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: 9999
+    type: number
+  - default: '*'
+    type: string
+outputs:
+- name: displayCount
+  type: string

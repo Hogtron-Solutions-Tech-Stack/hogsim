@@ -1,0 +1,30 @@
+---
+name: PlayerChoiceOptionButtonInfo
+fields:
+- name: id
+  type: number
+- name: text
+  type: string
+- name: disabled
+  type: boolean
+- name: showCheckmark
+  type: boolean
+- name: hideButtonShowText
+  type: boolean
+- name: selected
+  type: boolean
+- name: confirmation
+  nilable: true
+  type: string
+- name: tooltip
+  nilable: true
+  type: string
+- name: rewardQuestID
+  nilable: true
+  type: number
+- name: soundKitID
+  nilable: true
+  type: number
+- name: listText
+  nilable: true
+  type: string

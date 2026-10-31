@@ -1,0 +1,6 @@
+---
+name: C_EncounterTimeline.GetViewType
+status: unimplemented
+outputs:
+- name: viewType
+  type: number

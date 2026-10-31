@@ -1,0 +1,6 @@
+---
+name: C_HousingDecor.GetNumDecorPlaced
+status: unimplemented
+outputs:
+- name: numPlaced
+  type: number

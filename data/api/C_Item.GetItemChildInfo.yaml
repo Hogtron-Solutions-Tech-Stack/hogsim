@@ -1,0 +1,11 @@
+---
+name: C_Item.GetItemChildInfo
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: number
+outputs:
+- innerType: number
+  name: result
+  type: table

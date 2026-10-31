@@ -1,0 +1,8 @@
+---
+name: EvaluateCurrentHealthPercent
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: result
+  type: unknown

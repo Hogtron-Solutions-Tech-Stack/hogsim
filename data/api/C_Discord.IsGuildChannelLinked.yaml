@@ -1,0 +1,6 @@
+---
+name: C_Discord.IsGuildChannelLinked
+status: unimplemented
+outputs:
+- name: isLinked
+  type: boolean

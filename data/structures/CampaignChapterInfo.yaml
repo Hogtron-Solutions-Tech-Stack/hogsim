@@ -1,0 +1,9 @@
+---
+name: CampaignChapterInfo
+fields:
+- name: name
+  type: string
+- name: description
+  type: string
+- name: rewardQuestID
+  type: number

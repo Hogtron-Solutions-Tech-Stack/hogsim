@@ -1,0 +1,11 @@
+---
+name: C_Spell.IsSpellInRange
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: unit
+outputs:
+- name: inRange
+  nilable: true
+  type: boolean

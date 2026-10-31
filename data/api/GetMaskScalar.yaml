@@ -1,0 +1,6 @@
+---
+name: GetMaskScalar
+status: unimplemented
+outputs:
+- name: scalar
+  type: number

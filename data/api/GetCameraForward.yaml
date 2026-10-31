@@ -1,0 +1,10 @@
+---
+name: GetCameraForward
+status: unimplemented
+outputs:
+- name: forwardX
+  type: number
+- name: forwardY
+  type: number
+- name: forwardZ
+  type: number

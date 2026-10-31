@@ -1,0 +1,8 @@
+---
+name: C_PhotoSharing.UploadPhotoToService
+status: unimplemented
+inputs:
+- - default: ''
+    type: string
+  - default: ''
+    type: string

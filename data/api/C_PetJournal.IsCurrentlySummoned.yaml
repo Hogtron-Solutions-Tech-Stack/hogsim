@@ -1,0 +1,8 @@
+---
+name: C_PetJournal.IsCurrentlySummoned
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isSummoned
+  type: boolean

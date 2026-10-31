@@ -1,0 +1,6 @@
+---
+name: C_ChallengeMode.GetChallengeCompletionInfo
+status: unimplemented
+outputs:
+- name: info
+  type: ChallengeCompletionInfo

@@ -1,0 +1,6 @@
+---
+name: C_MerchantFrame.IsSellAllJunkEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

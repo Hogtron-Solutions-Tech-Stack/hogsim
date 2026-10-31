@@ -1,0 +1,5 @@
+---
+name: C_ClassTalents.SwitchToSpecializationByName
+status: unimplemented
+inputs:
+- - type: string

@@ -1,0 +1,5 @@
+---
+name: SetCameraRoll
+status: unimplemented
+inputs:
+- - type: number

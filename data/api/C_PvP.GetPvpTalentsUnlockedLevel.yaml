@@ -1,0 +1,6 @@
+---
+name: C_PvP.GetPvpTalentsUnlockedLevel
+status: unimplemented
+outputs:
+- name: unlockLevel
+  type: number

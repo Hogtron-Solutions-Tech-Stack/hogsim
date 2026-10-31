@@ -1,0 +1,9 @@
+---
+name: C_CatalogShop.GetProductAvailabilityTimeRemainingSecs
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: timeRemainingSecs
+  nilable: true
+  type: number

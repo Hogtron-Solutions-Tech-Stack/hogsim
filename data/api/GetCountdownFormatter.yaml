@@ -1,0 +1,7 @@
+---
+name: GetCountdownFormatter
+status: unimplemented
+outputs:
+- name: formatter
+  nilable: true
+  type: unknown

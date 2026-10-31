@@ -1,0 +1,9 @@
+---
+name: UnitHasPowerType
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number
+outputs:
+- name: hasPower
+  type: boolean

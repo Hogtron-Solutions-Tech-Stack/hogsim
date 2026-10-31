@@ -1,0 +1,10 @@
+---
+name: HousingCatalogEntryVariantInfo
+fields:
+- name: entryVariantID
+  type: HousingCatalogEntryVariantID
+- name: numStored
+  type: number
+- innerType: HousingDecorDyeSlot
+  name: dyeSlots
+  type: table

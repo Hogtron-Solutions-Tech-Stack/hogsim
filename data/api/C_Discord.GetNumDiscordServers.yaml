@@ -1,0 +1,6 @@
+---
+name: C_Discord.GetNumDiscordServers
+status: unimplemented
+outputs:
+- name: count
+  type: number

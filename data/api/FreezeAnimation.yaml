@@ -1,0 +1,7 @@
+---
+name: FreezeAnimation
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number
+  - type: number

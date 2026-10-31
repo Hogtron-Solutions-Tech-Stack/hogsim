@@ -1,0 +1,10 @@
+---
+name: C_ActionBar.GetActionCooldownDuration
+status: unimplemented
+inputs:
+- - type: number
+  - default: false
+    type: boolean
+outputs:
+- name: duration
+  type: unknown

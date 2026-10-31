@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.AddNewOutfit
+status: unimplemented
+inputs:
+- - type: string
+  - type: number

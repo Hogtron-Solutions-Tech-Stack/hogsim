@@ -1,0 +1,13 @@
+---
+name: EventDisplayInfo
+fields:
+- name: hideTimeLeft
+  type: boolean
+- name: hideDescription
+  type: boolean
+- name: overrideAtlas
+  nilable: true
+  type: string
+- name: overrideTooltipWidgetSetID
+  nilable: true
+  type: number

@@ -1,0 +1,7 @@
+---
+name: GetLightType
+status: unimplemented
+outputs:
+- name: lightType
+  nilable: true
+  type: number

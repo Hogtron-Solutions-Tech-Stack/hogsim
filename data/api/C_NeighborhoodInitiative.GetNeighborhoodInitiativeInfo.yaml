@@ -1,0 +1,7 @@
+---
+name: C_NeighborhoodInitiative.GetNeighborhoodInitiativeInfo
+status: unimplemented
+outputs:
+- name: info
+  nilable: true
+  type: NeighborhoodInitiativeInfo

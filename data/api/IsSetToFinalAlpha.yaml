@@ -1,0 +1,6 @@
+---
+name: IsSetToFinalAlpha
+status: unimplemented
+outputs:
+- name: isSetToFinalAlpha
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: C_GameRules.AutoConnectToGameModeRealm
+status: unimplemented
+inputs:
+- - type: number

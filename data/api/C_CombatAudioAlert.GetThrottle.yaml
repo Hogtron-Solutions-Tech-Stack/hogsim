@@ -1,0 +1,8 @@
+---
+name: C_CombatAudioAlert.GetThrottle
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: throttle
+  type: number

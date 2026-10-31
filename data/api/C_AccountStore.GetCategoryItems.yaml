@@ -1,0 +1,9 @@
+---
+name: C_AccountStore.GetCategoryItems
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: itemIDs
+  type: table

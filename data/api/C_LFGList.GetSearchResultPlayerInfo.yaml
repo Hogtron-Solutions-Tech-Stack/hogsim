@@ -1,0 +1,9 @@
+---
+name: C_LFGList.GetSearchResultPlayerInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: playerInfo
+  type: LfgSearchResultPlayerInfo

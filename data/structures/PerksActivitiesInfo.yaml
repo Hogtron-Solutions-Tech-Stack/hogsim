@@ -1,0 +1,15 @@
+---
+name: PerksActivitiesInfo
+fields:
+- name: activePerksMonth
+  type: number
+- name: displayMonthName
+  type: string
+- name: secondsRemaining
+  type: number
+- innerType: PerksActivityInfo
+  name: activities
+  type: table
+- innerType: PerksActivityThresholdInfo
+  name: thresholds
+  type: table

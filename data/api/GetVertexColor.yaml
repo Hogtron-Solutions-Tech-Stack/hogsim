@@ -1,0 +1,12 @@
+---
+name: GetVertexColor
+status: unimplemented
+outputs:
+- name: colorR
+  type: number
+- name: colorG
+  type: number
+- name: colorB
+  type: number
+- name: colorA
+  type: number

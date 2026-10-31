@@ -1,0 +1,7 @@
+---
+name: GetEditorModeContext
+status: unimplemented
+outputs:
+- name: editorModeContext
+  nilable: true
+  type: number

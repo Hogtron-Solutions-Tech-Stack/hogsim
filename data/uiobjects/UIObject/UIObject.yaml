@@ -10,6 +10,8 @@ inherits:
     - wow_beta
     - wowt
 methods:
+  ClearParentKey:
+    status: unimplemented
   GetName:
     fields:
     - name: name

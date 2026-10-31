@@ -1,0 +1,7 @@
+---
+name: WhoFilter
+fields:
+- name: name
+  type: string
+- name: ID
+  type: number

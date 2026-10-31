@@ -1,0 +1,7 @@
+---
+name: GroupBuffVisualAlertInfo
+fields:
+- name: spellID
+  type: number
+- name: visualValue
+  type: number

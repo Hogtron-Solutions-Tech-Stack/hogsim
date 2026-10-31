@@ -1,0 +1,7 @@
+---
+name: C_Housing.GetCurrentHouseInfo
+status: unimplemented
+outputs:
+- name: houseInfo
+  nilable: true
+  type: HouseInfo

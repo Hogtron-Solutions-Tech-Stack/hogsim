@@ -1,0 +1,6 @@
+---
+name: C_GuildInfo.GetInfoText
+status: unimplemented
+outputs:
+- name: infoText
+  type: string

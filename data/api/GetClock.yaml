@@ -1,0 +1,7 @@
+---
+name: GetClock
+status: unimplemented
+outputs:
+- name: clock
+  nilable: true
+  type: unknown

@@ -1,0 +1,6 @@
+---
+name: C_GameRules.GetCurrentEventRealmQueues
+status: unimplemented
+outputs:
+- name: eventRealmQueues
+  type: number

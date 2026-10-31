@@ -1,0 +1,22 @@
+---
+name: AuctionHouseBrowseQuery
+fields:
+- name: searchString
+  type: string
+- innerType: AuctionHouseSortType
+  name: sorts
+  type: table
+- name: minLevel
+  nilable: true
+  type: number
+- name: maxLevel
+  nilable: true
+  type: number
+- innerType: number
+  name: filters
+  nilable: true
+  type: table
+- innerType: AuctionHouseItemClassFilter
+  name: itemClassFilters
+  nilable: true
+  type: table

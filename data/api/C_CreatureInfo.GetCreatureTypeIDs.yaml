@@ -1,0 +1,7 @@
+---
+name: C_CreatureInfo.GetCreatureTypeIDs
+status: unimplemented
+outputs:
+- innerType: number
+  name: creatureTypeIDs
+  type: table

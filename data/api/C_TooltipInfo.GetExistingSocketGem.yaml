@@ -1,0 +1,10 @@
+---
+name: C_TooltipInfo.GetExistingSocketGem
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: boolean
+outputs:
+- name: data
+  type: unknown

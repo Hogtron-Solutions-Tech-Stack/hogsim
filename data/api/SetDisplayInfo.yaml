@@ -1,0 +1,7 @@
+---
+name: SetDisplayInfo
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: number

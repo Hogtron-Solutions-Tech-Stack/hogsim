@@ -1,0 +1,9 @@
+---
+name: C_AuraContainerUtil.ProcessCustomAuraButtonDurationTextOptions
+status: unimplemented
+inputs:
+- - nilable: true
+    type: CustomAuraButtonDurationTextOptions
+outputs:
+- name: result
+  type: CustomAuraButtonDurationTextOptions

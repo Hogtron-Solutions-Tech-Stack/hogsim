@@ -1,0 +1,6 @@
+---
+name: UnregisterEventCallback
+status: unimplemented
+inputs:
+- - type: string
+  - type: unknown

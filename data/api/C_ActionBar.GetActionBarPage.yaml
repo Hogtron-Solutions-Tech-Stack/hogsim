@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.GetActionBarPage
+status: unimplemented
+outputs:
+- name: currentPage
+  type: number

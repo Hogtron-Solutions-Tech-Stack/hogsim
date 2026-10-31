@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.ClearDisplayedOutfit
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

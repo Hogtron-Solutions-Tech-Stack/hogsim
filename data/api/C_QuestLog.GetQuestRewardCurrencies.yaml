@@ -1,0 +1,9 @@
+---
+name: C_QuestLog.GetQuestRewardCurrencies
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: QuestRewardCurrencyInfo
+  name: questRewardCurrencies
+  type: table

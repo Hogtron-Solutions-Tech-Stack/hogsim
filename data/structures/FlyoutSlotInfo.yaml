@@ -1,0 +1,15 @@
+---
+name: FlyoutSlotInfo
+fields:
+- name: spellID
+  type: number
+- name: overrideSpellID
+  type: number
+- name: isKnown
+  type: boolean
+- name: name
+  nilable: true
+  type: string
+- name: specID
+  nilable: true
+  type: number

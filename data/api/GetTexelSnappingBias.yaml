@@ -1,0 +1,6 @@
+---
+name: GetTexelSnappingBias
+status: unimplemented
+outputs:
+- name: bias
+  type: unknown

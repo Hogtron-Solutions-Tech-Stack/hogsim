@@ -1,0 +1,6 @@
+---
+name: GetMaximumHealth
+status: unimplemented
+outputs:
+- name: maximumHealth
+  type: number

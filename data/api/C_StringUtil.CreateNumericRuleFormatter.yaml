@@ -1,0 +1,6 @@
+---
+name: C_StringUtil.CreateNumericRuleFormatter
+status: unimplemented
+outputs:
+- name: formatter
+  type: unknown

@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.IsBattleNetFriendsListSupported
+status: unimplemented
+outputs:
+- name: isBattleNetFriendsListSupported
+  type: boolean

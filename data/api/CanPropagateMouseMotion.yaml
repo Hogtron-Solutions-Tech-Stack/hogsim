@@ -1,0 +1,6 @@
+---
+name: CanPropagateMouseMotion
+status: unimplemented
+outputs:
+- name: canPropagate
+  type: boolean

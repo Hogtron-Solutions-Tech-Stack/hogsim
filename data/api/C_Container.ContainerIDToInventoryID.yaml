@@ -1,0 +1,8 @@
+---
+name: C_Container.ContainerIDToInventoryID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: inventoryID
+  type: number

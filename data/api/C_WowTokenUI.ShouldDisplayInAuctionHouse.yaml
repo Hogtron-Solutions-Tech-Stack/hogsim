@@ -1,0 +1,6 @@
+---
+name: C_WowTokenUI.ShouldDisplayInAuctionHouse
+status: unimplemented
+outputs:
+- name: displayInAH
+  type: boolean

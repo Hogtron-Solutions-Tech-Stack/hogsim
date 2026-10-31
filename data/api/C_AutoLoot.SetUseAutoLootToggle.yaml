@@ -1,0 +1,5 @@
+---
+name: C_AutoLoot.SetUseAutoLootToggle
+status: unimplemented
+inputs:
+- - type: boolean

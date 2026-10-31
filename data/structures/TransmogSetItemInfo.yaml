@@ -1,0 +1,11 @@
+---
+name: TransmogSetItemInfo
+fields:
+- name: itemID
+  type: number
+- name: itemModifiedAppearanceID
+  type: number
+- name: invSlot
+  type: number
+- name: invType
+  type: string

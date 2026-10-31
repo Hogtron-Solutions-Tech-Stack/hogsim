@@ -1,0 +1,7 @@
+---
+name: QuestRewardReputationInfo
+fields:
+- name: factionID
+  type: number
+- name: rewardAmount
+  type: number

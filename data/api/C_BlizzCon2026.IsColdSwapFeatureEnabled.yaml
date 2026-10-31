@@ -1,0 +1,6 @@
+---
+name: C_BlizzCon2026.IsColdSwapFeatureEnabled
+status: unimplemented
+outputs:
+- name: isEnabled
+  type: boolean

@@ -1,0 +1,8 @@
+---
+name: HouseExteriorTypeOptionsInfo
+fields:
+- name: selectedExteriorType
+  type: number
+- innerType: HouseExteriorTypeOption
+  name: options
+  type: table

@@ -1,0 +1,6 @@
+---
+name: C_CombatAudioAlert.IsEnabled
+status: unimplemented
+outputs:
+- name: isEnabled
+  type: boolean

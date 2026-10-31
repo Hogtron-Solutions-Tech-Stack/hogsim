@@ -1,0 +1,5 @@
+---
+name: SetCustomCamera
+status: unimplemented
+inputs:
+- - type: number

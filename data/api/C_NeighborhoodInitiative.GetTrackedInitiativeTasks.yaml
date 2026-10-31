@@ -1,0 +1,6 @@
+---
+name: C_NeighborhoodInitiative.GetTrackedInitiativeTasks
+status: unimplemented
+outputs:
+- name: trackedInitiativeTasks
+  type: InitiativeTasksTracked

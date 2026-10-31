@@ -1,0 +1,7 @@
+---
+name: C_CatalogShop.IsShop2Enabled
+status: unimplemented
+outputs:
+- name: value
+  nilable: true
+  type: boolean

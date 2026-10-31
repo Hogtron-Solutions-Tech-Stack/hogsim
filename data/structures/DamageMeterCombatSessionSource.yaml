@@ -1,0 +1,10 @@
+---
+name: DamageMeterCombatSessionSource
+fields:
+- innerType: DamageMeterCombatSpell
+  name: combatSpells
+  type: table
+- name: maxAmount
+  type: number
+- name: totalAmount
+  type: number

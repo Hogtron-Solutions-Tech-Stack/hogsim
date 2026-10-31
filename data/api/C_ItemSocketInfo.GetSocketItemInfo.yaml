@@ -1,0 +1,12 @@
+---
+name: C_ItemSocketInfo.GetSocketItemInfo
+status: unimplemented
+outputs:
+- name: name
+  nilable: true
+  type: string
+- name: icon
+  nilable: true
+  type: number
+- name: quality
+  type: number

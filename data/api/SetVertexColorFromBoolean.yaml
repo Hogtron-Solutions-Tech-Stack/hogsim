@@ -1,0 +1,7 @@
+---
+name: SetVertexColorFromBoolean
+status: unimplemented
+inputs:
+- - type: boolean
+  - type: unknown
+  - type: unknown

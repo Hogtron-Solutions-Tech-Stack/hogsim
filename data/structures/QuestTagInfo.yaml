@@ -1,0 +1,22 @@
+---
+name: QuestTagInfo
+fields:
+- name: tagName
+  type: string
+- name: tagID
+  type: number
+- name: worldQuestType
+  nilable: true
+  type: number
+- name: quality
+  nilable: true
+  type: number
+- name: tradeskillLineID
+  nilable: true
+  type: number
+- name: isElite
+  nilable: true
+  type: boolean
+- name: displayExpiration
+  nilable: true
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetPinType
+status: unimplemented
+outputs:
+- name: type
+  type: number

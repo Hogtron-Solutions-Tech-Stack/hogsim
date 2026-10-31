@@ -1,0 +1,8 @@
+---
+name: C_QuestLog.IsImportantQuest
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isImportant
+  type: boolean

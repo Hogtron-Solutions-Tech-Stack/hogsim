@@ -1,0 +1,6 @@
+---
+name: GetReverse
+status: unimplemented
+outputs:
+- name: reverse
+  type: boolean

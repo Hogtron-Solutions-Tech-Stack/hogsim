@@ -1,0 +1,7 @@
+---
+name: C_Item.UseItemByName
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: string

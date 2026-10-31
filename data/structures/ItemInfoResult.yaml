@@ -1,0 +1,40 @@
+---
+name: ItemInfoResult
+fields:
+- name: itemName
+  type: string
+- name: itemLink
+  type: string
+- name: itemQuality
+  type: number
+- name: itemLevel
+  type: number
+- name: itemMinLevel
+  type: number
+- name: itemType
+  type: string
+- name: itemSubType
+  type: string
+- name: itemStackCount
+  type: number
+- name: itemEquipLoc
+  type: string
+- name: itemTexture
+  type: number
+- name: sellPrice
+  type: number
+- name: classID
+  type: number
+- name: subclassID
+  type: number
+- name: bindType
+  type: number
+- name: expansionID
+  type: number
+- name: setID
+  nilable: true
+  type: number
+- name: isCraftingReagent
+  type: boolean
+- name: itemDescription
+  type: string

@@ -1,0 +1,5 @@
+---
+name: C_HousingExpertMode.SetPrecisionSubmode
+status: unimplemented
+inputs:
+- - type: number

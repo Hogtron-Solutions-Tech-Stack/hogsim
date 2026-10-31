@@ -1,0 +1,8 @@
+---
+name: C_PaperDollInfo.IsInventorySlotEnabled
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isEnabled
+  type: boolean

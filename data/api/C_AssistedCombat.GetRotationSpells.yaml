@@ -1,0 +1,7 @@
+---
+name: C_AssistedCombat.GetRotationSpells
+status: unimplemented
+outputs:
+- innerType: number
+  name: spellIDs
+  type: table

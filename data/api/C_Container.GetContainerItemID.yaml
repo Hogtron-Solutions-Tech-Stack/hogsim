@@ -1,0 +1,9 @@
+---
+name: C_Container.GetContainerItemID
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: containerID
+  type: number

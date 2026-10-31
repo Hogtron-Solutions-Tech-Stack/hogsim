@@ -1,0 +1,6 @@
+---
+name: C_HousingCustomizeMode.IsHoveringRoomComponent
+status: unimplemented
+outputs:
+- name: isHovering
+  type: boolean

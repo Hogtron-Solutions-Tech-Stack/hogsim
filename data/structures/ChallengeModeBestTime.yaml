@@ -1,0 +1,10 @@
+---
+name: ChallengeModeBestTime
+fields:
+- name: mapChallengeModeID
+  type: number
+- name: durationMs
+  type: number
+- innerType: ChallengeModeBestTimeMember
+  name: members
+  type: table

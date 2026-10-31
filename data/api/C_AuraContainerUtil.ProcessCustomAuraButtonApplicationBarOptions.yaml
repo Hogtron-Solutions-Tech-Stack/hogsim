@@ -1,0 +1,8 @@
+---
+name: C_AuraContainerUtil.ProcessCustomAuraButtonApplicationBarOptions
+status: unimplemented
+inputs:
+- - type: CustomAuraButtonApplicationBarOptions
+outputs:
+- name: result
+  type: CustomAuraButtonApplicationBarOptions

@@ -1,0 +1,7 @@
+---
+name: C_HousingExpertMode.GetPrecisionSubmode
+status: unimplemented
+outputs:
+- name: activeSubMode
+  nilable: true
+  type: number

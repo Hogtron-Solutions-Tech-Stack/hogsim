@@ -1,0 +1,11 @@
+---
+name: RatedBGBlitzSpecStats
+fields:
+- name: weeklyMostPlayedSpecID
+  type: number
+- name: weeklyMostPlayedSpecGames
+  type: number
+- name: seasonMostPlayedSpecID
+  type: number
+- name: seasonMostPlayedSpecGames
+  type: number

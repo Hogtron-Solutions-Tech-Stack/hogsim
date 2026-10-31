@@ -1,0 +1,16 @@
+---
+name: RecentAlliesSearchInfo
+fields:
+- name: searchText
+  type: string
+- name: isOnline
+  type: boolean
+- name: isDND
+  type: boolean
+- name: isAFK
+  type: boolean
+- name: isOffline
+  type: boolean
+- innerType: number
+  name: interactionCategoryFilters
+  type: table

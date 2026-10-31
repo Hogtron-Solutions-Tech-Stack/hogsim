@@ -1,0 +1,6 @@
+---
+name: GetValue
+status: unimplemented
+outputs:
+- name: value
+  type: number

@@ -1,0 +1,7 @@
+---
+name: TransmogOutfitOptionSheatheCategoryInfo
+fields:
+- name: sheatheCategory
+  type: number
+- name: categoryName
+  type: string

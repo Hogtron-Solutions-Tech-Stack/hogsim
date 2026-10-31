@@ -1,0 +1,6 @@
+---
+name: SetChecked
+status: unimplemented
+inputs:
+- - default: false
+    type: boolean

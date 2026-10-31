@@ -1,0 +1,7 @@
+---
+name: C_EndOfMatchUI.GetEndOfMatchDetails
+status: unimplemented
+outputs:
+- name: matchDetails
+  nilable: true
+  type: MatchDetails

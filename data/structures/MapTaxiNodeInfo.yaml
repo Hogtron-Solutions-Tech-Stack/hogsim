@@ -1,0 +1,17 @@
+---
+name: MapTaxiNodeInfo
+fields:
+- name: nodeID
+  type: number
+- name: position
+  type: unknown
+- name: name
+  type: string
+- name: atlasName
+  type: string
+- name: faction
+  type: number
+- name: textureKit
+  type: string
+- name: isUndiscovered
+  type: boolean

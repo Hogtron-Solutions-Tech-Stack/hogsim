@@ -1,0 +1,7 @@
+---
+name: CraftingOrderSortInfo
+fields:
+- name: sortType
+  type: number
+- name: reversed
+  type: boolean

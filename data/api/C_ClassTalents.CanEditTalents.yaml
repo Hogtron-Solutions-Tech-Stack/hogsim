@@ -1,0 +1,8 @@
+---
+name: C_ClassTalents.CanEditTalents
+status: unimplemented
+outputs:
+- name: canEdit
+  type: boolean
+- name: changeError
+  type: string

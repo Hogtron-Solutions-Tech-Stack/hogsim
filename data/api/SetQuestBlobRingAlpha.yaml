@@ -1,0 +1,5 @@
+---
+name: SetQuestBlobRingAlpha
+status: unimplemented
+inputs:
+- - type: number

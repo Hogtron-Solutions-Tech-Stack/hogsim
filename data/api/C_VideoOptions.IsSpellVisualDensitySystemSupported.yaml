@@ -1,0 +1,6 @@
+---
+name: C_VideoOptions.IsSpellVisualDensitySystemSupported
+status: unimplemented
+outputs:
+- name: isSupported
+  type: boolean

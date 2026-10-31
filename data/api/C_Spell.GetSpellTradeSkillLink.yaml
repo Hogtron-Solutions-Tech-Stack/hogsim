@@ -1,0 +1,8 @@
+---
+name: C_Spell.GetSpellTradeSkillLink
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: spellLink
+  type: string

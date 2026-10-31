@@ -1,0 +1,12 @@
+---
+name: SetUnit
+status: unimplemented
+inputs:
+- - type: unit
+  - default: true
+    type: boolean
+  - nilable: true
+    type: boolean
+outputs:
+- name: success
+  type: boolean

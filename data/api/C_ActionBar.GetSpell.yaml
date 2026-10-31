@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.GetSpell
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: spellID
+  type: number

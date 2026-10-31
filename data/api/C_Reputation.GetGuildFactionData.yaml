@@ -1,0 +1,7 @@
+---
+name: C_Reputation.GetGuildFactionData
+status: unimplemented
+outputs:
+- name: guildFactionData
+  nilable: true
+  type: FactionData

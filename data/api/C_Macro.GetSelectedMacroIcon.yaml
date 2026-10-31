@@ -1,0 +1,8 @@
+---
+name: C_Macro.GetSelectedMacroIcon
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: textureNum
+  type: number

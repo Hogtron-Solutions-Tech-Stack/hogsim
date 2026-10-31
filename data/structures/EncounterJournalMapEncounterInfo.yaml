@@ -1,0 +1,9 @@
+---
+name: EncounterJournalMapEncounterInfo
+fields:
+- name: encounterID
+  type: number
+- name: mapX
+  type: number
+- name: mapY
+  type: number

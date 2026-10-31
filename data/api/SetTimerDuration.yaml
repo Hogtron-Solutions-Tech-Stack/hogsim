@@ -1,0 +1,9 @@
+---
+name: SetTimerDuration
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: Immediate
+    type: number
+  - default: ElapsedTime
+    type: number

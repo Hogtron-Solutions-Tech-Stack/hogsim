@@ -1,0 +1,8 @@
+---
+name: C_ChatInfo.IsValidCombatFilterName
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isApproved
+  type: boolean

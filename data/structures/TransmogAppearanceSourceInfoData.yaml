@@ -1,0 +1,24 @@
+---
+name: TransmogAppearanceSourceInfoData
+fields:
+- name: category
+  type: number
+- name: itemAppearanceID
+  type: number
+- name: canHaveIllusion
+  type: boolean
+- name: icon
+  type: number
+- name: isCollected
+  type: boolean
+- name: itemLink
+  type: string
+- name: transmoglink
+  type: string
+- name: sourceType
+  nilable: true
+  type: number
+- name: itemSubclass
+  type: number
+- name: ignoreModelAttachmentChecksForIllusion
+  type: boolean

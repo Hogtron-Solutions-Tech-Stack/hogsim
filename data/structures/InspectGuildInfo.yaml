@@ -1,0 +1,11 @@
+---
+name: InspectGuildInfo
+fields:
+- name: achievementPoints
+  type: number
+- name: numMembers
+  type: number
+- name: guildName
+  type: string
+- name: realmName
+  type: string

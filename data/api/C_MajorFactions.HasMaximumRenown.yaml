@@ -1,0 +1,8 @@
+---
+name: C_MajorFactions.HasMaximumRenown
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hasMaxRenown
+  type: boolean

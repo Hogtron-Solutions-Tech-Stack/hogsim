@@ -1,0 +1,7 @@
+---
+name: C_WorldSafeLocsUIInternal.GetWorldSafeLocs
+status: unimplemented
+outputs:
+- innerType: WorldSafeLocInfo
+  name: worldSafeLocs
+  type: table

@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.GetSpellBookItemTexture
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: iconID
+  type: number

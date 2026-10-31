@@ -1,0 +1,6 @@
+---
+name: GetHyperlinksEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetFrameStrata
+status: unimplemented
+outputs:
+- name: strata
+  type: unknown

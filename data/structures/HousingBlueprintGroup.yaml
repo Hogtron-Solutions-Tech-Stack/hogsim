@@ -1,0 +1,8 @@
+---
+name: HousingBlueprintGroup
+fields:
+- name: name
+  type: string
+- innerType: HousingBlueprintInfo
+  name: entries
+  type: table

@@ -1,0 +1,8 @@
+---
+name: C_TransmogCollection.GetFilteredCategoryTotal
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: total
+  type: number

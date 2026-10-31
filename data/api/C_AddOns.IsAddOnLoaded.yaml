@@ -1,0 +1,10 @@
+---
+name: C_AddOns.IsAddOnLoaded
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: loadedOrLoading
+  type: boolean
+- name: loaded
+  type: boolean

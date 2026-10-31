@@ -1,0 +1,6 @@
+---
+name: GetHitRectThickness
+status: unimplemented
+outputs:
+- name: thickness
+  type: number

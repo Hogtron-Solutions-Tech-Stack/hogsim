@@ -1,0 +1,6 @@
+---
+name: GetFading
+status: unimplemented
+outputs:
+- name: isFading
+  type: boolean

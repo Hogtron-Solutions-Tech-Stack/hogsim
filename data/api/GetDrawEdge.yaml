@@ -1,0 +1,6 @@
+---
+name: GetDrawEdge
+status: unimplemented
+outputs:
+- name: drawEdge
+  type: boolean

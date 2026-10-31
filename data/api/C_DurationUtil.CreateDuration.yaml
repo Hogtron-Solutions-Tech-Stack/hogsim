@@ -1,0 +1,6 @@
+---
+name: C_DurationUtil.CreateDuration
+status: unimplemented
+outputs:
+- name: duration
+  type: unknown

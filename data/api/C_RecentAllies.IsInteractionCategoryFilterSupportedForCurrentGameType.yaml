@@ -1,0 +1,8 @@
+---
+name: C_RecentAllies.IsInteractionCategoryFilterSupportedForCurrentGameType
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isInteractionCategoryFilterSupportedForCurrentGameType
+  type: boolean

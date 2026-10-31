@@ -1,0 +1,9 @@
+---
+name: C_HousingCatalog.GetAllVariantInfosForEntry
+status: unimplemented
+inputs:
+- - type: HousingCatalogEntryID
+outputs:
+- innerType: HousingCatalogEntryVariantInfo
+  name: variantInfos
+  type: table

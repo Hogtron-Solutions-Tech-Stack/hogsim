@@ -1,0 +1,14 @@
+---
+name: C_PaperDollInfo.GetInventorySlotInfoForInvSlot
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: invSlot
+  type: number
+- name: slotTexture
+  type: number
+- name: checkRelic
+  type: boolean
+- name: slotName
+  type: string

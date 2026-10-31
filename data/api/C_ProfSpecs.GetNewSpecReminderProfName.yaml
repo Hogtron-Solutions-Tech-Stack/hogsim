@@ -1,0 +1,7 @@
+---
+name: C_ProfSpecs.GetNewSpecReminderProfName
+status: unimplemented
+outputs:
+- name: profName
+  nilable: true
+  type: string

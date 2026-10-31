@@ -1,0 +1,6 @@
+---
+name: C_GuildInfo.IsGuildReputationEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

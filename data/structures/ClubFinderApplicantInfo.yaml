@@ -1,0 +1,30 @@
+---
+name: ClubFinderApplicantInfo
+fields:
+- name: clubFinderGUID
+  type: string
+- name: playerGUID
+  type: string
+- name: closed
+  type: number
+- name: name
+  type: string
+- name: message
+  type: string
+- name: level
+  type: number
+- name: classID
+  type: number
+- name: ilvl
+  type: number
+- innerType: number
+  name: specIds
+  type: table
+- name: requestStatus
+  type: number
+- name: lookupSuccess
+  type: boolean
+- name: lastUpdatedTime
+  type: number
+- name: faction
+  type: number

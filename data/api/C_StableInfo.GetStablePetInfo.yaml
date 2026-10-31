@@ -1,0 +1,9 @@
+---
+name: C_StableInfo.GetStablePetInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: petInfo
+  nilable: true
+  type: PetInfo

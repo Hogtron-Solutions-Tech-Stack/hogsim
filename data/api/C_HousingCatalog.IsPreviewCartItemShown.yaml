@@ -1,0 +1,8 @@
+---
+name: C_HousingCatalog.IsPreviewCartItemShown
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isShown
+  type: boolean

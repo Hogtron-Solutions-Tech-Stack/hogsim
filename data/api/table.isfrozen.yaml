@@ -1,0 +1,8 @@
+---
+name: table.isfrozen
+status: unimplemented
+inputs:
+- - type: table
+outputs:
+- name: frozen
+  type: boolean

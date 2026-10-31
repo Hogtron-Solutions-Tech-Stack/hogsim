@@ -1,0 +1,6 @@
+---
+name: C_Housing.IsHousingMarketEnabled
+status: unimplemented
+outputs:
+- name: isHousingMarketEnabled
+  type: boolean

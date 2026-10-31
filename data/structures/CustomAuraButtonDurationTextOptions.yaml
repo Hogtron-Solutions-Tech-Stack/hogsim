@@ -1,0 +1,15 @@
+---
+name: CustomAuraButtonDurationTextOptions
+fields:
+- name: binding
+  nilable: true
+  type: unknown
+- name: textFormatter
+  nilable: true
+  type: unknown
+- name: textFormat
+  nilable: true
+  type: DurationTextBindingFormatOptions
+- name: textColor
+  nilable: true
+  type: DurationTextBindingColorOptions

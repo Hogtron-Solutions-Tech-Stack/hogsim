@@ -1,0 +1,6 @@
+---
+name: FocusEnter
+status: unimplemented
+inputs:
+- - default: true
+    type: boolean

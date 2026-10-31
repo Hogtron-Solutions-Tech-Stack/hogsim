@@ -1,0 +1,6 @@
+---
+name: UpdateMouseoverAtPoint
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

@@ -1,0 +1,11 @@
+---
+name: TieredEntranceRewardInfo
+fields:
+- name: id
+  type: number
+- name: quantity
+  type: number
+- name: rewardType
+  type: number
+- name: context
+  type: unknown

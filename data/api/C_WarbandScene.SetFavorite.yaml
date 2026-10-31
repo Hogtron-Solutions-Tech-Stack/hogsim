@@ -1,0 +1,6 @@
+---
+name: C_WarbandScene.SetFavorite
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

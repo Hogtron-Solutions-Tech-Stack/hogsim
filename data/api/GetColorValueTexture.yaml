@@ -1,0 +1,6 @@
+---
+name: GetColorValueTexture
+status: unimplemented
+outputs:
+- name: texture
+  type: unknown

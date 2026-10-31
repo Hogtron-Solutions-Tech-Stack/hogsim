@@ -1,0 +1,6 @@
+---
+name: SetAttribute
+status: unimplemented
+inputs:
+- - type: string
+  - type: string

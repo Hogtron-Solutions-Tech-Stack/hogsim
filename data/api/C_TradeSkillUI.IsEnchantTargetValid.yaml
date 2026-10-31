@@ -1,0 +1,12 @@
+---
+name: C_TradeSkillUI.IsEnchantTargetValid
+status: unimplemented
+inputs:
+- - type: number
+  - type: string
+  - innerType: CraftingReagentInfo
+    nilable: true
+    type: table
+outputs:
+- name: valid
+  type: boolean

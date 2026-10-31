@@ -1,0 +1,9 @@
+---
+name: C_AuraContainerUtil.ProcessCustomAuraButtonApplicationCountOptions
+status: unimplemented
+inputs:
+- - nilable: true
+    type: CustomAuraButtonApplicationCountOptions
+outputs:
+- name: result
+  type: CustomAuraButtonApplicationCountOptions

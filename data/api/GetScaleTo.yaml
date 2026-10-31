@@ -1,0 +1,8 @@
+---
+name: GetScaleTo
+status: unimplemented
+outputs:
+- name: scaleX
+  type: number
+- name: scaleY
+  type: number

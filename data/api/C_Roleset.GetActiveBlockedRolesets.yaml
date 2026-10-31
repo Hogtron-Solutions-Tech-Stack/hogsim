@@ -1,0 +1,7 @@
+---
+name: C_Roleset.GetActiveBlockedRolesets
+status: unimplemented
+outputs:
+- innerType: string
+  name: blockedRolesets
+  type: table

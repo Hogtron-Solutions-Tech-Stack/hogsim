@@ -1,0 +1,6 @@
+---
+name: C_NeighborhoodInitiative.GetActiveNeighborhood
+status: unimplemented
+outputs:
+- name: neighborhoodGUID
+  type: string

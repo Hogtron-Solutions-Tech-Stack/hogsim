@@ -1,0 +1,9 @@
+---
+name: C_Intl.FormatCurrency
+status: unimplemented
+inputs:
+- - type: number
+  - type: string
+outputs:
+- name: result
+  type: string

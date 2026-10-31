@@ -1,0 +1,6 @@
+---
+name: C_GameRules.GetNumDisplayedGameModes
+status: unimplemented
+outputs:
+- name: numDisplayedGameModes
+  type: number

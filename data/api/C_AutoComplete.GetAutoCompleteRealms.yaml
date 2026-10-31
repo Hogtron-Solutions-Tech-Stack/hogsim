@@ -1,0 +1,7 @@
+---
+name: C_AutoComplete.GetAutoCompleteRealms
+status: unimplemented
+outputs:
+- innerType: string
+  name: realms
+  type: table

@@ -1,0 +1,6 @@
+---
+name: C_AddOnProfiler.GetTicksPerSecond
+status: unimplemented
+outputs:
+- name: frequency
+  type: number

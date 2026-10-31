@@ -1,0 +1,7 @@
+---
+name: C_InterfaceFileManifest.GetInterfaceArtFiles
+status: unimplemented
+outputs:
+- innerType: string
+  name: images
+  type: table

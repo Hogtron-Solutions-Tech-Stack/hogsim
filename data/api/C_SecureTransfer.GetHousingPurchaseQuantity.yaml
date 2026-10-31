@@ -1,0 +1,6 @@
+---
+name: C_SecureTransfer.GetHousingPurchaseQuantity
+status: unimplemented
+outputs:
+- name: quantity
+  type: number

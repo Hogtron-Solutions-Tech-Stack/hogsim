@@ -1,0 +1,14 @@
+---
+name: AccountStoreCurrencyInfo
+fields:
+- name: id
+  type: number
+- name: amount
+  type: number
+- name: maxQuantity
+  nilable: true
+  type: number
+- name: name
+  type: string
+- name: icon
+  type: number

@@ -1,0 +1,8 @@
+---
+name: SetSpellVisualKit
+status: unimplemented
+inputs:
+- - default: 0
+    type: number
+  - default: false
+    type: boolean

@@ -1,0 +1,5 @@
+---
+name: C_HousingLayout.SelectFloorplan
+status: unimplemented
+inputs:
+- - type: number

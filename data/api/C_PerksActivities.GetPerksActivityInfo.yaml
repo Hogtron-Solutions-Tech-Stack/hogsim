@@ -1,0 +1,9 @@
+---
+name: C_PerksActivities.GetPerksActivityInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: info
+  nilable: true
+  type: PerksActivityInfo

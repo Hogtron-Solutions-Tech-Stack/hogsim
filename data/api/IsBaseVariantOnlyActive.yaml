@@ -1,0 +1,6 @@
+---
+name: IsBaseVariantOnlyActive
+status: unimplemented
+outputs:
+- name: isActive
+  type: boolean

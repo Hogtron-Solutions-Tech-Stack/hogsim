@@ -1,0 +1,8 @@
+---
+name: C_QuestLog.QuestIgnoresAccountCompletedFiltering
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: questIgnoresAccountCompletedFiltering
+  type: boolean

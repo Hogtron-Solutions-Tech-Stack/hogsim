@@ -1,0 +1,6 @@
+---
+name: PlayerIsTimerunning
+status: unimplemented
+outputs:
+- name: playerIsTimerunning
+  type: boolean

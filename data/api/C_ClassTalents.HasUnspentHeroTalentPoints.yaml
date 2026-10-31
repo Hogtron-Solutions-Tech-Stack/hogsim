@@ -1,0 +1,8 @@
+---
+name: C_ClassTalents.HasUnspentHeroTalentPoints
+status: unimplemented
+outputs:
+- name: hasUnspentPoints
+  type: boolean
+- name: numHeroPoints
+  type: number

@@ -1,0 +1,5 @@
+---
+name: C_Log.LogWarningMessage
+status: unimplemented
+inputs:
+- - type: string

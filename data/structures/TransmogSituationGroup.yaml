@@ -1,0 +1,10 @@
+---
+name: TransmogSituationGroup
+fields:
+- name: groupID
+  type: number
+- name: secondaryID
+  type: number
+- innerType: TransmogSituationOptionData
+  name: optionData
+  type: table

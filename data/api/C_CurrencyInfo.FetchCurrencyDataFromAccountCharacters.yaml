@@ -1,0 +1,9 @@
+---
+name: C_CurrencyInfo.FetchCurrencyDataFromAccountCharacters
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: CharacterCurrencyData
+  name: accountCurrencyData
+  type: table

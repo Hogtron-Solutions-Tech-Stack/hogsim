@@ -1,0 +1,5 @@
+---
+name: RafIllusionInfo
+fields:
+- name: spellItemEnchantmentID
+  type: number

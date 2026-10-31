@@ -1,0 +1,6 @@
+---
+name: C_HousingBasicMode.IsFreePlaceEnabled
+status: unimplemented
+outputs:
+- name: freePlaceEnabled
+  type: boolean

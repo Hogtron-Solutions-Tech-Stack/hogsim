@@ -1,0 +1,9 @@
+---
+name: TransmogOutfitOptionInfo
+fields:
+- name: type
+  type: number
+- name: name
+  type: string
+- name: enabled
+  type: boolean

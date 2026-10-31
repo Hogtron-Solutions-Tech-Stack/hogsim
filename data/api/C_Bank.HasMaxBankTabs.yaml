@@ -1,0 +1,8 @@
+---
+name: C_Bank.HasMaxBankTabs
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hasMaxBankTabs
+  type: boolean

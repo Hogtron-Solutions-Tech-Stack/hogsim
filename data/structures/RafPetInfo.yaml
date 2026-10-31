@@ -1,0 +1,13 @@
+---
+name: RafPetInfo
+fields:
+- name: creatureID
+  type: number
+- name: speciesID
+  type: number
+- name: displayID
+  type: number
+- name: speciesName
+  type: string
+- name: description
+  type: string

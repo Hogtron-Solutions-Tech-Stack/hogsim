@@ -1,0 +1,6 @@
+---
+name: GetModelUnitGUID
+status: unimplemented
+outputs:
+- name: guid
+  type: string

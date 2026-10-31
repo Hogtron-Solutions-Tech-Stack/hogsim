@@ -1,0 +1,7 @@
+---
+name: GetSearchText
+status: unimplemented
+outputs:
+- name: searchText
+  nilable: true
+  type: string

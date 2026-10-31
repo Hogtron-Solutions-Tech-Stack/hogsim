@@ -1,0 +1,6 @@
+---
+name: IsGeoReady
+status: unimplemented
+outputs:
+- name: isReady
+  type: boolean

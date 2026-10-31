@@ -1,0 +1,9 @@
+---
+name: GetRemainingDuration
+status: unimplemented
+inputs:
+- - default: RealTime
+    type: number
+outputs:
+- name: remainingDuration
+  type: unknown

@@ -1,0 +1,6 @@
+---
+name: C_GuildInfo.RequestPreferredPlaySettings
+status: unimplemented
+outputs:
+- name: startedSuccessfully
+  type: boolean

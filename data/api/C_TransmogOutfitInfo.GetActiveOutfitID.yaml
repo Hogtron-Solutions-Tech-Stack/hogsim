@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.GetActiveOutfitID
+status: unimplemented
+outputs:
+- name: outfitID
+  type: number

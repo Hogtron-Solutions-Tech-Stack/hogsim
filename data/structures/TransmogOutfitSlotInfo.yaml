@@ -1,0 +1,13 @@
+---
+name: TransmogOutfitSlotInfo
+fields:
+- name: slot
+  type: number
+- name: type
+  type: number
+- name: collectionType
+  type: number
+- name: slotName
+  type: string
+- name: isSecondary
+  type: boolean

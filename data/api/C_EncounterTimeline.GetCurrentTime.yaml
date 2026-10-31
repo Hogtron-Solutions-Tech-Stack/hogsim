@@ -1,0 +1,6 @@
+---
+name: C_EncounterTimeline.GetCurrentTime
+status: unimplemented
+outputs:
+- name: currentTime
+  type: unknown

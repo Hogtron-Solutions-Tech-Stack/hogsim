@@ -1,0 +1,5 @@
+---
+name: C_Housing.CreateGuildNeighborhood
+status: unimplemented
+inputs:
+- - type: string

@@ -1,0 +1,17 @@
+---
+name: InitiativeMilestoneRewardInfo
+fields:
+- name: title
+  type: string
+- name: description
+  type: string
+- name: decorID
+  type: number
+- name: decorQuantity
+  type: number
+- name: favor
+  type: number
+- name: money
+  type: number
+- name: rewardQuestID
+  type: number

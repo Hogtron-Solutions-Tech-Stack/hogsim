@@ -1,0 +1,15 @@
+---
+name: MatchPVPStatColumn
+fields:
+- name: pvpStatID
+  type: number
+- name: columnHeaderID
+  type: number
+- name: orderIndex
+  type: number
+- name: name
+  type: string
+- name: tooltipTitle
+  type: string
+- name: tooltip
+  type: string

@@ -1,0 +1,8 @@
+---
+name: C_UIFileAsset.IsKnownFile
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isValid
+  type: boolean

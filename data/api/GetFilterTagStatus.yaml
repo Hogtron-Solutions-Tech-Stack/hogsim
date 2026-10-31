@@ -1,0 +1,9 @@
+---
+name: GetFilterTagStatus
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: active
+  type: boolean

@@ -1,0 +1,36 @@
+---
+name: TraitNodeInfoPartial
+fields:
+- name: canPurchaseRank
+  nilable: true
+  type: boolean
+- name: canRefundRank
+  nilable: true
+  type: boolean
+- name: isAvailable
+  nilable: true
+  type: boolean
+- name: isVisible
+  nilable: true
+  type: boolean
+- name: ranksPurchased
+  nilable: true
+  type: number
+- name: activeRank
+  nilable: true
+  type: number
+- name: currentRank
+  nilable: true
+  type: number
+- name: meetsEdgeRequirements
+  nilable: true
+  type: boolean
+- name: isCascadeRepurchasable
+  nilable: true
+  type: boolean
+- name: activeEntryID
+  nilable: true
+  type: number
+- name: subTreeActive
+  nilable: true
+  type: boolean

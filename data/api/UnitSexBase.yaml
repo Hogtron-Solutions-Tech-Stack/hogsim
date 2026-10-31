@@ -1,0 +1,9 @@
+---
+name: UnitSexBase
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: sex
+  nilable: true
+  type: number

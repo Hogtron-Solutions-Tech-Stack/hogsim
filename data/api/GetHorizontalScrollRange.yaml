@@ -1,0 +1,6 @@
+---
+name: GetHorizontalScrollRange
+status: unimplemented
+outputs:
+- name: range
+  type: number

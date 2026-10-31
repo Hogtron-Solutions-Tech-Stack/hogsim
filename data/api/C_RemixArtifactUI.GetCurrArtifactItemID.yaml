@@ -1,0 +1,7 @@
+---
+name: C_RemixArtifactUI.GetCurrArtifactItemID
+status: unimplemented
+outputs:
+- name: reqitemID
+  nilable: true
+  type: number

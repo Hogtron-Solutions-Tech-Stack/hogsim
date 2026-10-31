@@ -1,0 +1,9 @@
+---
+name: HasStarted
+status: unimplemented
+inputs:
+- - default: RealTime
+    type: number
+outputs:
+- name: hasStarted
+  type: boolean

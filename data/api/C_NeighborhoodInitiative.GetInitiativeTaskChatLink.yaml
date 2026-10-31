@@ -1,0 +1,8 @@
+---
+name: C_NeighborhoodInitiative.GetInitiativeTaskChatLink
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: link
+  type: string

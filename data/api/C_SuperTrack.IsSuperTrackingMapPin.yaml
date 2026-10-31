@@ -1,0 +1,6 @@
+---
+name: C_SuperTrack.IsSuperTrackingMapPin
+status: unimplemented
+outputs:
+- name: isSuperTracking
+  type: boolean

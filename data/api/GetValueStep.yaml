@@ -1,0 +1,6 @@
+---
+name: GetValueStep
+status: unimplemented
+outputs:
+- name: valueStep
+  type: number

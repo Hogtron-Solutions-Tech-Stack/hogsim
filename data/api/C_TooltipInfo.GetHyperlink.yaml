@@ -1,0 +1,14 @@
+---
+name: C_TooltipInfo.GetHyperlink
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: boolean
+outputs:
+- name: data
+  type: unknown

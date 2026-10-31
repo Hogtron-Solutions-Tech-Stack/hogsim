@@ -1,0 +1,20 @@
+---
+name: GetTexCoord
+status: unimplemented
+outputs:
+- name: ulX
+  type: number
+- name: ulY
+  type: number
+- name: llX
+  type: number
+- name: llY
+  type: number
+- name: urX
+  type: number
+- name: urY
+  type: number
+- name: lrX
+  type: number
+- name: lrY
+  type: number

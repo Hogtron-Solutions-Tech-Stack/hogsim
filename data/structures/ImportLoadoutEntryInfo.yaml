@@ -1,0 +1,11 @@
+---
+name: ImportLoadoutEntryInfo
+fields:
+- name: nodeID
+  type: number
+- name: ranksGranted
+  type: number
+- name: ranksPurchased
+  type: number
+- name: selectionEntryID
+  type: number

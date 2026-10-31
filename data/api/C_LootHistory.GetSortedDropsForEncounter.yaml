@@ -1,0 +1,10 @@
+---
+name: C_LootHistory.GetSortedDropsForEncounter
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: EncounterLootDropInfo
+  name: drops
+  nilable: true
+  type: table

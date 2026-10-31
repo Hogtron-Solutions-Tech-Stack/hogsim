@@ -1,0 +1,6 @@
+---
+name: IsPendingFinish
+status: unimplemented
+outputs:
+- name: isPendingFinish
+  type: boolean

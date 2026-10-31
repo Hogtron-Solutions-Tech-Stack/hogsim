@@ -1,0 +1,7 @@
+---
+name: C_AddOns.DisableAddOn
+status: unimplemented
+inputs:
+- - type: string
+  - default: '0'
+    type: string

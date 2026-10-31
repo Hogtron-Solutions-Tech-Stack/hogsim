@@ -1,0 +1,6 @@
+---
+name: C_PerksProgram.GetFrozenPerksVendorItemInfo
+status: unimplemented
+outputs:
+- name: vendorItemInfo
+  type: PerksVendorItemInfo

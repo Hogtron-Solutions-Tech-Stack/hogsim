@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.GetDisplayID
+status: unimplemented
+outputs:
+- name: displayID
+  type: number

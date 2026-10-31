@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.HasExtraActionBar
+status: unimplemented
+outputs:
+- name: hasExtraActionBar
+  type: boolean

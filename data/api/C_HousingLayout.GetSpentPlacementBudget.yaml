@@ -1,0 +1,7 @@
+---
+name: C_HousingLayout.GetSpentPlacementBudget
+status: unimplemented
+outputs:
+- name: spentPlacementBudget
+  nilable: true
+  type: number

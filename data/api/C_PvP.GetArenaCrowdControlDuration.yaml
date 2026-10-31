@@ -1,0 +1,8 @@
+---
+name: C_PvP.GetArenaCrowdControlDuration
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: duration
+  type: unknown

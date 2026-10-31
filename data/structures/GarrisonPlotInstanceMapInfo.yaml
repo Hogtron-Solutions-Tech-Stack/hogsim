@@ -1,0 +1,11 @@
+---
+name: GarrisonPlotInstanceMapInfo
+fields:
+- name: buildingPlotInstanceID
+  type: number
+- name: position
+  type: unknown
+- name: name
+  type: string
+- name: atlasName
+  type: string

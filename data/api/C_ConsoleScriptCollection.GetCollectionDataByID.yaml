@@ -1,0 +1,9 @@
+---
+name: C_ConsoleScriptCollection.GetCollectionDataByID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: data
+  nilable: true
+  type: ConsoleScriptCollectionData

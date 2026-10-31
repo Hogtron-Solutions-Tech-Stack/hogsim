@@ -9,6 +9,8 @@ methods:
     status: implemented
   GetActorAtIndex:
     status: unimplemented
+  GetAllowOverlappedModels:
+    status: unimplemented
   GetCameraFarClip:
     status: unimplemented
   GetCameraFieldOfView:
@@ -63,6 +65,8 @@ methods:
   IsLightVisible:
     status: unimplemented
   Project3DPointTo2D:
+    status: unimplemented
+  SetAllowOverlappedModels:
     status: unimplemented
   SetCameraFarClip:
     status: unimplemented

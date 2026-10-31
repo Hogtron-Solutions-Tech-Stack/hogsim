@@ -25,9 +25,17 @@ methods:
     status: unimplemented
   CanWordWrap:
     status: unimplemented
+  ClearAlphaGradient:
+    status: unimplemented
+  ClearText:
+    status: unimplemented
   FindCharacterIndexAtCoordinate:
     status: unimplemented
+  GetAlphaGradient:
+    status: unimplemented
   GetFieldSize:
+    status: unimplemented
+  GetFontHeight:
     status: unimplemented
   GetLineHeight:
     outputs:
@@ -46,6 +54,10 @@ methods:
     - wow
     - wow_beta
     - wowt
+    status: unimplemented
+  GetScaleAnimationMode:
+    status: unimplemented
+  GetSmoothScaling:
     status: unimplemented
   GetStringHeight:
     outputs:
@@ -67,6 +79,8 @@ methods:
     outputs:
     - type: number
     status: unimplemented
+  GetUnboundedStringWidthForText:
+    status: unimplemented
   GetVertexColor:
     products:
     - wow
@@ -79,9 +93,15 @@ methods:
     status: unimplemented
   IsTruncated:
     status: unimplemented
+  OnColorsUpdated:
+    status: unimplemented
   SetAlphaGradient:
     status: unimplemented
+  SetDesaturateEmbeddedTextures:
+    status: unimplemented
   SetFixedColor:
+    status: unimplemented
+  SetFontHeight:
     status: unimplemented
   SetFormattedText:
     status: unimplemented
@@ -97,6 +117,10 @@ methods:
     - wow_beta
     - wowt
     status: unimplemented
+  SetScaleAnimationMode:
+    status: unimplemented
+  SetSmoothScaling:
+    status: unimplemented
   SetText:
     status: implemented
   SetTextHeight:
@@ -105,5 +129,7 @@ methods:
     fields:
     - name: textScale
     status: setter
+  SetTextToFit:
+    status: unimplemented
   SetWordWrap:
     status: unimplemented

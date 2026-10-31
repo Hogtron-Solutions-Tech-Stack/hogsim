@@ -1,0 +1,7 @@
+---
+name: C_MerchantFrame.GetMerchantCurrencies
+status: unimplemented
+outputs:
+- innerType: number
+  name: currencies
+  type: table

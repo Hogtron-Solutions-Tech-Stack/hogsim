@@ -1,0 +1,6 @@
+---
+name: GetCollapsingStarCost
+status: unimplemented
+outputs:
+- name: cost
+  type: number

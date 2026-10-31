@@ -1,0 +1,6 @@
+---
+name: C_PvP.IsMatchActive
+status: unimplemented
+outputs:
+- name: isActive
+  type: boolean

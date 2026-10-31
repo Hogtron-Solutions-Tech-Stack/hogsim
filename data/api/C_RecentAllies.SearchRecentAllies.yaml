@@ -1,0 +1,9 @@
+---
+name: C_RecentAllies.SearchRecentAllies
+status: unimplemented
+inputs:
+- - type: RecentAlliesSearchInfo
+outputs:
+- innerType: RecentAllyData
+  name: recentAlliesData
+  type: table

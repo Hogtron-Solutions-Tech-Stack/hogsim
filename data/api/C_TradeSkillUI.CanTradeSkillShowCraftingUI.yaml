@@ -1,0 +1,8 @@
+---
+name: C_TradeSkillUI.CanTradeSkillShowCraftingUI
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: canShow
+  type: boolean

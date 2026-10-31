@@ -1,0 +1,7 @@
+---
+name: GetMouseFoci
+status: unimplemented
+outputs:
+- innerType: unknown
+  name: region
+  type: table

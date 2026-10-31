@@ -1,0 +1,6 @@
+---
+name: C_HouseExterior.HasSelectedFixturePoint
+status: unimplemented
+outputs:
+- name: anySelectedFixturePoint
+  type: boolean

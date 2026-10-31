@@ -1,0 +1,11 @@
+---
+name: C_QuestLog.GetQuestRewardCurrencyInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: boolean
+outputs:
+- name: questRewardCurrencyInfo
+  nilable: true
+  type: QuestRewardCurrencyInfo

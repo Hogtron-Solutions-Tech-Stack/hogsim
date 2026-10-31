@@ -1,0 +1,14 @@
+---
+name: AddOnProfilerCallResults
+fields:
+- name: elapsedMilliseconds
+  type: number
+- name: elapsedTicks
+  type: number
+- name: allocatedBytes
+  type: number
+- name: deallocatedBytes
+  type: number
+- innerType: AddOnProfilerCallEvent
+  name: events
+  type: table

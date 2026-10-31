@@ -1,0 +1,8 @@
+---
+name: CreateFrameWithOptions
+status: unimplemented
+inputs:
+- - type: CreateFrameOptions
+outputs:
+- name: frame
+  type: unknown

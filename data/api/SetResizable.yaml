@@ -1,0 +1,5 @@
+---
+name: SetResizable
+status: unimplemented
+inputs:
+- - type: boolean

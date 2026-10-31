@@ -1,0 +1,8 @@
+---
+name: C_ChatInfo.IsTimerunningPlayer
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isTimerunning
+  type: boolean

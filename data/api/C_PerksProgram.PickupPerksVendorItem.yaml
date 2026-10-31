@@ -1,0 +1,5 @@
+---
+name: C_PerksProgram.PickupPerksVendorItem
+status: unimplemented
+inputs:
+- - type: number

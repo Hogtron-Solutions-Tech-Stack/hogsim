@@ -1,0 +1,6 @@
+---
+name: C_ScenarioInfo.IsTieredEntranceScenario
+status: unimplemented
+outputs:
+- name: isTieredEntrance
+  type: boolean

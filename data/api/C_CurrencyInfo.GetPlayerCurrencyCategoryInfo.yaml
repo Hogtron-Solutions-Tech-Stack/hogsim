@@ -1,0 +1,10 @@
+---
+name: C_CurrencyInfo.GetPlayerCurrencyCategoryInfo
+status: unimplemented
+inputs:
+- - type: number
+  - default: true
+    type: boolean
+outputs:
+- name: info
+  type: PlayerCurrencyCategoryInfo

@@ -1,0 +1,9 @@
+---
+name: CovenantFeatureInfo
+fields:
+- name: name
+  type: string
+- name: description
+  type: string
+- name: texture
+  type: number

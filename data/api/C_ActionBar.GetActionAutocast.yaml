@@ -1,0 +1,10 @@
+---
+name: C_ActionBar.GetActionAutocast
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: autocastAllowed
+  type: boolean
+- name: autocastEnabled
+  type: boolean

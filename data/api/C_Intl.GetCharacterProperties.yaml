@@ -1,0 +1,8 @@
+---
+name: C_Intl.GetCharacterProperties
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: result
+  type: CharacterProperties

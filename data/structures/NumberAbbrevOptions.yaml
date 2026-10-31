@@ -1,0 +1,13 @@
+---
+name: NumberAbbrevOptions
+fields:
+- innerType: NumberAbbreviationBreakpoint
+  name: breakpointData
+  nilable: true
+  type: table
+- name: locale
+  nilable: true
+  type: string
+- name: config
+  nilable: true
+  type: unknown

@@ -1,0 +1,44 @@
+---
+name: C_SpecializationInfo.GetSpecializationInfo
+status: unimplemented
+inputs:
+- - type: number
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean
+  - nilable: true
+    type: string
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+outputs:
+- name: specId
+  type: number
+- name: name
+  nilable: true
+  type: string
+- name: description
+  nilable: true
+  type: string
+- name: icon
+  nilable: true
+  type: number
+- name: role
+  nilable: true
+  type: string
+- name: primaryStat
+  nilable: true
+  type: number
+- name: pointsSpent
+  type: number
+- name: background
+  nilable: true
+  type: string
+- name: previewPointsSpent
+  type: number
+- name: isUnlocked
+  type: boolean

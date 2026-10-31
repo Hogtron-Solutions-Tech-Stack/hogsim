@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.SetCustomTitleFriendName
+status: unimplemented
+inputs:
+- - type: number
+  - type: string

@@ -1,0 +1,7 @@
+---
+name: QuestSessionPlayerDetails
+fields:
+- name: name
+  type: string
+- name: guid
+  type: string

@@ -1,0 +1,10 @@
+---
+name: UnitEmpoweredChannelDuration
+status: unimplemented
+inputs:
+- - type: unit
+  - default: true
+    type: boolean
+outputs:
+- name: duration
+  type: unknown

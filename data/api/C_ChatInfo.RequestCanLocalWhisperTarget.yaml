@@ -1,0 +1,5 @@
+---
+name: C_ChatInfo.RequestCanLocalWhisperTarget
+status: unimplemented
+inputs:
+- - type: string

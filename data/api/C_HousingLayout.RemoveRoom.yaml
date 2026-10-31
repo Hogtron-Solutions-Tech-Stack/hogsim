@@ -1,0 +1,5 @@
+---
+name: C_HousingLayout.RemoveRoom
+status: unimplemented
+inputs:
+- - type: string

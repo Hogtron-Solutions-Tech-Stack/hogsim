@@ -1,0 +1,6 @@
+---
+name: C_GuildBank.IsGuildBankEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

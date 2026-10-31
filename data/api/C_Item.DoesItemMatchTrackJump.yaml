@@ -1,0 +1,8 @@
+---
+name: C_Item.DoesItemMatchTrackJump
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: matchesTrackJump
+  type: boolean

@@ -1,0 +1,8 @@
+---
+name: GetAlphaGradient
+status: unimplemented
+outputs:
+- name: start
+  type: number
+- name: length
+  type: number

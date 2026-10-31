@@ -1,0 +1,6 @@
+---
+name: GetClockTime
+status: unimplemented
+outputs:
+- name: clockTime
+  type: unknown

@@ -1,0 +1,8 @@
+---
+name: C_HousingLayout.GetSelectedBlueprintFloorplan
+status: unimplemented
+outputs:
+- name: roomID
+  type: number
+- name: shareCode
+  type: string

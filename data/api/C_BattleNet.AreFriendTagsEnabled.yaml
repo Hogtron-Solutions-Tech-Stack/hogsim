@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.AreFriendTagsEnabled
+status: unimplemented
+outputs:
+- name: areFriendTagsEnabled
+  type: boolean

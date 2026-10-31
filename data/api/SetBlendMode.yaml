@@ -1,0 +1,5 @@
+---
+name: SetBlendMode
+status: unimplemented
+inputs:
+- - type: unknown

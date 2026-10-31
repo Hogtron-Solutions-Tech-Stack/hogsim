@@ -1,0 +1,11 @@
+---
+name: PvpScalingData
+fields:
+- name: scalingDataID
+  type: number
+- name: specializationID
+  type: number
+- name: name
+  type: string
+- name: value
+  type: number

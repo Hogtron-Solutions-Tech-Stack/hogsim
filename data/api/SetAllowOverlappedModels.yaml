@@ -1,0 +1,5 @@
+---
+name: SetAllowOverlappedModels
+status: unimplemented
+inputs:
+- - type: boolean

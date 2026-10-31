@@ -1,0 +1,6 @@
+---
+name: GetStringWidth
+status: unimplemented
+outputs:
+- name: width
+  type: number

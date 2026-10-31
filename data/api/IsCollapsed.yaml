@@ -1,0 +1,6 @@
+---
+name: IsCollapsed
+status: unimplemented
+outputs:
+- name: isCollapsed
+  type: boolean

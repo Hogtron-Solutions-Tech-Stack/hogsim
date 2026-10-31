@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.GetWorldTierDifficultyForActivePlayer
+status: unimplemented
+outputs:
+- name: difficulty
+  type: number

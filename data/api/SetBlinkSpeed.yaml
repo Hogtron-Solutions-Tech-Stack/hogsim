@@ -1,0 +1,5 @@
+---
+name: SetBlinkSpeed
+status: unimplemented
+inputs:
+- - type: number

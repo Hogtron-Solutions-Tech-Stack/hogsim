@@ -1,0 +1,14 @@
+---
+name: SendChatMessageParams
+fields:
+- name: message
+  type: string
+- name: chatType
+  nilable: true
+  type: unknown
+- name: languageID
+  nilable: true
+  type: number
+- name: target
+  nilable: true
+  type: string

@@ -1,0 +1,10 @@
+---
+name: C_DelvesUI.GetCurioNodeForCompanion
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: number
+outputs:
+- name: nodeID
+  type: number

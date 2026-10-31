@@ -1,0 +1,5 @@
+---
+name: C_HousingCatalog.DeletePreviewCartDecor
+status: unimplemented
+inputs:
+- - type: string

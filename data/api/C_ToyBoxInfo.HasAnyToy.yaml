@@ -1,0 +1,6 @@
+---
+name: C_ToyBoxInfo.HasAnyToy
+status: unimplemented
+outputs:
+- name: hasToy
+  type: boolean

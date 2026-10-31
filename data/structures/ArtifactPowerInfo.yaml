@@ -1,0 +1,33 @@
+---
+name: ArtifactPowerInfo
+fields:
+- name: spellID
+  type: number
+- name: cost
+  type: number
+- name: currentRank
+  type: number
+- name: maxRank
+  type: number
+- name: bonusRanks
+  type: number
+- name: numMaxRankBonusFromTier
+  type: number
+- name: prereqsMet
+  type: boolean
+- name: isStart
+  type: boolean
+- name: isGoldMedal
+  type: boolean
+- name: isFinal
+  type: boolean
+- name: tier
+  type: number
+- name: position
+  type: unknown
+- name: offset
+  nilable: true
+  type: unknown
+- name: linearIndex
+  nilable: true
+  type: number

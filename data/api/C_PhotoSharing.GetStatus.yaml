@@ -1,0 +1,6 @@
+---
+name: C_PhotoSharing.GetStatus
+status: unimplemented
+outputs:
+- name: status
+  type: number

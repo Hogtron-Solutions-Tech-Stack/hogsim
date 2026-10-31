@@ -1,0 +1,9 @@
+---
+name: C_HousingCatalog.SearchCatalogSubcategories
+status: unimplemented
+inputs:
+- - type: HousingCategorySearchInfo
+outputs:
+- innerType: number
+  name: subcategoryIDs
+  type: table

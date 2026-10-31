@@ -1,0 +1,6 @@
+---
+name: SetTextToFit
+status: unimplemented
+inputs:
+- - default: ''
+    type: string

@@ -1,0 +1,15 @@
+---
+name: ItemUpgradeInfo
+fields:
+- name: currentLevel
+  type: number
+- name: maxLevel
+  type: number
+- name: maxItemLevel
+  type: number
+- name: trackString
+  nilable: true
+  type: string
+- name: trackStringID
+  nilable: true
+  type: number

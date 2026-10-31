@@ -1,0 +1,8 @@
+---
+name: C_PerksActivities.GetPerksActivityChatLink
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: link
+  type: string

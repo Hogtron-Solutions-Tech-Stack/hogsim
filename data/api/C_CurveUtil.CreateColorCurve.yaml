@@ -1,0 +1,6 @@
+---
+name: C_CurveUtil.CreateColorCurve
+status: unimplemented
+outputs:
+- name: curve
+  type: unknown

@@ -1,0 +1,10 @@
+---
+name: C_Spell.IsSpellUsable
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isUsable
+  type: boolean
+- name: insufficientPower
+  type: boolean

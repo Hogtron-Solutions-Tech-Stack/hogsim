@@ -1,0 +1,6 @@
+---
+name: IsToplevel
+status: unimplemented
+outputs:
+- name: isTopLevel
+  type: boolean

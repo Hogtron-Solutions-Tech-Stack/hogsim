@@ -1,0 +1,8 @@
+---
+name: C_RecentAllies.CanSetRecentAllyNote
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: canSetNote
+  type: boolean

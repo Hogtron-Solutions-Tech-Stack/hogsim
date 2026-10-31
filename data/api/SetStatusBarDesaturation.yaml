@@ -1,0 +1,5 @@
+---
+name: SetStatusBarDesaturation
+status: unimplemented
+inputs:
+- - type: unknown

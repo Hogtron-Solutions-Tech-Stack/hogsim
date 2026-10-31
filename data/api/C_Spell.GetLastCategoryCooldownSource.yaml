@@ -1,0 +1,12 @@
+---
+name: C_Spell.GetLastCategoryCooldownSource
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: spellID
+  nilable: true
+  type: number
+- name: itemID
+  nilable: true
+  type: number

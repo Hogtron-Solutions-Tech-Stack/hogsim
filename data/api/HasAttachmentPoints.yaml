@@ -1,0 +1,6 @@
+---
+name: HasAttachmentPoints
+status: unimplemented
+outputs:
+- name: hasAttachmentPoints
+  type: boolean

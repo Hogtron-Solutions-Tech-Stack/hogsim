@@ -1,0 +1,7 @@
+---
+name: DecorQuantity
+fields:
+- name: placedQuantity
+  type: number
+- name: storedQuantity
+  type: number

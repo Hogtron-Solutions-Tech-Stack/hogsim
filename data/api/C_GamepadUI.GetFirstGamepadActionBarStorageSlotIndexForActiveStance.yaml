@@ -1,0 +1,7 @@
+---
+name: C_GamepadUI.GetFirstGamepadActionBarStorageSlotIndexForActiveStance
+status: unimplemented
+outputs:
+- name: activeStanceFirstGamepadStorageSlotIndex
+  nilable: true
+  type: number

@@ -1,0 +1,9 @@
+---
+name: RecentAllyInteractionData
+fields:
+- innerType: RecentAllyInteraction
+  name: interactions
+  type: table
+- name: note
+  nilable: true
+  type: string

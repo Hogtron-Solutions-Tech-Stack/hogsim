@@ -1,0 +1,10 @@
+---
+name: SpellDiminishCategoryInfo
+fields:
+- name: category
+  type: number
+- name: name
+  type: string
+- name: icon
+  nilable: true
+  type: number

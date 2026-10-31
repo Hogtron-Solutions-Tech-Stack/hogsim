@@ -1,0 +1,9 @@
+---
+name: C_TransmogCollection.GetCustomSetItemTransmogInfoList
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: unknown
+  name: list
+  type: table

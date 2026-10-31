@@ -1,0 +1,6 @@
+---
+name: C_Bank.AreAnyBankTypesViewable
+status: unimplemented
+outputs:
+- name: areAnyBankTypesViewable
+  type: boolean

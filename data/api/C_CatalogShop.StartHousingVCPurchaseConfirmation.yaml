@@ -1,0 +1,5 @@
+---
+name: C_CatalogShop.StartHousingVCPurchaseConfirmation
+status: unimplemented
+inputs:
+- - type: number

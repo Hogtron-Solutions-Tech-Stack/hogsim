@@ -1,0 +1,9 @@
+---
+name: C_Item.GetItemFamily
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: result
+  nilable: true
+  type: number

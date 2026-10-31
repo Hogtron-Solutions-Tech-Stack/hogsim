@@ -1,0 +1,5 @@
+---
+name: SetPanDistance
+status: unimplemented
+inputs:
+- - type: number

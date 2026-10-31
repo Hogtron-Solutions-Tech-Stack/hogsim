@@ -1,0 +1,6 @@
+---
+name: C_ItemSocketInfo.HasBoundGemProposed
+status: unimplemented
+outputs:
+- name: hasBoundGemProposed
+  type: boolean

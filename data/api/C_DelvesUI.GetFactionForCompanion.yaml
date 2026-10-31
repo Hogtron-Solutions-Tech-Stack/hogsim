@@ -1,0 +1,9 @@
+---
+name: C_DelvesUI.GetFactionForCompanion
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- name: factionID
+  type: number

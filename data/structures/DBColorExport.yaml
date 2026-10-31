@@ -1,0 +1,7 @@
+---
+name: DBColorExport
+fields:
+- name: baseTag
+  type: string
+- name: color
+  type: unknown

@@ -1,0 +1,5 @@
+---
+name: SimulateMouseUp
+status: unimplemented
+inputs:
+- - type: unknown

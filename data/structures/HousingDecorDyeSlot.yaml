@@ -1,0 +1,17 @@
+---
+name: HousingDecorDyeSlot
+fields:
+- name: ID
+  type: number
+- name: dyeColorCategoryID
+  type: number
+- name: orderIndex
+  type: number
+- name: channel
+  type: number
+- name: dyeColorID
+  nilable: true
+  type: number
+- name: dyeColorName
+  nilable: true
+  type: string

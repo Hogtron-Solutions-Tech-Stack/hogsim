@@ -1,0 +1,9 @@
+---
+name: RatedMatchDeserterPenalty
+fields:
+- name: personalRatingChange
+  type: number
+- name: queuePenaltySpellID
+  type: number
+- name: queuePenaltyDuration
+  type: number

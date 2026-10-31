@@ -1,0 +1,10 @@
+---
+name: C_Spell.IsActiveSpell
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: unit
+outputs:
+- name: isActiveSpell
+  type: boolean

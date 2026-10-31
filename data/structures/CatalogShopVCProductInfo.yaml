@@ -1,0 +1,5 @@
+---
+name: CatalogShopVCProductInfo
+fields:
+- name: vcProductID
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_Intl.TransformLocale
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: result
+  type: string

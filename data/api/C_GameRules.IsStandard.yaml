@@ -1,0 +1,6 @@
+---
+name: C_GameRules.IsStandard
+status: unimplemented
+outputs:
+- name: active
+  type: boolean

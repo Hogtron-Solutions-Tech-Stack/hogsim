@@ -1,0 +1,7 @@
+---
+name: C_HousingLayout.GetSelectedFloorplan
+status: unimplemented
+outputs:
+- name: roomID
+  nilable: true
+  type: number

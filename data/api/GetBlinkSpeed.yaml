@@ -1,0 +1,6 @@
+---
+name: GetBlinkSpeed
+status: unimplemented
+outputs:
+- name: cursorBlinkSpeedSec
+  type: number

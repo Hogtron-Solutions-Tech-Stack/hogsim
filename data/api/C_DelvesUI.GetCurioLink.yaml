@@ -1,0 +1,9 @@
+---
+name: C_DelvesUI.GetCurioLink
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number
+outputs:
+- name: curioLink
+  type: string

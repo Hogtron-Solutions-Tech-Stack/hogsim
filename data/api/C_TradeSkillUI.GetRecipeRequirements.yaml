@@ -1,0 +1,9 @@
+---
+name: C_TradeSkillUI.GetRecipeRequirements
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: CraftingRecipeRequirement
+  name: requirements
+  type: table

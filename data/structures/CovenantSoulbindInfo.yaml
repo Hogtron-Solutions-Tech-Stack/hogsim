@@ -1,0 +1,13 @@
+---
+name: CovenantSoulbindInfo
+fields:
+- name: spellID
+  type: number
+- name: uiTextureKit
+  type: string
+- name: name
+  type: string
+- name: description
+  type: string
+- name: sortOrder
+  type: number

@@ -1,0 +1,9 @@
+---
+name: C_Flyout.FlyoutHasSpell
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: hasSpell
+  type: boolean

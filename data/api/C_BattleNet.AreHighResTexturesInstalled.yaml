@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.AreHighResTexturesInstalled
+status: unimplemented
+outputs:
+- name: installed
+  type: boolean

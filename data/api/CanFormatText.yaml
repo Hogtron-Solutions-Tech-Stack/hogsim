@@ -1,0 +1,6 @@
+---
+name: CanFormatText
+status: unimplemented
+outputs:
+- name: canFormatText
+  type: boolean

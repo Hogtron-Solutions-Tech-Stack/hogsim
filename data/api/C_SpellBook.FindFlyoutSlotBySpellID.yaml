@@ -1,0 +1,8 @@
+---
+name: C_SpellBook.FindFlyoutSlotBySpellID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: flyoutSlot
+  type: number

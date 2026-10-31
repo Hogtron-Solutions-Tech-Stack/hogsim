@@ -1,0 +1,11 @@
+---
+name: C_Container.GetContainerItemDurability
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: durability
+  type: number
+- name: maxDurability
+  type: number

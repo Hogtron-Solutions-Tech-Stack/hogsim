@@ -1,0 +1,7 @@
+---
+name: FriendshipReputationRankInfo
+fields:
+- name: currentLevel
+  type: number
+- name: maxLevel
+  type: number

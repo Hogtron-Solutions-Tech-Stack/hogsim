@@ -1,0 +1,9 @@
+---
+name: C_SkillInfo.GetSkillLineInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: skillLineAttributes
+  nilable: true
+  type: SkillLineAttributes

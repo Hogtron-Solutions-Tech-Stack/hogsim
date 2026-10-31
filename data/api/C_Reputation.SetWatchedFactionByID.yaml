@@ -1,0 +1,5 @@
+---
+name: C_Reputation.SetWatchedFactionByID
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,8 @@
+---
+name: C_RemixArtifactUI.ItemInSlotIsRemixArtifact
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isRemixArtifact
+  type: boolean

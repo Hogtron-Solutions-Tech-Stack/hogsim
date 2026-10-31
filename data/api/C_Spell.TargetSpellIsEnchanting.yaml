@@ -1,0 +1,6 @@
+---
+name: C_Spell.TargetSpellIsEnchanting
+status: unimplemented
+outputs:
+- name: isEnchanting
+  type: boolean

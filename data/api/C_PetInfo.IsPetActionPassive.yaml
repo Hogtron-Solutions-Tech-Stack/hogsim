@@ -1,0 +1,8 @@
+---
+name: C_PetInfo.IsPetActionPassive
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isPassive
+  type: boolean

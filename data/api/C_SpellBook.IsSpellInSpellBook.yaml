@@ -1,0 +1,12 @@
+---
+name: C_SpellBook.IsSpellInSpellBook
+status: unimplemented
+inputs:
+- - type: number
+  - default: Player
+    type: number
+  - default: true
+    type: boolean
+outputs:
+- name: isInSpellBook
+  type: boolean

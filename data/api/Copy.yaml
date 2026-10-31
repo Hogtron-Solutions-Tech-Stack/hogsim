@@ -1,0 +1,6 @@
+---
+name: Copy
+status: unimplemented
+outputs:
+- name: copy
+  type: unknown

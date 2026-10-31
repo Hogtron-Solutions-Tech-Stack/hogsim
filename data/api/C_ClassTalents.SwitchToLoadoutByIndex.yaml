@@ -1,0 +1,5 @@
+---
+name: C_ClassTalents.SwitchToLoadoutByIndex
+status: unimplemented
+inputs:
+- - type: number

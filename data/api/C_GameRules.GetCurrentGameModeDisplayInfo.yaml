@@ -1,0 +1,7 @@
+---
+name: C_GameRules.GetCurrentGameModeDisplayInfo
+status: unimplemented
+outputs:
+- name: info
+  nilable: true
+  type: GameModeDisplayInfo

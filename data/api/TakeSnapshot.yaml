@@ -1,0 +1,7 @@
+---
+name: TakeSnapshot
+status: unimplemented
+outputs:
+- name: snapshotID
+  nilable: true
+  type: number

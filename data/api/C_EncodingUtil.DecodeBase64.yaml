@@ -1,0 +1,10 @@
+---
+name: C_EncodingUtil.DecodeBase64
+status: unimplemented
+inputs:
+- - type: string
+  - default: Standard
+    type: number
+outputs:
+- name: output
+  type: string

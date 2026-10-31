@@ -1,0 +1,5 @@
+---
+name: SetColorValueTexture
+status: unimplemented
+inputs:
+- - type: unknown

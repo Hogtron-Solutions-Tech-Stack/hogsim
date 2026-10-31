@@ -1,0 +1,5 @@
+---
+name: C_BattleNet.BNCheckBattleTagInviteToRecentAlly
+status: unimplemented
+inputs:
+- - type: string

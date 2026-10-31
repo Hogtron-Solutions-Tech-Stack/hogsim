@@ -1,0 +1,15 @@
+---
+name: FollowerAutoCombatStatsInfo
+fields:
+- name: currentHealth
+  type: number
+- name: maxHealth
+  type: number
+- name: attack
+  type: number
+- name: healingTimestamp
+  type: number
+- name: healCost
+  type: number
+- name: minutesHealingRemaining
+  type: number

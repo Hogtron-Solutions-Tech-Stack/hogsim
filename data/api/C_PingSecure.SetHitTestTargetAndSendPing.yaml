@@ -1,0 +1,6 @@
+---
+name: C_PingSecure.SetHitTestTargetAndSendPing
+status: unimplemented
+outputs:
+- name: result
+  type: SendPingResult

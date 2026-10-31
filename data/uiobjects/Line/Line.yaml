@@ -9,6 +9,8 @@ inherits:
 methods:
   GetEndPoint:
     status: unimplemented
+  GetHitRectThickness:
+    status: unimplemented
   GetStartPoint:
     status: unimplemented
   GetThickness:
@@ -16,6 +18,8 @@ methods:
     - name: thickness
     status: getter
   SetEndPoint:
+    status: unimplemented
+  SetHitRectThickness:
     status: unimplemented
   SetStartPoint:
     status: unimplemented

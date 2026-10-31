@@ -1,0 +1,29 @@
+---
+name: CraftingQualityInfo
+fields:
+- name: quality
+  type: number
+- name: icon
+  type: string
+- name: iconSmall
+  type: string
+- name: iconInventory
+  type: string
+- name: iconMixed
+  type: string
+- name: iconAppear
+  type: string
+- name: iconDissolve
+  type: string
+- name: barFill
+  type: string
+- name: barBackground
+  type: string
+- name: barBackgroundCap
+  type: string
+- name: barHighlight
+  type: string
+- name: iconChat
+  type: string
+- name: iconQuestObjective
+  type: string

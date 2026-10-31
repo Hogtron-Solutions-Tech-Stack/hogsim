@@ -1,0 +1,35 @@
+---
+name: BattlegroundInfo
+fields:
+- name: name
+  type: string
+- name: icon
+  nilable: true
+  type: number
+- name: gameType
+  type: string
+- name: shortDescription
+  type: string
+- name: longDescription
+  type: string
+- name: mapDescription
+  type: string
+- name: maxPlayers
+  type: number
+- name: battlegroundID
+  nilable: true
+  type: number
+- name: lfgDungeonID
+  nilable: true
+  type: number
+- name: mapID
+  nilable: true
+  type: number
+- name: isHoliday
+  type: boolean
+- name: isRandom
+  type: boolean
+- name: canEnter
+  type: boolean
+- name: isTrainingGround
+  type: boolean

@@ -1,0 +1,12 @@
+---
+name: PrivateAuraIconInfo
+fields:
+- name: iconAnchor
+  type: AnchorBinding
+- name: iconWidth
+  type: number
+- name: iconHeight
+  type: number
+- name: borderScale
+  nilable: true
+  type: number

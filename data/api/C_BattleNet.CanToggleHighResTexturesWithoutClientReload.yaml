@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.CanToggleHighResTexturesWithoutClientReload
+status: unimplemented
+outputs:
+- name: canToggle
+  type: boolean

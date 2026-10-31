@@ -1,0 +1,24 @@
+---
+name: ConduitCollectionData
+fields:
+- name: conduitID
+  type: number
+- name: conduitRank
+  type: number
+- name: conduitItemLevel
+  type: number
+- name: conduitType
+  type: number
+- name: conduitSpecSetID
+  type: number
+- innerType: number
+  name: conduitSpecIDs
+  type: table
+- name: conduitSpecName
+  nilable: true
+  type: string
+- name: covenantID
+  nilable: true
+  type: number
+- name: conduitItemID
+  type: number

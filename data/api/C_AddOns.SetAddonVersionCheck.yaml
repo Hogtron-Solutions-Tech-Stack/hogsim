@@ -1,0 +1,5 @@
+---
+name: C_AddOns.SetAddonVersionCheck
+status: unimplemented
+inputs:
+- - type: boolean

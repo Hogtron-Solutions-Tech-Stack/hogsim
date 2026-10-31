@@ -1,0 +1,11 @@
+---
+name: CraftingOrderRequestMyOrdersInfo
+fields:
+- name: primarySort
+  type: CraftingOrderSortInfo
+- name: secondarySort
+  type: CraftingOrderSortInfo
+- name: offset
+  type: number
+- name: callback
+  type: unknown

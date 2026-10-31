@@ -1,0 +1,22 @@
+---
+name: SpellCooldownInfo
+fields:
+- name: startTime
+  type: number
+- name: duration
+  type: number
+- name: isEnabled
+  type: boolean
+- name: isActive
+  type: boolean
+- name: modRate
+  type: number
+- name: activeCategory
+  nilable: true
+  type: number
+- name: timeUntilEndOfStartRecovery
+  nilable: true
+  type: number
+- name: isOnGCD
+  nilable: true
+  type: boolean

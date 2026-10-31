@@ -1,0 +1,6 @@
+---
+name: C_HeirloomInfo.HeirloomsAvailable
+status: unimplemented
+outputs:
+- name: areHeirloomsAvailable
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: C_Container.SetBackpackSellJunkDisabled
+status: unimplemented
+inputs:
+- - type: boolean

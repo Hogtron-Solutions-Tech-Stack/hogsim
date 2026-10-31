@@ -1,0 +1,6 @@
+---
+name: GetFormattedTextColor
+status: unimplemented
+outputs:
+- name: color
+  type: unknown

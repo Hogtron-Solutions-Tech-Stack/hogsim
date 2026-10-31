@@ -1,0 +1,9 @@
+---
+name: C_Bank.UpdateBankTabSettings
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: string
+  - type: string
+  - type: number

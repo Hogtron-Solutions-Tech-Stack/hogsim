@@ -1,0 +1,8 @@
+---
+name: C_ColorUtil.GenerateTextColorCode
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: textColorCode
+  type: string

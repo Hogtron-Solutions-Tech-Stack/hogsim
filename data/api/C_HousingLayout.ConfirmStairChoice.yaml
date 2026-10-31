@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.ConfirmStairChoice
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number

@@ -1,0 +1,17 @@
+---
+name: BattlemasterListInfo
+fields:
+- name: name
+  type: string
+- name: matchmakingType
+  type: number
+- name: minPlayers
+  type: number
+- name: maxPlayers
+  type: number
+- name: icon
+  type: number
+- name: longDescription
+  type: string
+- name: shortDescription
+  type: string

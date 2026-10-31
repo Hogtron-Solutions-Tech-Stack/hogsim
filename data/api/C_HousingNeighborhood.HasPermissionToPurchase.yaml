@@ -1,0 +1,6 @@
+---
+name: C_HousingNeighborhood.HasPermissionToPurchase
+status: unimplemented
+outputs:
+- name: cantPurchaseReason
+  type: unknown

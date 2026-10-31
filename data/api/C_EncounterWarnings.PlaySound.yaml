@@ -1,0 +1,8 @@
+---
+name: C_EncounterWarnings.PlaySound
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: soundHandle
+  type: number

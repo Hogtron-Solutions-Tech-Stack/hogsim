@@ -1,0 +1,15 @@
+---
+name: TraitGroupDisplayInfo
+fields:
+- name: groupID
+  type: number
+- name: treeID
+  type: number
+- name: skillLineID
+  type: number
+- name: orderIndex
+  type: number
+- name: displayName
+  type: string
+- name: icon
+  type: number

@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.AreTitleFriendCustomNamesEnabled
+status: unimplemented
+outputs:
+- name: areTitleFriendCustomNamesEnabled
+  type: boolean

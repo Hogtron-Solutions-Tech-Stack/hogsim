@@ -1,0 +1,22 @@
+---
+name: AuraContainerTooltipTextureSliceOptions
+fields:
+- name: asset
+  type: unknown
+- name: sliceMargins
+  nilable: true
+  type: UITextureSliceMargins
+- name: sliceMode
+  nilable: true
+  type: number
+- name: color
+  nilable: true
+  type: unknown
+- name: anchorOffsets
+  nilable: true
+  type: AuraContainerTooltipAnchorOffsets
+- name: drawLayer
+  nilable: true
+  type: unknown
+- name: drawLayerSublevel
+  type: number

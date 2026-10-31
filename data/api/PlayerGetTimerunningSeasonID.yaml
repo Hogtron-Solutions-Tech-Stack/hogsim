@@ -1,0 +1,7 @@
+---
+name: PlayerGetTimerunningSeasonID
+status: unimplemented
+outputs:
+- name: timerunningSeasonID
+  nilable: true
+  type: number

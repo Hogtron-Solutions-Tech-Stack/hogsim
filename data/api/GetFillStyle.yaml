@@ -1,0 +1,6 @@
+---
+name: GetFillStyle
+status: unimplemented
+outputs:
+- name: fillStyle
+  type: number

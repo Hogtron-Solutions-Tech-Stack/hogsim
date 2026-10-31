@@ -1,0 +1,8 @@
+---
+name: C_Item.IsItemBindToAccount
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isItemBindToAccount
+  type: boolean

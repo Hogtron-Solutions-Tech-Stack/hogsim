@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.IsAccountBankEnabled
+status: unimplemented
+outputs:
+- name: isAccountBankEnabled
+  type: boolean

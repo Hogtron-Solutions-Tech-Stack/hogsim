@@ -1,0 +1,6 @@
+---
+name: IsSelected
+status: unimplemented
+outputs:
+- name: isSelected
+  type: boolean

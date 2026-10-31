@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.GetActionChargeDuration
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: duration
+  type: unknown

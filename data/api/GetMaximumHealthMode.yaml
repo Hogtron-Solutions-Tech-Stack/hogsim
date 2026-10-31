@@ -1,0 +1,6 @@
+---
+name: GetMaximumHealthMode
+status: unimplemented
+outputs:
+- name: maximumHealthMode
+  type: number

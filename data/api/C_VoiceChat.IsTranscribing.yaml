@@ -1,0 +1,6 @@
+---
+name: C_VoiceChat.IsTranscribing
+status: unimplemented
+outputs:
+- name: isTranscribing
+  type: boolean

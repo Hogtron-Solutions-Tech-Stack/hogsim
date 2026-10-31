@@ -1,0 +1,8 @@
+---
+name: GetUnitTotalModifiedMaxHealthPercent
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: result
+  type: number

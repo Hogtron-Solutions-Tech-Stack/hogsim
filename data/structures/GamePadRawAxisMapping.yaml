@@ -1,0 +1,11 @@
+---
+name: GamePadRawAxisMapping
+fields:
+- name: rawIndex
+  type: number
+- name: axis
+  nilable: true
+  type: string
+- name: comment
+  nilable: true
+  type: string

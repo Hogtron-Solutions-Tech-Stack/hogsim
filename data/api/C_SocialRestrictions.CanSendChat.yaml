@@ -1,0 +1,6 @@
+---
+name: C_SocialRestrictions.CanSendChat
+status: unimplemented
+outputs:
+- name: canSendChat
+  type: boolean

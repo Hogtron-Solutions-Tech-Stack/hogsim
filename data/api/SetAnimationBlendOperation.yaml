@@ -1,0 +1,5 @@
+---
+name: SetAnimationBlendOperation
+status: unimplemented
+inputs:
+- - type: number

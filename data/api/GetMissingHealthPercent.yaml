@@ -1,0 +1,6 @@
+---
+name: GetMissingHealthPercent
+status: unimplemented
+outputs:
+- name: missingHealthPercent
+  type: number

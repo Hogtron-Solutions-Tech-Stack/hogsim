@@ -1,0 +1,10 @@
+---
+name: GetCameraTarget
+status: unimplemented
+outputs:
+- name: targetX
+  type: number
+- name: targetY
+  type: number
+- name: targetZ
+  type: number

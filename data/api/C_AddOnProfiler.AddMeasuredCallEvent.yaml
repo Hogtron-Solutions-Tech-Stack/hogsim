@@ -1,0 +1,5 @@
+---
+name: C_AddOnProfiler.AddMeasuredCallEvent
+status: unimplemented
+inputs:
+- - type: string

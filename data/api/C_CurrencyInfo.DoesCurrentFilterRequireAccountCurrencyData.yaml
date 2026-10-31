@@ -1,0 +1,6 @@
+---
+name: C_CurrencyInfo.DoesCurrentFilterRequireAccountCurrencyData
+status: unimplemented
+outputs:
+- name: doesCurrentFilterRequireAccountCurrencyData
+  type: boolean

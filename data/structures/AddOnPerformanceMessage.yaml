@@ -1,0 +1,14 @@
+---
+name: AddOnPerformanceMessage
+fields:
+- name: type
+  type: number
+- name: metric
+  type: number
+- name: addOnName
+  nilable: true
+  type: string
+- name: metricValue
+  type: number
+- name: thresholdValue
+  type: number

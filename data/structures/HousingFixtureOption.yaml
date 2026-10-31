@@ -1,0 +1,19 @@
+---
+name: HousingFixtureOption
+fields:
+- name: fixtureID
+  type: number
+- name: name
+  type: string
+- name: typeID
+  type: number
+- name: typeName
+  type: string
+- name: isLocked
+  type: boolean
+- name: isInvalid
+  type: boolean
+- name: reasonString
+  type: string
+- name: colorID
+  type: number

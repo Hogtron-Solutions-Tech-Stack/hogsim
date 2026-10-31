@@ -1,0 +1,12 @@
+---
+name: C_Navigation.GetNextWaypointForMap
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: x
+  type: number
+- name: y
+  type: number
+- name: waypointDescription
+  type: string

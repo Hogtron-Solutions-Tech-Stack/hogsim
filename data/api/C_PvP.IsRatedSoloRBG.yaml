@@ -1,0 +1,6 @@
+---
+name: C_PvP.IsRatedSoloRBG
+status: unimplemented
+outputs:
+- name: isRatedSoloRBG
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: C_ConfigurationWarnings.SetConfigurationWarningSeen
+status: unimplemented
+inputs:
+- - type: number

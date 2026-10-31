@@ -1,0 +1,12 @@
+---
+name: C_AddOns.LoadAddOn
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: loaded
+  nilable: true
+  type: boolean
+- name: value
+  nilable: true
+  type: string

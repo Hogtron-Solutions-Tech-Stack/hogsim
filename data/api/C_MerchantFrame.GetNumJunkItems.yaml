@@ -1,0 +1,6 @@
+---
+name: C_MerchantFrame.GetNumJunkItems
+status: unimplemented
+outputs:
+- name: numJunkItems
+  type: number

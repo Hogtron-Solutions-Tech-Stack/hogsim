@@ -1,0 +1,7 @@
+---
+name: C_HousingCustomizeMode.ApplyDyeToSelectedDecor
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: number

@@ -1,0 +1,6 @@
+---
+name: GetNumActors
+status: unimplemented
+outputs:
+- name: numActors
+  type: number

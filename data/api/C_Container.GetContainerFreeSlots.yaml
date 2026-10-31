@@ -1,0 +1,9 @@
+---
+name: C_Container.GetContainerFreeSlots
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: freeSlots
+  type: table

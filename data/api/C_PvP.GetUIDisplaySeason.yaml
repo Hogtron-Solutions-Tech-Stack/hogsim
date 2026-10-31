@@ -1,0 +1,6 @@
+---
+name: C_PvP.GetUIDisplaySeason
+status: unimplemented
+outputs:
+- name: uiDisplaySeason
+  type: number

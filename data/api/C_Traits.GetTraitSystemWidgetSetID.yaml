@@ -1,0 +1,8 @@
+---
+name: C_Traits.GetTraitSystemWidgetSetID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: uiWidgetSetID
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_AuraContainerUtil.ProcessAuraTooltipBackdropOptions
+status: unimplemented
+inputs:
+- - type: AuraContainerTooltipBackdropOptions
+outputs:
+- name: result
+  type: AuraContainerTooltipBackdropOptions

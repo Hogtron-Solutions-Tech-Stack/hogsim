@@ -1,0 +1,6 @@
+---
+name: C_PetInfo.PetAbandon
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number

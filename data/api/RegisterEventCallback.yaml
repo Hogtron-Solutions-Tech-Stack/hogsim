@@ -1,0 +1,9 @@
+---
+name: RegisterEventCallback
+status: unimplemented
+inputs:
+- - type: string
+  - type: unknown
+outputs:
+- name: registered
+  type: boolean

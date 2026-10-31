@@ -1,0 +1,6 @@
+---
+name: SetDrawBling
+status: unimplemented
+inputs:
+- - default: false
+    type: boolean

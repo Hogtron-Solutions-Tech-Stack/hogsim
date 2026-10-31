@@ -1,0 +1,6 @@
+---
+name: C_HousingCustomizeMode.CommitDyesForSelectedDecor
+status: unimplemented
+outputs:
+- name: hasChanges
+  type: boolean

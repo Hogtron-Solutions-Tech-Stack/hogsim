@@ -1,0 +1,8 @@
+---
+name: C_EventUtils.IsCallbackEvent
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isCallbackEvent
+  type: boolean

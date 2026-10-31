@@ -1,0 +1,16 @@
+---
+name: C_UnitAuras.GetUnitAuras
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: unknown
+  - nilable: true
+    type: number
+  - default: Unsorted
+    type: number
+  - default: Normal
+    type: number
+outputs:
+- innerType: unknown
+  name: auras
+  type: table

@@ -1,0 +1,9 @@
+---
+name: C_EncounterTimeline.GetEventTimer
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: duration
+  nilable: true
+  type: unknown

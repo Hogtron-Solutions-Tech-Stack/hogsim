@@ -1,0 +1,7 @@
+---
+name: C_StableInfo.GetStabledPetList
+status: unimplemented
+outputs:
+- innerType: PetInfo
+  name: stabledPets
+  type: table

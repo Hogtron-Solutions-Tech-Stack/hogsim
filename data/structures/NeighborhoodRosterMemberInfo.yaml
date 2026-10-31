@@ -1,0 +1,16 @@
+---
+name: NeighborhoodRosterMemberInfo
+fields:
+- name: playerGUID
+  type: string
+- name: residentName
+  type: string
+- name: residentType
+  type: unknown
+- name: isOnline
+  type: boolean
+- name: plotID
+  type: number
+- name: subdivision
+  nilable: true
+  type: number

@@ -1,0 +1,10 @@
+---
+name: SetModelByFileID
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: false
+    type: boolean
+outputs:
+- name: success
+  type: boolean

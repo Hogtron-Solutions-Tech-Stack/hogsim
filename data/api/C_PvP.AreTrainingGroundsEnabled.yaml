@@ -1,0 +1,6 @@
+---
+name: C_PvP.AreTrainingGroundsEnabled
+status: unimplemented
+outputs:
+- name: areTrainingGroundsEnabled
+  type: boolean

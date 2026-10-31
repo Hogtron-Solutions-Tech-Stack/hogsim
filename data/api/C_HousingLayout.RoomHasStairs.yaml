@@ -1,0 +1,8 @@
+---
+name: C_HousingLayout.RoomHasStairs
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: hasStairs
+  type: boolean

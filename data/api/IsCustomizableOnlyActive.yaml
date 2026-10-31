@@ -1,0 +1,6 @@
+---
+name: IsCustomizableOnlyActive
+status: unimplemented
+outputs:
+- name: isActive
+  type: boolean

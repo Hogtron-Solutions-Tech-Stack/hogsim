@@ -1,0 +1,15 @@
+---
+name: ConsoleCommandInfo
+fields:
+- name: command
+  type: string
+- name: help
+  type: string
+- name: category
+  type: number
+- name: commandType
+  type: number
+- name: scriptContents
+  type: string
+- name: scriptParameters
+  type: string

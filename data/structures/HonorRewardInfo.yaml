@@ -1,0 +1,9 @@
+---
+name: HonorRewardInfo
+fields:
+- name: honorLevelName
+  type: string
+- name: badgeFileDataID
+  type: number
+- name: achievementRewardedID
+  type: number

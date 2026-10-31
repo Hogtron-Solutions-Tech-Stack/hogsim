@@ -1,0 +1,8 @@
+---
+name: C_Spell.GetSchoolString
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: result
+  type: string

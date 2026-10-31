@@ -1,0 +1,8 @@
+---
+name: C_GameRules.IsClassAllowedForGameMode
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: valid
+  type: boolean

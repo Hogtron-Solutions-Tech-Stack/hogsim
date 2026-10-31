@@ -1,0 +1,11 @@
+---
+name: IsEventRegistered
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isRegistered
+  type: boolean
+- name: units
+  nilable: true
+  type: number

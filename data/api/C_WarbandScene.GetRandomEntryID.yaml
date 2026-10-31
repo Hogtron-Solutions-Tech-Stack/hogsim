@@ -1,0 +1,6 @@
+---
+name: C_WarbandScene.GetRandomEntryID
+status: unimplemented
+outputs:
+- name: warbandSceneID
+  type: number

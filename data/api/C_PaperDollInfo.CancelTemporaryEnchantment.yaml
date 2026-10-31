@@ -1,0 +1,5 @@
+---
+name: C_PaperDollInfo.CancelTemporaryEnchantment
+status: unimplemented
+inputs:
+- - type: unknown

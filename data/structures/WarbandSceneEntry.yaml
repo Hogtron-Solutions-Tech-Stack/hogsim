@@ -1,0 +1,21 @@
+---
+name: WarbandSceneEntry
+fields:
+- name: warbandSceneID
+  type: number
+- name: name
+  type: string
+- name: description
+  type: string
+- name: source
+  type: string
+- name: quality
+  type: number
+- name: textureKit
+  type: string
+- name: isFavorite
+  type: boolean
+- name: hasFanfare
+  type: boolean
+- name: sourceType
+  type: number

@@ -1,0 +1,5 @@
+---
+name: C_PingSecure.SetPingPinFrameAddedCallback
+status: unimplemented
+inputs:
+- - type: unknown

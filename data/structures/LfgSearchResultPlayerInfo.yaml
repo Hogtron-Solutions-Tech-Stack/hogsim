@@ -1,0 +1,27 @@
+---
+name: LfgSearchResultPlayerInfo
+fields:
+- name: name
+  nilable: true
+  type: string
+- name: level
+  nilable: true
+  type: number
+- name: areaName
+  nilable: true
+  type: string
+- name: className
+  type: string
+- name: classFilename
+  type: string
+- name: specName
+  nilable: true
+  type: string
+- name: assignedRole
+  type: string
+- name: lfgRoles
+  type: LFGRoles
+- name: isLeader
+  type: boolean
+- name: isLeaver
+  type: boolean

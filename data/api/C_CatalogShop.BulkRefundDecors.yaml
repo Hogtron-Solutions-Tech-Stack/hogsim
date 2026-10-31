@@ -1,0 +1,6 @@
+---
+name: C_CatalogShop.BulkRefundDecors
+status: unimplemented
+inputs:
+- - innerType: string
+    type: table

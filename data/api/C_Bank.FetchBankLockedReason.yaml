@@ -1,0 +1,9 @@
+---
+name: C_Bank.FetchBankLockedReason
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: reason
+  nilable: true
+  type: number

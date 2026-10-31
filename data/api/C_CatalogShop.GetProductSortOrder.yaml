@@ -1,0 +1,11 @@
+---
+name: C_CatalogShop.GetProductSortOrder
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number
+outputs:
+- name: sortOrder
+  nilable: true
+  type: number

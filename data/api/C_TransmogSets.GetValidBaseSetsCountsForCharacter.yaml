@@ -1,0 +1,8 @@
+---
+name: C_TransmogSets.GetValidBaseSetsCountsForCharacter
+status: unimplemented
+outputs:
+- name: numCollected
+  type: number
+- name: numTotal
+  type: number

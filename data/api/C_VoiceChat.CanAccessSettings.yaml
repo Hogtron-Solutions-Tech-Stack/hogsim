@@ -1,0 +1,6 @@
+---
+name: C_VoiceChat.CanAccessSettings
+status: unimplemented
+outputs:
+- name: canAccess
+  type: boolean

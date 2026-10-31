@@ -1,0 +1,7 @@
+---
+name: C_TradeSkillUI.GetProfessionForCursorItem
+status: unimplemented
+outputs:
+- name: profession
+  nilable: true
+  type: number

@@ -1,0 +1,5 @@
+---
+name: C_HousingBlueprint.RequestBlueprintContents
+status: unimplemented
+inputs:
+- - type: string

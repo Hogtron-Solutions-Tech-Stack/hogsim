@@ -1,0 +1,9 @@
+---
+name: C_Item.GetItemSpecInfo
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- innerType: number
+  name: specTable
+  type: table

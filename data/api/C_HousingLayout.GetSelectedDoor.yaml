@@ -1,0 +1,8 @@
+---
+name: C_HousingLayout.GetSelectedDoor
+status: unimplemented
+outputs:
+- name: selectedDoorComponentID
+  type: number
+- name: roomGUID
+  type: string

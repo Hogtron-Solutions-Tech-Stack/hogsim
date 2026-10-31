@@ -1,0 +1,5 @@
+---
+name: SetMaxIntervalCurve
+status: unimplemented
+inputs:
+- - type: unknown

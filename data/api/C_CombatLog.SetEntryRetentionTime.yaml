@@ -1,0 +1,5 @@
+---
+name: C_CombatLog.SetEntryRetentionTime
+status: unimplemented
+inputs:
+- - type: number

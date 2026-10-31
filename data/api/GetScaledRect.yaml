@@ -1,0 +1,12 @@
+---
+name: GetScaledRect
+status: unimplemented
+outputs:
+- name: left
+  type: number
+- name: bottom
+  type: number
+- name: width
+  type: number
+- name: height
+  type: number

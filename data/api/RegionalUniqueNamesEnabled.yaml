@@ -1,0 +1,5 @@
+---
+name: RegionalUniqueNamesEnabled
+status: implemented
+outputs:
+- type: boolean

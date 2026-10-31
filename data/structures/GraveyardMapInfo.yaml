@@ -1,0 +1,15 @@
+---
+name: GraveyardMapInfo
+fields:
+- name: areaPoiID
+  type: number
+- name: position
+  type: unknown
+- name: name
+  type: string
+- name: textureIndex
+  type: number
+- name: graveyardID
+  type: number
+- name: isGraveyardSelectable
+  type: boolean

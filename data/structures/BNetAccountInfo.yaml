@@ -1,0 +1,39 @@
+---
+name: BNetAccountInfo
+fields:
+- name: bnetAccountID
+  type: number
+- name: accountName
+  type: string
+- name: battleTag
+  type: string
+- name: isFriend
+  type: boolean
+- name: isBattleTagFriend
+  type: boolean
+- name: friendLevel
+  nilable: true
+  type: number
+- name: lastOnlineTime
+  type: number
+- name: isAFK
+  type: boolean
+- name: isDND
+  type: boolean
+- name: isFavorite
+  type: boolean
+- innerType: number
+  name: friendTags
+  type: table
+- name: appearOffline
+  type: boolean
+- name: customMessage
+  type: string
+- name: customMessageTime
+  type: number
+- name: note
+  type: string
+- name: rafLinkType
+  type: number
+- name: gameAccountInfo
+  type: BNetGameAccountInfo

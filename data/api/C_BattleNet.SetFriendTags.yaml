@@ -1,0 +1,7 @@
+---
+name: C_BattleNet.SetFriendTags
+status: unimplemented
+inputs:
+- - type: number
+  - innerType: number
+    type: table

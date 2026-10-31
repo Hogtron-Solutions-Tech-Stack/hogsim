@@ -1,0 +1,9 @@
+---
+name: C_CatalogShop.GetProductIDsForBundle
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: CatalogShopBundleChildInfo
+  name: childIDs
+  type: table

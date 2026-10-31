@@ -1,0 +1,9 @@
+---
+name: C_HouseExterior.GetCoreFixtureOptionsInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: coreFixtureOptionsInfo
+  nilable: true
+  type: HousingCoreFixtureInfo

@@ -1,0 +1,6 @@
+---
+name: C_RemixArtifactUI.GetArtifactArtInfo
+status: unimplemented
+outputs:
+- name: artifactArtInfo
+  type: RemixArtifactArtInfo

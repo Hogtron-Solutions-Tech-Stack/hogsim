@@ -1,0 +1,8 @@
+---
+name: C_HousingLayout.ZoomLayoutCamera
+status: unimplemented
+inputs:
+- - type: boolean
+outputs:
+- name: zoomChanged
+  type: boolean

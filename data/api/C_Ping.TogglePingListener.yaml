@@ -1,0 +1,5 @@
+---
+name: C_Ping.TogglePingListener
+status: unimplemented
+inputs:
+- - type: boolean

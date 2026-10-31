@@ -1,0 +1,6 @@
+---
+name: GetNormalTexture
+status: unimplemented
+outputs:
+- name: texture
+  type: unknown

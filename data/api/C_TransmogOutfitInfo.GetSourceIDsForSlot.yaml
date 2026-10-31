@@ -1,0 +1,10 @@
+---
+name: C_TransmogOutfitInfo.GetSourceIDsForSlot
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- innerType: number
+  name: sources
+  type: table

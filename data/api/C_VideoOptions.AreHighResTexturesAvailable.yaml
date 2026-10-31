@@ -1,0 +1,6 @@
+---
+name: C_VideoOptions.AreHighResTexturesAvailable
+status: unimplemented
+outputs:
+- name: areAvailable
+  type: boolean

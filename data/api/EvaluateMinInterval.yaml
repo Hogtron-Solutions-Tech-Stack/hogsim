@@ -1,0 +1,8 @@
+---
+name: EvaluateMinInterval
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: interval
+  type: number

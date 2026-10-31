@@ -1,0 +1,6 @@
+---
+name: GetTextureSliceMode
+status: unimplemented
+outputs:
+- name: sliceMode
+  type: number

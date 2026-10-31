@@ -1,0 +1,16 @@
+---
+name: MinimapScriptTrackingInfo
+fields:
+- name: name
+  type: string
+- name: texture
+  type: number
+- name: active
+  type: boolean
+- name: type
+  type: string
+- name: subType
+  type: number
+- name: spellID
+  nilable: true
+  type: number

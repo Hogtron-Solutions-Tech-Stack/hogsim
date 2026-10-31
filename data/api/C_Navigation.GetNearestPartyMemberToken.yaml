@@ -1,0 +1,6 @@
+---
+name: C_Navigation.GetNearestPartyMemberToken
+status: unimplemented
+outputs:
+- name: unitToken
+  type: string

@@ -1,0 +1,13 @@
+---
+name: CatalogShopSubItemInfo
+fields:
+- name: name
+  type: string
+- name: itemID
+  type: number
+- name: itemAppearanceID
+  type: number
+- name: invType
+  type: string
+- name: quality
+  type: number

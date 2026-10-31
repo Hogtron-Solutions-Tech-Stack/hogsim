@@ -1,0 +1,13 @@
+---
+name: AddOnProfilerCallEvent
+fields:
+- name: name
+  type: string
+- name: allocatedBytes
+  type: number
+- name: deallocatedBytes
+  type: number
+- name: elapsedMilliseconds
+  type: number
+- name: elapsedTicks
+  type: number

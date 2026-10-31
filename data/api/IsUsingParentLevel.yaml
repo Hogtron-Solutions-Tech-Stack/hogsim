@@ -1,0 +1,6 @@
+---
+name: IsUsingParentLevel
+status: unimplemented
+outputs:
+- name: usingParentLevel
+  type: boolean

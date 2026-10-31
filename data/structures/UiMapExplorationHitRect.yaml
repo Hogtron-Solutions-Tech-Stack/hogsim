@@ -1,0 +1,11 @@
+---
+name: UiMapExplorationHitRect
+fields:
+- name: top
+  type: number
+- name: bottom
+  type: number
+- name: left
+  type: number
+- name: right
+  type: number

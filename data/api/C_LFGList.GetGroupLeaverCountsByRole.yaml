@@ -1,0 +1,10 @@
+---
+name: C_LFGList.GetGroupLeaverCountsByRole
+status: unimplemented
+outputs:
+- name: tankLeavers
+  type: number
+- name: healerLeavers
+  type: number
+- name: damageLeavers
+  type: number

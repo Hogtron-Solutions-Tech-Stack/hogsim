@@ -1,0 +1,7 @@
+---
+name: C_ActionBar.GetOverrideBarSkin
+status: unimplemented
+outputs:
+- name: textureFileID
+  nilable: true
+  type: number

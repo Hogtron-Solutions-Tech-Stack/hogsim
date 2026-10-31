@@ -1,0 +1,5 @@
+---
+name: C_PetJournal.SetHoveredBattlePet
+status: unimplemented
+inputs:
+- - type: string

@@ -1,0 +1,21 @@
+---
+name: ChromieTimeExpansionInfo
+fields:
+- name: id
+  type: number
+- name: name
+  type: string
+- name: description
+  type: string
+- name: mapAtlas
+  type: string
+- name: previewAtlas
+  type: string
+- name: completed
+  type: boolean
+- name: alreadyOn
+  type: boolean
+- name: recommended
+  type: boolean
+- name: sortPriority
+  type: number

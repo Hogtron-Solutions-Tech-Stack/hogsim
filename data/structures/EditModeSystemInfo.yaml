@@ -1,0 +1,18 @@
+---
+name: EditModeSystemInfo
+fields:
+- name: system
+  type: number
+- name: systemIndex
+  nilable: true
+  type: number
+- name: anchorInfo
+  type: EditModeAnchorInfo
+- name: anchorInfo2
+  nilable: true
+  type: EditModeAnchorInfo
+- innerType: EditModeSettingInfo
+  name: settings
+  type: table
+- name: isInDefaultPosition
+  type: boolean

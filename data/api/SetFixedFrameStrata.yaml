@@ -1,0 +1,5 @@
+---
+name: SetFixedFrameStrata
+status: unimplemented
+inputs:
+- - type: boolean

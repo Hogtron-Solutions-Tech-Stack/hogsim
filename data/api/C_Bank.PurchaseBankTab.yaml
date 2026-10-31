@@ -1,0 +1,5 @@
+---
+name: C_Bank.PurchaseBankTab
+status: unimplemented
+inputs:
+- - type: number

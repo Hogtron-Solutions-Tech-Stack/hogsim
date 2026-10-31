@@ -1,0 +1,10 @@
+---
+name: HousingMarketInfo
+fields:
+- name: price
+  type: number
+- name: productID
+  type: number
+- innerType: number
+  name: bundleIDs
+  type: table

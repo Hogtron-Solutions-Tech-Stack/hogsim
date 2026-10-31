@@ -1,0 +1,6 @@
+---
+name: C_NeighborhoodInitiative.GetRequiredLevel
+status: unimplemented
+outputs:
+- name: reqLevel
+  type: number

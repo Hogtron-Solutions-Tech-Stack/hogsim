@@ -1,0 +1,12 @@
+---
+name: CraftingTargetItem
+fields:
+- name: itemID
+  type: number
+- name: itemGUID
+  type: string
+- name: hyperlink
+  nilable: true
+  type: string
+- name: quantity
+  type: number

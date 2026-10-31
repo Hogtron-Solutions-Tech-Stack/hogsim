@@ -1,0 +1,7 @@
+---
+name: GetScenarioTooltipText
+status: unimplemented
+outputs:
+- name: tooltipText
+  nilable: true
+  type: string

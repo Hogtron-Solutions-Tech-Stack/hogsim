@@ -1,0 +1,17 @@
+---
+name: RandomBGInfo
+fields:
+- name: canQueue
+  type: boolean
+- name: bgID
+  type: number
+- name: bgIndex
+  type: number
+- name: hasRandomWinToday
+  type: boolean
+- name: minLevel
+  type: number
+- name: maxLevel
+  type: number
+- name: name
+  type: string

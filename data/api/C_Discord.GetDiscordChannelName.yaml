@@ -1,0 +1,9 @@
+---
+name: C_Discord.GetDiscordChannelName
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: name
+  type: string

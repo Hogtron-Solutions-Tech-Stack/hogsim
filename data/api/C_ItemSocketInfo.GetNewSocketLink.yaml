@@ -1,0 +1,9 @@
+---
+name: C_ItemSocketInfo.GetNewSocketLink
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: newSocketLink
+  nilable: true
+  type: string

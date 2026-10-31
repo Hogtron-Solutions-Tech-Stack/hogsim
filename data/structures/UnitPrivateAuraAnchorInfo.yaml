@@ -1,0 +1,31 @@
+---
+name: UnitPrivateAuraAnchorInfo
+fields:
+- name: anchorID
+  type: number
+- name: unitToken
+  type: string
+- name: auraIndex
+  type: number
+- name: showCooldownFrame
+  type: boolean
+- name: showCooldownEdge
+  type: boolean
+- name: showCountdownNumbers
+  type: boolean
+- name: showDispelIcon
+  type: boolean
+- name: iconWidth
+  nilable: true
+  type: number
+- name: iconHeight
+  nilable: true
+  type: number
+- name: borderScale
+  nilable: true
+  type: number
+- name: isContainer
+  nilable: true
+  type: boolean
+- name: parent
+  type: unknown

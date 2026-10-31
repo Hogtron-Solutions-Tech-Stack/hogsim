@@ -1,0 +1,6 @@
+---
+name: ConsoleIsActive
+status: unimplemented
+outputs:
+- name: consoleIsActive
+  type: boolean

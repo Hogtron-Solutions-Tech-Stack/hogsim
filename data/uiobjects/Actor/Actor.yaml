@@ -22,11 +22,15 @@ methods:
     status: unimplemented
   ClearModel:
     status: unimplemented
+  DetachFromMount:
+    status: unimplemented
   Dress:
     products:
     - wow
     - wow_beta
     - wowt
+    status: unimplemented
+  DressPlayerSlot:
     status: unimplemented
   GetActiveBoundingBox:
     status: unimplemented
@@ -114,15 +118,27 @@ methods:
     status: unimplemented
   Hide:
     status: unimplemented
+  IsGeoReady:
+    status: unimplemented
   IsLoaded:
     status: unimplemented
+  IsPreferringModelCollisionBounds:
+    status: unimplemented
   IsShown:
+    status: unimplemented
+  IsSlotAllowed:
+    status: unimplemented
+  IsSlotVisible:
     status: unimplemented
   IsUsingCenterForOrigin:
     status: unimplemented
   IsVisible:
     status: unimplemented
   PlayAnimationKit:
+    status: unimplemented
+  ReleaseFrontEndCharacterDisplays:
+    status: unimplemented
+  ResetNextHandSlot:
     status: unimplemented
   SetAlpha:
     status: unimplemented
@@ -137,6 +153,12 @@ methods:
     - wowt
     status: unimplemented
   SetDesaturation:
+    status: unimplemented
+  SetFrontEndLobbyModelFromDefaultCharacterDisplay:
+    status: unimplemented
+  SetGradientMask:
+    status: unimplemented
+  SetGradientMaskWithDyes:
     status: unimplemented
   SetItemTransmogInfo:
     products:
@@ -157,6 +179,8 @@ methods:
   SetModelByPath:
     status: unimplemented
   SetModelByUnit:
+    status: unimplemented
+  SetModelByUnitCreatureDisplayID:
     status: unimplemented
   SetObeyHideInTransmogFlag:
     products:
@@ -182,6 +206,8 @@ methods:
     status: unimplemented
   SetPosition:
     status: unimplemented
+  SetPreferModelCollisionBounds:
+    status: unimplemented
   SetRoll:
     status: unimplemented
   SetScale:
@@ -193,6 +219,8 @@ methods:
     - wow
     - wow_beta
     - wowt
+    status: unimplemented
+  SetSheathedCategory:
     status: unimplemented
   SetShown:
     status: unimplemented
@@ -235,5 +263,7 @@ methods:
     - wow
     - wow_beta
     - wowt
+    status: unimplemented
+  UseUnitSheatheCategory:
     status: unimplemented
 objectType: ModelSceneActor

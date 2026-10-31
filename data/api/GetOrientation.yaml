@@ -1,0 +1,6 @@
+---
+name: GetOrientation
+status: unimplemented
+outputs:
+- name: orientation
+  type: unknown

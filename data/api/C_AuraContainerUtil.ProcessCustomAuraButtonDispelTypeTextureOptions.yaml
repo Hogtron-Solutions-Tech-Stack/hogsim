@@ -1,0 +1,9 @@
+---
+name: C_AuraContainerUtil.ProcessCustomAuraButtonDispelTypeTextureOptions
+status: unimplemented
+inputs:
+- - nilable: true
+    type: CustomAuraButtonDispelTypeTextureOptions
+outputs:
+- name: result
+  type: CustomAuraButtonDispelTypeTextureOptions

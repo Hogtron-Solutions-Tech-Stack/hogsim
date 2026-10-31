@@ -1,0 +1,10 @@
+---
+name: GetOrigin
+status: unimplemented
+outputs:
+- name: point
+  type: unknown
+- name: originX
+  type: number
+- name: originY
+  type: number

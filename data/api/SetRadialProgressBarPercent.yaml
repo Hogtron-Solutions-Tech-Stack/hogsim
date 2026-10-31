@@ -1,0 +1,5 @@
+---
+name: SetRadialProgressBarPercent
+status: unimplemented
+inputs:
+- - type: unknown

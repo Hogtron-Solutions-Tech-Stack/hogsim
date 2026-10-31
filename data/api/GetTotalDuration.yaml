@@ -1,0 +1,9 @@
+---
+name: GetTotalDuration
+status: unimplemented
+inputs:
+- - default: RealTime
+    type: number
+outputs:
+- name: totalDuration
+  type: unknown

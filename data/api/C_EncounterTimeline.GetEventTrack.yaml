@@ -1,0 +1,11 @@
+---
+name: C_EncounterTimeline.GetEventTrack
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: track
+  type: number
+- name: trackSortIndex
+  nilable: true
+  type: number

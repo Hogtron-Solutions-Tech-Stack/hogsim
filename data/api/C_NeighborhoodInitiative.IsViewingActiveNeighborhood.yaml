@@ -1,0 +1,6 @@
+---
+name: C_NeighborhoodInitiative.IsViewingActiveNeighborhood
+status: unimplemented
+outputs:
+- name: isViewingActiveNeighborhood
+  type: boolean

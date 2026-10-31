@@ -1,0 +1,8 @@
+---
+name: RemixArtifactAppearanceInfo
+fields:
+- name: uiCameraID
+  type: number
+- name: altHandUICameraID
+  nilable: true
+  type: number

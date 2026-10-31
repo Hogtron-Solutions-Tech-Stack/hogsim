@@ -1,0 +1,5 @@
+---
+name: C_HousingBlueprint.DeleteBlueprint
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,6 @@
+---
+name: GetStatusBarDesaturation
+status: unimplemented
+outputs:
+- name: desaturation
+  type: unknown

@@ -1,0 +1,8 @@
+---
+name: C_EncodingUtil.EncodeHex
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: output
+  type: string

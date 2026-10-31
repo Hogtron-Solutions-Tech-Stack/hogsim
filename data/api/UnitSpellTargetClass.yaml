@@ -1,0 +1,8 @@
+---
+name: UnitSpellTargetClass
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: classFilename
+  type: string

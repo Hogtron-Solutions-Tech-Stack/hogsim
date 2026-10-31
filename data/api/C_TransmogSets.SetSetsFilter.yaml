@@ -1,0 +1,6 @@
+---
+name: C_TransmogSets.SetSetsFilter
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

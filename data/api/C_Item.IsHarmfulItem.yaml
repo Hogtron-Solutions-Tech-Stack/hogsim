@@ -1,0 +1,8 @@
+---
+name: C_Item.IsHarmfulItem
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: result
+  type: boolean

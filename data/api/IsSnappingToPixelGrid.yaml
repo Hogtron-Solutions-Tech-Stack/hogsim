@@ -1,0 +1,6 @@
+---
+name: IsSnappingToPixelGrid
+status: unimplemented
+outputs:
+- name: snap
+  type: boolean

@@ -1,0 +1,9 @@
+---
+name: AutoCompleteResult
+fields:
+- name: name
+  type: string
+- name: priority
+  type: number
+- name: bnetID
+  type: number

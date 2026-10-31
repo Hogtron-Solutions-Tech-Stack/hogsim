@@ -1,0 +1,5 @@
+---
+name: SetMapID
+status: unimplemented
+inputs:
+- - type: number

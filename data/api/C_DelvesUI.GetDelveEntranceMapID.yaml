@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.GetDelveEntranceMapID
+status: unimplemented
+outputs:
+- name: mapID
+  type: number

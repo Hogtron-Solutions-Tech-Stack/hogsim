@@ -1,0 +1,7 @@
+---
+name: C_SpecializationInfo.SetPetSpecialization
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: number

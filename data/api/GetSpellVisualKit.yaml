@@ -1,0 +1,6 @@
+---
+name: GetSpellVisualKit
+status: unimplemented
+outputs:
+- name: spellVisualKitID
+  type: number

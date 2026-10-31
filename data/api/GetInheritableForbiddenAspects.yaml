@@ -1,0 +1,8 @@
+---
+name: GetInheritableForbiddenAspects
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: aspects
+  type: number

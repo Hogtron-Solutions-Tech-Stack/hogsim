@@ -1,0 +1,6 @@
+---
+name: GetObjectTable
+status: unimplemented
+outputs:
+- name: objectTable
+  type: unknown

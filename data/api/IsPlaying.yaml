@@ -1,0 +1,6 @@
+---
+name: IsPlaying
+status: unimplemented
+outputs:
+- name: isPlaying
+  type: boolean

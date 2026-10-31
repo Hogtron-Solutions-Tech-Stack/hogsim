@@ -1,0 +1,7 @@
+---
+name: SetTextFormat
+status: unimplemented
+inputs:
+- - type: string
+  - innerType: DurationTextBindingFormatComponent
+    type: table

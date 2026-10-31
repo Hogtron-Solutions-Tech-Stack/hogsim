@@ -1,0 +1,7 @@
+---
+name: QuestTimerInfo
+fields:
+- name: questID
+  type: number
+- name: questTimer
+  type: number

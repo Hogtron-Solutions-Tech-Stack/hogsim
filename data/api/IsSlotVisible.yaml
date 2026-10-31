@@ -1,0 +1,8 @@
+---
+name: IsSlotVisible
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: visible
+  type: boolean

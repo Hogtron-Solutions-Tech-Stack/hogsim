@@ -1,0 +1,7 @@
+---
+name: CustomAuraButtonCasterNameOptions
+fields:
+- name: showRealmName
+  type: boolean
+- name: useClassColors
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: SetFirstAcquisitionBonusOnly
+status: unimplemented
+inputs:
+- - type: boolean

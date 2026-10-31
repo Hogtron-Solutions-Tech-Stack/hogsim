@@ -1,0 +1,5 @@
+---
+name: C_Macro.SetMacroExecuteLineCallback
+status: unimplemented
+inputs:
+- - type: unknown

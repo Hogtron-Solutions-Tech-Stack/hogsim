@@ -1,0 +1,11 @@
+---
+name: AuraContainerTooltipBackdropInsets
+fields:
+- name: left
+  type: number
+- name: right
+  type: number
+- name: top
+  type: number
+- name: bottom
+  type: number

@@ -1,0 +1,5 @@
+---
+name: C_GuildInfo.Demote
+status: unimplemented
+inputs:
+- - type: string

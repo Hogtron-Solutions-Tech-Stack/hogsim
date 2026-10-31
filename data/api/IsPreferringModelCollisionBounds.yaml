@@ -1,0 +1,6 @@
+---
+name: IsPreferringModelCollisionBounds
+status: unimplemented
+outputs:
+- name: preferringCollisionBounds
+  type: boolean

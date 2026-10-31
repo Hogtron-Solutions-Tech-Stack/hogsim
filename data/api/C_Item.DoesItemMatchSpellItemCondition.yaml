@@ -1,0 +1,8 @@
+---
+name: C_Item.DoesItemMatchSpellItemCondition
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: matches
+  type: boolean

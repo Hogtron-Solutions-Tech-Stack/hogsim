@@ -1,0 +1,13 @@
+---
+name: HousingFixturePointInfo
+fields:
+- name: ownerHash
+  type: number
+- name: selectedFixtureID
+  nilable: true
+  type: number
+- innerType: HousingFixtureOption
+  name: fixtureOptions
+  type: table
+- name: canSelectionBeRemoved
+  type: boolean

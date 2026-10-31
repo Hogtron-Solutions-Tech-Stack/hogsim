@@ -1,0 +1,13 @@
+---
+name: ItemUpgradeCostDiscountInfo
+fields:
+- name: isDiscounted
+  type: boolean
+- name: discountHighWatermark
+  type: number
+- name: isPartialTwoHandDiscount
+  type: boolean
+- name: isAccountWideDiscount
+  type: boolean
+- name: doesCurrentCharacterMeetHighWatermark
+  type: boolean

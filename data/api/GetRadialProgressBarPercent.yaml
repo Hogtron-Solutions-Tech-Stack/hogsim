@@ -1,0 +1,6 @@
+---
+name: GetRadialProgressBarPercent
+status: unimplemented
+outputs:
+- name: percent
+  type: unknown

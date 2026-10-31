@@ -1,0 +1,42 @@
+---
+name: TraitCondInfo
+fields:
+- name: condID
+  type: number
+- name: ranksGranted
+  nilable: true
+  type: number
+- name: isAlwaysMet
+  type: boolean
+- name: isMet
+  type: boolean
+- name: isGate
+  type: boolean
+- name: isSufficient
+  type: boolean
+- name: type
+  type: number
+- name: questID
+  nilable: true
+  type: number
+- name: achievementID
+  nilable: true
+  type: number
+- name: specSetID
+  nilable: true
+  type: number
+- name: playerLevel
+  nilable: true
+  type: number
+- name: traitCurrencyID
+  nilable: true
+  type: number
+- name: spentAmountRequired
+  nilable: true
+  type: number
+- name: tooltipFormat
+  nilable: true
+  type: string
+- name: traitCondAccountElementID
+  nilable: true
+  type: number

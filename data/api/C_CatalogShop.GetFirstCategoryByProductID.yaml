@@ -1,0 +1,9 @@
+---
+name: C_CatalogShop.GetFirstCategoryByProductID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: categoryInfo
+  nilable: true
+  type: CatalogShopCategoryInfo

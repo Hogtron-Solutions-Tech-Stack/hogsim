@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.GetBonusBarIndex
+status: unimplemented
+outputs:
+- name: bonusBarIndex
+  type: number

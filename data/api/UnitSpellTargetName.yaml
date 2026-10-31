@@ -1,0 +1,8 @@
+---
+name: UnitSpellTargetName
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: targetName
+  type: string

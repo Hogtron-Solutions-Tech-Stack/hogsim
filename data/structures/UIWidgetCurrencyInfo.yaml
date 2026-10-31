@@ -1,0 +1,23 @@
+---
+name: UIWidgetCurrencyInfo
+fields:
+- name: iconFileID
+  type: number
+- name: leadingText
+  type: string
+- name: text
+  type: string
+- name: tooltip
+  type: string
+- name: isCurrencyMaxed
+  type: boolean
+- name: textFontType
+  type: number
+- name: textSizeType
+  type: number
+- name: textEnabledState
+  type: number
+- name: iconSizeType
+  type: number
+- name: updateAnimType
+  type: number

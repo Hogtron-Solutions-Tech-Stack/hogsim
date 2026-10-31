@@ -1,0 +1,34 @@
+---
+name: CharCustomizationCategory
+fields:
+- name: id
+  type: number
+- name: orderIndex
+  type: number
+- name: name
+  type: string
+- name: icon
+  type: string
+- name: selectedIcon
+  type: string
+- name: undressModel
+  type: boolean
+- name: subcategory
+  type: boolean
+- name: cameraZoomLevel
+  type: number
+- name: cameraDistanceOffset
+  type: number
+- name: spellShapeshiftFormID
+  nilable: true
+  type: number
+- name: chrModelID
+  nilable: true
+  type: number
+- innerType: CharCustomizationOption
+  name: options
+  type: table
+- name: hasNewChoices
+  type: boolean
+- name: needsNativeFormCategory
+  type: boolean

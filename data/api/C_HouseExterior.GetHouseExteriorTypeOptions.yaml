@@ -1,0 +1,7 @@
+---
+name: C_HouseExterior.GetHouseExteriorTypeOptions
+status: unimplemented
+outputs:
+- name: options
+  nilable: true
+  type: HouseExteriorTypeOptionsInfo

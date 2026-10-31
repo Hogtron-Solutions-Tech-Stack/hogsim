@@ -1,0 +1,9 @@
+---
+name: C_HousingCatalog.GetBundleInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: bundleInfo
+  nilable: true
+  type: HousingBundleInfo

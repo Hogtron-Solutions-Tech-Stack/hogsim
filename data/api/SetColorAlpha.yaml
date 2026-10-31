@@ -1,0 +1,5 @@
+---
+name: SetColorAlpha
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,11 @@
+---
+name: ScriptBucketThrottleLimits
+fields:
+- name: luaScriptBucketThrottleMaxMsPerSecondNormal
+  type: number
+- name: luaScriptBucketThrottleMaxMsPerSecondRestricted
+  type: number
+- name: luaScriptBucketThrottleMaxMsBurstNormal
+  type: number
+- name: luaScriptBucketThrottleMaxMsBurstRestricted
+  type: number

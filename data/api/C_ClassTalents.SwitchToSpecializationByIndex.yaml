@@ -1,0 +1,5 @@
+---
+name: C_ClassTalents.SwitchToSpecializationByIndex
+status: unimplemented
+inputs:
+- - type: number

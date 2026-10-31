@@ -1,0 +1,9 @@
+---
+name: PerksActivityCondition
+fields:
+- name: isMet
+  type: boolean
+- name: text
+  type: string
+- name: uiPriority
+  type: number

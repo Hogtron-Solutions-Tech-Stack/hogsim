@@ -1,0 +1,9 @@
+---
+name: C_BattleNet.SearchFriends
+status: unimplemented
+inputs:
+- - type: AuroraFriendsSearchInfo
+outputs:
+- innerType: number
+  name: friendsData
+  type: table

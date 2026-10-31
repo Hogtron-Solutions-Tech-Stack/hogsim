@@ -1,0 +1,9 @@
+---
+name: GetSignalTime
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: time
+  nilable: true
+  type: unknown

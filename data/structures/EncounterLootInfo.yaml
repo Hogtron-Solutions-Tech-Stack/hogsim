@@ -1,0 +1,11 @@
+---
+name: EncounterLootInfo
+fields:
+- name: encounterName
+  type: string
+- name: encounterID
+  type: number
+- name: startTime
+  type: number
+- name: duration
+  type: number

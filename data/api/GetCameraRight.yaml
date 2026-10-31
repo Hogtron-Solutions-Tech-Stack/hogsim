@@ -1,0 +1,10 @@
+---
+name: GetCameraRight
+status: unimplemented
+outputs:
+- name: rightX
+  type: number
+- name: rightY
+  type: number
+- name: rightZ
+  type: number

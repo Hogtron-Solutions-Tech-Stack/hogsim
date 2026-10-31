@@ -1,0 +1,8 @@
+---
+name: C_QuestLog.QuestContainsFirstTimeRepBonusForPlayer
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: questContainsFirstTimeRepBonusForPlayer
+  type: boolean

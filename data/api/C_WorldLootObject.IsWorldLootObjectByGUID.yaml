@@ -1,0 +1,8 @@
+---
+name: C_WorldLootObject.IsWorldLootObjectByGUID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isWorldLootObject
+  type: boolean

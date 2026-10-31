@@ -1,0 +1,7 @@
+---
+name: C_Texture.GetTitleIconTexture
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - type: unknown

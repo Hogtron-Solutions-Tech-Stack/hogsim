@@ -1,0 +1,11 @@
+---
+name: C_CurrencyInfo.CanTransferCurrency
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: canTransferCurrency
+  type: boolean
+- name: failureReason
+  nilable: true
+  type: number

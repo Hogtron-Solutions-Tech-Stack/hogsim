@@ -1,0 +1,6 @@
+---
+name: C_NeighborhoodInitiative.IsPlayerInNeighborhoodGroup
+status: unimplemented
+outputs:
+- name: inValidGroup
+  type: boolean

@@ -1,0 +1,13 @@
+---
+name: QuestRequiredCurrencyInfo
+fields:
+- name: texture
+  type: number
+- name: name
+  type: string
+- name: currencyID
+  type: number
+- name: quality
+  type: number
+- name: requiredAmount
+  type: number

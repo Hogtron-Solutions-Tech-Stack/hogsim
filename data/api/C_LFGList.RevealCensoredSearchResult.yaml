@@ -1,0 +1,5 @@
+---
+name: C_LFGList.RevealCensoredSearchResult
+status: unimplemented
+inputs:
+- - type: number

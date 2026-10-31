@@ -1,0 +1,6 @@
+---
+name: C_CurrencyInfo.GetCurrencyFilter
+status: unimplemented
+outputs:
+- name: filterType
+  type: number

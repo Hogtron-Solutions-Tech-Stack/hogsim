@@ -1,0 +1,7 @@
+---
+name: PingActionCooldownUIInfo
+fields:
+- name: durationMs
+  type: number
+- name: remainingMs
+  type: number

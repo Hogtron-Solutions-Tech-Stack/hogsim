@@ -1,0 +1,6 @@
+---
+name: C_GamepadUI.GetFirstGamepadPetActionStorageSlotIndex
+status: unimplemented
+outputs:
+- name: firstGamepadPetActionStorageSlotID
+  type: number

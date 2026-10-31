@@ -1,0 +1,9 @@
+---
+name: CalendarGuildFilterInfo
+fields:
+- name: minLevel
+  type: number
+- name: maxLevel
+  type: number
+- name: rank
+  type: number

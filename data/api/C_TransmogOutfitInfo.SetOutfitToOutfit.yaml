@@ -1,0 +1,5 @@
+---
+name: C_TransmogOutfitInfo.SetOutfitToOutfit
+status: unimplemented
+inputs:
+- - type: number

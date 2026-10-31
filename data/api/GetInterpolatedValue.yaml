@@ -1,0 +1,6 @@
+---
+name: GetInterpolatedValue
+status: unimplemented
+outputs:
+- name: value
+  type: number

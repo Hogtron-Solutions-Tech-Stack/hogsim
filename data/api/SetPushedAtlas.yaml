@@ -1,0 +1,5 @@
+---
+name: SetPushedAtlas
+status: unimplemented
+inputs:
+- - type: string

@@ -1,0 +1,14 @@
+---
+name: QuestTheme
+fields:
+- name: background
+  type: string
+- name: seal
+  type: string
+- name: signature
+  type: string
+- name: poiIcon
+  type: string
+- name: mapPinInfo
+  nilable: true
+  type: UIMapPinInfo

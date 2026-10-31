@@ -1,0 +1,5 @@
+---
+name: C_EventScheduler.SetReminder
+status: unimplemented
+inputs:
+- - type: string

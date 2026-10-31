@@ -1,0 +1,6 @@
+---
+name: C_DurationUtil.CreateManualClock
+status: unimplemented
+outputs:
+- name: clock
+  type: unknown

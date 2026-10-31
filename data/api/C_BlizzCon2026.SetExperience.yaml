@@ -1,0 +1,5 @@
+---
+name: C_BlizzCon2026.SetExperience
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,6 @@
+---
+name: IsPartOfDraggingRoom
+status: unimplemented
+outputs:
+- name: isPartOfDraggingRoom
+  type: boolean

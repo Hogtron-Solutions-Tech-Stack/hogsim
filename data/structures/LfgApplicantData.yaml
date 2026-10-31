@@ -1,0 +1,18 @@
+---
+name: LfgApplicantData
+fields:
+- name: applicantID
+  type: number
+- name: applicationStatus
+  type: string
+- name: pendingApplicationStatus
+  nilable: true
+  type: string
+- name: numMembers
+  type: number
+- name: isNew
+  type: boolean
+- name: comment
+  type: unknown
+- name: displayOrderID
+  type: number

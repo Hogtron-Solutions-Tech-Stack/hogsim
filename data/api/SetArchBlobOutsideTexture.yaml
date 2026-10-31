@@ -1,0 +1,5 @@
+---
+name: SetArchBlobOutsideTexture
+status: unimplemented
+inputs:
+- - type: unknown

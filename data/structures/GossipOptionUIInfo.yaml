@@ -1,0 +1,30 @@
+---
+name: GossipOptionUIInfo
+fields:
+- name: gossipOptionID
+  nilable: true
+  type: number
+- name: name
+  type: string
+- name: icon
+  type: number
+- innerType: GossipOptionRewardInfo
+  name: rewards
+  type: table
+- name: status
+  type: number
+- name: spellID
+  nilable: true
+  type: number
+- name: flags
+  type: number
+- name: overrideIconID
+  nilable: true
+  type: number
+- name: selectOptionWhenOnlyOption
+  type: boolean
+- name: orderIndex
+  type: number
+- name: failureDescription
+  nilable: true
+  type: string

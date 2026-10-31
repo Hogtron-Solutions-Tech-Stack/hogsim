@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.IsCharacterBankEnabled
+status: unimplemented
+outputs:
+- name: isCharacterBankEnabled
+  type: boolean

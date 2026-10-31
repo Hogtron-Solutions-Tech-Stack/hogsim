@@ -1,0 +1,21 @@
+---
+name: ScheduledEventInfo
+fields:
+- name: eventKey
+  type: string
+- name: eventID
+  type: number
+- name: areaPoiID
+  type: number
+- name: startTime
+  type: number
+- name: endTime
+  type: number
+- name: duration
+  type: number
+- name: hasReminder
+  type: boolean
+- name: rewardsClaimed
+  type: boolean
+- name: displayInfo
+  type: EventDisplayInfo

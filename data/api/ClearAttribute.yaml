@@ -1,0 +1,8 @@
+---
+name: ClearAttribute
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: cleared
+  type: boolean

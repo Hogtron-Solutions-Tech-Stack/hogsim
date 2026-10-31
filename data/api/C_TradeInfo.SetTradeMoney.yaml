@@ -1,0 +1,5 @@
+---
+name: C_TradeInfo.SetTradeMoney
+status: unimplemented
+inputs:
+- - type: number

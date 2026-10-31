@@ -1,0 +1,6 @@
+---
+name: C_NeighborhoodInitiative.PlayerHasInitiativeAccess
+status: unimplemented
+outputs:
+- name: success
+  type: boolean

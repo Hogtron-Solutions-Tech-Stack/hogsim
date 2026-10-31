@@ -1,0 +1,7 @@
+---
+name: DurationTextBindingFormatComponent
+fields:
+- name: property
+  type: number
+- name: formatter
+  type: unknown

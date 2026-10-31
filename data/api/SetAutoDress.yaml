@@ -1,0 +1,5 @@
+---
+name: SetAutoDress
+status: unimplemented
+inputs:
+- - type: boolean

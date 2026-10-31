@@ -1,0 +1,8 @@
+---
+name: Length
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: result
+  type: number

@@ -1,0 +1,8 @@
+---
+name: OpenCheckout
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: wasOpened
+  type: boolean

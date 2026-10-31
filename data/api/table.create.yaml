@@ -1,0 +1,10 @@
+---
+name: table.create
+status: unimplemented
+inputs:
+- - type: number
+  - default: 0
+    type: number
+outputs:
+- name: table
+  type: table

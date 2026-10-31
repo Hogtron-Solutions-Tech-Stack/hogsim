@@ -1,0 +1,10 @@
+---
+name: C_Item.IsUsableItem
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: usable
+  type: boolean
+- name: noMana
+  type: boolean

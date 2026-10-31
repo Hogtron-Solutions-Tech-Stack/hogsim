@@ -1,0 +1,11 @@
+---
+name: C_Intl.FindStringMatches
+status: unimplemented
+inputs:
+- - type: string
+  - type: string
+  - type: number
+outputs:
+- innerType: number
+  name: byteOffsets
+  type: table

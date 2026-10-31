@@ -1,0 +1,8 @@
+---
+name: GetHealthRegen
+status: unimplemented
+outputs:
+- name: healthRegen
+  type: number
+- name: combatHealthRegen
+  type: number

@@ -1,0 +1,12 @@
+---
+name: GetIncomingHeals
+status: unimplemented
+outputs:
+- name: amount
+  type: number
+- name: amountFromHealer
+  type: number
+- name: amountFromOthers
+  type: number
+- name: clamped
+  type: boolean

@@ -1,0 +1,7 @@
+---
+name: UnregisterUnitEventCallback
+status: unimplemented
+inputs:
+- - type: string
+  - type: unknown
+  - type: unit

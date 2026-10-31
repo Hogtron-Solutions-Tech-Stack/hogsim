@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.GetOutfitSituationsEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

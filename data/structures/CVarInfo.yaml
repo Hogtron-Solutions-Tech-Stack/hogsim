@@ -1,0 +1,17 @@
+---
+name: CVarInfo
+fields:
+- name: value
+  type: string
+- name: defaultValue
+  type: string
+- name: isStoredServerAccount
+  type: boolean
+- name: isStoredServerCharacter
+  type: boolean
+- name: isLockedFromUser
+  type: boolean
+- name: isSecure
+  type: boolean
+- name: isReadOnly
+  type: boolean

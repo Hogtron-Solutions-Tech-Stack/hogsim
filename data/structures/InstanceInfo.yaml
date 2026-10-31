@@ -1,0 +1,27 @@
+---
+name: InstanceInfo
+fields:
+- name: name
+  type: string
+- name: instanceType
+  type: string
+- name: difficultyID
+  type: number
+- name: difficultyName
+  type: string
+- name: maxPlayers
+  type: number
+- name: dynamicDifficulty
+  type: number
+- name: isDynamic
+  nilable: true
+  type: boolean
+- name: instanceID
+  type: number
+- name: instanceGroupSize
+  type: number
+- name: lfgDungeonID
+  nilable: true
+  type: number
+- name: hasWorldTier
+  type: boolean

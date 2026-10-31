@@ -1,0 +1,12 @@
+---
+name: WeeklyRewardActivityRewardInfo
+fields:
+- name: type
+  type: unknown
+- name: id
+  type: number
+- name: quantity
+  type: number
+- name: itemDBID
+  nilable: true
+  type: number

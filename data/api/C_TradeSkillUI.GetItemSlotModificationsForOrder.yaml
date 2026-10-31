@@ -1,0 +1,9 @@
+---
+name: C_TradeSkillUI.GetItemSlotModificationsForOrder
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: CraftingItemSlotModification
+  name: slotMods
+  type: table

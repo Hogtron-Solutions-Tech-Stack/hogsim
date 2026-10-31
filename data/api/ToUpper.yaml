@@ -1,0 +1,8 @@
+---
+name: ToUpper
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: result
+  type: string

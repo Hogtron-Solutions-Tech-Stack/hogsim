@@ -1,0 +1,6 @@
+---
+name: GetFlipBookColumns
+status: unimplemented
+outputs:
+- name: columns
+  type: number

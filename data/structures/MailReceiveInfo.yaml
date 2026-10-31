@@ -1,0 +1,7 @@
+---
+name: MailReceiveInfo
+fields:
+- name: sender
+  type: string
+- name: money
+  type: number

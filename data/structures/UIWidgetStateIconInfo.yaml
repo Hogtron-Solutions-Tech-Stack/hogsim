@@ -1,0 +1,9 @@
+---
+name: UIWidgetStateIconInfo
+fields:
+- name: iconState
+  type: number
+- name: state1Tooltip
+  type: string
+- name: state2Tooltip
+  type: string

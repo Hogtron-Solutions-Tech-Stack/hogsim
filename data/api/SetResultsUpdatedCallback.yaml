@@ -1,0 +1,5 @@
+---
+name: SetResultsUpdatedCallback
+status: unimplemented
+inputs:
+- - type: unknown

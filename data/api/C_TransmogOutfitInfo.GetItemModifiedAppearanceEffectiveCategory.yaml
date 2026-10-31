@@ -1,0 +1,8 @@
+---
+name: C_TransmogOutfitInfo.GetItemModifiedAppearanceEffectiveCategory
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: categoryID
+  type: number

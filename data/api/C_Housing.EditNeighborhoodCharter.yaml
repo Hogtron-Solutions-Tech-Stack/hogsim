@@ -1,0 +1,5 @@
+---
+name: C_Housing.EditNeighborhoodCharter
+status: unimplemented
+inputs:
+- - type: string

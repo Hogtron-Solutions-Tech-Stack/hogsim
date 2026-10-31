@@ -1,0 +1,7 @@
+---
+name: C_HousingCatalog.GetFeaturedBundles
+status: unimplemented
+outputs:
+- innerType: HousingBundleInfo
+  name: bundleInfos
+  type: table

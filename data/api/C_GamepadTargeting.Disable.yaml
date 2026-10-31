@@ -1,0 +1,6 @@
+---
+name: C_GamepadTargeting.Disable
+status: unimplemented
+outputs:
+- name: targetAlreadySelected
+  type: boolean

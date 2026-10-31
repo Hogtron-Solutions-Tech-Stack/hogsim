@@ -1,0 +1,6 @@
+---
+name: ConsoleGetFontHeight
+status: unimplemented
+outputs:
+- name: fontHeightInPixels
+  type: number

@@ -1,0 +1,5 @@
+---
+name: SetPredictedValues
+status: unimplemented
+inputs:
+- - type: UnitHealPredictionValues

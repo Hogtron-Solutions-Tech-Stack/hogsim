@@ -1,0 +1,8 @@
+---
+name: C_QuestLog.IsEliteQuest
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isEliteQuest
+  type: boolean

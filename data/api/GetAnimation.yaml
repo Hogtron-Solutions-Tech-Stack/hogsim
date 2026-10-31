@@ -1,0 +1,6 @@
+---
+name: GetAnimation
+status: unimplemented
+outputs:
+- name: animation
+  type: unknown

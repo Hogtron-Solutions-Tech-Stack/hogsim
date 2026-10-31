@@ -1,0 +1,7 @@
+---
+name: MailSendInfo
+fields:
+- name: target
+  type: string
+- name: sendMoney
+  type: number

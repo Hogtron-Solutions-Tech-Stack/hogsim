@@ -1,0 +1,6 @@
+---
+name: HasAlphaGradient
+status: unimplemented
+outputs:
+- name: hasAlphaGradient
+  type: boolean

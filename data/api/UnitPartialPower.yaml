@@ -1,0 +1,12 @@
+---
+name: UnitPartialPower
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: number
+  - default: false
+    type: boolean
+outputs:
+- name: partialPower
+  type: number

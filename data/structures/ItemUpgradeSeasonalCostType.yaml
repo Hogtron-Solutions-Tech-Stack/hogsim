@@ -1,0 +1,14 @@
+---
+name: ItemUpgradeSeasonalCostType
+fields:
+- name: itemID
+  nilable: true
+  type: number
+- name: currencyID
+  nilable: true
+  type: number
+- name: orderIndex
+  type: number
+- name: sourceString
+  nilable: true
+  type: string

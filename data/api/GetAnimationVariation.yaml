@@ -1,0 +1,6 @@
+---
+name: GetAnimationVariation
+status: unimplemented
+outputs:
+- name: variation
+  type: number

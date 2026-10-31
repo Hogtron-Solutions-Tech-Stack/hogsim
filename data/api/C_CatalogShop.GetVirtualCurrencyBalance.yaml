@@ -1,0 +1,9 @@
+---
+name: C_CatalogShop.GetVirtualCurrencyBalance
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: balance
+  nilable: true
+  type: string

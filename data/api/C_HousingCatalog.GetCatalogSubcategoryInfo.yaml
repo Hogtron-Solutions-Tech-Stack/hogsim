@@ -1,0 +1,9 @@
+---
+name: C_HousingCatalog.GetCatalogSubcategoryInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: info
+  nilable: true
+  type: HousingCatalogSubcategoryInfo

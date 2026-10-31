@@ -1,0 +1,9 @@
+---
+name: WorldLootObjectInfo
+fields:
+- name: inventoryType
+  type: number
+- name: atMaxQuality
+  type: boolean
+- name: isUpgrade
+  type: boolean

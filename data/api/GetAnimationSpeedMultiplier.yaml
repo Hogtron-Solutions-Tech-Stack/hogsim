@@ -1,0 +1,6 @@
+---
+name: GetAnimationSpeedMultiplier
+status: unimplemented
+outputs:
+- name: animationSpeedMultiplier
+  type: number

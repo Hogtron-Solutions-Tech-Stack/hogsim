@@ -1,0 +1,6 @@
+---
+name: CanMove
+status: unimplemented
+outputs:
+- name: moveRestriction
+  type: number

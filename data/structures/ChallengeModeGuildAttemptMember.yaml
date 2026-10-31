@@ -1,0 +1,7 @@
+---
+name: ChallengeModeGuildAttemptMember
+fields:
+- name: name
+  type: string
+- name: classFileName
+  type: string

@@ -1,0 +1,6 @@
+---
+name: C_HousingDecor.IsPreviewState
+status: unimplemented
+outputs:
+- name: isPreviewState
+  type: boolean

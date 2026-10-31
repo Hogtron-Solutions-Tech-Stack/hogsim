@@ -1,0 +1,8 @@
+---
+name: C_LFGInfo.CanPlayerUseScenarioFinder
+status: unimplemented
+outputs:
+- name: canUse
+  type: boolean
+- name: failureReason
+  type: string

@@ -1,0 +1,6 @@
+---
+name: C_CatalogShop.ConfirmHousingPurchase
+status: unimplemented
+inputs:
+- - innerType: number
+    type: table

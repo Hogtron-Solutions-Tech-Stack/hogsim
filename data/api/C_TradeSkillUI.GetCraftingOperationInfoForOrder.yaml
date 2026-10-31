@@ -1,0 +1,13 @@
+---
+name: C_TradeSkillUI.GetCraftingOperationInfoForOrder
+status: unimplemented
+inputs:
+- - type: number
+  - innerType: CraftingReagentInfo
+    type: table
+  - type: number
+  - type: boolean
+outputs:
+- name: info
+  nilable: true
+  type: CraftingOperationInfo

@@ -1,0 +1,13 @@
+---
+name: C_TooltipInfo.GetQuestLogItem
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: boolean
+outputs:
+- name: data
+  type: unknown

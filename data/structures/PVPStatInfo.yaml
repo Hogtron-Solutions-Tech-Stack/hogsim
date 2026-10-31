@@ -1,0 +1,15 @@
+---
+name: PVPStatInfo
+fields:
+- name: pvpStatID
+  type: number
+- name: pvpStatValue
+  type: number
+- name: orderIndex
+  type: number
+- name: name
+  type: string
+- name: tooltip
+  type: string
+- name: iconName
+  type: string

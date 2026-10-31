@@ -1,0 +1,6 @@
+---
+name: C_GameRules.IsCharacterlessLoginActive
+status: unimplemented
+outputs:
+- name: active
+  type: boolean

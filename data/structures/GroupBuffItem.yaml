@@ -1,0 +1,15 @@
+---
+name: GroupBuffItem
+fields:
+- name: spellID
+  type: number
+- name: displaySpellID
+  type: number
+- name: name
+  type: string
+- name: iconID
+  type: number
+- name: flags
+  type: number
+- name: isKnown
+  type: boolean

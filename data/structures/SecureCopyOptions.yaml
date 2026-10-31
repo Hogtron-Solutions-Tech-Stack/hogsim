@@ -1,0 +1,9 @@
+---
+name: SecureCopyOptions
+fields:
+- name: maxTraversalDepth
+  type: number
+- name: wrapUntrustedFunctions
+  type: boolean
+- name: permitScriptObjects
+  type: boolean

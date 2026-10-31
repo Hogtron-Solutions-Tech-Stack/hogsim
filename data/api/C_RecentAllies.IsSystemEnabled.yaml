@@ -1,0 +1,6 @@
+---
+name: C_RecentAllies.IsSystemEnabled
+status: unimplemented
+outputs:
+- name: isRecentAllySystemEnabled
+  type: boolean

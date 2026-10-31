@@ -1,0 +1,5 @@
+---
+name: SetHyperlinkFormat
+status: unimplemented
+inputs:
+- - type: string

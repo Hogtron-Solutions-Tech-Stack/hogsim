@@ -1,0 +1,6 @@
+---
+name: IsValid
+status: unimplemented
+outputs:
+- name: isValid
+  type: boolean

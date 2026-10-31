@@ -1,0 +1,11 @@
+---
+name: C_SpecializationInfo.GetActiveSpecGroup
+status: unimplemented
+inputs:
+- - nilable: true
+    type: boolean
+  - nilable: true
+    type: boolean
+outputs:
+- name: groupIndex
+  type: number

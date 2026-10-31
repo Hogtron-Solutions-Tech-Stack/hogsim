@@ -1,0 +1,7 @@
+---
+name: CovenantAbilityInfo
+fields:
+- name: spellID
+  type: number
+- name: type
+  type: number

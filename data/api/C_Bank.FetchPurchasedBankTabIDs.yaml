@@ -1,0 +1,9 @@
+---
+name: C_Bank.FetchPurchasedBankTabIDs
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: purchasedBankTabIDs
+  type: table

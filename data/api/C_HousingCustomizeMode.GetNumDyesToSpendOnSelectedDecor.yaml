@@ -1,0 +1,6 @@
+---
+name: C_HousingCustomizeMode.GetNumDyesToSpendOnSelectedDecor
+status: unimplemented
+outputs:
+- name: numDyesToSpend
+  type: number

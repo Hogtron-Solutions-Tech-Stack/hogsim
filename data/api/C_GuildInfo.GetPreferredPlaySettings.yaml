@@ -1,0 +1,16 @@
+---
+name: C_GuildInfo.GetPreferredPlaySettings
+status: unimplemented
+outputs:
+- name: loaded
+  type: boolean
+- name: preferredLocaleID
+  type: number
+- name: preferredDatacenterLocalityID
+  type: number
+- name: lastPreferredLocaleChangeDate
+  type: number
+- name: lastPreferredDatacenterLocalityChangeDate
+  type: number
+- name: changeCooldownDays
+  type: number

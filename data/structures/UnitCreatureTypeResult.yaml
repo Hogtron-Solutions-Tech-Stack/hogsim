@@ -1,0 +1,7 @@
+---
+name: UnitCreatureTypeResult
+fields:
+- name: name
+  type: string
+- name: id
+  type: number

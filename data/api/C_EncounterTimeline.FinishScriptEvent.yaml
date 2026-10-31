@@ -1,0 +1,5 @@
+---
+name: C_EncounterTimeline.FinishScriptEvent
+status: unimplemented
+inputs:
+- - type: number

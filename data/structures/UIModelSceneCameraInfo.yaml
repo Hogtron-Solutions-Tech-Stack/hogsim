@@ -1,0 +1,33 @@
+---
+name: UIModelSceneCameraInfo
+fields:
+- name: modelSceneCameraID
+  type: number
+- name: scriptTag
+  type: string
+- name: cameraType
+  type: string
+- name: target
+  type: unknown
+- name: yaw
+  type: number
+- name: pitch
+  type: number
+- name: roll
+  type: number
+- name: zoomDistance
+  type: number
+- name: minZoomDistance
+  type: number
+- name: maxZoomDistance
+  type: number
+- name: zoomedTargetOffset
+  type: unknown
+- name: zoomedYawOffset
+  type: number
+- name: zoomedPitchOffset
+  type: number
+- name: zoomedRollOffset
+  type: number
+- name: flags
+  type: number

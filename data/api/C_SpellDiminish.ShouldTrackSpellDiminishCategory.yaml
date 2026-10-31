@@ -1,0 +1,9 @@
+---
+name: C_SpellDiminish.ShouldTrackSpellDiminishCategory
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: isTracked
+  type: boolean

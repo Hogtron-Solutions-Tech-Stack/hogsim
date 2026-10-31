@@ -1,0 +1,28 @@
+---
+name: MerchantItemInfo
+fields:
+- name: name
+  nilable: true
+  type: string
+- name: texture
+  type: number
+- name: price
+  type: number
+- name: stackCount
+  type: number
+- name: numAvailable
+  type: number
+- name: isPurchasable
+  type: boolean
+- name: isUsable
+  type: boolean
+- name: hasExtendedCost
+  type: boolean
+- name: currencyID
+  nilable: true
+  type: number
+- name: spellID
+  nilable: true
+  type: number
+- name: isQuestStartItem
+  type: boolean

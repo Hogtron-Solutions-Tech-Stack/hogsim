@@ -1,0 +1,5 @@
+---
+name: C_Housing.HouseFinderIgnoreNeighborhood
+status: unimplemented
+inputs:
+- - type: string

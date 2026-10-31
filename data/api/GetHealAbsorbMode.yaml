@@ -1,0 +1,6 @@
+---
+name: GetHealAbsorbMode
+status: unimplemented
+outputs:
+- name: healAbsorbMode
+  type: number

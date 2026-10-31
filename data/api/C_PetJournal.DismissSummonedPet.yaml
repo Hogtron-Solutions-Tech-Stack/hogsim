@@ -1,0 +1,5 @@
+---
+name: C_PetJournal.DismissSummonedPet
+status: unimplemented
+inputs:
+- - type: string

@@ -1,0 +1,5 @@
+---
+name: C_TransmogOutfitInfo.CommitAndApplyAllPending
+status: unimplemented
+inputs:
+- - type: boolean

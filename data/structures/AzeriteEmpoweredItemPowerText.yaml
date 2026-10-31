@@ -1,0 +1,7 @@
+---
+name: AzeriteEmpoweredItemPowerText
+fields:
+- name: name
+  type: string
+- name: description
+  type: string

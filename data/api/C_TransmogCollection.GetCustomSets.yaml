@@ -1,0 +1,7 @@
+---
+name: C_TransmogCollection.GetCustomSets
+status: unimplemented
+outputs:
+- innerType: number
+  name: customSetID
+  type: table

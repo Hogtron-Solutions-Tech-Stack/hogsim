@@ -1,0 +1,8 @@
+---
+name: C_EncounterEvents.SetEventSound
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - nilable: true
+    type: EncounterEventSoundInfo

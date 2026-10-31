@@ -1,0 +1,6 @@
+---
+name: CanChangeHitTestPoints
+status: unimplemented
+outputs:
+- name: canChangeHitTestPoints
+  type: boolean

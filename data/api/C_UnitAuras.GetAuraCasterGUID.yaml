@@ -1,0 +1,10 @@
+---
+name: C_UnitAuras.GetAuraCasterGUID
+status: unimplemented
+inputs:
+- - type: unit
+  - type: number
+outputs:
+- name: casterGUID
+  nilable: true
+  type: string

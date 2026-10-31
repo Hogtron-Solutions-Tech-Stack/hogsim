@@ -1,0 +1,6 @@
+---
+name: C_CooldownViewer.GetLayoutData
+status: unimplemented
+outputs:
+- name: data
+  type: string

@@ -1,0 +1,5 @@
+---
+name: NavigateHome
+status: unimplemented
+inputs:
+- - type: string

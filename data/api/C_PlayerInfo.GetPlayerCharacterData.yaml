@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.GetPlayerCharacterData
+status: unimplemented
+outputs:
+- name: characterData
+  type: PlayerInfoCharacterData

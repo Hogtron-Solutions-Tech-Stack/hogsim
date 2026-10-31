@@ -1,0 +1,5 @@
+---
+name: SetAnimOffset
+status: unimplemented
+inputs:
+- - type: number

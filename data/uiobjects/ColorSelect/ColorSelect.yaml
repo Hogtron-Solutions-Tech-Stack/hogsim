@@ -18,6 +18,12 @@ methods:
     - wow_beta
     - wowt
     status: unimplemented
+  GetColorAlpha:
+    status: unimplemented
+  GetColorAlphaTexture:
+    status: unimplemented
+  GetColorAlphaThumbTexture:
+    status: unimplemented
   GetColorHSV:
     outputs:
     - name: h
@@ -52,6 +58,12 @@ methods:
     fields:
     - name: colorWheelThumbTexture
     status: getter
+  SetColorAlpha:
+    status: unimplemented
+  SetColorAlphaTexture:
+    status: unimplemented
+  SetColorAlphaThumbTexture:
+    status: unimplemented
   SetColorHSV:
     status: unimplemented
   SetColorRGB:

@@ -1,0 +1,22 @@
+---
+name: MountInfoExtra
+fields:
+- name: creatureDisplayInfoID
+  nilable: true
+  type: number
+- name: description
+  type: string
+- name: source
+  type: string
+- name: isSelfMount
+  type: boolean
+- name: mountTypeID
+  type: number
+- name: uiModelSceneID
+  type: number
+- name: animID
+  type: number
+- name: spellVisualKitID
+  type: number
+- name: disablePlayerMountPreview
+  type: boolean

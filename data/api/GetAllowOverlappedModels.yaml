@@ -1,0 +1,6 @@
+---
+name: GetAllowOverlappedModels
+status: unimplemented
+outputs:
+- name: allowOverlappedModels
+  type: boolean

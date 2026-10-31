@@ -1,0 +1,8 @@
+---
+name: GetModelDrawLayer
+status: unimplemented
+outputs:
+- name: layer
+  type: unknown
+- name: sublayer
+  type: number

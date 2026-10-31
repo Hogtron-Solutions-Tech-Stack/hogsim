@@ -1,0 +1,6 @@
+---
+name: C_TimerunningUI.GetActiveTimerunningSeasonID
+status: unimplemented
+outputs:
+- name: activeTimerunningSeasonID
+  type: number

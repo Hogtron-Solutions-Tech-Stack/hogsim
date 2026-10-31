@@ -1,0 +1,7 @@
+---
+name: TooltipComparisonLine
+fields:
+- name: text
+  type: string
+- name: color
+  type: unknown

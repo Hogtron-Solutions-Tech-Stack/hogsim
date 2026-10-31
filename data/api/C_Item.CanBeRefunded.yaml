@@ -1,0 +1,8 @@
+---
+name: C_Item.CanBeRefunded
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: canBeRefunded
+  type: boolean

@@ -1,0 +1,29 @@
+---
+name: NeighborhoodInitiativeInfo
+fields:
+- name: isLoaded
+  type: boolean
+- name: neighborhoodGUID
+  type: string
+- name: initiativeID
+  type: number
+- name: currentCycleID
+  type: number
+- name: progressRequired
+  type: number
+- name: currentProgress
+  type: number
+- name: playerTotalContribution
+  type: number
+- name: duration
+  type: number
+- innerType: InitiativeTaskInfo
+  name: tasks
+  type: table
+- innerType: InitiativeMilestoneInfo
+  name: milestones
+  type: table
+- name: title
+  type: string
+- name: description
+  type: string

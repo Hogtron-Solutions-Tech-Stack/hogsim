@@ -1,0 +1,10 @@
+---
+name: SetSwipeTexture
+status: unimplemented
+inputs:
+- - nilable: true
+    type: unknown
+  - type: number
+  - type: number
+  - type: number
+  - type: number

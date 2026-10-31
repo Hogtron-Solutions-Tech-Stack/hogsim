@@ -1,0 +1,7 @@
+---
+name: HousingBundleDecorEntryInfo
+fields:
+- name: decorID
+  type: number
+- name: quantity
+  type: number

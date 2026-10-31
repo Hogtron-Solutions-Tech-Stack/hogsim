@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.IsMirrorImage
+status: unimplemented
+outputs:
+- name: isMirrorImage
+  type: boolean

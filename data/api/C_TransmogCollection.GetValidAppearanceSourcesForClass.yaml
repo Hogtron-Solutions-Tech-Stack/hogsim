@@ -1,0 +1,14 @@
+---
+name: C_TransmogCollection.GetValidAppearanceSourcesForClass
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: unknown
+outputs:
+- innerType: AppearanceSourceInfo
+  name: sources
+  type: table

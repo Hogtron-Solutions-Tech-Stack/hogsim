@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.HasActiveLFGLair
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

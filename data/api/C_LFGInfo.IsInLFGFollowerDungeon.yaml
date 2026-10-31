@@ -1,0 +1,6 @@
+---
+name: C_LFGInfo.IsInLFGFollowerDungeon
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

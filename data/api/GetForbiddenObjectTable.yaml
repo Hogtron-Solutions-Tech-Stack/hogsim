@@ -1,0 +1,8 @@
+---
+name: GetForbiddenObjectTable
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: forbiddenTable
+  type: unknown

@@ -1,0 +1,10 @@
+---
+name: C_Sound.PlaySoundWithOptions
+status: unimplemented
+inputs:
+- - type: PlaySoundParams
+outputs:
+- name: success
+  type: boolean
+- name: soundHandle
+  type: unknown

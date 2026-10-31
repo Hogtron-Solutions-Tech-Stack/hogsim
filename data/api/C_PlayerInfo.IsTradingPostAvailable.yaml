@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.IsTradingPostAvailable
+status: unimplemented
+outputs:
+- name: isAvailable
+  type: boolean

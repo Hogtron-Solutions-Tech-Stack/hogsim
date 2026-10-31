@@ -1,0 +1,7 @@
+---
+name: C_ActionBar.RegisterActionUIButton
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number
+  - type: unknown

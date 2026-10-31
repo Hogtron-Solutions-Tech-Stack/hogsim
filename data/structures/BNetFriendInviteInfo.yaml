@@ -1,0 +1,12 @@
+---
+name: BNetFriendInviteInfo
+fields:
+- name: inviteID
+  type: number
+- name: accountName
+  type: unknown
+- name: creationTimestamp
+  type: number
+- name: friendLevel
+  nilable: true
+  type: number

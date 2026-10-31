@@ -1,0 +1,17 @@
+---
+name: SpellInfo
+fields:
+- name: name
+  type: string
+- name: iconID
+  type: number
+- name: originalIconID
+  type: number
+- name: castTime
+  type: number
+- name: minRange
+  type: number
+- name: maxRange
+  type: number
+- name: spellID
+  type: number

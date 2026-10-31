@@ -1,0 +1,7 @@
+---
+name: C_CVar.SetTempCVar
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: string

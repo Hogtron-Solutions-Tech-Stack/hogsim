@@ -1,0 +1,6 @@
+---
+name: C_ItemSocketInfo.GetNumSockets
+status: unimplemented
+outputs:
+- name: numSockets
+  type: number

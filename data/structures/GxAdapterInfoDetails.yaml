@@ -1,0 +1,9 @@
+---
+name: GxAdapterInfoDetails
+fields:
+- name: name
+  type: string
+- name: isLowPower
+  type: boolean
+- name: isExternal
+  type: boolean

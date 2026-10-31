@@ -1,0 +1,7 @@
+---
+name: C_SeasonInfo.GetCurrentDisplaySeasonExpansion
+status: unimplemented
+outputs:
+- name: expansionID
+  nilable: true
+  type: number

@@ -1,0 +1,8 @@
+---
+name: SetChildKey
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: success
+  type: boolean

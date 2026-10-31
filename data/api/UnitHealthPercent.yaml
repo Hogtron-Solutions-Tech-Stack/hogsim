@@ -1,0 +1,12 @@
+---
+name: UnitHealthPercent
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: true
+    type: boolean
+  - nilable: true
+    type: unknown
+outputs:
+- name: result
+  type: unknown

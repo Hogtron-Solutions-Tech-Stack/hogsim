@@ -1,0 +1,9 @@
+---
+name: C_TaskQuest.GetQuestUIWidgetSetByType
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: widgetSet
+  type: number

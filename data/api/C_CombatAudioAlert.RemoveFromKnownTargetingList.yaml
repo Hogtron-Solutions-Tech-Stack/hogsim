@@ -1,0 +1,8 @@
+---
+name: C_CombatAudioAlert.RemoveFromKnownTargetingList
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: removed
+  type: boolean

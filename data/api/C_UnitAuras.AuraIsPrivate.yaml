@@ -1,0 +1,8 @@
+---
+name: C_UnitAuras.AuraIsPrivate
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isPrivate
+  type: boolean

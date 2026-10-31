@@ -1,0 +1,9 @@
+---
+name: C_TradeSkillUI.GetSkillLineForGear
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: skillLineID
+  nilable: true
+  type: number

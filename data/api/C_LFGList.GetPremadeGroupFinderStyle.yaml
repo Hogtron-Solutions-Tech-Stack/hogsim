@@ -1,0 +1,6 @@
+---
+name: C_LFGList.GetPremadeGroupFinderStyle
+status: unimplemented
+outputs:
+- name: style
+  type: number

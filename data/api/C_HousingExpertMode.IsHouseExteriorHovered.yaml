@@ -1,0 +1,6 @@
+---
+name: C_HousingExpertMode.IsHouseExteriorHovered
+status: unimplemented
+outputs:
+- name: isHouseExteriorHovered
+  type: boolean

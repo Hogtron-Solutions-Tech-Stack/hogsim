@@ -1,0 +1,11 @@
+---
+name: C_Traits.GetGroupCurrencyInfo
+status: unimplemented
+inputs:
+- - type: number
+  - innerType: number
+    type: table
+outputs:
+- innerType: GroupCurrencyInfo
+  name: groupCurrencyInfos
+  type: table

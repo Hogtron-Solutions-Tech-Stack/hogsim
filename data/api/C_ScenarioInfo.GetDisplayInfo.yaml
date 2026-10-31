@@ -1,0 +1,6 @@
+---
+name: C_ScenarioInfo.GetDisplayInfo
+status: unimplemented
+outputs:
+- name: info
+  type: ScenarioDisplayInfo

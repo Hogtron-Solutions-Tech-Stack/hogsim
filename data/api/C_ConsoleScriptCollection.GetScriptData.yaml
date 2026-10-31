@@ -1,0 +1,8 @@
+---
+name: C_ConsoleScriptCollection.GetScriptData
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: data
+  type: ConsoleScriptData

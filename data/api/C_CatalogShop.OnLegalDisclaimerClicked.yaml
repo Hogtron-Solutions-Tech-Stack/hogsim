@@ -1,0 +1,5 @@
+---
+name: C_CatalogShop.OnLegalDisclaimerClicked
+status: unimplemented
+inputs:
+- - type: number

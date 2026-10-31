@@ -1,0 +1,26 @@
+---
+name: TraitSubTreeInfo
+fields:
+- name: ID
+  type: number
+- name: name
+  nilable: true
+  type: string
+- name: description
+  nilable: true
+  type: string
+- name: iconElementID
+  nilable: true
+  type: string
+- name: traitCurrencyID
+  nilable: true
+  type: number
+- name: isActive
+  type: boolean
+- innerType: number
+  name: subTreeSelectionNodeIDs
+  type: table
+- name: posX
+  type: number
+- name: posY
+  type: number

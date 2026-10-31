@@ -1,0 +1,6 @@
+---
+name: C_CraftingOrders.GetNumFavoriteCustomerOptions
+status: unimplemented
+outputs:
+- name: numFavorites
+  type: number

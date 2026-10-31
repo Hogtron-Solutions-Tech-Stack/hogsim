@@ -1,0 +1,6 @@
+---
+name: GetForbiddenAspects
+status: unimplemented
+outputs:
+- name: aspects
+  type: number

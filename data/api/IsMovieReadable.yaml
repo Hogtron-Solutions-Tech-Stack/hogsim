@@ -1,0 +1,8 @@
+---
+name: IsMovieReadable
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: readable
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_HousingCatalog.DestroyEntry
+status: unimplemented
+inputs:
+- - type: HousingCatalogEntryVariantID
+  - type: boolean

@@ -1,0 +1,5 @@
+---
+name: C_ActionBar.SetActionBarPage
+status: unimplemented
+inputs:
+- - type: number

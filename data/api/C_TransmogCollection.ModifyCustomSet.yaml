@@ -1,0 +1,7 @@
+---
+name: C_TransmogCollection.ModifyCustomSet
+status: unimplemented
+inputs:
+- - type: number
+  - innerType: unknown
+    type: table

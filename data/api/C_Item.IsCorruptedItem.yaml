@@ -1,0 +1,9 @@
+---
+name: C_Item.IsCorruptedItem
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: result
+  nilable: true
+  type: boolean

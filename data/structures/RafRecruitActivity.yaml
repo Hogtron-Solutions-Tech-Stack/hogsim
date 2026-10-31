@@ -1,0 +1,9 @@
+---
+name: RafRecruitActivity
+fields:
+- name: activityID
+  type: number
+- name: rewardQuestID
+  type: number
+- name: state
+  type: number

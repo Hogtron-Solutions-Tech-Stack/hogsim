@@ -1,0 +1,9 @@
+---
+name: C_QuestHub.IsQuestCurrentlyRelatedToHub
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: isRelated
+  type: boolean

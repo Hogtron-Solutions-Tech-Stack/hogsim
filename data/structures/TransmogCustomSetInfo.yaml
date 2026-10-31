@@ -1,0 +1,7 @@
+---
+name: TransmogCustomSetInfo
+fields:
+- name: name
+  type: string
+- name: icon
+  type: number

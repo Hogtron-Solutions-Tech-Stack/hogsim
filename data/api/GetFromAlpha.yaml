@@ -1,0 +1,6 @@
+---
+name: GetFromAlpha
+status: unimplemented
+outputs:
+- name: normalizedAlpha
+  type: number

@@ -1,0 +1,6 @@
+---
+name: GetRangedHitModifier
+status: unimplemented
+outputs:
+- name: result
+  type: number

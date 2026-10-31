@@ -1,0 +1,11 @@
+---
+name: HookScript
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: unknown
+  - default: Extrinsic
+    type: number
+outputs:
+- name: success
+  type: boolean

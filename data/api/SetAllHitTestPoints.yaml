@@ -1,0 +1,5 @@
+---
+name: SetAllHitTestPoints
+status: unimplemented
+inputs:
+- - type: unknown

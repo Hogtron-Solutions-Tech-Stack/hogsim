@@ -1,0 +1,8 @@
+---
+name: C_Housing.DoesFactionMatchNeighborhood
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: factionMatches
+  type: boolean

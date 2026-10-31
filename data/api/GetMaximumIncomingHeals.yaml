@@ -1,0 +1,6 @@
+---
+name: GetMaximumIncomingHeals
+status: unimplemented
+outputs:
+- name: maximumIncomingHeals
+  type: number

@@ -1,0 +1,23 @@
+---
+name: SpecializationInfoResult
+fields:
+- name: id
+  type: number
+- name: name
+  type: string
+- name: description
+  type: string
+- name: icon
+  type: number
+- name: role
+  type: string
+- name: recommended
+  type: boolean
+- name: allowedForBoost
+  type: boolean
+- name: masterySpell1
+  nilable: true
+  type: number
+- name: masterySpell2
+  nilable: true
+  type: number

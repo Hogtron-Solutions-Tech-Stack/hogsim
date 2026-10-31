@@ -1,0 +1,9 @@
+---
+name: C_LootHistory.GetInfoForEncounter
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: info
+  nilable: true
+  type: EncounterLootInfo

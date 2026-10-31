@@ -1,0 +1,6 @@
+---
+name: C_GameRules.IsSDHDToggleEnabled
+status: unimplemented
+outputs:
+- name: isEnabled
+  type: boolean

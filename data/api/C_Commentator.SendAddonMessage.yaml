@@ -1,0 +1,13 @@
+---
+name: C_Commentator.SendAddonMessage
+status: unimplemented
+inputs:
+- - type: string
+  - type: string
+  - nilable: true
+    type: string
+  - nilable: true
+    type: string
+outputs:
+- name: result
+  type: number

@@ -1,0 +1,9 @@
+---
+name: C_TransmogSets.GetValidClassForSet
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: classID
+  nilable: true
+  type: number

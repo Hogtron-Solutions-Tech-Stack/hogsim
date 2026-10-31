@@ -1,0 +1,6 @@
+---
+name: C_HousingCatalog.GetCartSizeLimit
+status: unimplemented
+outputs:
+- name: cartSizeLimit
+  type: number

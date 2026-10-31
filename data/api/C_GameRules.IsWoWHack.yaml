@@ -1,0 +1,6 @@
+---
+name: C_GameRules.IsWoWHack
+status: unimplemented
+outputs:
+- name: active
+  type: boolean

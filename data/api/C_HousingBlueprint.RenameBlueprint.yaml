@@ -1,0 +1,6 @@
+---
+name: C_HousingBlueprint.RenameBlueprint
+status: unimplemented
+inputs:
+- - type: number
+  - type: string

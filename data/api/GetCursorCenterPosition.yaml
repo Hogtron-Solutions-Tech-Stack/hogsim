@@ -1,0 +1,8 @@
+---
+name: GetCursorCenterPosition
+status: unimplemented
+outputs:
+- name: posX
+  type: number
+- name: posY
+  type: number

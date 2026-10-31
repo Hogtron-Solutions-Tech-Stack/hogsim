@@ -1,0 +1,6 @@
+---
+name: IsMovable
+status: unimplemented
+outputs:
+- name: isMovable
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetUTF8CursorPosition
+status: unimplemented
+outputs:
+- name: cursorPosition
+  type: number
