@@ -16,7 +16,7 @@ local function hasproduct(t, p)
     return true
   end
   for _, k in ipairs(t.products) do
-    if k == p then
+    if k == p or (p == 'wowf' and k == 'wow') then
       return true
     end
   end

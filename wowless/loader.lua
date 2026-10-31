@@ -639,6 +639,42 @@ local function loader(api, cfg)
     Wrath = 'WOTLKC',
   }
 
+  -- forever-sim: modern TOC conventions (WoW: Forever and 11.x+ clients).
+  local gametypes = (function()
+    local t = {}
+    for _, g in ipairs(build.gametypes or {}) do
+      t[g:lower()] = true
+    end
+    return next(t) and t or nil
+  end)()
+  local tocFamily = build.family or 'Mainline'
+  local tocGame = build.game or 'Mainline'
+  local function gametypeHit(list)
+    for g in list:gmatch('[^,%s]+') do
+      if gametypes[g:lower()] then
+        return true
+      end
+    end
+    return false
+  end
+  -- Strips trailing [bracket] groups from a TOC line; returns the bare line and whether it applies here.
+  local function tocConditions(str)
+    local allowed = true
+    while true do
+      local before, cond = str:match('^(.-)%s*%[([^%]]*)%]%s*$')
+      if not before or before == '' then
+        break
+      end
+      str = before
+      local kind, list = cond:match('^(%a+)%s+(.*)$')
+      if gametypes and kind == 'AllowLoadGameType' and not gametypeHit(list) then
+        allowed = false
+      elseif gametypes and kind == 'ExcludeLoadGameType' and gametypeHit(list) then
+        allowed = false
+      end
+    end
+    return str, allowed
+  end
   local function parseToc(tocFile, content)
     local attrs = {}
     local files = {}
@@ -648,10 +684,17 @@ local function loader(api, cfg)
       if line:sub(1, 3) == '## ' then
         local key, value = line:match('([^:]+): (.*)', 4)
         if key then
-          attrs[key] = value
+          local cleaned, ok = tocConditions(value)
+          if ok then
+            attrs[key] = attrs[key] and (attrs[key] .. ', ' .. cleaned) or cleaned
+          end
         end
       elseif line ~= '' and line:sub(1, 1) ~= '#' then
-        table.insert(files, path.join(dir, line))
+        local cleaned, ok = tocConditions(line)
+        if ok and cleaned ~= '' then
+          cleaned = cleaned:gsub('^%[Family%]', tocFamily):gsub('^%[Game%]', tocGame)
+          table.insert(files, path.join(dir, cleaned))
+        end
       end
     end
     return { attrs = attrs, files = files }
@@ -664,8 +707,8 @@ local function loader(api, cfg)
     local toTry = {
       '_' .. version,
       '-' .. version,
-      '_' .. alternateVersionNames[version],
-      '-' .. alternateVersionNames[version],
+      '_' .. (alternateVersionNames[version] or version),
+      '-' .. (alternateVersionNames[version] or version),
       '',
     }
     for _, try in ipairs(toTry) do
@@ -755,8 +798,20 @@ local function loader(api, cfg)
       end
     end
     if rootDir then
-      for filepath, fdid in sqlitedb:urows('SELECT FilePath, ID FROM ManifestInterfaceTOCData') do
-        maybeAdd(path.join(rootDir, path.dirname(filepath)), fdid)
+      local ok, err = pcall(function()
+        for filepath, fdid in sqlitedb:urows('SELECT FilePath, ID FROM ManifestInterfaceTOCData') do
+          maybeAdd(path.join(rootDir, path.dirname(filepath)), fdid)
+        end
+      end)
+      if not ok then
+        api.log(1, 'ManifestInterfaceTOCData unavailable: %s', tostring(err))
+      end
+      -- forever-sim: tools/fetch.lua writes manifest.lua for builds without ManifestInterfaceTOCData.
+      local mf = path.join(rootDir, 'manifest.lua')
+      if lfs.attributes(mf, 'mode') == 'file' then
+        for _, e in ipairs(dofile(mf)) do
+          maybeAdd(path.join(rootDir, e.path), e.fdid)
+        end
       end
     end
     for _, d in ipairs(otherAddonDirs) do
@@ -769,6 +824,11 @@ local function loader(api, cfg)
     'RequiredDep',
     'RequiredDeps',
     'Dependencies',
+    'Dep',
+  }
+  local optDepAttrs = {
+    'OptionalDep',
+    'OptionalDeps',
   }
 
   local function doLoadAddon(addonName)
@@ -776,11 +836,22 @@ local function loader(api, cfg)
     if not toc then
       error('unknown addon ' .. addonName)
     end
+    if not toc.loaded and gametypes and toc.attrs.AllowLoadGameType and not gametypeHit(toc.attrs.AllowLoadGameType) then
+      api.log(1, 'skipping %s: AllowLoadGameType %s', addonName, toc.attrs.AllowLoadGameType)
+      toc.loaded = true
+    end
     if not toc.loaded and toc.attrs.AllowLoad ~= 'Glue' then
       api.log(1, 'loading addon dependencies for %s', addonName)
       for _, attr in ipairs(depAttrs) do
         for dep in string.gmatch(toc.attrs[attr] or '', '[^, ]+') do
           doLoadAddon(dep)
+        end
+      end
+      for _, attr in ipairs(optDepAttrs) do
+        for dep in string.gmatch(toc.attrs[attr] or '', '[^, ]+') do
+          if addonData[dep] then
+            doLoadAddon(dep)
+          end
         end
       end
       api.log(1, 'loading addon files for %s', addonName)
@@ -810,7 +881,8 @@ local function loader(api, cfg)
     for tag, text in sqlitedb:urows('SELECT BaseTag, TagText_lang FROM GlobalStrings') do
       api.env[tag] = text
     end
-    for _, file in ipairs(resolveTocDir(path.join(rootDir, 'Interface', 'FrameXML')).files) do
+    local frameXml = resolveTocDir(path.join(rootDir, 'Interface', 'FrameXML'))
+    for _, file in ipairs(frameXml and frameXml.files or {}) do
       loadFile(file)
     end
     local frameXmlBindingsDirMap = {
@@ -819,7 +891,13 @@ local function loader(api, cfg)
       Vanilla = 'Interface_Vanilla',
       Wrath = 'Interface_Wrath',
     }
-    loadFile(path.join(rootDir, frameXmlBindingsDirMap[build.flavor], 'FrameXML', 'Bindings.xml'))
+    local bindingsDir = frameXmlBindingsDirMap[build.flavor]
+    local bindingsFile = bindingsDir and path.join(rootDir, bindingsDir, 'FrameXML', 'Bindings.xml')
+    if bindingsFile and require('lfs').attributes(bindingsFile, 'mode') == 'file' then
+      loadFile(bindingsFile)
+    else
+      api.log(1, 'no FrameXML Bindings.xml in this build')
+    end
     local blizzardAddons = {}
     for name, toc in pairs(addonData) do
       if type(name) == 'string' and toc.fdid and toc.attrs.LoadOnDemand ~= '1' then
@@ -827,6 +905,10 @@ local function loader(api, cfg)
       end
     end
     table.sort(blizzardAddons, function(a, b)
+      local fa, fb = addonData[a].attrs.LoadFirst == '1', addonData[b].attrs.LoadFirst == '1'
+      if fa ~= fb then
+        return fa
+      end
       return addonData[a].fdid < addonData[b].fdid
     end)
     for _, name in ipairs(blizzardAddons) do
