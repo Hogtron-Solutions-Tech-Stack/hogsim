@@ -27,3 +27,5 @@ ptr: false
 test: false
 tocversion: 16001
 version: 1.60.1
+skipaddons:
+- Blizzard_EnvironmentCleanup

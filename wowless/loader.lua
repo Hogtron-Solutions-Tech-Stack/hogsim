@@ -838,6 +838,10 @@ local function loader(api, cfg)
     end
   end
 
+  local skipaddons = {}
+  for _, name in ipairs(build.skipaddons or {}) do
+    skipaddons[name] = true
+  end
   local depAttrs = {
     'RequiredDep',
     'RequiredDeps',
@@ -858,7 +862,13 @@ local function loader(api, cfg)
       api.log(1, 'skipping %s: AllowLoadGameType %s', addonName, toc.attrs.AllowLoadGameType)
       toc.loaded = true
     end
-    if not toc.loaded and toc.attrs.AllowLoad ~= 'Glue' then
+    if not toc.loaded and skipaddons[addonName] then
+      api.log(1, 'skipping %s: listed in build.yaml skipaddons', addonName)
+      toc.loaded = true
+    end
+    -- forever-sim: "## AllowLoad: glue" (any case) marks login-screen-only addons (GlueStubs redefines
+    -- ActionButtonTemplate as an empty Button); they never load in the game environment.
+    if not toc.loaded and string.lower(toc.attrs.AllowLoad or '') ~= 'glue' then
       api.log(1, 'loading addon dependencies for %s', addonName)
       for _, attr in ipairs(depAttrs) do
         for dep in string.gmatch(toc.attrs[attr] or '', '[^, ]+') do

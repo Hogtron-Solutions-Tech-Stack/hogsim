@@ -24,6 +24,9 @@ type:
     loadfirst:
       type:
         sequenceof: string
+    skipaddons:
+      type:
+        sequenceof: string
     ptr:
       required: true
       type: boolean
