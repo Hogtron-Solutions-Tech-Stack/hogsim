@@ -1,0 +1,9 @@
+---
+name: C_Traits.GetEntryInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: entryInfo
+  type: TraitEntryInfo

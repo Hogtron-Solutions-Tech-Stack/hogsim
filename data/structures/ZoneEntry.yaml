@@ -1,0 +1,19 @@
+---
+name: ZoneEntry
+fields:
+- name: state
+  type: number
+- name: activeState
+  type: number
+- name: fillType
+  type: number
+- name: min
+  type: number
+- name: max
+  type: number
+- name: current
+  type: number
+- name: capturePoint
+  type: number
+- name: tooltip
+  type: string

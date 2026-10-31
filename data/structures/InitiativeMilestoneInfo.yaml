@@ -1,0 +1,10 @@
+---
+name: InitiativeMilestoneInfo
+fields:
+- name: milestoneOrderIndex
+  type: number
+- name: requiredContributionAmount
+  type: number
+- innerType: InitiativeMilestoneRewardInfo
+  name: rewards
+  type: table

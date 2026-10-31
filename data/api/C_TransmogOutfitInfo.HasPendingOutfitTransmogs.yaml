@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.HasPendingOutfitTransmogs
+status: unimplemented
+outputs:
+- name: hasPending
+  type: boolean

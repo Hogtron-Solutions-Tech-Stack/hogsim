@@ -1,0 +1,31 @@
+---
+name: DiscordChatInfo
+fields:
+- name: userID
+  type: number
+- name: globalName
+  type: string
+- name: type
+  type: number
+- name: lastOnlineGUID
+  type: string
+- name: lastOnlineName
+  type: string
+- name: hasAttachment
+  type: boolean
+- name: hasPoll
+  type: boolean
+- name: hasEmbed
+  type: boolean
+- name: hasSticker
+  type: boolean
+- name: hasEmoji
+  type: boolean
+- name: hasError
+  type: boolean
+- name: hasForwardedMessage
+  type: boolean
+- name: forwardedMessage
+  type: string
+- name: fromDiscord
+  type: boolean

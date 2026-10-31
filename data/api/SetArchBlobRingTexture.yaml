@@ -1,0 +1,5 @@
+---
+name: SetArchBlobRingTexture
+status: unimplemented
+inputs:
+- - type: unknown

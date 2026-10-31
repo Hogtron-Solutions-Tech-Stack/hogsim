@@ -1,0 +1,5 @@
+---
+name: C_PhotoSharing.CompleteAuthorizationFlow
+status: unimplemented
+inputs:
+- - type: string

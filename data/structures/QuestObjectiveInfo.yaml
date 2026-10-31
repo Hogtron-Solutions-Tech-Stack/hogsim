@@ -1,0 +1,16 @@
+---
+name: QuestObjectiveInfo
+fields:
+- name: text
+  type: string
+- name: type
+  type: string
+- name: finished
+  type: boolean
+- name: numFulfilled
+  type: number
+- name: numRequired
+  type: number
+- name: objectiveType
+  nilable: true
+  type: unknown

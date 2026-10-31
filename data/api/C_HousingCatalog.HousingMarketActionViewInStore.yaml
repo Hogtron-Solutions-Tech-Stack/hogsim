@@ -1,0 +1,5 @@
+---
+name: C_HousingCatalog.HousingMarketActionViewInStore
+status: unimplemented
+inputs:
+- - type: number

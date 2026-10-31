@@ -1,0 +1,5 @@
+---
+name: C_CraftingOrders.RequestCrafterOrders
+status: unimplemented
+inputs:
+- - type: CraftingOrderRequestInfo

@@ -1,0 +1,5 @@
+---
+name: SetAllowedIndoors
+status: unimplemented
+inputs:
+- - type: boolean

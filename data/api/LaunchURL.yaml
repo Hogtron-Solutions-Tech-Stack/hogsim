@@ -1,0 +1,5 @@
+---
+name: LaunchURL
+status: unimplemented
+inputs:
+- - type: string

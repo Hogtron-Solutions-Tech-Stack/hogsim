@@ -1,0 +1,7 @@
+---
+name: GetCatalogSearchResults
+status: unimplemented
+outputs:
+- innerType: HousingCatalogEntryVariantID
+  name: matchingEntryVariantIDs
+  type: table

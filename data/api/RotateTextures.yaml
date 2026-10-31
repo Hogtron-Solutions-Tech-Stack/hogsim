@@ -1,0 +1,9 @@
+---
+name: RotateTextures
+status: unimplemented
+inputs:
+- - type: number
+  - default: 0.5
+    type: number
+  - default: 0.5
+    type: number

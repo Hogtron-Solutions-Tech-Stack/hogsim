@@ -1,0 +1,19 @@
+---
+name: CommentatorUnitData
+fields:
+- name: healthMax
+  type: number
+- name: health
+  type: number
+- name: absorbTotal
+  type: number
+- name: isDeadOrGhost
+  type: boolean
+- name: isFeignDeath
+  type: boolean
+- name: powerTypeToken
+  type: string
+- name: power
+  type: number
+- name: powerMax
+  type: number

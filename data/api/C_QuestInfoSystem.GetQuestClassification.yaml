@@ -1,0 +1,11 @@
+---
+name: C_QuestInfoSystem.GetQuestClassification
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+  - nilable: true
+    type: number
+outputs:
+- name: classification
+  type: number

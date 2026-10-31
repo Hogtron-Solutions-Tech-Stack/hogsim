@@ -1,0 +1,6 @@
+---
+name: GetRoll
+status: unimplemented
+outputs:
+- name: roll
+  type: number

@@ -1,0 +1,25 @@
+---
+name: EncounterTrackingInfo
+fields:
+- name: encounterName
+  type: string
+- name: journalEncounterID
+  nilable: true
+  type: number
+- name: journalInstanceID
+  nilable: true
+  type: number
+- name: instanceName
+  type: string
+- name: subText
+  nilable: true
+  type: string
+- name: difficultyID
+  nilable: true
+  type: number
+- name: lfgDungeonID
+  nilable: true
+  type: number
+- name: groupFinderActivityID
+  nilable: true
+  type: number

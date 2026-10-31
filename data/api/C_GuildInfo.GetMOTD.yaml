@@ -1,0 +1,6 @@
+---
+name: C_GuildInfo.GetMOTD
+status: unimplemented
+outputs:
+- name: motd
+  type: string

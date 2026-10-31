@@ -1,0 +1,5 @@
+---
+name: C_HousingCatalog.HousingMarketActionViewBundle
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,11 @@
+---
+name: CalendarMonthInfo
+fields:
+- name: month
+  type: number
+- name: year
+  type: number
+- name: numDays
+  type: number
+- name: firstWeekday
+  type: number

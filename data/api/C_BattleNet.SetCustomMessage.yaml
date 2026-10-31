@@ -1,0 +1,8 @@
+---
+name: C_BattleNet.SetCustomMessage
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: success
+  type: boolean

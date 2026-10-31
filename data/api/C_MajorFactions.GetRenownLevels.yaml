@@ -1,0 +1,9 @@
+---
+name: C_MajorFactions.GetRenownLevels
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: MajorFactionRenownLevelInfo
+  name: levels
+  type: table

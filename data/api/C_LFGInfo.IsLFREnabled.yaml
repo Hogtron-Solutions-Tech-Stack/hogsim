@@ -1,0 +1,6 @@
+---
+name: C_LFGInfo.IsLFREnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: IsInterpolating
+status: unimplemented
+outputs:
+- name: isInterpolating
+  type: boolean

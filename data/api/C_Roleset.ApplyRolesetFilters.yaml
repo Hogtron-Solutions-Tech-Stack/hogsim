@@ -1,0 +1,8 @@
+---
+name: C_Roleset.ApplyRolesetFilters
+status: unimplemented
+inputs:
+- - innerType: string
+    type: table
+  - innerType: string
+    type: table

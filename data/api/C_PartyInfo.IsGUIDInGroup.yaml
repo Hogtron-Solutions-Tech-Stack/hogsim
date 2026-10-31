@@ -1,0 +1,10 @@
+---
+name: C_PartyInfo.IsGUIDInGroup
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: number
+outputs:
+- name: isInGroup
+  type: boolean

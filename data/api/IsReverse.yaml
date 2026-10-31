@@ -1,0 +1,6 @@
+---
+name: IsReverse
+status: unimplemented
+outputs:
+- name: isReverse
+  type: boolean

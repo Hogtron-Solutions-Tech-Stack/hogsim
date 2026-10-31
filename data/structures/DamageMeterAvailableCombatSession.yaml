@@ -1,0 +1,10 @@
+---
+name: DamageMeterAvailableCombatSession
+fields:
+- name: sessionID
+  type: number
+- name: name
+  type: string
+- name: durationSeconds
+  nilable: true
+  type: number

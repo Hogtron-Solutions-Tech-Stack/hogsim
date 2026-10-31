@@ -1,0 +1,17 @@
+---
+name: C_TradeSkillUI.RecraftRecipeForOrder
+status: unimplemented
+inputs:
+- - type: number
+  - type: string
+  - innerType: CraftingReagentInfo
+    nilable: true
+    type: table
+  - innerType: CraftingItemSlotModification
+    nilable: true
+    type: table
+  - nilable: true
+    type: boolean
+outputs:
+- name: result
+  type: boolean

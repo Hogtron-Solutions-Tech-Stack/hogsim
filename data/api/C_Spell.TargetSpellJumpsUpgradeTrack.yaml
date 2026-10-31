@@ -1,0 +1,6 @@
+---
+name: C_Spell.TargetSpellJumpsUpgradeTrack
+status: unimplemented
+outputs:
+- name: jumpsUpgradeTrack
+  type: boolean

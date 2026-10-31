@@ -1,0 +1,17 @@
+---
+name: HousingCatalogSubcategoryInfo
+fields:
+- name: ID
+  type: number
+- name: orderIndex
+  type: number
+- name: parentCategoryID
+  type: number
+- name: name
+  nilable: true
+  type: string
+- name: icon
+  nilable: true
+  type: string
+- name: anyStoredEntries
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: HasAttachedFixture
+status: unimplemented
+outputs:
+- name: hasAttachedFixture
+  type: boolean

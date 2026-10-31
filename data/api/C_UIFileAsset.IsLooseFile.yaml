@@ -1,0 +1,8 @@
+---
+name: C_UIFileAsset.IsLooseFile
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isLooseFile
+  type: boolean

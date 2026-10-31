@@ -49,6 +49,10 @@ methods:
     status: unimplemented
   CanChangeProtectedState:
     status: unimplemented
+  CanPropagateMouseClicks:
+    status: unimplemented
+  CanPropagateMouseMotion:
+    status: unimplemented
   ClearAllPoints:
     status: implemented
   ClearPoint:
@@ -67,8 +71,18 @@ methods:
     status: unimplemented
   ClearPointsOffset:
     status: unimplemented
+  ClearScripts:
+    status: unimplemented
+  CollapsesLayout:
+    status: unimplemented
   CreateAnimationGroup:
     status: implemented
+  EnableMouseMotion:
+    status: unimplemented
+  FocusEnter:
+    status: unimplemented
+  FocusExit:
+    status: unimplemented
   GetAlpha:
     fields:
     - name: alpha
@@ -106,6 +120,8 @@ methods:
     status: getter
   GetRight:
     status: implemented
+  GetRoundLayoutToNearestPixel:
+    status: unimplemented
   GetScale:
     fields:
     - name: scale
@@ -134,7 +150,13 @@ methods:
     status: getter
   Hide:
     status: implemented
+  Intersects:
+    status: unimplemented
   IsAnchoringRestricted:
+    status: unimplemented
+  IsAnchoringSecret:
+    status: unimplemented
+  IsCollapsed:
     status: unimplemented
   IsDragging:
     status: unimplemented
@@ -146,6 +168,8 @@ methods:
     fields:
     - name: isIgnoringParentScale
     status: getter
+  IsMouseMotionFocus:
+    status: unimplemented
   IsMouseOver:
     status: unimplemented
   IsObjectLoaded:
@@ -160,10 +184,16 @@ methods:
     status: getter
   IsVisible:
     status: implemented
+  MouseDown:
+    status: unimplemented
+  MouseUp:
+    status: unimplemented
   SetAllPoints:
     status: implemented
   SetAlpha:
     status: implemented
+  SetCollapsesLayout:
+    status: unimplemented
   SetHeight:
     fields:
     - name: height
@@ -184,6 +214,14 @@ methods:
     status: unimplemented
   SetPoint:
     status: implemented
+  SetPointsOffset:
+    status: unimplemented
+  SetPropagateMouseClicks:
+    status: unimplemented
+  SetPropagateMouseMotion:
+    status: unimplemented
+  SetRoundLayoutToNearestPixel:
+    status: unimplemented
   SetScale:
     status: implemented
   SetShown:
@@ -193,10 +231,14 @@ methods:
     - name: width
     - name: height
     status: setter
+  SetVertexColorFromBoolean:
+    status: unimplemented
   SetWidth:
     fields:
     - name: width
     status: setter
+  ShouldButtonPassThrough:
+    status: unimplemented
   Show:
     status: implemented
   StopAnimating:

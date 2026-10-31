@@ -1,0 +1,11 @@
+---
+name: AuctionHouseItemClassFilter
+fields:
+- name: classID
+  type: number
+- name: subClassID
+  nilable: true
+  type: number
+- name: inventoryType
+  nilable: true
+  type: number

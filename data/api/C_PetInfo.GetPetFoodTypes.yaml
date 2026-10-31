@@ -1,0 +1,7 @@
+---
+name: C_PetInfo.GetPetFoodTypes
+status: unimplemented
+outputs:
+- innerType: string
+  name: foodTypes
+  type: table

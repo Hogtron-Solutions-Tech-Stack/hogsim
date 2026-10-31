@@ -1,0 +1,8 @@
+---
+name: C_PartyInfo.GetInstanceAbandonVoteRequirements
+status: unimplemented
+outputs:
+- name: votesRequired
+  type: number
+- name: keystoneOwnerVoteWeight
+  type: number

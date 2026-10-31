@@ -1,0 +1,15 @@
+---
+name: ClubStreamInfo
+fields:
+- name: streamId
+  type: number
+- name: name
+  type: string
+- name: subject
+  type: string
+- name: leadersAndModeratorsOnly
+  type: boolean
+- name: streamType
+  type: number
+- name: creationTime
+  type: number

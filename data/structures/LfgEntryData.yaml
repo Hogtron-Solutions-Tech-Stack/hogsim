@@ -1,0 +1,45 @@
+---
+name: LfgEntryData
+fields:
+- innerType: number
+  name: activityIDs
+  type: table
+- name: requiredItemLevel
+  type: number
+- name: requiredHonorLevel
+  type: number
+- name: name
+  type: unknown
+- name: comment
+  type: unknown
+- name: voiceChat
+  type: unknown
+- name: voiceMode
+  type: number
+- name: censored
+  type: boolean
+- name: duration
+  type: number
+- name: autoAccept
+  type: boolean
+- name: privateGroup
+  type: boolean
+- name: questID
+  nilable: true
+  type: number
+- name: requiredDungeonScore
+  nilable: true
+  type: number
+- name: requiredPvpRating
+  nilable: true
+  type: number
+- name: playstyle
+  nilable: true
+  type: number
+- name: generalPlaystyle
+  nilable: true
+  type: number
+- name: isCrossFactionListing
+  type: boolean
+- name: newPlayerFriendly
+  type: boolean

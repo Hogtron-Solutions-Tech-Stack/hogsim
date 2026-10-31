@@ -1,0 +1,6 @@
+---
+name: GetMaxBytes
+status: unimplemented
+outputs:
+- name: maxBytes
+  type: number

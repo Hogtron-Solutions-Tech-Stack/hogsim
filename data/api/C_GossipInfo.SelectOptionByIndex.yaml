@@ -1,0 +1,9 @@
+---
+name: C_GossipInfo.SelectOptionByIndex
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: string
+  - nilable: true
+    type: boolean

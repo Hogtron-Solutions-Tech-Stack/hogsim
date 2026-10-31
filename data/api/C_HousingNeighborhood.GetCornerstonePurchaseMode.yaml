@@ -1,0 +1,6 @@
+---
+name: C_HousingNeighborhood.GetCornerstonePurchaseMode
+status: unimplemented
+outputs:
+- name: purchaseMode
+  type: number

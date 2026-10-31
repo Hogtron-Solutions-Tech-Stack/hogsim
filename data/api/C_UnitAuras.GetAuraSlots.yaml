@@ -1,0 +1,17 @@
+---
+name: C_UnitAuras.GetAuraSlots
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: unknown
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+outputs:
+- name: outContinuationToken
+  nilable: true
+  type: number
+- name: slots
+  type: number

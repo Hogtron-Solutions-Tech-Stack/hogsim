@@ -1,0 +1,9 @@
+---
+name: HouseExteriorSizeOption
+fields:
+- name: size
+  type: number
+- name: name
+  type: string
+- name: isLocked
+  type: boolean

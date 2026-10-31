@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.HasActiveLair
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

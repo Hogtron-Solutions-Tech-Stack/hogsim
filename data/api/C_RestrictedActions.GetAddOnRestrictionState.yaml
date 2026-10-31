@@ -1,0 +1,8 @@
+---
+name: C_RestrictedActions.GetAddOnRestrictionState
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: state
+  type: number

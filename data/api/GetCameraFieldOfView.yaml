@@ -1,0 +1,6 @@
+---
+name: GetCameraFieldOfView
+status: unimplemented
+outputs:
+- name: fov
+  type: number

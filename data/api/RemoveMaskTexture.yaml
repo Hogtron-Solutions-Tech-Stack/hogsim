@@ -1,0 +1,5 @@
+---
+name: RemoveMaskTexture
+status: unimplemented
+inputs:
+- - type: unknown

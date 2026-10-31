@@ -39,6 +39,12 @@ methods:
     - wow_beta
     - wowt
     status: unimplemented
+  IsGeoReady:
+    status: unimplemented
+  IsSlotAllowed:
+    status: unimplemented
+  IsSlotVisible:
+    status: unimplemented
   SetAutoDress:
     status: unimplemented
   SetItemTransmogInfo:

@@ -1,0 +1,6 @@
+---
+name: C_AddOns.DisableAllAddOns
+status: unimplemented
+inputs:
+- - nilable: true
+    type: string

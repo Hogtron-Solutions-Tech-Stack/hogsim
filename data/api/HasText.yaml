@@ -1,0 +1,6 @@
+---
+name: HasText
+status: unimplemented
+outputs:
+- name: hasText
+  type: boolean

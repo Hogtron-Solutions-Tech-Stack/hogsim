@@ -1,0 +1,6 @@
+---
+name: Undress
+status: unimplemented
+inputs:
+- - default: true
+    type: boolean

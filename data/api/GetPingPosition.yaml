@@ -1,0 +1,8 @@
+---
+name: GetPingPosition
+status: unimplemented
+outputs:
+- name: positionX
+  type: number
+- name: positionY
+  type: number

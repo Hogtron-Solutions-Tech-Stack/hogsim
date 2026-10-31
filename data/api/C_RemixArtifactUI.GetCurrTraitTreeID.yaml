@@ -1,0 +1,7 @@
+---
+name: C_RemixArtifactUI.GetCurrTraitTreeID
+status: unimplemented
+outputs:
+- name: traitTreeID
+  nilable: true
+  type: number

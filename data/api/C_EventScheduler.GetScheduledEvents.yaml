@@ -1,0 +1,7 @@
+---
+name: C_EventScheduler.GetScheduledEvents
+status: unimplemented
+outputs:
+- innerType: ScheduledEventInfo
+  name: events
+  type: table

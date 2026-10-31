@@ -1,0 +1,8 @@
+---
+name: C_PvP.IsTrainingGroundsArena
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isTrainingGroundsArena
+  type: boolean

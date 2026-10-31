@@ -1,0 +1,8 @@
+---
+name: GetNextSignal
+status: unimplemented
+outputs:
+- name: key
+  type: number
+- name: time
+  type: unknown

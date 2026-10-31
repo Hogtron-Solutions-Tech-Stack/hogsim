@@ -1,0 +1,8 @@
+---
+name: IsDrawLayerEnabled
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isEnabled
+  type: boolean

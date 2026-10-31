@@ -1,0 +1,7 @@
+---
+name: RegularReagentInfo
+fields:
+- name: reagent
+  type: CraftingReagent
+- name: quantity
+  type: number

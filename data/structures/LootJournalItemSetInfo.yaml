@@ -1,0 +1,9 @@
+---
+name: LootJournalItemSetInfo
+fields:
+- name: setID
+  type: number
+- name: itemLevel
+  type: number
+- name: name
+  type: string

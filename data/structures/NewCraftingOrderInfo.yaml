@@ -1,0 +1,28 @@
+---
+name: NewCraftingOrderInfo
+fields:
+- name: skillLineAbilityID
+  type: number
+- name: orderType
+  type: number
+- name: orderDuration
+  type: number
+- name: tipAmount
+  type: number
+- name: customerNotes
+  type: string
+- innerType: RegularReagentInfo
+  name: reagentInfos
+  type: table
+- innerType: CraftingReagentInfo
+  name: craftingReagentItems
+  type: table
+- name: minCraftingQualityID
+  nilable: true
+  type: number
+- name: orderTarget
+  nilable: true
+  type: string
+- name: recraftItem
+  nilable: true
+  type: string

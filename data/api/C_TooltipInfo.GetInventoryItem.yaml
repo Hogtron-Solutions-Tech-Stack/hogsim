@@ -1,0 +1,11 @@
+---
+name: C_TooltipInfo.GetInventoryItem
+status: unimplemented
+inputs:
+- - type: unit
+  - type: number
+  - nilable: true
+    type: boolean
+outputs:
+- name: data
+  type: unknown

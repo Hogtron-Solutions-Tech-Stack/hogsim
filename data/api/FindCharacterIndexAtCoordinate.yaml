@@ -1,0 +1,11 @@
+---
+name: FindCharacterIndexAtCoordinate
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: characterIndex
+  type: number
+- name: inside
+  type: boolean

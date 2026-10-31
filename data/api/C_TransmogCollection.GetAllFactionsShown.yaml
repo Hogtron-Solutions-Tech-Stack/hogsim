@@ -1,0 +1,6 @@
+---
+name: C_TransmogCollection.GetAllFactionsShown
+status: unimplemented
+outputs:
+- name: shown
+  type: boolean

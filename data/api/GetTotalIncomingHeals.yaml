@@ -1,0 +1,6 @@
+---
+name: GetTotalIncomingHeals
+status: unimplemented
+outputs:
+- name: totalIncomingHeals
+  type: number

@@ -1,0 +1,6 @@
+---
+name: CanSaveTabardNow
+status: unimplemented
+outputs:
+- name: canSave
+  type: boolean

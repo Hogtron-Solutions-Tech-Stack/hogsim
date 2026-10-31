@@ -1,0 +1,8 @@
+---
+name: C_WorldLootObject.IsWorldLootObject
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: isWorldLootObject
+  type: boolean

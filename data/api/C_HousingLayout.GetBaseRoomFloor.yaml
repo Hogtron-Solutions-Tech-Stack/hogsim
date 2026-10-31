@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.GetBaseRoomFloor
+status: unimplemented
+outputs:
+- name: floor
+  type: number

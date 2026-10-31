@@ -1,0 +1,9 @@
+---
+name: C_Traits.TryPurchaseToNode
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: success
+  type: boolean

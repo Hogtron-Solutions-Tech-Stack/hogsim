@@ -1,0 +1,11 @@
+---
+name: WorldSafeLocInfo
+fields:
+- name: name
+  type: string
+- name: continent
+  type: number
+- name: loc
+  type: unknown
+- name: facing
+  type: number

@@ -1,0 +1,5 @@
+---
+name: SetArchBlobRingScalar
+status: unimplemented
+inputs:
+- - type: number

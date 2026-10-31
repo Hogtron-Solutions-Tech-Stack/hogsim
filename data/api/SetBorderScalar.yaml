@@ -1,0 +1,5 @@
+---
+name: SetBorderScalar
+status: unimplemented
+inputs:
+- - type: number

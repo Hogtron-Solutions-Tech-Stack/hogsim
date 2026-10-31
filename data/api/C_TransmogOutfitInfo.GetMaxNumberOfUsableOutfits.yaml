@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.GetMaxNumberOfUsableOutfits
+status: unimplemented
+outputs:
+- name: maxOutfitCount
+  type: number

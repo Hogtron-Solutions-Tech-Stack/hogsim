@@ -1,0 +1,8 @@
+---
+name: C_EncounterTimeline.AddScriptEvent
+status: unimplemented
+inputs:
+- - type: EncounterTimelineScriptEventRequest
+outputs:
+- name: eventID
+  type: number

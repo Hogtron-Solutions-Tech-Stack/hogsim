@@ -1,0 +1,18 @@
+---
+name: AutoMissionEvent
+fields:
+- name: type
+  type: number
+- name: spellID
+  type: number
+- name: schoolMask
+  type: number
+- name: effectIndex
+  type: number
+- name: casterBoardIndex
+  type: number
+- name: auraType
+  type: number
+- innerType: AutoMissionCombatEventInfo
+  name: targetInfo
+  type: table

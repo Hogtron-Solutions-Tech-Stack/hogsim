@@ -1,0 +1,7 @@
+---
+name: PlaySoundResult
+fields:
+- name: success
+  type: boolean
+- name: soundHandle
+  type: unknown

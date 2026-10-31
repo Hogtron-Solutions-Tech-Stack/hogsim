@@ -1,0 +1,23 @@
+---
+name: CurrencyTransferTransaction
+fields:
+- name: sourceCharacterGUID
+  type: string
+- name: sourceCharacterName
+  type: string
+- name: fullSourceCharacterName
+  type: string
+- name: destinationCharacterGUID
+  type: string
+- name: destinationCharacterName
+  type: string
+- name: fullDestinationCharacterName
+  type: string
+- name: currencyType
+  type: number
+- name: quantityTransferred
+  type: number
+- name: totalQuantityConsumed
+  type: number
+- name: timestamp
+  type: number

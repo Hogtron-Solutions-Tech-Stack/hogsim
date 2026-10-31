@@ -1,0 +1,6 @@
+---
+name: SetFadeTimes
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

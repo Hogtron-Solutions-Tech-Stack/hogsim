@@ -1,0 +1,7 @@
+---
+name: SetSheathed
+status: unimplemented
+inputs:
+- - type: boolean
+  - default: false
+    type: boolean

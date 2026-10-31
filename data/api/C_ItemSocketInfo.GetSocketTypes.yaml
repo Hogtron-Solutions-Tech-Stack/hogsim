@@ -1,0 +1,9 @@
+---
+name: C_ItemSocketInfo.GetSocketTypes
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: socketType
+  nilable: true
+  type: string

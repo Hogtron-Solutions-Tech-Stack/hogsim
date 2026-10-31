@@ -1,0 +1,5 @@
+---
+name: C_PerksProgram.ItemSelectedTelemetry
+status: unimplemented
+inputs:
+- - type: number

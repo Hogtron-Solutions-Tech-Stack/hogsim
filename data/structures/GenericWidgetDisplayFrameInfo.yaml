@@ -1,0 +1,22 @@
+---
+name: GenericWidgetDisplayFrameInfo
+fields:
+- name: uiWidgetSetID
+  nilable: true
+  type: number
+- name: uiTextureKit
+  nilable: true
+  type: string
+- name: title
+  nilable: true
+  type: string
+- name: frameWidth
+  type: number
+- name: frameHeight
+  type: number
+- name: extraButtonText
+  nilable: true
+  type: string
+- name: closeButtonText
+  nilable: true
+  type: string

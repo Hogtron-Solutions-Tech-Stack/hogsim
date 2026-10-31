@@ -1,0 +1,9 @@
+---
+name: UnitEmpoweredStageDurations
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- innerType: unknown
+  name: duration
+  type: table

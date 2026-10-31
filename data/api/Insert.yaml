@@ -1,0 +1,5 @@
+---
+name: Insert
+status: unimplemented
+inputs:
+- - type: string

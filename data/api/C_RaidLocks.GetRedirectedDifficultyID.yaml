@@ -1,0 +1,9 @@
+---
+name: C_RaidLocks.GetRedirectedDifficultyID
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: redirectedDifficultyID
+  type: number

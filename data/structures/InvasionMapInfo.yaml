@@ -1,0 +1,14 @@
+---
+name: InvasionMapInfo
+fields:
+- name: invasionID
+  type: number
+- name: name
+  type: string
+- name: position
+  type: unknown
+- name: atlasName
+  type: string
+- name: rewardQuestID
+  nilable: true
+  type: number

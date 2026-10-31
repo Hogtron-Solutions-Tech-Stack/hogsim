@@ -1,0 +1,6 @@
+---
+name: GetApproximationSeconds
+status: unimplemented
+outputs:
+- name: approximationSeconds
+  type: unknown

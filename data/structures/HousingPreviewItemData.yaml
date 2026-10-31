@@ -1,0 +1,29 @@
+---
+name: HousingPreviewItemData
+fields:
+- name: decorGUID
+  nilable: true
+  type: string
+- name: productID
+  nilable: true
+  type: number
+- name: bundleCatalogShopProductID
+  nilable: true
+  type: number
+- name: isBundleParent
+  type: boolean
+- name: isBundleChild
+  type: boolean
+- name: id
+  type: number
+- name: decorID
+  type: number
+- name: name
+  type: string
+- name: icon
+  type: number
+- name: price
+  type: number
+- name: salePrice
+  nilable: true
+  type: number

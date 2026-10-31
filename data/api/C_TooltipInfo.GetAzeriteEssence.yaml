@@ -1,0 +1,10 @@
+---
+name: C_TooltipInfo.GetAzeriteEssence
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: number
+outputs:
+- name: data
+  type: unknown

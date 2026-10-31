@@ -1,0 +1,7 @@
+---
+name: CommentatorTrackedItemCooldown
+fields:
+- name: spellID
+  type: number
+- name: category
+  type: number

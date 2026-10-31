@@ -1,0 +1,8 @@
+---
+name: EncounterLootDrops
+fields:
+- name: encounterID
+  type: number
+- innerType: EncounterLootDropInfo
+  name: drops
+  type: table

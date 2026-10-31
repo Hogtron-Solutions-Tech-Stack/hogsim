@@ -1,0 +1,12 @@
+---
+name: C_Item.GetDetailedItemLevelInfo
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: actualItemLevel
+  type: number
+- name: previewLevel
+  type: boolean
+- name: sparseItemLevel
+  type: number

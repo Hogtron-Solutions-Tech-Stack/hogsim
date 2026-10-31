@@ -1,0 +1,9 @@
+---
+name: C_ColorUtil.WrapTextInColor
+status: unimplemented
+inputs:
+- - type: string
+  - type: unknown
+outputs:
+- name: coloredText
+  type: string

@@ -1,0 +1,9 @@
+---
+name: PetSpecInfo
+fields:
+- name: specID
+  type: number
+- name: specIndex
+  type: number
+- name: specializationName
+  type: string

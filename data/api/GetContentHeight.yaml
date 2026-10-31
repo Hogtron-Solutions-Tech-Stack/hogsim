@@ -1,0 +1,6 @@
+---
+name: GetContentHeight
+status: unimplemented
+outputs:
+- name: height
+  type: number

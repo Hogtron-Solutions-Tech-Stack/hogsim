@@ -1,0 +1,8 @@
+---
+name: UnitCastingDuration
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: duration
+  type: unknown

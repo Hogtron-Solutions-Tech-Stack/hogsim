@@ -1,0 +1,6 @@
+---
+name: C_Reputation.SetFactionActive
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

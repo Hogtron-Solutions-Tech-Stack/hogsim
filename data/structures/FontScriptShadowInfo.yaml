@@ -1,0 +1,9 @@
+---
+name: FontScriptShadowInfo
+fields:
+- name: color
+  type: unknown
+- name: x
+  type: number
+- name: y
+  type: number

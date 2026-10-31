@@ -1,0 +1,19 @@
+---
+name: UICinematic
+fields:
+- name: expansion
+  type: number
+- innerType: number
+  name: movieIDs
+  type: table
+- name: buttonUpAtlas
+  type: string
+- name: buttonDownAtlas
+  type: string
+- name: title
+  nilable: true
+  type: string
+- name: disableAutoPlay
+  type: boolean
+- name: orderID
+  type: number

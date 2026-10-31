@@ -1,0 +1,8 @@
+---
+name: C_PlayerInfo.IsExpansionLandingPageUnlockedForPlayer
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isUnlocked
+  type: boolean

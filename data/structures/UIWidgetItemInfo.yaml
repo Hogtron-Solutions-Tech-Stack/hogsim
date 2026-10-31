@@ -1,0 +1,39 @@
+---
+name: UIWidgetItemInfo
+fields:
+- name: itemID
+  type: number
+- name: stackCount
+  nilable: true
+  type: number
+- name: overrideItemName
+  nilable: true
+  type: string
+- name: infoText
+  nilable: true
+  type: string
+- name: overrideTooltip
+  nilable: true
+  type: string
+- name: textDisplayStyle
+  type: number
+- name: tooltipEnabled
+  type: boolean
+- name: iconSizeType
+  type: number
+- name: infoTextEnabledState
+  type: number
+- name: showAsEarned
+  type: boolean
+- name: itemNameTextFontType
+  type: number
+- name: itemNameTextSizeType
+  type: number
+- name: infoTextFontType
+  type: number
+- name: infoTextSizeType
+  type: number
+- name: itemNameCustomColor
+  type: number
+- name: itemNameCustomColorOverrideState
+  type: number

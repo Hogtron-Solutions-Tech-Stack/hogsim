@@ -1,0 +1,5 @@
+---
+name: SetMovable
+status: unimplemented
+inputs:
+- - type: boolean

@@ -1,0 +1,5 @@
+---
+name: SetIncomingHealClampMode
+status: unimplemented
+inputs:
+- - type: number

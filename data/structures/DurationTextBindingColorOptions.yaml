@@ -1,0 +1,7 @@
+---
+name: DurationTextBindingColorOptions
+fields:
+- name: curve
+  type: unknown
+- name: property
+  type: number

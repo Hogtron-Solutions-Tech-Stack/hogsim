@@ -1,0 +1,5 @@
+---
+name: C_EventScheduler.ClearReminder
+status: unimplemented
+inputs:
+- - type: string

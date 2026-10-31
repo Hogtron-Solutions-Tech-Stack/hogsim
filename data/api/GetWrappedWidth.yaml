@@ -1,0 +1,6 @@
+---
+name: GetWrappedWidth
+status: unimplemented
+outputs:
+- name: width
+  type: number

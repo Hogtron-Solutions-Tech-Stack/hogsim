@@ -1,0 +1,5 @@
+---
+name: SetNormalTexture
+status: unimplemented
+inputs:
+- - type: unknown

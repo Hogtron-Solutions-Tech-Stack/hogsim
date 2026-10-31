@@ -1,0 +1,15 @@
+---
+name: TransmogCategoryInfo
+fields:
+- name: name
+  type: string
+- name: isWeapon
+  type: boolean
+- name: canHaveIllusions
+  type: boolean
+- name: canMainHand
+  type: boolean
+- name: canOffHand
+  type: boolean
+- name: canRanged
+  type: boolean

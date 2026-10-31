@@ -1,0 +1,25 @@
+---
+name: WowLocale
+fields:
+- name: enUS
+  type: boolean
+- name: koKR
+  type: boolean
+- name: frFR
+  type: boolean
+- name: deDE
+  type: boolean
+- name: zhCN
+  type: boolean
+- name: zhTW
+  type: boolean
+- name: esES
+  type: boolean
+- name: esMX
+  type: boolean
+- name: ruRU
+  type: boolean
+- name: ptBR
+  type: boolean
+- name: itIT
+  type: boolean

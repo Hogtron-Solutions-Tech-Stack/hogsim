@@ -1,0 +1,5 @@
+---
+name: C_LobbyMatchmakerInfo.RespondToQueuePop
+status: unimplemented
+inputs:
+- - type: boolean

@@ -1,0 +1,8 @@
+---
+name: C_Spell.IsSpellHelpful
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isHelpful
+  type: boolean

@@ -1,0 +1,11 @@
+---
+name: C_TooltipInfo.GetUnitAura
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number
+  - nilable: true
+    type: unknown
+outputs:
+- name: data
+  type: unknown

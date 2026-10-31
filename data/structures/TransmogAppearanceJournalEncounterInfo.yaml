@@ -1,0 +1,15 @@
+---
+name: TransmogAppearanceJournalEncounterInfo
+fields:
+- name: instance
+  type: string
+- name: instanceType
+  type: number
+- innerType: string
+  name: tiers
+  type: table
+- name: encounter
+  type: string
+- innerType: string
+  name: difficulties
+  type: table

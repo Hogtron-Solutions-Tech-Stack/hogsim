@@ -1,0 +1,11 @@
+---
+name: C_RemixArtifactUI.GetAppearanceInfoByID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: uiCameraID
+  type: number
+- name: altHandUICameraID
+  nilable: true
+  type: number

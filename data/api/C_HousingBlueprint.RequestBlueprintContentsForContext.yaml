@@ -1,0 +1,7 @@
+---
+name: C_HousingBlueprint.RequestBlueprintContentsForContext
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: string

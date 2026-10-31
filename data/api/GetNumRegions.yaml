@@ -1,0 +1,6 @@
+---
+name: GetNumRegions
+status: unimplemented
+outputs:
+- name: numRegions
+  type: number

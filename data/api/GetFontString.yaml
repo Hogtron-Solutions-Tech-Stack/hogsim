@@ -1,0 +1,7 @@
+---
+name: GetFontString
+status: unimplemented
+outputs:
+- name: fontString
+  nilable: true
+  type: unknown

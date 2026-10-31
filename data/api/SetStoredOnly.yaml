@@ -1,0 +1,5 @@
+---
+name: SetStoredOnly
+status: unimplemented
+inputs:
+- - type: boolean

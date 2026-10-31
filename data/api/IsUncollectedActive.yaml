@@ -1,0 +1,6 @@
+---
+name: IsUncollectedActive
+status: unimplemented
+outputs:
+- name: isActive
+  type: boolean

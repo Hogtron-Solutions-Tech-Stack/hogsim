@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.UpdatePendingSituation
+status: unimplemented
+inputs:
+- - type: TransmogSituationOption
+  - type: boolean

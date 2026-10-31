@@ -1,0 +1,14 @@
+---
+name: EvaluateUnpacked
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: yR
+  type: number
+- name: yG
+  type: number
+- name: yB
+  type: number
+- name: yA
+  type: number

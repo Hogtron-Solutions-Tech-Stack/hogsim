@@ -1,0 +1,10 @@
+---
+name: C_CurrencyInfo.GetCostToTransferCurrency
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: totalQuantityConsumed
+  nilable: true
+  type: number

@@ -1,0 +1,9 @@
+---
+name: WeeklyRewardActivityTierProgress
+fields:
+- name: activityTierID
+  type: number
+- name: difficulty
+  type: number
+- name: numPoints
+  type: number

@@ -1,0 +1,7 @@
+---
+name: GetErrorCallstackHeight
+status: unimplemented
+outputs:
+- name: height
+  nilable: true
+  type: number

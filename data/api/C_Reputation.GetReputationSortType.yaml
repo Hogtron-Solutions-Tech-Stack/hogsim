@@ -1,0 +1,6 @@
+---
+name: C_Reputation.GetReputationSortType
+status: unimplemented
+outputs:
+- name: sortType
+  type: number

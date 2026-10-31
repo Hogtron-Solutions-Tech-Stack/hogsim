@@ -1,0 +1,6 @@
+---
+name: SetAllInFilterTagGroup
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

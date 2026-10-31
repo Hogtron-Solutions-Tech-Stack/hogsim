@@ -1,0 +1,7 @@
+---
+name: C_HousingDecor.GetSpentPlacementBudget
+status: unimplemented
+outputs:
+- name: totalCost
+  nilable: true
+  type: number

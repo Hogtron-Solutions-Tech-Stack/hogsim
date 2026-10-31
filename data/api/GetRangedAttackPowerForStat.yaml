@@ -1,0 +1,9 @@
+---
+name: GetRangedAttackPowerForStat
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: result
+  type: number

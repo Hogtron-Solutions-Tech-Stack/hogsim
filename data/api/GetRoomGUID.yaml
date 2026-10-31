@@ -1,0 +1,6 @@
+---
+name: GetRoomGUID
+status: unimplemented
+outputs:
+- name: roomGUID
+  type: string

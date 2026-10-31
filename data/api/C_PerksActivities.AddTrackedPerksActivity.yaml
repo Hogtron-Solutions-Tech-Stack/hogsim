@@ -1,0 +1,5 @@
+---
+name: C_PerksActivities.AddTrackedPerksActivity
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,25 @@
+---
+name: BattlefieldVehicleInfo
+fields:
+- name: x
+  type: number
+- name: y
+  type: number
+- name: name
+  type: string
+- name: isOccupied
+  type: boolean
+- name: atlas
+  type: string
+- name: textureWidth
+  type: number
+- name: textureHeight
+  type: number
+- name: facing
+  type: number
+- name: isPlayer
+  type: boolean
+- name: isAlive
+  type: boolean
+- name: shouldDrawBelowPlayerBlips
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: IsNumeric
+status: unimplemented
+outputs:
+- name: isNumeric
+  type: boolean

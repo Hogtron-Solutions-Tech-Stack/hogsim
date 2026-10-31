@@ -1,0 +1,6 @@
+---
+name: C_SpellDiminish.IsSystemSupported
+status: unimplemented
+outputs:
+- name: isSystemSupported
+  type: boolean

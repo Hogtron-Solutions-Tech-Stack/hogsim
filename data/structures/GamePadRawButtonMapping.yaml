@@ -1,0 +1,17 @@
+---
+name: GamePadRawButtonMapping
+fields:
+- name: rawIndex
+  type: number
+- name: button
+  nilable: true
+  type: string
+- name: axis
+  nilable: true
+  type: string
+- name: axisValue
+  nilable: true
+  type: number
+- name: comment
+  nilable: true
+  type: string

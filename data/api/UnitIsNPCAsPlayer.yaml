@@ -1,0 +1,9 @@
+---
+name: UnitIsNPCAsPlayer
+status: unimplemented
+inputs:
+- - nilable: true
+    type: unit
+outputs:
+- name: result
+  type: boolean

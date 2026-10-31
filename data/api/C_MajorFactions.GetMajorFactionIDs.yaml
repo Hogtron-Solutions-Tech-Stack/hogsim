@@ -1,0 +1,10 @@
+---
+name: C_MajorFactions.GetMajorFactionIDs
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- innerType: number
+  name: majorFactionIDs
+  type: table

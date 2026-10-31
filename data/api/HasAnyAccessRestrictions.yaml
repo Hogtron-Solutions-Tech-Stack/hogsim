@@ -1,0 +1,9 @@
+---
+name: HasAnyAccessRestrictions
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- name: hasAnyAccessRestriction
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetMaxLines
+status: unimplemented
+outputs:
+- name: maxLines
+  type: number

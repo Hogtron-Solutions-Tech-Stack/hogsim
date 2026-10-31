@@ -1,0 +1,10 @@
+---
+name: GetVertexOffset
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: offsetX
+  type: number
+- name: offsetY
+  type: number

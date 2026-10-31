@@ -1,0 +1,6 @@
+---
+name: GetFogOfWarMaskAtlas
+status: unimplemented
+outputs:
+- name: atlas
+  type: string

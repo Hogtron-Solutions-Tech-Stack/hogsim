@@ -1,0 +1,5 @@
+---
+name: C_HousingNeighborhood.TransferNeighborhoodOwnership
+status: unimplemented
+inputs:
+- - type: string

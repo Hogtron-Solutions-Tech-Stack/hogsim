@@ -1,0 +1,35 @@
+---
+name: PvpBrawlInfo
+fields:
+- name: brawlID
+  type: number
+- name: name
+  type: string
+- name: shortDescription
+  type: string
+- name: longDescription
+  type: string
+- name: canQueue
+  type: boolean
+- name: minLevel
+  type: number
+- name: maxLevel
+  type: number
+- name: groupsAllowed
+  type: boolean
+- name: crossFactionAllowed
+  type: boolean
+- name: timeLeftUntilNextChange
+  nilable: true
+  type: number
+- name: brawlType
+  type: number
+- innerType: string
+  name: mapNames
+  type: table
+- name: includesAllArenas
+  type: boolean
+- name: minItemLevel
+  type: number
+- name: shouldHideRewardIcon
+  type: boolean

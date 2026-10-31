@@ -1,0 +1,6 @@
+---
+name: C_HouseExterior.HasHoveredFixture
+status: unimplemented
+outputs:
+- name: anyHoveredFixture
+  type: boolean

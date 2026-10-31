@@ -1,0 +1,6 @@
+---
+name: IsAdvancedFlyableArea
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

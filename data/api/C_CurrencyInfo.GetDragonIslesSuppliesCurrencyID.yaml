@@ -1,0 +1,6 @@
+---
+name: C_CurrencyInfo.GetDragonIslesSuppliesCurrencyID
+status: unimplemented
+outputs:
+- name: dragonIslesSuppliesCurrencyID
+  type: number

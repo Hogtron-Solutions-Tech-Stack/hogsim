@@ -1,0 +1,5 @@
+---
+name: C_HousingBlueprint.StartImportRoomBlueprint
+status: unimplemented
+inputs:
+- - type: string

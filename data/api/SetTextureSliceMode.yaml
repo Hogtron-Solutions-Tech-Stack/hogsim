@@ -1,0 +1,5 @@
+---
+name: SetTextureSliceMode
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,5 @@
+---
+name: SetCustomizableOnly
+status: unimplemented
+inputs:
+- - type: boolean

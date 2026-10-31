@@ -1,0 +1,10 @@
+---
+name: HouseLevelFavor
+fields:
+- name: houseGUID
+  nilable: true
+  type: string
+- name: houseLevel
+  type: number
+- name: houseFavor
+  type: number

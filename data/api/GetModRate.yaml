@@ -1,0 +1,6 @@
+---
+name: GetModRate
+status: unimplemented
+outputs:
+- name: modRate
+  type: number

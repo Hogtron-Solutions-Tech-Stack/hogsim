@@ -1,0 +1,11 @@
+---
+name: PvpRatingInfo
+fields:
+- name: bracket
+  type: number
+- name: rating
+  type: number
+- name: activityName
+  type: string
+- name: tier
+  type: number

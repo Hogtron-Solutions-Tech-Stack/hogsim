@@ -1,0 +1,9 @@
+---
+name: C_ZoneAbility.GetZoneAbilityIcon
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: zoneAbilityIconID
+  nilable: true
+  type: number

@@ -1,0 +1,30 @@
+---
+name: MountInfo
+fields:
+- name: name
+  type: string
+- name: spellID
+  type: number
+- name: icon
+  type: number
+- name: isActive
+  type: boolean
+- name: isUsable
+  type: boolean
+- name: sourceType
+  type: number
+- name: isFavorite
+  type: boolean
+- name: isFactionSpecific
+  type: boolean
+- name: faction
+  nilable: true
+  type: number
+- name: shouldHideOnChar
+  type: boolean
+- name: isCollected
+  type: boolean
+- name: mountID
+  type: number
+- name: isSteadyFlight
+  type: boolean

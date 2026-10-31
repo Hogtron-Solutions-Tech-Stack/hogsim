@@ -1,0 +1,5 @@
+---
+name: SetModelAlpha
+status: unimplemented
+inputs:
+- - type: number

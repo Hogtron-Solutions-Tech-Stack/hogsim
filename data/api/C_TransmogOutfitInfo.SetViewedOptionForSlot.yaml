@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.SetViewedOptionForSlot
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

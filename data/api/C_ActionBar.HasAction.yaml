@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.HasAction
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hasAction
+  type: boolean

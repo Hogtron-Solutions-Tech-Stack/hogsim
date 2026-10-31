@@ -1,0 +1,6 @@
+---
+name: GetIncomingHealClampMode
+status: unimplemented
+outputs:
+- name: incomingHealClampMode
+  type: number

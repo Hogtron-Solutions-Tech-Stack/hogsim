@@ -1,0 +1,6 @@
+---
+name: GetToPercent
+status: unimplemented
+outputs:
+- name: percent
+  type: number

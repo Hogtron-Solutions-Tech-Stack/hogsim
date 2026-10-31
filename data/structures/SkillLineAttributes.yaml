@@ -1,0 +1,35 @@
+---
+name: SkillLineAttributes
+fields:
+- name: skillID
+  type: number
+- name: name
+  type: string
+- name: isHeader
+  type: boolean
+- name: isCollapsed
+  type: boolean
+- name: rank
+  type: number
+- name: tempPoints
+  type: number
+- name: modifier
+  type: number
+- name: maxRank
+  type: number
+- name: isAbandonable
+  type: boolean
+- name: stepCost
+  type: number
+- name: rankCost
+  type: number
+- name: minLevel
+  type: number
+- name: costType
+  type: number
+- name: parentSkillLineID
+  type: number
+- name: skillLineCategoryID
+  type: number
+- name: description
+  type: string

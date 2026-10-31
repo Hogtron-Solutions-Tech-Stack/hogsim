@@ -1,0 +1,10 @@
+---
+name: UnitDefenseSkill
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: base
+  type: number
+- name: modifier
+  type: number

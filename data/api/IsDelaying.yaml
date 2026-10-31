@@ -1,0 +1,6 @@
+---
+name: IsDelaying
+status: unimplemented
+outputs:
+- name: isDelaying
+  type: boolean

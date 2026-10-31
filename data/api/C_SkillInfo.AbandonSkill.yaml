@@ -1,0 +1,5 @@
+---
+name: C_SkillInfo.AbandonSkill
+status: unimplemented
+inputs:
+- - type: number

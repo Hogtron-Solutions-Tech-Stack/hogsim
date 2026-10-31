@@ -1,0 +1,6 @@
+---
+name: C_GameRules.IsMultiActionBarVisibilityForced
+status: unimplemented
+outputs:
+- name: valid
+  type: boolean

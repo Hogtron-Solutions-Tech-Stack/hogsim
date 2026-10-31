@@ -1,0 +1,9 @@
+---
+name: RafMonthCount
+fields:
+- name: lifetimeMonths
+  type: number
+- name: spentMonths
+  type: number
+- name: availableMonths
+  type: number

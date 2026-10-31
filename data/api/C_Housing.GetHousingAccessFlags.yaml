@@ -1,0 +1,6 @@
+---
+name: C_Housing.GetHousingAccessFlags
+status: unimplemented
+outputs:
+- name: accessFlags
+  type: unknown

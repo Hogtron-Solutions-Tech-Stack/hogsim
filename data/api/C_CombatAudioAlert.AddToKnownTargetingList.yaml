@@ -1,0 +1,8 @@
+---
+name: C_CombatAudioAlert.AddToKnownTargetingList
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: added
+  type: boolean

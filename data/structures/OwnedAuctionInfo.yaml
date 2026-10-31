@@ -1,0 +1,29 @@
+---
+name: OwnedAuctionInfo
+fields:
+- name: auctionID
+  type: number
+- name: itemKey
+  type: ItemKey
+- name: itemLink
+  nilable: true
+  type: string
+- name: status
+  type: number
+- name: quantity
+  type: number
+- name: timeLeftSeconds
+  nilable: true
+  type: number
+- name: timeLeft
+  nilable: true
+  type: number
+- name: bidAmount
+  nilable: true
+  type: number
+- name: buyoutAmount
+  nilable: true
+  type: number
+- name: bidder
+  nilable: true
+  type: string

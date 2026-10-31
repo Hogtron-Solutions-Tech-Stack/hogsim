@@ -1,0 +1,5 @@
+---
+name: C_PingSecure.SetPingPinFrameScreenClampStateUpdatedCallback
+status: unimplemented
+inputs:
+- - type: unknown

@@ -1,0 +1,9 @@
+---
+name: C_QuestInfoSystem.GetQuestHasShortExpirationWarning
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- name: hasShortExpirationWarning
+  type: boolean

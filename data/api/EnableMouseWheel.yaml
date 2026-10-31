@@ -1,0 +1,6 @@
+---
+name: EnableMouseWheel
+status: unimplemented
+inputs:
+- - default: false
+    type: boolean

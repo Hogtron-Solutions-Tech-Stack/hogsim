@@ -1,0 +1,10 @@
+---
+name: C_LossOfControl.GetActiveLossOfControlDuration
+status: unimplemented
+inputs:
+- - type: unit
+  - type: number
+outputs:
+- name: duration
+  nilable: true
+  type: unknown

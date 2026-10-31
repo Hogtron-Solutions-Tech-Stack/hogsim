@@ -1,0 +1,9 @@
+---
+name: C_Bank.IsItemAllowedInBankType
+status: unimplemented
+inputs:
+- - type: number
+  - type: unknown
+outputs:
+- name: isItemAllowedInBankType
+  type: boolean

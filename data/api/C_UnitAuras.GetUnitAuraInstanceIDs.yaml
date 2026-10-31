@@ -1,0 +1,16 @@
+---
+name: C_UnitAuras.GetUnitAuraInstanceIDs
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: unknown
+  - nilable: true
+    type: number
+  - default: Unsorted
+    type: number
+  - default: Normal
+    type: number
+outputs:
+- innerType: number
+  name: auraInstanceIDs
+  type: table

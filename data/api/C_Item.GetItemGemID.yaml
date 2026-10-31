@@ -1,0 +1,9 @@
+---
+name: C_Item.GetItemGemID
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number
+outputs:
+- name: gemID
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_AddOns.DoesAddOnHaveLoadError
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: hadError
+  type: boolean

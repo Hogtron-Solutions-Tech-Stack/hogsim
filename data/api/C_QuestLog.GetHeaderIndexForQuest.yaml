@@ -1,0 +1,9 @@
+---
+name: C_QuestLog.GetHeaderIndexForQuest
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: index
+  nilable: true
+  type: number

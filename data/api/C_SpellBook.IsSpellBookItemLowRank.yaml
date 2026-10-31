@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.IsSpellBookItemLowRank
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: isLowRank
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_CurrencyInfo.IsCurrencyTransferInProgress
+status: unimplemented
+outputs:
+- name: currencyTransferInProgress
+  type: boolean

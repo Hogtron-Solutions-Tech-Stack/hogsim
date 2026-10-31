@@ -1,0 +1,8 @@
+---
+name: C_Flyout.GetFlyoutTexture
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: textureID
+  type: number

@@ -1,0 +1,11 @@
+---
+name: C_TradeSkillUI.GetRecraftRemovalWarnings
+status: unimplemented
+inputs:
+- - type: string
+  - innerType: CraftingReagent
+    type: table
+outputs:
+- innerType: string
+  name: warnings
+  type: table

@@ -1,0 +1,8 @@
+---
+name: GroupCurrencyInfo
+fields:
+- name: traitNodeGroupID
+  type: number
+- innerType: TreeCurrencyInfo
+  name: currencyInfos
+  type: table

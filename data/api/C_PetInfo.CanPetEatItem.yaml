@@ -1,0 +1,8 @@
+---
+name: C_PetInfo.CanPetEatItem
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: canEat
+  type: boolean

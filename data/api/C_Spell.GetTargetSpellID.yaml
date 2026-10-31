@@ -1,0 +1,6 @@
+---
+name: C_Spell.GetTargetSpellID
+status: unimplemented
+outputs:
+- name: spellID
+  type: number

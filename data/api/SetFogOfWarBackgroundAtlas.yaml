@@ -1,0 +1,5 @@
+---
+name: SetFogOfWarBackgroundAtlas
+status: unimplemented
+inputs:
+- - type: string

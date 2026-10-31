@@ -1,0 +1,7 @@
+---
+name: C_DelvesUI.GetDelveEntranceTiers
+status: unimplemented
+outputs:
+- innerType: TieredEntranceTierInfo
+  name: levelInfo
+  type: table

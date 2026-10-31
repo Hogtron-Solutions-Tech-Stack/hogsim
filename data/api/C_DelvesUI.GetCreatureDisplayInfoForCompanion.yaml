@@ -1,0 +1,9 @@
+---
+name: C_DelvesUI.GetCreatureDisplayInfoForCompanion
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- name: creatureDisplayInfoID
+  type: number

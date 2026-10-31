@@ -1,0 +1,7 @@
+---
+name: GetAbbreviateNumberData
+status: unimplemented
+outputs:
+- innerType: NumberAbbreviationBreakpoint
+  name: data
+  type: table

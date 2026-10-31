@@ -1,0 +1,5 @@
+---
+name: C_Trainer.SetCategorizeTrainerUI
+status: unimplemented
+inputs:
+- - type: boolean

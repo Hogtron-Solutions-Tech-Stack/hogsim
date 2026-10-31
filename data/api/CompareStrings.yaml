@@ -1,0 +1,10 @@
+---
+name: CompareStrings
+status: unimplemented
+inputs:
+- - type: string
+  - type: string
+  - type: number
+outputs:
+- name: result
+  type: number

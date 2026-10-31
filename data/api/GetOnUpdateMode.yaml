@@ -1,0 +1,6 @@
+---
+name: GetOnUpdateMode
+status: unimplemented
+outputs:
+- name: onUpdateMode
+  type: number

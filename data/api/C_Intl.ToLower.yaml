@@ -1,0 +1,8 @@
+---
+name: C_Intl.ToLower
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: result
+  type: string

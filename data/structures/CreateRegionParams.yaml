@@ -1,0 +1,15 @@
+---
+name: CreateRegionParams
+fields:
+- name: name
+  nilable: true
+  type: string
+- name: drawLayer
+  nilable: true
+  type: unknown
+- name: templateName
+  nilable: true
+  type: string
+- name: subLevel
+  nilable: true
+  type: number

@@ -1,0 +1,9 @@
+---
+name: C_ConsoleScriptCollection.GetCollectionDataByTag
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: data
+  nilable: true
+  type: ConsoleScriptCollectionData

@@ -1,0 +1,9 @@
+---
+name: ParseNumber
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+outputs:
+- name: result
+  type: number

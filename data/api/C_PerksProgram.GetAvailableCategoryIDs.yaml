@@ -1,0 +1,7 @@
+---
+name: C_PerksProgram.GetAvailableCategoryIDs
+status: unimplemented
+outputs:
+- innerType: number
+  name: categoryIDs
+  type: table

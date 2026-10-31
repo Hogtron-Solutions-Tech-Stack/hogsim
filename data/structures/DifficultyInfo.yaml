@@ -1,0 +1,28 @@
+---
+name: DifficultyInfo
+fields:
+- name: name
+  type: string
+- name: instanceType
+  type: string
+- name: isHeroic
+  type: boolean
+- name: isChallengeMode
+  type: boolean
+- name: displayHeroic
+  type: boolean
+- name: displayMythic
+  type: boolean
+- name: toggleDifficultyID
+  nilable: true
+  type: number
+- name: isLFR
+  type: boolean
+- name: minPlayers
+  nilable: true
+  type: number
+- name: maxPlayers
+  nilable: true
+  type: number
+- name: isUserSelectable
+  type: boolean

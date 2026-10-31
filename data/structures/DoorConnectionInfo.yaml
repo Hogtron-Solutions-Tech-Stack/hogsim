@@ -1,0 +1,9 @@
+---
+name: DoorConnectionInfo
+fields:
+- name: doorID
+  type: number
+- name: connectionType
+  type: number
+- name: doorFacing
+  type: number

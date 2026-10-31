@@ -1,0 +1,8 @@
+---
+name: C_Traits.GetTraitSystemFlags
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: flags
+  type: number

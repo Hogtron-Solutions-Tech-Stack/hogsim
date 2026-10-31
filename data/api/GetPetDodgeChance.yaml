@@ -1,0 +1,6 @@
+---
+name: GetPetDodgeChance
+status: unimplemented
+outputs:
+- name: result
+  type: number

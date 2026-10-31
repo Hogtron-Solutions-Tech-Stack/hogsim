@@ -1,0 +1,8 @@
+---
+name: C_Traits.GenerateImportString
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: importString
+  type: string

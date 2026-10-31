@@ -1,0 +1,8 @@
+---
+name: C_EncounterTimeline.SetEventIconTextures
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - innerType: unknown
+    type: table

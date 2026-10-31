@@ -1,0 +1,8 @@
+---
+name: C_PerksProgram.GetCategoryInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: categoryInfo
+  type: PerksVendorCategoryInfo

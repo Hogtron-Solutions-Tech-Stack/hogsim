@@ -1,0 +1,6 @@
+---
+name: IsClampedToScreen
+status: unimplemented
+outputs:
+- name: clampedToScreen
+  type: boolean

@@ -1,0 +1,9 @@
+---
+name: C_AuraContainerUtil.ProcessCustomAuraButtonCasterNameOptions
+status: unimplemented
+inputs:
+- - nilable: true
+    type: CustomAuraButtonCasterNameOptions
+outputs:
+- name: result
+  type: CustomAuraButtonCasterNameOptions

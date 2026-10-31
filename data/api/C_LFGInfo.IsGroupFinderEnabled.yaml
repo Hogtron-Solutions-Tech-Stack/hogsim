@@ -1,0 +1,6 @@
+---
+name: C_LFGInfo.IsGroupFinderEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

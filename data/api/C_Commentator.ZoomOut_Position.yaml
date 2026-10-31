@@ -1,0 +1,6 @@
+---
+name: C_Commentator.ZoomOut_Position
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number

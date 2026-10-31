@@ -1,0 +1,22 @@
+---
+name: TaxiNodeInfo
+fields:
+- name: nodeID
+  type: number
+- name: position
+  type: unknown
+- name: name
+  type: string
+- name: state
+  type: number
+- name: slotIndex
+  type: number
+- name: textureKit
+  type: string
+- name: useSpecialIcon
+  type: boolean
+- name: specialIconCostString
+  nilable: true
+  type: string
+- name: isMapLayerTransition
+  type: boolean

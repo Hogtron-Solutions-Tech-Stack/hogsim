@@ -1,0 +1,5 @@
+---
+name: SetApproximationSeconds
+status: unimplemented
+inputs:
+- - type: unknown

@@ -1,0 +1,8 @@
+---
+name: MythicPlusLeaderboardResult
+fields:
+- name: completionTime
+  type: number
+- innerType: MythicPlusLeaderboardPlayerResult
+  name: players
+  type: table

@@ -1,0 +1,31 @@
+---
+name: EncounterWarningInfo
+fields:
+- name: text
+  type: string
+- name: casterGUID
+  type: string
+- name: casterName
+  type: string
+- name: targetGUID
+  type: string
+- name: targetName
+  type: string
+- name: iconFileID
+  type: number
+- name: tooltipSpellID
+  type: number
+- name: isDeadly
+  type: boolean
+- name: color
+  type: unknown
+- name: duration
+  type: unknown
+- name: severity
+  type: number
+- name: shouldPlaySound
+  type: boolean
+- name: shouldShowChatMessage
+  type: boolean
+- name: shouldShowWarning
+  type: boolean

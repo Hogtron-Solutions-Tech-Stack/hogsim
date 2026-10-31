@@ -1,0 +1,12 @@
+---
+name: C_ChatInfo.PerformEmote
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: string
+  - default: false
+    type: boolean
+outputs:
+- name: success
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetScale
+status: unimplemented
+outputs:
+- name: scale
+  type: number

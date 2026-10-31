@@ -1,0 +1,11 @@
+---
+name: C_AddOnProfiler.MeasureCall
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: unknown
+outputs:
+- name: results
+  type: AddOnProfilerCallResults
+- name: returns
+  type: unknown

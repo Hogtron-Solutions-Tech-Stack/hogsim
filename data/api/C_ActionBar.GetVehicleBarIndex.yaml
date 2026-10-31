@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.GetVehicleBarIndex
+status: unimplemented
+outputs:
+- name: vehicleBarIndex
+  type: number

@@ -1,0 +1,5 @@
+---
+name: SetHyperlinkPropagateToParent
+status: unimplemented
+inputs:
+- - type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetAnimationGroups
+status: unimplemented
+outputs:
+- name: groups
+  type: unknown

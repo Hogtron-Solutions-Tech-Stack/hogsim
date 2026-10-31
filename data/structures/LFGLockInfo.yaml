@@ -1,0 +1,9 @@
+---
+name: LFGLockInfo
+fields:
+- name: lfgID
+  type: number
+- name: reason
+  type: number
+- name: hideEntry
+  type: boolean

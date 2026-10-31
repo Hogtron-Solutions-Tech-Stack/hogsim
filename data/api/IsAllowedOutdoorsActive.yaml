@@ -1,0 +1,6 @@
+---
+name: IsAllowedOutdoorsActive
+status: unimplemented
+outputs:
+- name: isActive
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: CreateUnitHealPredictionCalculator
+status: unimplemented
+outputs:
+- name: healPredictionCalculator
+  type: unknown

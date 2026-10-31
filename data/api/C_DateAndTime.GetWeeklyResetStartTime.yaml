@@ -1,0 +1,6 @@
+---
+name: C_DateAndTime.GetWeeklyResetStartTime
+status: unimplemented
+outputs:
+- name: seconds
+  type: number

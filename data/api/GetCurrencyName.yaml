@@ -1,0 +1,9 @@
+---
+name: GetCurrencyName
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+outputs:
+- name: result
+  type: string

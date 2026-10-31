@@ -1,0 +1,6 @@
+---
+name: C_Reputation.AreLegacyReputationsShown
+status: unimplemented
+outputs:
+- name: areLegacyReputationsShown
+  type: boolean

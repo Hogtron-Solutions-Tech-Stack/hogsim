@@ -1,0 +1,9 @@
+---
+name: GetElapsedPercent
+status: unimplemented
+inputs:
+- - default: RealTime
+    type: number
+outputs:
+- name: elapsedPercent
+  type: number

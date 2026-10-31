@@ -1,0 +1,7 @@
+---
+name: HousingDecorInstanceListEntry
+fields:
+- name: decorGUID
+  type: string
+- name: name
+  type: string

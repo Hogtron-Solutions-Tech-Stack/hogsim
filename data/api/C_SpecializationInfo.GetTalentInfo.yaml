@@ -1,0 +1,9 @@
+---
+name: C_SpecializationInfo.GetTalentInfo
+status: unimplemented
+inputs:
+- - type: TalentInfoQuery
+outputs:
+- name: result
+  nilable: true
+  type: TalentInfoResult

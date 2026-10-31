@@ -1,0 +1,6 @@
+---
+name: C_HousingCustomizeMode.IsRoomComponentSelected
+status: unimplemented
+outputs:
+- name: hasSelectedComponent
+  type: boolean

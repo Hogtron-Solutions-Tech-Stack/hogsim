@@ -1,0 +1,8 @@
+---
+name: C_TooltipInfo.GetCurrencyToken
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: data
+  type: unknown

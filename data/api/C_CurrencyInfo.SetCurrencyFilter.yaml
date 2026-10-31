@@ -1,0 +1,5 @@
+---
+name: C_CurrencyInfo.SetCurrencyFilter
+status: unimplemented
+inputs:
+- - type: number

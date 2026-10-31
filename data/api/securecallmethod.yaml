@@ -1,0 +1,10 @@
+---
+name: securecallmethod
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: string
+  - type: unknown
+outputs:
+- name: results
+  type: unknown

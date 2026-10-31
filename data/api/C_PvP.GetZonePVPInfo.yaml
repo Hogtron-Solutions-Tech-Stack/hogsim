@@ -1,0 +1,11 @@
+---
+name: C_PvP.GetZonePVPInfo
+status: unimplemented
+outputs:
+- name: pvpType
+  type: string
+- name: isSubZonePvP
+  type: boolean
+- name: factionName
+  nilable: true
+  type: string

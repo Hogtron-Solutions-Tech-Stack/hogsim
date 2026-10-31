@@ -1,0 +1,10 @@
+---
+name: C_QuestInfoSystem.GetQuestRewardSpells
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- innerType: number
+  name: spellIDs
+  type: table

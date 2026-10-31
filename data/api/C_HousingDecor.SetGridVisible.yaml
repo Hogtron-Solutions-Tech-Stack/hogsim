@@ -1,0 +1,5 @@
+---
+name: C_HousingDecor.SetGridVisible
+status: unimplemented
+inputs:
+- - type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetAlpha
+status: unimplemented
+outputs:
+- name: alpha
+  type: number

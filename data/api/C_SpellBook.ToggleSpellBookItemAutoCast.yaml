@@ -1,0 +1,6 @@
+---
+name: C_SpellBook.ToggleSpellBookItemAutoCast
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

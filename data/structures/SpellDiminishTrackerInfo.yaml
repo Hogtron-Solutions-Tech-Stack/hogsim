@@ -1,0 +1,13 @@
+---
+name: SpellDiminishTrackerInfo
+fields:
+- name: category
+  type: number
+- name: startTime
+  type: number
+- name: duration
+  type: number
+- name: showCountdown
+  type: boolean
+- name: isImmune
+  type: boolean

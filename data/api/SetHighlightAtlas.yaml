@@ -1,0 +1,7 @@
+---
+name: SetHighlightAtlas
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: unknown

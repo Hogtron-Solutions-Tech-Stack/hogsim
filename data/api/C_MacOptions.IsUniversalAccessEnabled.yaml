@@ -1,0 +1,6 @@
+---
+name: C_MacOptions.IsUniversalAccessEnabled
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetCurveType
+status: unimplemented
+outputs:
+- name: curveType
+  type: unknown

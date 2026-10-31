@@ -1,0 +1,9 @@
+---
+name: GamePadConfigID
+fields:
+- name: vendorID
+  nilable: true
+  type: number
+- name: productID
+  nilable: true
+  type: number

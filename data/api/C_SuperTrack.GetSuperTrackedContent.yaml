@@ -1,0 +1,8 @@
+---
+name: C_SuperTrack.GetSuperTrackedContent
+status: unimplemented
+outputs:
+- name: trackableType
+  type: number
+- name: trackableID
+  type: number

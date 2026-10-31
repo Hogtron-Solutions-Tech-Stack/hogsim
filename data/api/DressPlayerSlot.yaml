@@ -1,0 +1,5 @@
+---
+name: DressPlayerSlot
+status: unimplemented
+inputs:
+- - type: number

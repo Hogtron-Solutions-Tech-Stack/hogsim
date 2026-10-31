@@ -1,0 +1,14 @@
+---
+name: VendorTrackingInfo
+fields:
+- name: creatureName
+  type: string
+- name: zoneName
+  nilable: true
+  type: string
+- name: currencyType
+  nilable: true
+  type: number
+- name: cost
+  nilable: true
+  type: number

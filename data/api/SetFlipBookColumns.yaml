@@ -1,0 +1,5 @@
+---
+name: SetFlipBookColumns
+status: unimplemented
+inputs:
+- - type: number

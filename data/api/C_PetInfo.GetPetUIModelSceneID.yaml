@@ -1,0 +1,6 @@
+---
+name: C_PetInfo.GetPetUIModelSceneID
+status: unimplemented
+outputs:
+- name: modelSceneID
+  type: number

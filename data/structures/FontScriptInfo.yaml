@@ -1,0 +1,16 @@
+---
+name: FontScriptInfo
+fields:
+- name: color
+  type: unknown
+- name: height
+  type: number
+- name: outline
+  type: string
+- name: shadow
+  nilable: true
+  type: FontScriptShadowInfo
+- name: fontObject
+  type: unknown
+- name: canBeUserScaled
+  type: boolean

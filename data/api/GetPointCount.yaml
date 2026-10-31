@@ -1,0 +1,6 @@
+---
+name: GetPointCount
+status: unimplemented
+outputs:
+- name: count
+  type: number

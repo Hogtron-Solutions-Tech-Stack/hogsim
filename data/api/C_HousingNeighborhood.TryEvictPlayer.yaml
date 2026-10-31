@@ -1,0 +1,5 @@
+---
+name: C_HousingNeighborhood.TryEvictPlayer
+status: unimplemented
+inputs:
+- - type: number

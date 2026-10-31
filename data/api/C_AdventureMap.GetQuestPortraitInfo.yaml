@@ -1,0 +1,8 @@
+---
+name: C_AdventureMap.GetQuestPortraitInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: info
+  type: AdventureMapQuestPortraitInfo

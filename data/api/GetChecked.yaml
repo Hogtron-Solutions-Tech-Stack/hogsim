@@ -1,0 +1,6 @@
+---
+name: GetChecked
+status: unimplemented
+outputs:
+- name: checked
+  type: boolean

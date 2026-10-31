@@ -1,0 +1,6 @@
+---
+name: CanPropagateMouseClicks
+status: unimplemented
+outputs:
+- name: canPropagate
+  type: boolean

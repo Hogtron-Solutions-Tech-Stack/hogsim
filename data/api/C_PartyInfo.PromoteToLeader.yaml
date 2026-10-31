@@ -1,0 +1,7 @@
+---
+name: C_PartyInfo.PromoteToLeader
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: boolean

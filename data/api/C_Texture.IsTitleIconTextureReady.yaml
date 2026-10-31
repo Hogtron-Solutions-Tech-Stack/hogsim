@@ -1,0 +1,9 @@
+---
+name: C_Texture.IsTitleIconTextureReady
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+outputs:
+- name: ready
+  type: boolean

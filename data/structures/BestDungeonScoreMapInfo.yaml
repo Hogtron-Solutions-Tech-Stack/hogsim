@@ -1,0 +1,15 @@
+---
+name: BestDungeonScoreMapInfo
+fields:
+- name: mapScore
+  type: number
+- name: mapName
+  type: string
+- name: bestRunLevel
+  type: number
+- name: finishedSuccess
+  type: boolean
+- name: bestRunDurationMs
+  type: number
+- name: bestLevelIncrement
+  type: number

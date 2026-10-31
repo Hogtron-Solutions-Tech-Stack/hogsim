@@ -1,0 +1,7 @@
+---
+name: C_HousingCustomizeMode.SetRoomComponentDoorType
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - type: number

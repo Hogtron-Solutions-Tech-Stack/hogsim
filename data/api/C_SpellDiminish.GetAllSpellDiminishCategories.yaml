@@ -1,0 +1,10 @@
+---
+name: C_SpellDiminish.GetAllSpellDiminishCategories
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- innerType: SpellDiminishCategoryInfo
+  name: categories
+  type: table

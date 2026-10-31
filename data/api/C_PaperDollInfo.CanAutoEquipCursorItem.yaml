@@ -1,0 +1,6 @@
+---
+name: C_PaperDollInfo.CanAutoEquipCursorItem
+status: unimplemented
+outputs:
+- name: canAutoEquip
+  type: boolean

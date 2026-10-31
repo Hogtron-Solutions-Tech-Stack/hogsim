@@ -1,0 +1,5 @@
+---
+name: C_Housing.OnSignCharterClicked
+status: unimplemented
+inputs:
+- - type: string

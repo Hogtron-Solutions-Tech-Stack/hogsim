@@ -1,0 +1,14 @@
+---
+name: AuraContainerTooltipNineSliceOptions
+fields:
+- name: layoutName
+  type: string
+- name: borderColor
+  nilable: true
+  type: unknown
+- name: centerColor
+  nilable: true
+  type: unknown
+- name: anchorOffsets
+  nilable: true
+  type: AuraContainerTooltipAnchorOffsets

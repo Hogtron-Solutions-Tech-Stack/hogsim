@@ -1,0 +1,6 @@
+---
+name: C_Ping.IsPingSystemEnabled
+status: unimplemented
+outputs:
+- name: isEnabled
+  type: boolean

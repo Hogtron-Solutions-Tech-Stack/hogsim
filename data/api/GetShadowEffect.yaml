@@ -1,0 +1,6 @@
+---
+name: GetShadowEffect
+status: unimplemented
+outputs:
+- name: strength
+  type: number

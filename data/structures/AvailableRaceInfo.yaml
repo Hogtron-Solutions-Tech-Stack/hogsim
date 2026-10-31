@@ -1,0 +1,7 @@
+---
+name: AvailableRaceInfo
+fields:
+- name: raceID
+  type: number
+- name: displayName
+  type: string

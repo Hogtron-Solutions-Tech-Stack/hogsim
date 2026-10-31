@@ -1,0 +1,6 @@
+---
+name: C_ExternalEventURL.IsNew
+status: unimplemented
+outputs:
+- name: isNew
+  type: boolean

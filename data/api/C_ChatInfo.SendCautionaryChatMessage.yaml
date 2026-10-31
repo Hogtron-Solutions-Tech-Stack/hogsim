@@ -1,0 +1,5 @@
+---
+name: C_ChatInfo.SendCautionaryChatMessage
+status: unimplemented
+inputs:
+- - type: number

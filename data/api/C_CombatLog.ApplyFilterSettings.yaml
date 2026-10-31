@@ -1,0 +1,5 @@
+---
+name: C_CombatLog.ApplyFilterSettings
+status: unimplemented
+inputs:
+- - type: unknown

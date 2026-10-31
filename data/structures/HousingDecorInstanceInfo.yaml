@@ -1,0 +1,30 @@
+---
+name: HousingDecorInstanceInfo
+fields:
+- name: decorGUID
+  type: string
+- name: decorID
+  type: number
+- name: name
+  type: string
+- name: isLocked
+  type: boolean
+- name: canBeCustomized
+  type: boolean
+- name: canBeRemoved
+  type: boolean
+- name: isAllowedOutdoors
+  type: boolean
+- name: isAllowedIndoors
+  type: boolean
+- name: isRefundable
+  type: boolean
+- name: canAttachPet
+  type: boolean
+- innerType: HousingDecorDyeSlot
+  name: dyeSlots
+  type: table
+- name: dataTagsByID
+  type: unknown
+- name: size
+  type: number

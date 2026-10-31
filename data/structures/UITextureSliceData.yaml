@@ -1,0 +1,13 @@
+---
+name: UITextureSliceData
+fields:
+- name: marginLeft
+  type: number
+- name: marginTop
+  type: number
+- name: marginRight
+  type: number
+- name: marginBottom
+  type: number
+- name: sliceMode
+  type: number

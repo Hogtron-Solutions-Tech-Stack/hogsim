@@ -1,0 +1,8 @@
+---
+name: GetManaRegenFromSpirit
+status: unimplemented
+outputs:
+- name: powerRegen
+  type: number
+- name: combatPowerRegen
+  type: number

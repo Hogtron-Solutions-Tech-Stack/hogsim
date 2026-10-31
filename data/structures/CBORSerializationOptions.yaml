@@ -1,0 +1,5 @@
+---
+name: CBORSerializationOptions
+fields:
+- name: ignoreSerializationErrors
+  type: boolean

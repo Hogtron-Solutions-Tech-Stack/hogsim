@@ -1,0 +1,8 @@
+---
+name: C_TradeSkillUI.RecraftLimitCategoryValid
+status: unimplemented
+inputs:
+- - type: CraftingReagent
+outputs:
+- name: recraftValid
+  type: boolean

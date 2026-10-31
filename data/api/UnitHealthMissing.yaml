@@ -1,0 +1,10 @@
+---
+name: UnitHealthMissing
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: true
+    type: boolean
+outputs:
+- name: result
+  type: number

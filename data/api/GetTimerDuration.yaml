@@ -1,0 +1,6 @@
+---
+name: GetTimerDuration
+status: unimplemented
+outputs:
+- name: duration
+  type: unknown

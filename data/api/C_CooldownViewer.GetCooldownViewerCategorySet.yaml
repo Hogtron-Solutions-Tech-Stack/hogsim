@@ -1,0 +1,11 @@
+---
+name: C_CooldownViewer.GetCooldownViewerCategorySet
+status: unimplemented
+inputs:
+- - type: number
+  - default: false
+    type: boolean
+outputs:
+- innerType: number
+  name: cooldownIDs
+  type: table

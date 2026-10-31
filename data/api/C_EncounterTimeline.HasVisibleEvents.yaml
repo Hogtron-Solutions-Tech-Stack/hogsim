@@ -1,0 +1,6 @@
+---
+name: C_EncounterTimeline.HasVisibleEvents
+status: unimplemented
+outputs:
+- name: hasVisibleEvents
+  type: boolean

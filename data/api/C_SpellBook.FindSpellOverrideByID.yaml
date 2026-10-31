@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.FindSpellOverrideByID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: overrideSpellID
+  nilable: true
+  type: number

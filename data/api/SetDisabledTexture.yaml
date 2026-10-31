@@ -1,0 +1,5 @@
+---
+name: SetDisabledTexture
+status: unimplemented
+inputs:
+- - type: unknown

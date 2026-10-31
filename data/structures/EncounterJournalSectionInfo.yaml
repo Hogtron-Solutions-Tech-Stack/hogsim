@@ -1,0 +1,30 @@
+---
+name: EncounterJournalSectionInfo
+fields:
+- name: spellID
+  type: number
+- name: title
+  type: string
+- name: description
+  nilable: true
+  type: string
+- name: headerType
+  type: number
+- name: abilityIcon
+  type: number
+- name: creatureDisplayID
+  type: number
+- name: uiModelSceneID
+  type: number
+- name: siblingSectionID
+  nilable: true
+  type: number
+- name: firstChildSectionID
+  nilable: true
+  type: number
+- name: filteredByDifficulty
+  type: boolean
+- name: link
+  type: string
+- name: startsOpen
+  type: boolean

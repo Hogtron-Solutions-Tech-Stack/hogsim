@@ -1,0 +1,8 @@
+---
+name: C_EncounterEvents.GetEventInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: encounterEventInfo
+  type: EncounterEventInfo

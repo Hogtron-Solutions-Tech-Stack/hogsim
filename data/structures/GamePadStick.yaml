@@ -1,0 +1,9 @@
+---
+name: GamePadStick
+fields:
+- name: x
+  type: number
+- name: y
+  type: number
+- name: len
+  type: number

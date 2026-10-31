@@ -1,0 +1,9 @@
+---
+name: C_TradeSkillUI.GetItemReagentQualityInfo
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: info
+  nilable: true
+  type: CraftingQualityInfo

@@ -1,0 +1,5 @@
+---
+name: SetMinIntervalCurve
+status: unimplemented
+inputs:
+- - type: unknown

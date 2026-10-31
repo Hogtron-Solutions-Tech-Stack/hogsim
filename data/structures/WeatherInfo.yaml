@@ -1,0 +1,7 @@
+---
+name: WeatherInfo
+fields:
+- name: type
+  type: number
+- name: intensity
+  type: number

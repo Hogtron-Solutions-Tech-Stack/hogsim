@@ -1,0 +1,9 @@
+---
+name: C_HousingCatalog.PromotePreviewDecor
+status: unimplemented
+inputs:
+- - type: number
+  - type: string
+outputs:
+- name: success
+  type: boolean

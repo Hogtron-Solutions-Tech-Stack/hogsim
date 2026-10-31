@@ -1,0 +1,8 @@
+---
+name: canaccessallvalues
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: canAccessAllValues
+  type: boolean

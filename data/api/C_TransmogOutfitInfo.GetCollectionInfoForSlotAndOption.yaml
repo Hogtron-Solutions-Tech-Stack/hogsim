@@ -1,0 +1,10 @@
+---
+name: C_TransmogOutfitInfo.GetCollectionInfoForSlotAndOption
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number
+outputs:
+- name: collectionInfo
+  type: TransmogOutfitCollectionInfo

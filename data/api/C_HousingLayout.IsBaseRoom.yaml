@@ -1,0 +1,8 @@
+---
+name: C_HousingLayout.IsBaseRoom
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isBaseRoom
+  type: boolean

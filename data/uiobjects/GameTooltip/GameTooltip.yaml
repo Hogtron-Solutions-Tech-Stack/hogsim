@@ -41,6 +41,8 @@ methods:
     status: unimplemented
   ClearLines:
     status: unimplemented
+  ClearPadding:
+    status: unimplemented
   CopyTooltip:
     status: unimplemented
   FadeOut:
@@ -63,6 +65,8 @@ methods:
     status: unimplemented
   GetItem:
     status: unimplemented
+  GetLeftLine:
+    status: unimplemented
   GetMinimumWidth:
     outputs:
     - type: number
@@ -72,6 +76,8 @@ methods:
     - name: tooltipOwner
     status: getter
   GetPadding:
+    status: unimplemented
+  GetRightLine:
     status: unimplemented
   GetSpell:
     status: unimplemented

@@ -1,0 +1,5 @@
+---
+name: C_Item.ConfirmDeleteItem
+status: unimplemented
+inputs:
+- - type: string

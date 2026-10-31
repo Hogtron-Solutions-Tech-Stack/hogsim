@@ -1,0 +1,9 @@
+---
+name: string.endswith
+status: unimplemented
+inputs:
+- - type: string
+  - type: string
+outputs:
+- name: endsWith
+  type: boolean

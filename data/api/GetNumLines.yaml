@@ -1,0 +1,6 @@
+---
+name: GetNumLines
+status: unimplemented
+outputs:
+- name: lines
+  type: number

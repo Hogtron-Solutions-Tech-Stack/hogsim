@@ -1,0 +1,5 @@
+---
+name: C_KeyBindings.DeactivateBindingContext
+status: unimplemented
+inputs:
+- - type: number

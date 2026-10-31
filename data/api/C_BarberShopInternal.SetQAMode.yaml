@@ -1,0 +1,5 @@
+---
+name: C_BarberShopInternal.SetQAMode
+status: unimplemented
+inputs:
+- - type: boolean

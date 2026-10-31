@@ -1,0 +1,7 @@
+---
+name: C_CatalogShop.GetAvailableTransmogRaceInfos
+status: unimplemented
+outputs:
+- innerType: AvailableRaceInfo
+  name: raceIDs
+  type: table

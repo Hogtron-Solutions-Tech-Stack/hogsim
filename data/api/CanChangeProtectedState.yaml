@@ -1,0 +1,6 @@
+---
+name: CanChangeProtectedState
+status: unimplemented
+outputs:
+- name: canChange
+  type: boolean

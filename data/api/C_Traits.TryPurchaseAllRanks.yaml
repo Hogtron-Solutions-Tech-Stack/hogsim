@@ -1,0 +1,9 @@
+---
+name: C_Traits.TryPurchaseAllRanks
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: success
+  type: boolean

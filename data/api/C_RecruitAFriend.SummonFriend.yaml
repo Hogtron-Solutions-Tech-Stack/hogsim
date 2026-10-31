@@ -1,0 +1,6 @@
+---
+name: C_RecruitAFriend.SummonFriend
+status: unimplemented
+inputs:
+- - type: string
+  - type: string

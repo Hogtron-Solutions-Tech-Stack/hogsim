@@ -1,0 +1,6 @@
+---
+name: C_InstanceEncounter.ShouldShowTimelineForEncounter
+status: unimplemented
+outputs:
+- name: shouldShow
+  type: boolean

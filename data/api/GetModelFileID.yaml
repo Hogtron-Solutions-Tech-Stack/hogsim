@@ -1,0 +1,6 @@
+---
+name: GetModelFileID
+status: unimplemented
+outputs:
+- name: file
+  type: number

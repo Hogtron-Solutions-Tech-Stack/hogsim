@@ -1,0 +1,6 @@
+---
+name: GetAltArrowKeyMode
+status: unimplemented
+outputs:
+- name: altMode
+  type: boolean

@@ -1,0 +1,9 @@
+---
+name: C_CatalogShop.GetCategorySectionInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: sectionInfo
+  type: CatalogShopSectionInfo

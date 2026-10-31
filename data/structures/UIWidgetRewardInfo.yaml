@@ -1,0 +1,9 @@
+---
+name: UIWidgetRewardInfo
+fields:
+- name: shownState
+  type: number
+- name: earnedTooltip
+  type: string
+- name: unearnedTooltip
+  type: string

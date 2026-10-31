@@ -1,0 +1,11 @@
+---
+name: AccountStoreCategoryInfo
+fields:
+- name: id
+  type: number
+- name: name
+  type: string
+- name: type
+  type: unknown
+- name: icon
+  type: number

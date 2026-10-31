@@ -1,0 +1,9 @@
+---
+name: C_ContentTracking.GetTitle
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: title
+  type: string

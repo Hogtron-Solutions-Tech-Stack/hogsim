@@ -1,0 +1,7 @@
+---
+name: AddOnProfilerResult
+fields:
+- name: addOnName
+  type: string
+- name: metricValue
+  type: number

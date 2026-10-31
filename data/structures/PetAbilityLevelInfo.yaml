@@ -1,0 +1,7 @@
+---
+name: PetAbilityLevelInfo
+fields:
+- name: abilityID
+  type: number
+- name: level
+  type: number

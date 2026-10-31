@@ -1,0 +1,9 @@
+---
+name: C_Container.IsBattlePayItem
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: isBattlePayItem
+  type: boolean

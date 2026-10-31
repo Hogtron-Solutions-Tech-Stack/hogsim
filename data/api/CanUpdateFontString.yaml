@@ -1,0 +1,6 @@
+---
+name: CanUpdateFontString
+status: unimplemented
+outputs:
+- name: canUpdateText
+  type: boolean

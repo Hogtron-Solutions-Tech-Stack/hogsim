@@ -1,0 +1,9 @@
+---
+name: C_TradeSkillUI.GetItemCraftedQualityInfo
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: info
+  nilable: true
+  type: CraftingQualityInfo

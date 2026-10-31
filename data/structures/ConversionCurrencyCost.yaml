@@ -1,0 +1,7 @@
+---
+name: ConversionCurrencyCost
+fields:
+- name: currencyID
+  type: number
+- name: amount
+  type: number

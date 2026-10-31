@@ -1,0 +1,5 @@
+---
+name: SetQuestBlobOutsideTexture
+status: unimplemented
+inputs:
+- - type: unknown

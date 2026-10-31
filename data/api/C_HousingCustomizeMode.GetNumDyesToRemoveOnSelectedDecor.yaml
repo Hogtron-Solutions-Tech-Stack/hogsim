@@ -1,0 +1,6 @@
+---
+name: C_HousingCustomizeMode.GetNumDyesToRemoveOnSelectedDecor
+status: unimplemented
+outputs:
+- name: numDyesToRemove
+  type: number

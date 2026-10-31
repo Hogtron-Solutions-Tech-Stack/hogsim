@@ -1,0 +1,6 @@
+---
+name: GetStartColor
+status: unimplemented
+outputs:
+- name: color
+  type: unknown

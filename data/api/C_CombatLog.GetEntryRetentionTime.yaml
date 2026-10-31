@@ -1,0 +1,6 @@
+---
+name: C_CombatLog.GetEntryRetentionTime
+status: unimplemented
+outputs:
+- name: retentionTime
+  type: number

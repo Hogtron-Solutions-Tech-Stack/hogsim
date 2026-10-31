@@ -1,0 +1,6 @@
+---
+name: C_CombatAudioAlert.GetSpeakerSpeed
+status: unimplemented
+outputs:
+- name: speed
+  type: number

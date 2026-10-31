@@ -1,0 +1,6 @@
+---
+name: C_WeeklyRewards.ShouldShowRetirementMessage
+status: unimplemented
+outputs:
+- name: showRetirementMessage
+  type: boolean

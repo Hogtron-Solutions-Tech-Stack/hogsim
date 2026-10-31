@@ -1,0 +1,8 @@
+---
+name: GetTooltipIndex
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: objectiveIndex
+  type: number

@@ -1,0 +1,13 @@
+---
+name: EditModeAnchorInfo
+fields:
+- name: point
+  type: unknown
+- name: relativeTo
+  type: string
+- name: relativePoint
+  type: unknown
+- name: offsetX
+  type: number
+- name: offsetY
+  type: number

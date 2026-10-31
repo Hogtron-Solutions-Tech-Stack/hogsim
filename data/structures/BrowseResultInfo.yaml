@@ -1,0 +1,14 @@
+---
+name: BrowseResultInfo
+fields:
+- name: itemKey
+  type: ItemKey
+- name: appearanceLink
+  nilable: true
+  type: string
+- name: totalQuantity
+  type: number
+- name: minPrice
+  type: number
+- name: containsOwnerItem
+  type: boolean

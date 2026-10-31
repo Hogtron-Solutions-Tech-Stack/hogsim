@@ -1,0 +1,9 @@
+---
+name: MajorFactionRenownInfo
+fields:
+- name: renownLevel
+  type: number
+- name: renownReputationEarned
+  type: number
+- name: renownLevelThreshold
+  type: number

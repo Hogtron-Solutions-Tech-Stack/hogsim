@@ -1,0 +1,6 @@
+---
+name: GetDesaturation
+status: unimplemented
+outputs:
+- name: strength
+  type: number

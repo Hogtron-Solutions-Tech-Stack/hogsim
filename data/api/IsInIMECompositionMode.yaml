@@ -1,0 +1,6 @@
+---
+name: IsInIMECompositionMode
+status: unimplemented
+outputs:
+- name: isInIMECompositionMode
+  type: boolean

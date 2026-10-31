@@ -1,0 +1,6 @@
+---
+name: IsTruncated
+status: unimplemented
+outputs:
+- name: isTruncated
+  type: boolean

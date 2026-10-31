@@ -1,0 +1,6 @@
+---
+name: CustomAuraButtonApplicationCountOptions
+fields:
+- name: formatter
+  nilable: true
+  type: unknown

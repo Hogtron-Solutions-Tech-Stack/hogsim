@@ -1,0 +1,9 @@
+---
+name: C_EncounterJournal.GetInstanceForGameMap
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: journalInstanceID
+  nilable: true
+  type: number

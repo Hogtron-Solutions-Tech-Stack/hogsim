@@ -1,0 +1,5 @@
+---
+name: SetIsFrameBuffer
+status: unimplemented
+inputs:
+- - type: boolean

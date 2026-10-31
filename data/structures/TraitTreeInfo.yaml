@@ -1,0 +1,20 @@
+---
+name: TraitTreeInfo
+fields:
+- name: ID
+  type: number
+- innerType: TraitGateInfo
+  name: gates
+  type: table
+- name: hideSingleRankNumbers
+  type: boolean
+- name: cannotRefund
+  type: boolean
+- name: rootNodeID
+  nilable: true
+  type: number
+- name: uiTextureKit
+  type: string
+- name: titleText
+  nilable: true
+  type: string

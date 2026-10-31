@@ -1,0 +1,10 @@
+---
+name: TooltipItemComparisonInfo
+fields:
+- name: method
+  type: number
+- name: item
+  type: unknown
+- innerType: unknown
+  name: additionalItems
+  type: table

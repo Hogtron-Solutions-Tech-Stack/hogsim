@@ -1,0 +1,20 @@
+---
+name: AuroraFriendsSearchInfo
+fields:
+- name: searchText
+  type: string
+- name: isOnline
+  type: boolean
+- name: isOffline
+  type: boolean
+- name: isDND
+  type: boolean
+- name: isAFK
+  type: boolean
+- name: isInQueue
+  type: boolean
+- name: isAvailableForQueue
+  type: boolean
+- innerType: number
+  name: tags
+  type: table

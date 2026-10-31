@@ -1,0 +1,6 @@
+---
+name: C_PetInfo.IsPetOrderMoveToPending
+status: unimplemented
+outputs:
+- name: isPetOrderMoveToPending
+  type: boolean

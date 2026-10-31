@@ -1,0 +1,7 @@
+---
+name: WarbandSceneSearchInfo
+fields:
+- name: ownedOnly
+  type: boolean
+- name: favoritesOnly
+  type: boolean

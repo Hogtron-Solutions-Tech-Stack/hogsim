@@ -1,0 +1,6 @@
+---
+name: GetUseTransmogChoices
+status: unimplemented
+outputs:
+- name: use
+  type: boolean

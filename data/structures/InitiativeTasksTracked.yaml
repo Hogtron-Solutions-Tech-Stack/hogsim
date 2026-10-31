@@ -1,0 +1,6 @@
+---
+name: InitiativeTasksTracked
+fields:
+- innerType: number
+  name: trackedIDs
+  type: table

@@ -1,0 +1,9 @@
+---
+name: GetSpellCritChanceFromStat
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: spellCritChance
+  type: number

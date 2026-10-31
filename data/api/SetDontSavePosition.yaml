@@ -1,0 +1,5 @@
+---
+name: SetDontSavePosition
+status: unimplemented
+inputs:
+- - type: boolean

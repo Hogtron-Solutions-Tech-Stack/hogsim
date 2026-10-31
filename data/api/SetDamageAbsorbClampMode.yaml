@@ -1,0 +1,5 @@
+---
+name: SetDamageAbsorbClampMode
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,12 @@
+---
+name: SetItemTransmogInfo
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: number
+  - default: false
+    type: boolean
+outputs:
+- name: result
+  type: number

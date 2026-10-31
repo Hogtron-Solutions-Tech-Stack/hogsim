@@ -1,0 +1,8 @@
+---
+name: ParseCurrency
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: result
+  type: CurrencyParseResult

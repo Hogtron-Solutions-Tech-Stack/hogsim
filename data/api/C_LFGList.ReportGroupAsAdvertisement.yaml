@@ -1,0 +1,5 @@
+---
+name: C_LFGList.ReportGroupAsAdvertisement
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,9 @@
+---
+name: C_Container.HasContainerItem
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: hasItem
+  type: boolean

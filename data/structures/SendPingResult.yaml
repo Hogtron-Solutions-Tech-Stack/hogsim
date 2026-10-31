@@ -1,0 +1,8 @@
+---
+name: SendPingResult
+fields:
+- name: type
+  nilable: true
+  type: number
+- name: result
+  type: number

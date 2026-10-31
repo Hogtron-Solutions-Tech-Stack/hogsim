@@ -1,0 +1,8 @@
+---
+name: C_HousingLayout.CanSetViewedFloor
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: canSet
+  type: boolean

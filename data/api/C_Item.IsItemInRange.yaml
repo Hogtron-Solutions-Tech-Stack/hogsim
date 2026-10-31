@@ -1,0 +1,10 @@
+---
+name: C_Item.IsItemInRange
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: string
+outputs:
+- name: result
+  nilable: true
+  type: boolean

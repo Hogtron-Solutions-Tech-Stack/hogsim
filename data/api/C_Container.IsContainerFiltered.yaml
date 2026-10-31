@@ -1,0 +1,8 @@
+---
+name: C_Container.IsContainerFiltered
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isFiltered
+  type: boolean

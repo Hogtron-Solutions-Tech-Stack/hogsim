@@ -1,0 +1,10 @@
+---
+name: C_ActionBar.FindAssistedCombatActionButtons
+status: unimplemented
+inputs:
+- - default: All
+    type: number
+outputs:
+- innerType: number
+  name: slots
+  type: table

@@ -1,0 +1,5 @@
+---
+name: SetClipsChildren
+status: unimplemented
+inputs:
+- - type: boolean

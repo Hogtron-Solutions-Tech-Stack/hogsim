@@ -1,0 +1,8 @@
+---
+name: C_TradeSkillUI.GetProfessionNameForSkillLineAbility
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: professionNmae
+  type: string

@@ -1,0 +1,10 @@
+---
+name: C_SpellBook.GetSpellBookItemSkillLineIndex
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: skillLineIndex
+  nilable: true
+  type: number

@@ -1,0 +1,37 @@
+---
+name: FactionData
+fields:
+- name: factionID
+  type: number
+- name: name
+  type: string
+- name: description
+  type: string
+- name: reaction
+  type: number
+- name: currentReactionThreshold
+  type: number
+- name: nextReactionThreshold
+  type: number
+- name: currentStanding
+  type: number
+- name: atWarWith
+  type: boolean
+- name: canToggleAtWar
+  type: boolean
+- name: isChild
+  type: boolean
+- name: isHeader
+  type: boolean
+- name: isHeaderWithRep
+  type: boolean
+- name: isCollapsed
+  type: boolean
+- name: isWatched
+  type: boolean
+- name: hasBonusRepGain
+  type: boolean
+- name: canSetInactive
+  type: boolean
+- name: isAccountWide
+  type: boolean

@@ -1,0 +1,12 @@
+---
+name: C_ScenarioInfo.GetUnitCriteriaProgressValues
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: actualValue
+  type: number
+- name: percentValue
+  type: number
+- name: percentValueString
+  type: string

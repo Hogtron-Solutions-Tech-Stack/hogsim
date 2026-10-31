@@ -1,0 +1,8 @@
+---
+name: C_MajorFactions.IsMajorFactionHiddenFromExpansionPage
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isHidden
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.IsPlayerInTimerunningHeroicWorldTier
+status: unimplemented
+outputs:
+- name: inTimerunningHeroicWorldTier
+  type: boolean

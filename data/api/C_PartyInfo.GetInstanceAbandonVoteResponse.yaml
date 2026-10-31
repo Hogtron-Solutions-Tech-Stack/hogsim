@@ -1,0 +1,7 @@
+---
+name: C_PartyInfo.GetInstanceAbandonVoteResponse
+status: unimplemented
+outputs:
+- name: response
+  nilable: true
+  type: boolean

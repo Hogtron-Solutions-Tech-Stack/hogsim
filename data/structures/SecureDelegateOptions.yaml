@@ -1,0 +1,5 @@
+---
+name: SecureDelegateOptions
+fields:
+- name: wrapUntrustedFunctions
+  type: boolean

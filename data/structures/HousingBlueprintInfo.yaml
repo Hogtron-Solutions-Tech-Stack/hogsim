@@ -1,0 +1,15 @@
+---
+name: HousingBlueprintInfo
+fields:
+- name: blueprintID
+  type: number
+- name: shareCode
+  type: string
+- name: name
+  type: string
+- name: blueprintType
+  type: number
+- name: creationTime
+  type: number
+- name: isAutoSave
+  type: boolean

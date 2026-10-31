@@ -1,0 +1,5 @@
+---
+name: C_Discord.GetServerLinkableChannels
+status: unimplemented
+inputs:
+- - type: number

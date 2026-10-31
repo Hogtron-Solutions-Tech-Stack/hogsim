@@ -1,0 +1,7 @@
+---
+name: C_DyeColor.GetAllDyeColorCategories
+status: unimplemented
+outputs:
+- innerType: number
+  name: dyeColorCategoryIDs
+  type: table

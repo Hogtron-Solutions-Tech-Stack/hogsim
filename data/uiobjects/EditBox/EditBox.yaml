@@ -74,6 +74,8 @@ methods:
     status: unimplemented
   GetNumLetters:
     status: unimplemented
+  GetNumLines:
+    status: unimplemented
   GetText:
     fields:
     - name: editboxText
@@ -96,6 +98,8 @@ methods:
     status: unimplemented
   Insert:
     status: implemented
+  IsAlphabeticOnly:
+    status: unimplemented
   IsAutoFocus:
     fields:
     - name: isAutoFocus
@@ -116,12 +120,18 @@ methods:
     status: getter
   IsNumeric:
     status: unimplemented
+  IsNumericFullRange:
+    status: unimplemented
   IsPassword:
     status: unimplemented
   IsSecureText:
     fields:
     - name: isSecureText
     status: getter
+  ResetInputMode:
+    status: unimplemented
+  SetAlphabeticOnly:
+    status: unimplemented
   SetAltArrowKeyMode:
     status: unimplemented
   SetAutoFocus:
@@ -163,6 +173,8 @@ methods:
   SetNumber:
     status: unimplemented
   SetNumeric:
+    status: unimplemented
+  SetNumericFullRange:
     status: unimplemented
   SetPassword:
     status: unimplemented

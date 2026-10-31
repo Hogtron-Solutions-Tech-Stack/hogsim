@@ -1,0 +1,6 @@
+---
+name: SetJumpInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

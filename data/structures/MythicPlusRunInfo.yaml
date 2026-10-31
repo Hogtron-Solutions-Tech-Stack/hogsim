@@ -1,0 +1,19 @@
+---
+name: MythicPlusRunInfo
+fields:
+- name: mapChallengeModeID
+  type: number
+- name: level
+  type: number
+- name: thisWeek
+  type: boolean
+- name: completed
+  type: boolean
+- name: runScore
+  type: number
+- name: durationSec
+  type: number
+- name: completionDate
+  type: CalendarTime
+- name: season
+  type: number

@@ -1,0 +1,32 @@
+---
+name: PlayerChoiceInfo
+fields:
+- name: objectGUID
+  type: string
+- name: choiceID
+  type: number
+- name: questionText
+  type: string
+- name: pendingChoiceText
+  type: string
+- name: uiTextureKit
+  type: string
+- name: hideWarboardHeader
+  type: boolean
+- name: keepOpenAfterChoice
+  type: boolean
+- name: requiresSelection
+  type: boolean
+- name: hideAnswerArt
+  type: boolean
+- name: playerChoiceLayout
+  type: number
+- innerType: PlayerChoiceOptionInfo
+  name: options
+  type: table
+- name: soundKitID
+  nilable: true
+  type: number
+- name: closeUISoundKitID
+  nilable: true
+  type: number

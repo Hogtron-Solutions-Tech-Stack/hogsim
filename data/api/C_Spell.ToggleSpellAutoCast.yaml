@@ -1,0 +1,5 @@
+---
+name: C_Spell.ToggleSpellAutoCast
+status: unimplemented
+inputs:
+- - type: unknown

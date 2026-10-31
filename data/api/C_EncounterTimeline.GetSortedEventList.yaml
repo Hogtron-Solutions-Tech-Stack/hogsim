@@ -1,0 +1,16 @@
+---
+name: C_EncounterTimeline.GetSortedEventList
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+  - nilable: true
+    type: unknown
+  - default: true
+    type: boolean
+  - default: true
+    type: boolean
+outputs:
+- innerType: number
+  name: events
+  type: table

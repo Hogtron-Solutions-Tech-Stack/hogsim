@@ -1,0 +1,8 @@
+---
+name: C_ChatInfo.GetChatLineSenderName
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: name
+  type: string

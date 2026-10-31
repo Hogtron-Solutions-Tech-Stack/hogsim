@@ -1,0 +1,9 @@
+---
+name: C_CatalogShop.GetProductIDsForCategory
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: productIDs
+  type: table

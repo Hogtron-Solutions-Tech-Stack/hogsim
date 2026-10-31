@@ -1,0 +1,15 @@
+---
+name: SetAtlas
+status: unimplemented
+inputs:
+- - type: string
+  - default: false
+    type: boolean
+  - nilable: true
+    type: unknown
+  - nilable: true
+    type: boolean
+  - nilable: true
+    type: string
+  - nilable: true
+    type: string

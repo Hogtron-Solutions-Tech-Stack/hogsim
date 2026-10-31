@@ -1,0 +1,6 @@
+---
+name: C_LobbyMatchmakerInfo.GetQueueFromMainlineEnabled
+status: unimplemented
+outputs:
+- name: queueFromMainlineEnabled
+  type: boolean

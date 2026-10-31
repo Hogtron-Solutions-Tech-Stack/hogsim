@@ -1,0 +1,8 @@
+---
+name: VoiceChatProcess
+fields:
+- name: name
+  type: string
+- innerType: VoiceChatChannel
+  name: channels
+  type: table

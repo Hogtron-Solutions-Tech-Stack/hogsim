@@ -1,0 +1,6 @@
+---
+name: GetVertTile
+status: unimplemented
+outputs:
+- name: tiling
+  type: boolean

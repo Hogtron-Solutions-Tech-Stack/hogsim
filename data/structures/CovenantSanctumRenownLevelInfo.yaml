@@ -1,0 +1,11 @@
+---
+name: CovenantSanctumRenownLevelInfo
+fields:
+- name: level
+  type: number
+- name: locked
+  type: boolean
+- name: isMilestone
+  type: boolean
+- name: isCapstone
+  type: boolean

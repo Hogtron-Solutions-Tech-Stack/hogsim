@@ -1,0 +1,10 @@
+---
+name: UnitThreatLeadSituation
+status: unimplemented
+inputs:
+- - type: unit
+  - type: unit
+outputs:
+- name: result
+  nilable: true
+  type: number

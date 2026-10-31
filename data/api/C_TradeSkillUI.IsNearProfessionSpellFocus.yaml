@@ -1,0 +1,8 @@
+---
+name: C_TradeSkillUI.IsNearProfessionSpellFocus
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: nearFocus
+  type: boolean

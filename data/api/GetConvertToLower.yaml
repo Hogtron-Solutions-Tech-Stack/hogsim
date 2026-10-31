@@ -1,0 +1,6 @@
+---
+name: GetConvertToLower
+status: unimplemented
+outputs:
+- name: convert
+  type: boolean

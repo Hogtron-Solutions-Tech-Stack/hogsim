@@ -1,0 +1,6 @@
+---
+name: C_Trainer.GetTrainerType
+status: unimplemented
+outputs:
+- name: trainerType
+  type: number

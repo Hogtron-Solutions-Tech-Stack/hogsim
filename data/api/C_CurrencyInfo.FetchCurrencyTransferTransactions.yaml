@@ -1,0 +1,7 @@
+---
+name: C_CurrencyInfo.FetchCurrencyTransferTransactions
+status: unimplemented
+outputs:
+- innerType: CurrencyTransferTransaction
+  name: currencyTransferTransactions
+  type: table

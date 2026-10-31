@@ -1,0 +1,6 @@
+---
+name: C_PartyInfo.IsRaidListEnabled
+status: unimplemented
+outputs:
+- name: isRaidListEnabled
+  type: boolean

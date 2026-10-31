@@ -1,0 +1,6 @@
+---
+name: SetViewTranslation
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

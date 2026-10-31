@@ -1,0 +1,6 @@
+---
+name: C_HousingNeighborhood.IsPlayerInOtherPlayersPlot
+status: unimplemented
+outputs:
+- name: isInUnownedPlot
+  type: boolean

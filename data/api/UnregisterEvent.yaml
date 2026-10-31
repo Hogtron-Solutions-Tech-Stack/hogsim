@@ -1,0 +1,8 @@
+---
+name: UnregisterEvent
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: registered
+  type: boolean

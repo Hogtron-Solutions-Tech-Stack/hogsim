@@ -1,0 +1,6 @@
+---
+name: C_AddOnProfiler.CheckForPerformanceMessage
+status: unimplemented
+outputs:
+- name: msg
+  type: AddOnPerformanceMessage

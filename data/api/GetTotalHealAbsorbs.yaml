@@ -1,0 +1,6 @@
+---
+name: GetTotalHealAbsorbs
+status: unimplemented
+outputs:
+- name: totalHealAbsorbs
+  type: number

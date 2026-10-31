@@ -1,0 +1,6 @@
+---
+name: EnableGamePadButton
+status: unimplemented
+inputs:
+- - default: false
+    type: boolean

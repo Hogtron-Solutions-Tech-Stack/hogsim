@@ -1,0 +1,8 @@
+---
+name: C_Spell.IsSpellImportant
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isImportant
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_PhotoSharing.IsEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

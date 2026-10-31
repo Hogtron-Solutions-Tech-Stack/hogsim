@@ -1,0 +1,10 @@
+---
+name: C_Discord.GetNumDiscordChannels
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: count
+  type: number
+- name: valid
+  type: boolean

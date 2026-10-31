@@ -1,0 +1,9 @@
+---
+name: C_MajorFactions.GetMajorFactionRenownInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: data
+  nilable: true
+  type: MajorFactionRenownInfo

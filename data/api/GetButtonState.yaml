@@ -1,0 +1,6 @@
+---
+name: GetButtonState
+status: unimplemented
+outputs:
+- name: buttonState
+  type: unknown

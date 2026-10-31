@@ -1,0 +1,8 @@
+---
+name: GetHealAbsorbs
+status: unimplemented
+outputs:
+- name: amount
+  type: number
+- name: clamped
+  type: boolean

@@ -1,0 +1,25 @@
+---
+name: TalentInfoQuery
+fields:
+- name: groupIndex
+  nilable: true
+  type: number
+- name: isInspect
+  type: boolean
+- name: tier
+  nilable: true
+  type: number
+- name: column
+  nilable: true
+  type: number
+- name: target
+  nilable: true
+  type: string
+- name: specializationIndex
+  nilable: true
+  type: number
+- name: talentIndex
+  nilable: true
+  type: number
+- name: isPet
+  type: boolean

@@ -1,0 +1,12 @@
+---
+name: C_TooltipInfo.GetQuestPartyProgress
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: boolean
+  - nilable: true
+    type: boolean
+outputs:
+- name: data
+  type: unknown

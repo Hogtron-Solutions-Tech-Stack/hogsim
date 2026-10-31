@@ -1,0 +1,7 @@
+---
+name: C_HousingDecor.GetAllPlacedDecor
+status: unimplemented
+outputs:
+- innerType: HousingDecorInstanceListEntry
+  name: placedDecor
+  type: table

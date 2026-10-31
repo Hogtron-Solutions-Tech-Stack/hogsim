@@ -1,0 +1,11 @@
+---
+name: CharacterAlternateFormData
+fields:
+- name: raceID
+  type: number
+- name: name
+  type: string
+- name: fileName
+  type: string
+- name: createScreenIconAtlas
+  type: string

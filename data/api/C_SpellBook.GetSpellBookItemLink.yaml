@@ -1,0 +1,11 @@
+---
+name: C_SpellBook.GetSpellBookItemLink
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - nilable: true
+    type: number
+outputs:
+- name: spellLink
+  type: string

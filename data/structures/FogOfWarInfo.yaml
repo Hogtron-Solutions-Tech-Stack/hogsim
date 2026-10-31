@@ -1,0 +1,11 @@
+---
+name: FogOfWarInfo
+fields:
+- name: fogOfWarID
+  type: number
+- name: backgroundAtlas
+  type: string
+- name: maskAtlas
+  type: string
+- name: maskScalar
+  type: number

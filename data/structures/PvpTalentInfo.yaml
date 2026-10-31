@@ -1,0 +1,26 @@
+---
+name: PvpTalentInfo
+fields:
+- name: talentID
+  type: number
+- name: name
+  type: string
+- name: icon
+  type: number
+- name: selected
+  type: boolean
+- name: available
+  type: boolean
+- name: spellID
+  type: number
+- name: unlocked
+  type: boolean
+- name: known
+  type: boolean
+- name: grantedByAura
+  type: boolean
+- name: dependenciesUnmet
+  type: boolean
+- name: dependenciesUnmetReason
+  nilable: true
+  type: string

@@ -1,0 +1,11 @@
+---
+name: WeeklyRewardActivityEncounterInfo
+fields:
+- name: encounterID
+  type: number
+- name: bestDifficulty
+  type: number
+- name: uiOrder
+  type: number
+- name: instanceID
+  type: number

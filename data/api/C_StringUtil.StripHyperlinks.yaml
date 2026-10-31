@@ -1,0 +1,18 @@
+---
+name: C_StringUtil.StripHyperlinks
+status: unimplemented
+inputs:
+- - type: string
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean
+outputs:
+- name: stripped
+  type: string

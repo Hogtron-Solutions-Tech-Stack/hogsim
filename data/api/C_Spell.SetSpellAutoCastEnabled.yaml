@@ -1,0 +1,6 @@
+---
+name: C_Spell.SetSpellAutoCastEnabled
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: boolean

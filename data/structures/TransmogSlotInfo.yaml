@@ -1,0 +1,20 @@
+---
+name: TransmogSlotInfo
+fields:
+- name: isTransmogrified
+  type: boolean
+- name: hasPending
+  type: boolean
+- name: isPendingCollected
+  type: boolean
+- name: canTransmogrify
+  type: boolean
+- name: cannotTransmogrifyReason
+  type: number
+- name: hasUndo
+  type: boolean
+- name: isHideVisual
+  type: boolean
+- name: texture
+  nilable: true
+  type: number

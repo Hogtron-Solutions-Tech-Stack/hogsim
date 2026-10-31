@@ -1,0 +1,18 @@
+---
+name: C_TooltipInfo.GetSpellByID
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: boolean
+  - nilable: true
+    type: boolean
+  - nilable: true
+    type: boolean
+  - nilable: true
+    type: number
+  - nilable: true
+    type: boolean
+outputs:
+- name: data
+  type: unknown

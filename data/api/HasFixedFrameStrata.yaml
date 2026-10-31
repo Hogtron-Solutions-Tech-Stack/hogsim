@@ -1,0 +1,6 @@
+---
+name: HasFixedFrameStrata
+status: unimplemented
+outputs:
+- name: isFixed
+  type: boolean

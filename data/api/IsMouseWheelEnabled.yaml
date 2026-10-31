@@ -1,0 +1,6 @@
+---
+name: IsMouseWheelEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

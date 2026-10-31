@@ -1,0 +1,5 @@
+---
+name: SetObeyStepOnDrag
+status: unimplemented
+inputs:
+- - type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetNumPoints
+status: unimplemented
+outputs:
+- name: numPoints
+  type: number

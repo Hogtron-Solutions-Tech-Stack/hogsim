@@ -1,0 +1,7 @@
+---
+name: PVPPostMatchCurrencyReward
+fields:
+- name: currencyType
+  type: number
+- name: quantityChanged
+  type: number

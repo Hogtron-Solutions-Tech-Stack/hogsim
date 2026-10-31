@@ -1,0 +1,6 @@
+---
+name: HasSVG
+status: unimplemented
+outputs:
+- name: hasSVG
+  type: boolean

@@ -1,0 +1,13 @@
+---
+name: C_UnitAuras.GetAuraApplicationDisplayCount
+status: unimplemented
+inputs:
+- - type: unit
+  - type: number
+  - default: 2
+    type: number
+  - nilable: true
+    type: number
+outputs:
+- name: count
+  type: string

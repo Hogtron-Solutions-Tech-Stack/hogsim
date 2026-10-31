@@ -1,0 +1,6 @@
+---
+name: C_SpellBook.GetClassSkillLineInfo
+status: unimplemented
+outputs:
+- name: skillLineInfo
+  type: SpellBookSkillLineInfo

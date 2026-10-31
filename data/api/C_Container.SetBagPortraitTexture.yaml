@@ -1,0 +1,6 @@
+---
+name: C_Container.SetBagPortraitTexture
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number

@@ -1,0 +1,6 @@
+---
+name: IsSearchInProgress
+status: unimplemented
+outputs:
+- name: isSearchInProgress
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_ContentTracking.GetCollectableSourceTrackingEnabled
+status: unimplemented
+outputs:
+- name: isEnabled
+  type: boolean

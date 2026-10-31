@@ -1,0 +1,6 @@
+---
+name: C_CombatLog.GetMessageLimit
+status: unimplemented
+outputs:
+- name: messageLimit
+  type: number

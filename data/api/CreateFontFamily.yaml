@@ -1,0 +1,10 @@
+---
+name: CreateFontFamily
+status: unimplemented
+inputs:
+- - type: string
+  - innerType: CreateFontFamilyMemberInfo
+    type: table
+outputs:
+- name: fontFamily
+  type: unknown

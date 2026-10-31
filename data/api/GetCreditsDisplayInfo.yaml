@@ -1,0 +1,7 @@
+---
+name: GetCreditsDisplayInfo
+status: unimplemented
+outputs:
+- innerType: CreditsDisplayInfo
+  name: info
+  type: table

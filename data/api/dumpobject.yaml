@@ -1,0 +1,10 @@
+---
+name: dumpobject
+status: unimplemented
+inputs:
+- - nilable: true
+    type: unknown
+outputs:
+- name: result
+  nilable: true
+  type: unknown

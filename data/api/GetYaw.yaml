@@ -1,0 +1,6 @@
+---
+name: GetYaw
+status: unimplemented
+outputs:
+- name: yaw
+  type: number

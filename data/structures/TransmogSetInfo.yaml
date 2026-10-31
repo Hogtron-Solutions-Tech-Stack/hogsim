@@ -1,0 +1,39 @@
+---
+name: TransmogSetInfo
+fields:
+- name: setID
+  type: number
+- name: name
+  type: string
+- name: baseSetID
+  nilable: true
+  type: number
+- name: description
+  nilable: true
+  type: string
+- name: label
+  nilable: true
+  type: string
+- name: expansionID
+  type: number
+- name: patchID
+  type: number
+- name: uiOrder
+  type: number
+- name: classMask
+  type: number
+- name: hiddenUntilCollected
+  type: boolean
+- name: requiredFaction
+  nilable: true
+  type: string
+- name: collected
+  type: boolean
+- name: favorite
+  type: boolean
+- name: limitedTimeSet
+  type: boolean
+- name: validForCharacter
+  type: boolean
+- name: grantAsPrecedingVariant
+  type: boolean

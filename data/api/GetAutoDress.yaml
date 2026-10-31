@@ -1,0 +1,6 @@
+---
+name: GetAutoDress
+status: unimplemented
+outputs:
+- name: autoDress
+  type: boolean

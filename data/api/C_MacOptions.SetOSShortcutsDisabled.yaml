@@ -1,0 +1,5 @@
+---
+name: C_MacOptions.SetOSShortcutsDisabled
+status: unimplemented
+inputs:
+- - type: boolean

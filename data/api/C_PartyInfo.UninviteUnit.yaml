@@ -1,0 +1,9 @@
+---
+name: C_PartyInfo.UninviteUnit
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: string
+  - nilable: true
+    type: boolean

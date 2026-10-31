@@ -1,0 +1,15 @@
+---
+name: CurrencyDisplayInfo
+fields:
+- name: name
+  type: string
+- name: description
+  type: string
+- name: icon
+  type: number
+- name: quality
+  type: number
+- name: displayAmount
+  type: number
+- name: actualAmount
+  type: number

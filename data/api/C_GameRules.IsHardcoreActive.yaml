@@ -1,0 +1,6 @@
+---
+name: C_GameRules.IsHardcoreActive
+status: unimplemented
+outputs:
+- name: active
+  type: boolean

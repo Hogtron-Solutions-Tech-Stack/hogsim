@@ -1,0 +1,6 @@
+---
+name: GetStartDelay
+status: unimplemented
+outputs:
+- name: delaySec
+  type: number

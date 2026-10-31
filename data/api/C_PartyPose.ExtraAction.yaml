@@ -1,0 +1,5 @@
+---
+name: C_PartyPose.ExtraAction
+status: unimplemented
+inputs:
+- - type: number

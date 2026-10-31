@@ -1,0 +1,6 @@
+---
+name: GetModelPath
+status: unimplemented
+outputs:
+- name: path
+  type: string

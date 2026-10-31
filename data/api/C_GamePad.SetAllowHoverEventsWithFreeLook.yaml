@@ -1,0 +1,5 @@
+---
+name: C_GamePad.SetAllowHoverEventsWithFreeLook
+status: unimplemented
+inputs:
+- - type: boolean

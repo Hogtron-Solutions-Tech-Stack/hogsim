@@ -1,0 +1,29 @@
+---
+name: SpecializationInfoOutput
+fields:
+- name: specId
+  type: number
+- name: name
+  nilable: true
+  type: string
+- name: description
+  nilable: true
+  type: string
+- name: icon
+  nilable: true
+  type: number
+- name: role
+  nilable: true
+  type: string
+- name: primaryStat
+  nilable: true
+  type: number
+- name: pointsSpent
+  type: number
+- name: background
+  nilable: true
+  type: string
+- name: previewPointsSpent
+  type: number
+- name: isUnlocked
+  type: boolean

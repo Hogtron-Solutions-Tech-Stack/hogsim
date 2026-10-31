@@ -1,0 +1,12 @@
+---
+name: UnitClassFromGUID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: className
+  type: string
+- name: classFilename
+  type: string
+- name: classID
+  type: number

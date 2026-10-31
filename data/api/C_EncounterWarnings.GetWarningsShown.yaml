@@ -1,0 +1,6 @@
+---
+name: C_EncounterWarnings.GetWarningsShown
+status: unimplemented
+outputs:
+- name: shown
+  type: boolean

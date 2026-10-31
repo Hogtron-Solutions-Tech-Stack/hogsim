@@ -1,0 +1,5 @@
+---
+name: SetColorValueThumbTexture
+status: unimplemented
+inputs:
+- - type: unknown

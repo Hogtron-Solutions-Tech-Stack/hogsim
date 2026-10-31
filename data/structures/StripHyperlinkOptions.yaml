@@ -1,0 +1,13 @@
+---
+name: StripHyperlinkOptions
+fields:
+- name: maintainColor
+  type: boolean
+- name: maintainBrackets
+  type: boolean
+- name: stripNewlines
+  type: boolean
+- name: maintainAtlases
+  type: boolean
+- name: maintainTextures
+  type: boolean

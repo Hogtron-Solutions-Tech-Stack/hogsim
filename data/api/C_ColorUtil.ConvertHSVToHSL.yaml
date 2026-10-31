@@ -1,0 +1,14 @@
+---
+name: C_ColorUtil.ConvertHSVToHSL
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number
+outputs:
+- name: hslH
+  type: number
+- name: hslS
+  type: number
+- name: hslL
+  type: number

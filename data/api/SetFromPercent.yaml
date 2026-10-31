@@ -1,0 +1,5 @@
+---
+name: SetFromPercent
+status: unimplemented
+inputs:
+- - type: number

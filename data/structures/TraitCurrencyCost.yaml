@@ -1,0 +1,7 @@
+---
+name: TraitCurrencyCost
+fields:
+- name: ID
+  type: number
+- name: amount
+  type: number

@@ -1,0 +1,9 @@
+---
+name: C_Bank.FetchNextPurchasableBankTabData
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: nextPurchasableTabData
+  nilable: true
+  type: PurchasableBankTabData

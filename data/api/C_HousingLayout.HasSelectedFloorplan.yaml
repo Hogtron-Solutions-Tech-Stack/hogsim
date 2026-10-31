@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.HasSelectedFloorplan
+status: unimplemented
+outputs:
+- name: hasSelectedFloorplan
+  type: boolean

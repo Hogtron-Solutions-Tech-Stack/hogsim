@@ -1,0 +1,11 @@
+---
+name: C_Container.GetContainerItemEquipmentSetInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: inSet
+  type: boolean
+- name: setList
+  type: string

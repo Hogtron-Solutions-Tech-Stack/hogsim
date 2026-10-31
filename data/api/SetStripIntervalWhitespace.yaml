@@ -1,0 +1,5 @@
+---
+name: SetStripIntervalWhitespace
+status: unimplemented
+inputs:
+- - type: number

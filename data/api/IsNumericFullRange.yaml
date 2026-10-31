@@ -1,0 +1,6 @@
+---
+name: IsNumericFullRange
+status: unimplemented
+outputs:
+- name: isNumeric
+  type: boolean

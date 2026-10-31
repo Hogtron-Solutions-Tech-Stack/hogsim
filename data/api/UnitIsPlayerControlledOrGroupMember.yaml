@@ -1,0 +1,8 @@
+---
+name: UnitIsPlayerControlledOrGroupMember
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: result
+  type: boolean

@@ -1,0 +1,9 @@
+---
+name: UpdateMouseOverTooltip
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: hasTooltip
+  type: boolean

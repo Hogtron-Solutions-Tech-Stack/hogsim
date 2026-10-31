@@ -1,0 +1,5 @@
+---
+name: SimulateMouseClick
+status: unimplemented
+inputs:
+- - type: unknown

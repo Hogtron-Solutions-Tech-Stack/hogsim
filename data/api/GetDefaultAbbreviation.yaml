@@ -1,0 +1,7 @@
+---
+name: GetDefaultAbbreviation
+status: unimplemented
+outputs:
+- name: abbreviation
+  nilable: true
+  type: number

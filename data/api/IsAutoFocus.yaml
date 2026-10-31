@@ -1,0 +1,6 @@
+---
+name: IsAutoFocus
+status: unimplemented
+outputs:
+- name: autoFocus
+  type: boolean

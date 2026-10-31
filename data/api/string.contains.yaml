@@ -1,0 +1,9 @@
+---
+name: string.contains
+status: unimplemented
+inputs:
+- - type: string
+  - type: string
+outputs:
+- name: contains
+  type: boolean

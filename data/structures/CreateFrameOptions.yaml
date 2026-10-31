@@ -1,0 +1,22 @@
+---
+name: CreateFrameOptions
+fields:
+- name: frameType
+  type: string
+- name: name
+  nilable: true
+  type: string
+- name: parent
+  nilable: true
+  type: unknown
+- innerType: string
+  name: inherits
+  nilable: true
+  type: table
+- name: id
+  nilable: true
+  type: number
+- name: forbidden
+  type: boolean
+- name: hidden
+  type: boolean

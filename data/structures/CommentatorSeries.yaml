@@ -1,0 +1,6 @@
+---
+name: CommentatorSeries
+fields:
+- innerType: CommentatorSeriesTeam
+  name: teams
+  type: table

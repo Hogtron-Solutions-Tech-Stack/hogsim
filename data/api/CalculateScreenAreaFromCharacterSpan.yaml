@@ -1,0 +1,11 @@
+---
+name: CalculateScreenAreaFromCharacterSpan
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- innerType: uiBoundsRect
+  name: areas
+  nilable: true
+  type: table

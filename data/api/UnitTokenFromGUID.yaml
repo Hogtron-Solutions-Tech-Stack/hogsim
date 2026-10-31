@@ -1,0 +1,9 @@
+---
+name: UnitTokenFromGUID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: unitToken
+  nilable: true
+  type: string

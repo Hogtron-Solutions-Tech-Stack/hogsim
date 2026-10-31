@@ -1,0 +1,8 @@
+---
+name: C_CooldownViewer.IsCooldownViewerAvailable
+status: unimplemented
+outputs:
+- name: isAvailable
+  type: boolean
+- name: failureReason
+  type: string

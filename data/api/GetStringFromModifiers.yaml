@@ -1,0 +1,8 @@
+---
+name: GetStringFromModifiers
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: modifierString
+  type: string

@@ -1,0 +1,5 @@
+---
+name: ConsoleSetFontHeight
+status: unimplemented
+inputs:
+- - type: number

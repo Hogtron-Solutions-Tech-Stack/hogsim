@@ -1,0 +1,11 @@
+---
+name: C_ContentTracking.GetCurrentTrackingTarget
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: targetType
+  type: number
+- name: targetID
+  type: number

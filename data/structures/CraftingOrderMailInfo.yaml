@@ -1,0 +1,25 @@
+---
+name: CraftingOrderMailInfo
+fields:
+- name: reason
+  type: number
+- name: recipeName
+  type: string
+- name: commissionPaid
+  nilable: true
+  type: number
+- name: crafterNote
+  nilable: true
+  type: string
+- name: crafterGUID
+  nilable: true
+  type: string
+- name: crafterName
+  nilable: true
+  type: string
+- name: customerGUID
+  nilable: true
+  type: string
+- name: customerName
+  nilable: true
+  type: string

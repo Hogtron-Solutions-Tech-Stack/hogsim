@@ -1,0 +1,6 @@
+---
+name: FocusExit
+status: unimplemented
+inputs:
+- - default: true
+    type: boolean

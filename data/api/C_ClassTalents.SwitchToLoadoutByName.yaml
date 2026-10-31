@@ -1,0 +1,5 @@
+---
+name: C_ClassTalents.SwitchToLoadoutByName
+status: unimplemented
+inputs:
+- - type: string

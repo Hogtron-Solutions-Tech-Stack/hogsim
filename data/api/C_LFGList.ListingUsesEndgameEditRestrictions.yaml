@@ -1,0 +1,8 @@
+---
+name: C_LFGList.ListingUsesEndgameEditRestrictions
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isEndgameListing
+  type: boolean

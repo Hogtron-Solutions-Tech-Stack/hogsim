@@ -1,0 +1,9 @@
+---
+name: C_ClientScene.IsSceneTypeActive
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- name: isPlaying
+  type: boolean

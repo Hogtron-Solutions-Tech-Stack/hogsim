@@ -1,0 +1,6 @@
+---
+name: C_Spell.TargetSpellChecksItemCondition
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

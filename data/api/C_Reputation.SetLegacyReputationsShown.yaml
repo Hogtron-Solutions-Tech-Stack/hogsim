@@ -1,0 +1,5 @@
+---
+name: C_Reputation.SetLegacyReputationsShown
+status: unimplemented
+inputs:
+- - type: boolean

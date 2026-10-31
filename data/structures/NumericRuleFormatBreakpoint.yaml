@@ -1,0 +1,22 @@
+---
+name: NumericRuleFormatBreakpoint
+fields:
+- name: threshold
+  type: number
+- name: step
+  nilable: true
+  type: number
+- name: rounding
+  type: number
+- name: min
+  nilable: true
+  type: number
+- name: max
+  nilable: true
+  type: number
+- name: format
+  type: string
+- innerType: NumericRuleFormatComponent
+  name: components
+  nilable: true
+  type: table

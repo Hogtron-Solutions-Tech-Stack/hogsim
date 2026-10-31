@@ -1,0 +1,20 @@
+---
+name: EncounterTimelineScriptEventRequest
+fields:
+- name: spellID
+  type: number
+- name: iconFileID
+  type: number
+- name: duration
+  type: unknown
+- name: maxQueueDuration
+  type: unknown
+- name: overrideName
+  type: string
+- name: icons
+  nilable: true
+  type: number
+- name: severity
+  type: number
+- name: paused
+  type: boolean

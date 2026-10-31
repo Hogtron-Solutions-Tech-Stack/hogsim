@@ -1,0 +1,8 @@
+---
+name: C_HousingBlueprint.UpdateBlueprintStringFromInput
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: updatedShareCode
+  type: string

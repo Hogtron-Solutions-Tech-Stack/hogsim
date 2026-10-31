@@ -1,0 +1,26 @@
+---
+name: EncounterLootDropInfo
+fields:
+- name: lootListKey
+  type: number
+- name: itemHyperlink
+  type: string
+- name: playerRollState
+  type: number
+- name: currentLeader
+  nilable: true
+  type: EncounterLootDropRollInfo
+- name: isTied
+  type: boolean
+- name: winner
+  nilable: true
+  type: EncounterLootDropRollInfo
+- name: allPassed
+  type: boolean
+- innerType: EncounterLootDropRollInfo
+  name: rollInfos
+  type: table
+- name: startTime
+  type: number
+- name: duration
+  type: number

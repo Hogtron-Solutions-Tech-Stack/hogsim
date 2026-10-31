@@ -1,0 +1,8 @@
+---
+name: C_Spell.GetSpellSubtext
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: subtext
+  type: string

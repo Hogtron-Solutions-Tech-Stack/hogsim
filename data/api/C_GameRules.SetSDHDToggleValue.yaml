@@ -1,0 +1,6 @@
+---
+name: C_GameRules.SetSDHDToggleValue
+status: unimplemented
+inputs:
+- - type: boolean
+  - type: number

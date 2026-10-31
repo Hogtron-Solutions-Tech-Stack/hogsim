@@ -1,0 +1,9 @@
+---
+name: C_Housing.GetUIMapIDForNeighborhood
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: uiMapID
+  nilable: true
+  type: number

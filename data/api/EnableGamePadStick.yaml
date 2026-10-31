@@ -1,0 +1,6 @@
+---
+name: EnableGamePadStick
+status: unimplemented
+inputs:
+- - default: false
+    type: boolean

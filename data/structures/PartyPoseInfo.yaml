@@ -1,0 +1,29 @@
+---
+name: PartyPoseInfo
+fields:
+- name: partyPoseID
+  type: number
+- name: mapID
+  type: number
+- name: widgetSetID
+  nilable: true
+  type: number
+- name: victoryModelSceneID
+  type: number
+- name: defeatModelSceneID
+  type: number
+- name: victorySoundKitID
+  type: number
+- name: defeatSoundKitID
+  type: number
+- name: uiTextureKit
+  nilable: true
+  type: string
+- name: titleText
+  nilable: true
+  type: string
+- name: extraButtonText
+  nilable: true
+  type: string
+- name: flags
+  type: number

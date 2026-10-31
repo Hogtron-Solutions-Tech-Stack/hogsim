@@ -1,0 +1,7 @@
+---
+name: SetScript
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: unknown

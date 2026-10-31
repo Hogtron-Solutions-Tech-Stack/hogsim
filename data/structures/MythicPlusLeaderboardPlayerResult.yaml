@@ -1,0 +1,7 @@
+---
+name: MythicPlusLeaderboardPlayerResult
+fields:
+- name: playerGUID
+  type: string
+- name: specID
+  type: number

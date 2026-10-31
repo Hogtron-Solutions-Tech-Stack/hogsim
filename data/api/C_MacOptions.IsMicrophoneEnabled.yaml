@@ -1,0 +1,6 @@
+---
+name: C_MacOptions.IsMicrophoneEnabled
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

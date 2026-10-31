@@ -1,0 +1,14 @@
+---
+name: AuraContainerTooltipBackdropOptions
+fields:
+- name: backdropInfo
+  type: AuraContainerTooltipBackdropInfo
+- name: borderColor
+  nilable: true
+  type: unknown
+- name: centerColor
+  nilable: true
+  type: unknown
+- name: anchorOffsets
+  nilable: true
+  type: AuraContainerTooltipAnchorOffsets

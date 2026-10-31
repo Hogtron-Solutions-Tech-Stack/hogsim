@@ -1,0 +1,8 @@
+---
+name: C_Map.GetMapArtZoneTextPosition
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: position
+  type: number

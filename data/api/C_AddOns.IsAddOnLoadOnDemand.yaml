@@ -1,0 +1,8 @@
+---
+name: C_AddOns.IsAddOnLoadOnDemand
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: loadOnDemand
+  type: boolean

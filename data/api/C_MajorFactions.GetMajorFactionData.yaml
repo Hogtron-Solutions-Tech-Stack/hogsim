@@ -1,0 +1,9 @@
+---
+name: C_MajorFactions.GetMajorFactionData
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: data
+  nilable: true
+  type: MajorFactionData

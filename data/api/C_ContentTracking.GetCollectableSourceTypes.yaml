@@ -1,0 +1,7 @@
+---
+name: C_ContentTracking.GetCollectableSourceTypes
+status: unimplemented
+outputs:
+- innerType: number
+  name: collectableSourceTypes
+  type: table

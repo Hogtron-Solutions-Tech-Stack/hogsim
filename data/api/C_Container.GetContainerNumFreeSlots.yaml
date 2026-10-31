@@ -1,0 +1,11 @@
+---
+name: C_Container.GetContainerNumFreeSlots
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: numFreeSlots
+  type: number
+- name: bagFamily
+  nilable: true
+  type: number

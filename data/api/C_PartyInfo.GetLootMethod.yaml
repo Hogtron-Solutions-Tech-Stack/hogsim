@@ -1,0 +1,12 @@
+---
+name: C_PartyInfo.GetLootMethod
+status: unimplemented
+outputs:
+- name: method
+  type: number
+- name: masterLootPartyID
+  nilable: true
+  type: number
+- name: masterLooterRaidID
+  nilable: true
+  type: number

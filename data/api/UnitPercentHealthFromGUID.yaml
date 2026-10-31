@@ -1,0 +1,9 @@
+---
+name: UnitPercentHealthFromGUID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: percentHealth
+  nilable: true
+  type: number

@@ -1,0 +1,13 @@
+---
+name: InitiativeActivityLogEntry
+fields:
+- name: taskID
+  type: number
+- name: playerName
+  type: string
+- name: taskName
+  type: string
+- name: completionTime
+  type: number
+- name: amount
+  type: number

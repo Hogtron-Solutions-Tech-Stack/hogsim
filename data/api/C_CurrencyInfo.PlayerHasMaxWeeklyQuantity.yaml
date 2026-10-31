@@ -1,0 +1,8 @@
+---
+name: C_CurrencyInfo.PlayerHasMaxWeeklyQuantity
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hasMaxWeeklyQuantity
+  type: boolean

@@ -1,0 +1,9 @@
+---
+name: C_HousingCatalog.GetMarketInfoForDecor
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: marketInfo
+  nilable: true
+  type: HousingMarketInfo

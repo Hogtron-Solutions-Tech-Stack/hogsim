@@ -1,0 +1,7 @@
+---
+name: GetMaxIntervalCurve
+status: unimplemented
+outputs:
+- name: curve
+  nilable: true
+  type: unknown

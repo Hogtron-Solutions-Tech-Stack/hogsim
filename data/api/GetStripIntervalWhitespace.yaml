@@ -1,0 +1,6 @@
+---
+name: GetStripIntervalWhitespace
+status: unimplemented
+outputs:
+- name: strip
+  type: number

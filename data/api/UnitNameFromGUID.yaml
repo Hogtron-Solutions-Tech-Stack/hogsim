@@ -1,0 +1,10 @@
+---
+name: UnitNameFromGUID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: unitName
+  type: string
+- name: unitServer
+  type: string

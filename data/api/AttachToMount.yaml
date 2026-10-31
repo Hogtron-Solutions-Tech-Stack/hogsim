@@ -1,0 +1,11 @@
+---
+name: AttachToMount
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: unknown
+  - nilable: true
+    type: number
+outputs:
+- name: success
+  type: boolean

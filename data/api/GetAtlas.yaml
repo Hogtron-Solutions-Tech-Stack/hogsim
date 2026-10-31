@@ -1,0 +1,6 @@
+---
+name: GetAtlas
+status: unimplemented
+outputs:
+- name: atlas
+  type: string

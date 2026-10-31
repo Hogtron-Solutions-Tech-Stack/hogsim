@@ -1,0 +1,6 @@
+---
+name: ShouldDisplayRaidRolesInSocialFrame
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

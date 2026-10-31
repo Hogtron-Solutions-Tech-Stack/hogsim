@@ -1,0 +1,13 @@
+---
+name: CreateControlPoint
+status: unimplemented
+inputs:
+- - nilable: true
+    type: string
+  - nilable: true
+    type: string
+  - nilable: true
+    type: number
+outputs:
+- name: point
+  type: unknown

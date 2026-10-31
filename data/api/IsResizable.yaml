@@ -1,0 +1,6 @@
+---
+name: IsResizable
+status: unimplemented
+outputs:
+- name: resizable
+  type: boolean

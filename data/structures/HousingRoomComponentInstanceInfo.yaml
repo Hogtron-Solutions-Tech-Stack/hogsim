@@ -1,0 +1,27 @@
+---
+name: HousingRoomComponentInstanceInfo
+fields:
+- name: roomGUID
+  type: string
+- name: type
+  type: number
+- name: componentID
+  type: number
+- name: canBeCustomized
+  type: boolean
+- name: currentThemeSet
+  nilable: true
+  type: number
+- innerType: number
+  name: availableThemeSets
+  type: table
+- name: currentWallpaper
+  nilable: true
+  type: number
+- name: currentRoomComponentTextureRecID
+  nilable: true
+  type: number
+- name: ceilingType
+  type: number
+- name: doorType
+  type: number

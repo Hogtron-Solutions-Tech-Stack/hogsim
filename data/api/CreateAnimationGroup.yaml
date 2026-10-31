@@ -1,0 +1,11 @@
+---
+name: CreateAnimationGroup
+status: unimplemented
+inputs:
+- - nilable: true
+    type: string
+  - nilable: true
+    type: string
+outputs:
+- name: group
+  type: unknown

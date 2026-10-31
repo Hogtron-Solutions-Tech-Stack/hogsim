@@ -1,0 +1,5 @@
+---
+name: C_GuildInfo.RequestRenameNameCheck
+status: unimplemented
+inputs:
+- - type: string

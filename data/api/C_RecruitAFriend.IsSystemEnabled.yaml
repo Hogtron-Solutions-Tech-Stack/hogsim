@@ -1,0 +1,6 @@
+---
+name: C_RecruitAFriend.IsSystemEnabled
+status: unimplemented
+outputs:
+- name: isSystemEnabled
+  type: boolean

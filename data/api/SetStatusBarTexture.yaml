@@ -1,0 +1,8 @@
+---
+name: SetStatusBarTexture
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: success
+  type: boolean

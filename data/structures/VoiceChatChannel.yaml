@@ -1,0 +1,26 @@
+---
+name: VoiceChatChannel
+fields:
+- name: name
+  type: string
+- name: channelID
+  type: number
+- name: channelType
+  type: number
+- name: clubId
+  type: number
+- name: streamId
+  type: number
+- name: volume
+  type: number
+- name: isActive
+  type: boolean
+- name: isMuted
+  type: boolean
+- name: isTransmitting
+  type: boolean
+- name: isTranscribing
+  type: boolean
+- innerType: VoiceChatMember
+  name: members
+  type: table

@@ -1,0 +1,24 @@
+---
+name: TraitDefinitionInfo
+fields:
+- name: spellID
+  nilable: true
+  type: number
+- name: overrideName
+  nilable: true
+  type: string
+- name: overrideSubtext
+  nilable: true
+  type: string
+- name: overrideDescription
+  nilable: true
+  type: string
+- name: overrideIcon
+  nilable: true
+  type: number
+- name: overriddenSpellID
+  nilable: true
+  type: number
+- name: subType
+  nilable: true
+  type: number

@@ -1,0 +1,6 @@
+---
+name: CanRemove
+status: unimplemented
+outputs:
+- name: removalRestriction
+  type: number

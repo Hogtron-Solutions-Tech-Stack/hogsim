@@ -1,0 +1,10 @@
+---
+name: SetGradientMaskWithDyes
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number

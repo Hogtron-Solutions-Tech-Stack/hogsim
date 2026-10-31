@@ -1,0 +1,6 @@
+---
+name: C_PerksProgram.IsMountSpecialAnimToggleEnabled
+status: unimplemented
+outputs:
+- name: isMountSpecialAnimToggleEnabled
+  type: boolean

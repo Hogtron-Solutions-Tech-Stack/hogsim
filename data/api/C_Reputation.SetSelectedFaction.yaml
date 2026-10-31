@@ -1,0 +1,5 @@
+---
+name: C_Reputation.SetSelectedFaction
+status: unimplemented
+inputs:
+- - type: number

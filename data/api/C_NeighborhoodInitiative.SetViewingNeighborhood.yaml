@@ -1,0 +1,5 @@
+---
+name: C_NeighborhoodInitiative.SetViewingNeighborhood
+status: unimplemented
+inputs:
+- - type: string

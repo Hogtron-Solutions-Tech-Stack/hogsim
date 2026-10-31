@@ -1,0 +1,6 @@
+---
+name: GetAccessRestrictions
+status: unimplemented
+outputs:
+- name: restrictions
+  type: number

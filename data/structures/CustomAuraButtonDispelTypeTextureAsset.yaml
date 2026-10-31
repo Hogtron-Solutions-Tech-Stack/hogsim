@@ -1,0 +1,10 @@
+---
+name: CustomAuraButtonDispelTypeTextureAsset
+fields:
+- name: asset
+  type: unknown
+- name: useAtlasSize
+  type: boolean
+- name: texCoords
+  nilable: true
+  type: CustomAuraButtonDispelTypeTextureTexCoords

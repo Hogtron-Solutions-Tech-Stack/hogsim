@@ -1,0 +1,11 @@
+---
+name: C_ClassTalents.ViewLoadout
+status: unimplemented
+inputs:
+- - innerType: ImportLoadoutEntryInfo
+    type: table
+  - nilable: true
+    type: string
+outputs:
+- name: success
+  type: boolean

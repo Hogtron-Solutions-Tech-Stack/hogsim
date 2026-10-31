@@ -1,0 +1,6 @@
+---
+name: C_GamePad.GetAllowHoverEventsWithFreeLook
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

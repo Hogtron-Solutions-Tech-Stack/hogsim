@@ -1,0 +1,6 @@
+---
+name: AreClassRolesSoftSuggestions
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

@@ -1,0 +1,15 @@
+---
+name: TransmogIllusionInfo
+fields:
+- name: visualID
+  type: number
+- name: sourceID
+  type: number
+- name: icon
+  type: number
+- name: isCollected
+  type: boolean
+- name: isUsable
+  type: boolean
+- name: isHideVisual
+  type: boolean

@@ -1,0 +1,13 @@
+---
+name: TryOn
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: string
+  - default: 0
+    type: number
+outputs:
+- name: reason
+  nilable: true
+  type: number

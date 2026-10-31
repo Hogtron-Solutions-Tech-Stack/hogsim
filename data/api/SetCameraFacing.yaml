@@ -1,0 +1,5 @@
+---
+name: SetCameraFacing
+status: unimplemented
+inputs:
+- - type: number

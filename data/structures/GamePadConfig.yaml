@@ -1,0 +1,26 @@
+---
+name: GamePadConfig
+fields:
+- name: comment
+  nilable: true
+  type: string
+- name: name
+  nilable: true
+  type: string
+- name: configID
+  type: GamePadConfigID
+- name: labelStyle
+  nilable: true
+  type: string
+- innerType: GamePadRawButtonMapping
+  name: rawButtonMappings
+  type: table
+- innerType: GamePadRawAxisMapping
+  name: rawAxisMappings
+  type: table
+- innerType: GamePadAxisConfig
+  name: axisConfigs
+  type: table
+- innerType: GamePadStickConfig
+  name: stickConfigs
+  type: table

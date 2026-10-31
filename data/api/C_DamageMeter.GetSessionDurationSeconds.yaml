@@ -1,0 +1,9 @@
+---
+name: C_DamageMeter.GetSessionDurationSeconds
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: durationSeconds
+  nilable: true
+  type: number

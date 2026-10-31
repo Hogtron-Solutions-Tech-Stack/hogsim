@@ -1,0 +1,9 @@
+---
+name: UiMapGroupMemberInfo
+fields:
+- name: mapID
+  type: number
+- name: relativeHeightIndex
+  type: number
+- name: name
+  type: string

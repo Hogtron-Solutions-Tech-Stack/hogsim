@@ -1,0 +1,8 @@
+---
+name: C_PartyPose.HasExtraAction
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hasExtraAction
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetRadialProgressBarFeather
+status: unimplemented
+outputs:
+- name: feather
+  type: unknown

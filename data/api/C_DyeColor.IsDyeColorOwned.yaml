@@ -1,0 +1,8 @@
+---
+name: C_DyeColor.IsDyeColorOwned
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isOwned
+  type: boolean

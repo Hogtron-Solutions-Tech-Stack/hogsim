@@ -1,0 +1,6 @@
+---
+name: C_NamePlateManager.SetNamePlateSimplified
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: boolean

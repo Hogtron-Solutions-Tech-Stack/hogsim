@@ -1,0 +1,8 @@
+---
+name: C_TransmogOutfitInfo.GetOutfitInfoByPlayerFacingIndex
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: outfitInfo
+  type: TransmogOutfitEntryInfo

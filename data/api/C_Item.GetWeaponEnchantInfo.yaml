@@ -1,0 +1,9 @@
+---
+name: C_Item.GetWeaponEnchantInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: WeaponEnchantInfo
+  name: enchants
+  type: table

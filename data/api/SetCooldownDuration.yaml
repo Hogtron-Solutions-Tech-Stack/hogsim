@@ -1,0 +1,7 @@
+---
+name: SetCooldownDuration
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: 1
+    type: number

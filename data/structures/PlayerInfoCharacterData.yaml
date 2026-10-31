@@ -1,0 +1,14 @@
+---
+name: PlayerInfoCharacterData
+fields:
+- name: name
+  type: string
+- name: fileName
+  type: string
+- name: alternateFormRaceData
+  nilable: true
+  type: CharacterAlternateFormData
+- name: createScreenIconAtlas
+  type: string
+- name: sex
+  type: number

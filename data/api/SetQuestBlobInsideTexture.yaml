@@ -1,0 +1,5 @@
+---
+name: SetQuestBlobInsideTexture
+status: unimplemented
+inputs:
+- - type: unknown

@@ -1,0 +1,6 @@
+---
+name: C_HousingCatalog.CreateCatalogSearcher
+status: unimplemented
+outputs:
+- name: searcher
+  type: unknown

@@ -1,0 +1,6 @@
+---
+name: GetTimeModifier
+status: unimplemented
+outputs:
+- name: modifier
+  type: number

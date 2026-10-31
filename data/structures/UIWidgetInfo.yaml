@@ -1,0 +1,12 @@
+---
+name: UIWidgetInfo
+fields:
+- name: widgetID
+  type: number
+- name: widgetSetID
+  type: number
+- name: widgetType
+  type: number
+- name: unitToken
+  nilable: true
+  type: string

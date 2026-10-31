@@ -1,0 +1,8 @@
+---
+name: TransformCameraSpaceToModelSpace
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: modelPosition
+  type: unknown

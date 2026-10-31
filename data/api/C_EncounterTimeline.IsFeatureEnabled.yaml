@@ -1,0 +1,6 @@
+---
+name: C_EncounterTimeline.IsFeatureEnabled
+status: unimplemented
+outputs:
+- name: isAvailableAndEnabled
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: SetAttributeNoHandler
+status: unimplemented
+inputs:
+- - type: string
+  - type: string

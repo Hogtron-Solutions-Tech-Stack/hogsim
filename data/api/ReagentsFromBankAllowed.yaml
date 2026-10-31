@@ -1,0 +1,6 @@
+---
+name: ReagentsFromBankAllowed
+status: unimplemented
+outputs:
+- name: allowed
+  type: boolean

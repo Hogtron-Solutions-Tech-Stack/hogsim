@@ -1,0 +1,6 @@
+---
+name: IsFrameBuffer
+status: unimplemented
+outputs:
+- name: isFrameBuffer
+  type: boolean

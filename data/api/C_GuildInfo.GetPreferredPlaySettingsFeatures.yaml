@@ -1,0 +1,8 @@
+---
+name: C_GuildInfo.GetPreferredPlaySettingsFeatures
+status: unimplemented
+outputs:
+- name: canChangeLocale
+  type: boolean
+- name: canChangeDatacenterLocality
+  type: boolean

@@ -1,0 +1,7 @@
+---
+name: AnimaDiversionCostInfo
+fields:
+- name: currencyID
+  type: number
+- name: quantity
+  type: number

@@ -1,0 +1,13 @@
+---
+name: CharacterCurrencyData
+fields:
+- name: characterGUID
+  type: string
+- name: characterName
+  type: string
+- name: fullCharacterName
+  type: string
+- name: currencyID
+  type: number
+- name: quantity
+  type: number

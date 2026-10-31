@@ -1,0 +1,5 @@
+---
+name: AddMaskTexture
+status: unimplemented
+inputs:
+- - type: unknown

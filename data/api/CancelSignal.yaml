@@ -1,0 +1,5 @@
+---
+name: CancelSignal
+status: unimplemented
+inputs:
+- - type: number

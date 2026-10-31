@@ -1,0 +1,6 @@
+---
+name: C_PvP.SetPVP
+status: unimplemented
+inputs:
+- - default: false
+    type: boolean

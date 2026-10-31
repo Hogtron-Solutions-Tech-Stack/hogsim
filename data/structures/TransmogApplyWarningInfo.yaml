@@ -1,0 +1,7 @@
+---
+name: TransmogApplyWarningInfo
+fields:
+- name: itemLink
+  type: string
+- name: text
+  type: string

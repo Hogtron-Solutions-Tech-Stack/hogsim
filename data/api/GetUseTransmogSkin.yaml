@@ -1,0 +1,6 @@
+---
+name: GetUseTransmogSkin
+status: unimplemented
+outputs:
+- name: use
+  type: boolean

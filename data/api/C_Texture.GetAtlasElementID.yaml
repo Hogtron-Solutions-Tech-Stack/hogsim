@@ -1,0 +1,8 @@
+---
+name: C_Texture.GetAtlasElementID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: elementID
+  type: number

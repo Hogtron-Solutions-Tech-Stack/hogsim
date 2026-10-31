@@ -1,0 +1,6 @@
+---
+name: C_EventScheduler.GetActiveContinentName
+status: unimplemented
+outputs:
+- name: name
+  type: string

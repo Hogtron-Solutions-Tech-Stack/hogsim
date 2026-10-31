@@ -1,0 +1,6 @@
+---
+name: C_InstanceLeaver.IsPlayerLeaver
+status: unimplemented
+outputs:
+- name: isLeaver
+  type: boolean

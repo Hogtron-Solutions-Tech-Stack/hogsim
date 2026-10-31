@@ -1,0 +1,6 @@
+---
+name: GetMaximumDamageAbsorbs
+status: unimplemented
+outputs:
+- name: maximumDamageAbsorbs
+  type: number

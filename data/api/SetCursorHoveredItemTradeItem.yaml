@@ -1,0 +1,5 @@
+---
+name: SetCursorHoveredItemTradeItem
+status: unimplemented
+inputs:
+- - type: boolean

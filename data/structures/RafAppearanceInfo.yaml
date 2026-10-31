@@ -1,0 +1,5 @@
+---
+name: RafAppearanceInfo
+fields:
+- name: appearanceID
+  type: number

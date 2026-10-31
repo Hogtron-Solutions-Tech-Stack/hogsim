@@ -1,0 +1,6 @@
+---
+name: AddPoint
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

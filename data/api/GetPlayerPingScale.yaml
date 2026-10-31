@@ -1,0 +1,6 @@
+---
+name: GetPlayerPingScale
+status: unimplemented
+outputs:
+- name: scale
+  type: number

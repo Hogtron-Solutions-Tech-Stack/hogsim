@@ -1,0 +1,6 @@
+---
+name: C_DurationUtil.CreateDurationTextBinding
+status: unimplemented
+outputs:
+- name: binding
+  type: unknown

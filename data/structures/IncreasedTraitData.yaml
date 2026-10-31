@@ -1,0 +1,9 @@
+---
+name: IncreasedTraitData
+fields:
+- name: itemNameIncreasing
+  type: string
+- name: itemQualityIncreasing
+  type: number
+- name: numPointsIncreased
+  type: number

@@ -1,0 +1,6 @@
+---
+name: PingLocation
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

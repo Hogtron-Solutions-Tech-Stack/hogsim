@@ -1,0 +1,6 @@
+---
+name: C_Trainer.GetCategorizeTrainerUI
+status: unimplemented
+outputs:
+- name: value
+  type: boolean

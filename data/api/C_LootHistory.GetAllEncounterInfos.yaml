@@ -1,0 +1,7 @@
+---
+name: C_LootHistory.GetAllEncounterInfos
+status: unimplemented
+outputs:
+- innerType: EncounterLootInfo
+  name: infos
+  type: table

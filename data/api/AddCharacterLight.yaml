@@ -1,0 +1,7 @@
+---
+name: AddCharacterLight
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+  - type: ModelLight

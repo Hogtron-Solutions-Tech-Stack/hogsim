@@ -1,0 +1,6 @@
+---
+name: C_AddOns.IsAddonVersionCheckEnabled
+status: unimplemented
+outputs:
+- name: isEnabled
+  type: boolean

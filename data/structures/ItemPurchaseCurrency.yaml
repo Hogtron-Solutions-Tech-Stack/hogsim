@@ -1,0 +1,10 @@
+---
+name: ItemPurchaseCurrency
+fields:
+- name: iconFileID
+  nilable: true
+  type: number
+- name: currencyCount
+  type: number
+- name: name
+  type: string

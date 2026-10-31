@@ -1,0 +1,7 @@
+---
+name: CalendarEventStatusOption
+fields:
+- name: status
+  type: number
+- name: statusString
+  type: string

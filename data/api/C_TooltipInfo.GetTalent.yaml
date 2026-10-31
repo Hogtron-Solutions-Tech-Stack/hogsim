@@ -1,0 +1,12 @@
+---
+name: C_TooltipInfo.GetTalent
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: boolean
+  - nilable: true
+    type: number
+outputs:
+- name: data
+  type: unknown

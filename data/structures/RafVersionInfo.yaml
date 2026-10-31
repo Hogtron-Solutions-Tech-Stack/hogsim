@@ -1,0 +1,17 @@
+---
+name: RafVersionInfo
+fields:
+- name: rafVersion
+  type: number
+- name: monthCount
+  type: RafMonthCount
+- innerType: RafReward
+  name: rewards
+  type: table
+- name: nextReward
+  nilable: true
+  type: RafReward
+- name: numAffordableRewards
+  type: number
+- name: numRecruits
+  type: number

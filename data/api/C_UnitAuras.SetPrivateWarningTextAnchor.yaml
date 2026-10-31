@@ -1,0 +1,7 @@
+---
+name: C_UnitAuras.SetPrivateWarningTextAnchor
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: AnchorBinding

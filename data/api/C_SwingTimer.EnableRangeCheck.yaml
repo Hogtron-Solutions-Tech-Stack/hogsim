@@ -1,0 +1,6 @@
+---
+name: C_SwingTimer.EnableRangeCheck
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

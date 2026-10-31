@@ -1,0 +1,5 @@
+---
+name: C_PingSecure.SetPendingPingOffScreenCallback
+status: unimplemented
+inputs:
+- - type: unknown

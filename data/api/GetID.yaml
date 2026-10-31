@@ -1,0 +1,6 @@
+---
+name: GetID
+status: unimplemented
+outputs:
+- name: id
+  type: number

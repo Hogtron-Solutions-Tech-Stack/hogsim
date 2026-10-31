@@ -1,0 +1,5 @@
+---
+name: C_GuildInfo.Promote
+status: unimplemented
+inputs:
+- - type: string

@@ -1,0 +1,5 @@
+---
+name: EnableSubtitles
+status: unimplemented
+inputs:
+- - type: boolean

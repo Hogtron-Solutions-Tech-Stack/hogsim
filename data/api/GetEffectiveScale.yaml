@@ -1,0 +1,6 @@
+---
+name: GetEffectiveScale
+status: unimplemented
+outputs:
+- name: effectiveScale
+  type: number

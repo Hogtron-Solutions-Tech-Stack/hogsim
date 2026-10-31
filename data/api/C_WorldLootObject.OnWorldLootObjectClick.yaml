@@ -1,0 +1,6 @@
+---
+name: C_WorldLootObject.OnWorldLootObjectClick
+status: unimplemented
+inputs:
+- - type: unit
+  - type: boolean

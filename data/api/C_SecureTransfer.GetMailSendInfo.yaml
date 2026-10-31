@@ -1,0 +1,6 @@
+---
+name: C_SecureTransfer.GetMailSendInfo
+status: unimplemented
+outputs:
+- name: mailInfo
+  type: MailSendInfo

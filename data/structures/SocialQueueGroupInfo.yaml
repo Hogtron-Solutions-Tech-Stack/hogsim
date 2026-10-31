@@ -1,0 +1,19 @@
+---
+name: SocialQueueGroupInfo
+fields:
+- name: canJoin
+  type: boolean
+- name: numQueues
+  type: number
+- name: needTank
+  type: boolean
+- name: needHealer
+  type: boolean
+- name: needDamage
+  type: boolean
+- name: isSoloQueueParty
+  type: boolean
+- name: questSessionActive
+  type: boolean
+- name: leaderGUID
+  type: string

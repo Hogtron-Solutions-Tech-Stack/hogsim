@@ -1,0 +1,6 @@
+---
+name: DoesClipChildren
+status: unimplemented
+outputs:
+- name: clipsChildren
+  type: boolean

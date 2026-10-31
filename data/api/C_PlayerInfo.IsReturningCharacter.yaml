@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.IsReturningCharacter
+status: unimplemented
+outputs:
+- name: isReturning
+  type: boolean

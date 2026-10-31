@@ -1,0 +1,6 @@
+---
+name: C_PartyInfo.IsPartyWalkIn
+status: unimplemented
+outputs:
+- name: isPartyWalkIn
+  type: boolean

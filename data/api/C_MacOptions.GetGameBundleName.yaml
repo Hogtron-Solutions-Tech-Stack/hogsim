@@ -1,0 +1,6 @@
+---
+name: C_MacOptions.GetGameBundleName
+status: unimplemented
+outputs:
+- name: result
+  type: string

@@ -1,0 +1,46 @@
+---
+name: PlayerChoiceOptionInfo
+fields:
+- name: id
+  type: number
+- name: description
+  type: string
+- name: header
+  type: string
+- name: choiceArtID
+  type: number
+- name: desaturatedArt
+  type: boolean
+- name: disabledOption
+  type: boolean
+- name: hasRewards
+  type: boolean
+- name: rewardInfo
+  type: PlayerChoiceOptionRewardInfo
+- name: uiTextureKit
+  type: string
+- name: maxStacks
+  type: number
+- innerType: PlayerChoiceOptionButtonInfo
+  name: buttons
+  type: table
+- name: widgetSetID
+  nilable: true
+  type: number
+- name: spellID
+  nilable: true
+  type: number
+- name: rarity
+  nilable: true
+  type: number
+- name: typeArtID
+  nilable: true
+  type: number
+- name: headerIconAtlasElement
+  nilable: true
+  type: string
+- name: subHeader
+  nilable: true
+  type: string
+- name: consolidateWidgets
+  type: boolean

@@ -1,0 +1,10 @@
+---
+name: C_GameRules.GetGameRuleAsFloat
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: 0
+    type: number
+outputs:
+- name: value
+  type: number

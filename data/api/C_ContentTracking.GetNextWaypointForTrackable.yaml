@@ -1,0 +1,13 @@
+---
+name: C_ContentTracking.GetNextWaypointForTrackable
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number
+outputs:
+- name: result
+  type: number
+- name: mapInfo
+  nilable: true
+  type: ContentTrackingMapInfo

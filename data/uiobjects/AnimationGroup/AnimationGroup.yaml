@@ -18,6 +18,8 @@ methods:
     status: unimplemented
   GetDuration:
     status: unimplemented
+  GetElapsed:
+    status: unimplemented
   GetLooping:
     status: unimplemented
   GetLoopState:

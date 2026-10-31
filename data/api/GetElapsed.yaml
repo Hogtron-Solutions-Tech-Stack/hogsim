@@ -1,0 +1,6 @@
+---
+name: GetElapsed
+status: unimplemented
+outputs:
+- name: elapsedSec
+  type: number

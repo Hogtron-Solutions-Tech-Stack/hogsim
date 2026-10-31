@@ -1,0 +1,6 @@
+---
+name: GetFlipBookFrameHeight
+status: unimplemented
+outputs:
+- name: height
+  type: number

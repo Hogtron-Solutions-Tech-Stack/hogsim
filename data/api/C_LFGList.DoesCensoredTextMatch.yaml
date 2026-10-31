@@ -1,0 +1,9 @@
+---
+name: C_LFGList.DoesCensoredTextMatch
+status: unimplemented
+inputs:
+- - type: string
+  - type: string
+outputs:
+- name: isMatch
+  type: boolean

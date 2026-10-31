@@ -1,0 +1,5 @@
+---
+name: SetAutoUpdateOnParamChanges
+status: unimplemented
+inputs:
+- - type: boolean

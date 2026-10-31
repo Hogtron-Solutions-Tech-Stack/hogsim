@@ -1,0 +1,9 @@
+---
+name: C_ScenarioInfo.GetScenarioIconInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: ScenarioIconInfo
+  name: scenarioInfos
+  type: table

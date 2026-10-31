@@ -1,0 +1,6 @@
+---
+name: C_NeighborhoodInitiative.IsInitiativeEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

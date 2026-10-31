@@ -1,0 +1,11 @@
+---
+name: RafSystemInfo
+fields:
+- name: maxRecruits
+  type: number
+- name: maxRecruitMonths
+  type: number
+- name: maxRecruitmentUses
+  type: number
+- name: daysInCycle
+  type: number

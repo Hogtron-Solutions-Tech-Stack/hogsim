@@ -1,0 +1,11 @@
+---
+name: ArtifactAppearanceSetInfo
+fields:
+- name: artifactAppearanceSetID
+  type: number
+- name: appearanceSetName
+  type: string
+- name: appearanceSetDescription
+  type: string
+- name: numAppearances
+  type: number

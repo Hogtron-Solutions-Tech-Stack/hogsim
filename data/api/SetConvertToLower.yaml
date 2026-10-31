@@ -1,0 +1,5 @@
+---
+name: SetConvertToLower
+status: unimplemented
+inputs:
+- - type: boolean

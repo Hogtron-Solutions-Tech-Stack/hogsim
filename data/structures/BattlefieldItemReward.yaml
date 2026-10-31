@@ -1,0 +1,11 @@
+---
+name: BattlefieldItemReward
+fields:
+- name: id
+  type: number
+- name: name
+  type: string
+- name: texture
+  type: number
+- name: quantity
+  type: number

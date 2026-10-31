@@ -1,0 +1,6 @@
+---
+name: GetWindow
+status: unimplemented
+outputs:
+- name: window
+  type: unknown

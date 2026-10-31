@@ -1,0 +1,17 @@
+---
+name: ArtifactArtInfo
+fields:
+- name: textureKit
+  type: string
+- name: titleName
+  type: string
+- name: titleColor
+  type: unknown
+- name: barConnectedColor
+  type: unknown
+- name: barDisconnectedColor
+  type: unknown
+- name: uiModelSceneID
+  type: number
+- name: spellVisualKitID
+  type: number

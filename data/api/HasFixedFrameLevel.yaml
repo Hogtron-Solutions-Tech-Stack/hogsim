@@ -1,0 +1,6 @@
+---
+name: HasFixedFrameLevel
+status: unimplemented
+outputs:
+- name: isFixed
+  type: boolean

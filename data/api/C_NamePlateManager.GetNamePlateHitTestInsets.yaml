@@ -1,0 +1,14 @@
+---
+name: C_NamePlateManager.GetNamePlateHitTestInsets
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: left
+  type: number
+- name: right
+  type: number
+- name: top
+  type: number
+- name: bottom
+  type: number

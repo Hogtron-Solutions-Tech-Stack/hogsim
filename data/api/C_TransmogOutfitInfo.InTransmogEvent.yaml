@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.InTransmogEvent
+status: unimplemented
+outputs:
+- name: inTransmogEvent
+  type: boolean

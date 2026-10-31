@@ -1,0 +1,13 @@
+---
+name: ExecuteAttribute
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: string
+outputs:
+- name: success
+  type: boolean
+- name: returns
+  nilable: true
+  type: string

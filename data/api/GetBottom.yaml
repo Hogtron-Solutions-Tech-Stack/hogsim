@@ -1,0 +1,6 @@
+---
+name: GetBottom
+status: unimplemented
+outputs:
+- name: bottom
+  type: number

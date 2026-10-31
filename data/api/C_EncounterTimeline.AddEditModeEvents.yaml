@@ -1,0 +1,6 @@
+---
+name: C_EncounterTimeline.AddEditModeEvents
+status: unimplemented
+outputs:
+- name: loopTimerDuration
+  type: unknown

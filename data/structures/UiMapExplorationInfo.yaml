@@ -1,0 +1,20 @@
+---
+name: UiMapExplorationInfo
+fields:
+- name: textureWidth
+  type: number
+- name: textureHeight
+  type: number
+- name: offsetX
+  type: number
+- name: offsetY
+  type: number
+- name: isShownByMouseOver
+  type: boolean
+- name: isDrawOnTopLayer
+  type: boolean
+- innerType: number
+  name: fileDataIDs
+  type: table
+- name: hitRect
+  type: UiMapExplorationHitRect

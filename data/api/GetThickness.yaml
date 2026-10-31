@@ -1,0 +1,6 @@
+---
+name: GetThickness
+status: unimplemented
+outputs:
+- name: thickness
+  type: number

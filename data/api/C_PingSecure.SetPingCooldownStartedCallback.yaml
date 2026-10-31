@@ -1,0 +1,5 @@
+---
+name: C_PingSecure.SetPingCooldownStartedCallback
+status: unimplemented
+inputs:
+- - type: unknown

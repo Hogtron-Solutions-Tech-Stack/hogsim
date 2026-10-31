@@ -1,0 +1,9 @@
+---
+name: RenownHighlightInfo
+fields:
+- name: title
+  type: string
+- name: description
+  type: string
+- name: level
+  type: number

@@ -1,0 +1,9 @@
+---
+name: HousingCatalogEntryVariantID
+fields:
+- name: recordID
+  type: number
+- name: entryType
+  type: number
+- name: variantIdentifier
+  type: number

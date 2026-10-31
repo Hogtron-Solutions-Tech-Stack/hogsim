@@ -1,0 +1,12 @@
+---
+name: GetResizeBounds
+status: unimplemented
+outputs:
+- name: minWidth
+  type: number
+- name: minHeight
+  type: number
+- name: maxWidth
+  type: number
+- name: maxHeight
+  type: number

@@ -1,0 +1,13 @@
+---
+name: MajorFactionRenownLevelInfo
+fields:
+- name: factionID
+  type: number
+- name: level
+  type: number
+- name: locked
+  type: boolean
+- name: isMilestone
+  type: boolean
+- name: isCapstone
+  type: boolean

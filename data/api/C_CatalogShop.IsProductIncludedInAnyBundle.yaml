@@ -1,0 +1,8 @@
+---
+name: C_CatalogShop.IsProductIncludedInAnyBundle
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isIncludedInAnyBundle
+  type: boolean

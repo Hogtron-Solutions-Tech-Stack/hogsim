@@ -1,0 +1,12 @@
+---
+name: C_Container.GetItemCooldown
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: startTime
+  type: number
+- name: duration
+  type: number
+- name: enable
+  type: number

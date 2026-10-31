@@ -1,0 +1,9 @@
+---
+name: C_AuraContainerUtil.ProcessCustomAuraButtonDispelTypeTextOptions
+status: unimplemented
+inputs:
+- - nilable: true
+    type: CustomAuraButtonDispelTypeTextOptions
+outputs:
+- name: result
+  type: CustomAuraButtonDispelTypeTextOptions

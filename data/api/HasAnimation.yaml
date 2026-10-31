@@ -1,0 +1,8 @@
+---
+name: HasAnimation
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: hasAnimation
+  type: boolean

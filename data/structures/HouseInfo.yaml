@@ -1,0 +1,29 @@
+---
+name: HouseInfo
+fields:
+- name: plotID
+  type: number
+- name: houseName
+  nilable: true
+  type: string
+- name: ownerName
+  nilable: true
+  type: string
+- name: plotCost
+  nilable: true
+  type: number
+- name: neighborhoodName
+  nilable: true
+  type: string
+- name: moveOutTime
+  nilable: true
+  type: number
+- name: plotReserved
+  nilable: true
+  type: boolean
+- name: neighborhoodGUID
+  nilable: true
+  type: string
+- name: houseGUID
+  nilable: true
+  type: string

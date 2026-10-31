@@ -1,0 +1,8 @@
+---
+name: C_AddOns.GetAddOnName
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: name
+  type: string

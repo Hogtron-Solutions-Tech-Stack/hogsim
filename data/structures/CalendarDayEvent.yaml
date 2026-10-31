@@ -1,0 +1,46 @@
+---
+name: CalendarDayEvent
+fields:
+- name: eventID
+  type: number
+- name: title
+  type: string
+- name: isCustomTitle
+  type: boolean
+- name: startTime
+  type: CalendarTime
+- name: endTime
+  type: CalendarTime
+- name: calendarType
+  type: string
+- name: sequenceType
+  type: string
+- name: eventType
+  type: number
+- name: iconTexture
+  nilable: true
+  type: number
+- name: modStatus
+  type: string
+- name: inviteStatus
+  type: number
+- name: invitedBy
+  type: string
+- name: difficulty
+  type: number
+- name: inviteType
+  type: number
+- name: sequenceIndex
+  type: number
+- name: numSequenceDays
+  type: number
+- name: difficultyName
+  type: string
+- name: dontDisplayBanner
+  type: boolean
+- name: dontDisplayEnd
+  type: boolean
+- name: clubID
+  type: number
+- name: isLocked
+  type: boolean

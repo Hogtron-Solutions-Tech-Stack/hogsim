@@ -1,0 +1,6 @@
+---
+name: C_EventScheduler.CanShowEvents
+status: unimplemented
+outputs:
+- name: canShow
+  type: boolean

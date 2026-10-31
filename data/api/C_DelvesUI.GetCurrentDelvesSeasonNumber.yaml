@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.GetCurrentDelvesSeasonNumber
+status: unimplemented
+outputs:
+- name: seasonNumber
+  type: number

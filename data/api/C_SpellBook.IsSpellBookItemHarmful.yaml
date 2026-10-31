@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.IsSpellBookItemHarmful
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: isHarmful
+  type: boolean

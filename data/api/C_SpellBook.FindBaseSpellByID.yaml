@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.FindBaseSpellByID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: baseSpellID
+  nilable: true
+  type: number

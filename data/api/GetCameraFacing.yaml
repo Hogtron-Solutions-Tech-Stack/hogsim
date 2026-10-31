@@ -1,0 +1,6 @@
+---
+name: GetCameraFacing
+status: unimplemented
+outputs:
+- name: radians
+  type: number

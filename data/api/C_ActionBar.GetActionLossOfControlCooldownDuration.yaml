@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.GetActionLossOfControlCooldownDuration
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: duration
+  type: unknown

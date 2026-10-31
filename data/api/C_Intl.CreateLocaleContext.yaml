@@ -1,0 +1,8 @@
+---
+name: C_Intl.CreateLocaleContext
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: context
+  type: unknown

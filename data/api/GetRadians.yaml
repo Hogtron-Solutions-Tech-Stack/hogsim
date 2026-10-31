@@ -1,0 +1,6 @@
+---
+name: GetRadians
+status: unimplemented
+outputs:
+- name: angle
+  type: number

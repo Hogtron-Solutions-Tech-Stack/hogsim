@@ -1,0 +1,6 @@
+---
+name: C_CombatLogSecure.ShouldShowCurrentEntry
+status: unimplemented
+outputs:
+- name: shouldShow
+  type: boolean

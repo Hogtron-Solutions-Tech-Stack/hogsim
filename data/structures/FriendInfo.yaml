@@ -1,0 +1,26 @@
+---
+name: FriendInfo
+fields:
+- name: connected
+  type: boolean
+- name: name
+  type: string
+- name: className
+  nilable: true
+  type: string
+- name: area
+  nilable: true
+  type: string
+- name: notes
+  nilable: true
+  type: string
+- name: guid
+  type: string
+- name: level
+  type: number
+- name: dnd
+  type: boolean
+- name: afk
+  type: boolean
+- name: rafLinkType
+  type: number

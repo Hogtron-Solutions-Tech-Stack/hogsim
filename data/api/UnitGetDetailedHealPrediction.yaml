@@ -1,0 +1,8 @@
+---
+name: UnitGetDetailedHealPrediction
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: unknown
+  - type: unknown

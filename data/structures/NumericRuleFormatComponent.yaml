@@ -1,0 +1,14 @@
+---
+name: NumericRuleFormatComponent
+fields:
+- name: div
+  nilable: true
+  type: number
+- name: mod
+  nilable: true
+  type: number
+- name: step
+  nilable: true
+  type: number
+- name: rounding
+  type: number

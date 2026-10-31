@@ -1,0 +1,6 @@
+---
+name: C_HousingInspectMode.GetHoveredDecorGUID
+status: unimplemented
+outputs:
+- name: decorGUID
+  type: string

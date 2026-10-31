@@ -1,0 +1,6 @@
+---
+name: C_HousingExpertMode.IsHoveringDecor
+status: unimplemented
+outputs:
+- name: isHoveringDecor
+  type: boolean

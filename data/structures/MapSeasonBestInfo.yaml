@@ -1,0 +1,17 @@
+---
+name: MapSeasonBestInfo
+fields:
+- name: durationSec
+  type: number
+- name: level
+  type: number
+- name: completionDate
+  type: CalendarTime
+- innerType: number
+  name: affixIDs
+  type: table
+- innerType: MythicPlusMember
+  name: members
+  type: table
+- name: dungeonScore
+  type: number

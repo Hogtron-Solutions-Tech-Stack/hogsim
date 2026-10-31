@@ -1,0 +1,9 @@
+---
+name: CinematicFinished
+status: unimplemented
+inputs:
+- - type: number
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean

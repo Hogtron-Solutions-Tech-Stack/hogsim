@@ -1,0 +1,6 @@
+---
+name: C_StableInfo.GetNextStableSlotCost
+status: unimplemented
+outputs:
+- name: cost
+  type: number

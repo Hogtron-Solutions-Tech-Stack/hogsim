@@ -1,0 +1,6 @@
+---
+name: C_HousingInspectMode.IsInInspectMode
+status: unimplemented
+outputs:
+- name: isInInspectMode
+  type: boolean

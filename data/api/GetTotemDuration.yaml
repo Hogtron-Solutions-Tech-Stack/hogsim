@@ -1,0 +1,8 @@
+---
+name: GetTotemDuration
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: duration
+  type: unknown

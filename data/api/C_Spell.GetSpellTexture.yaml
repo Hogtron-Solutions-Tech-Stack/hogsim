@@ -1,0 +1,13 @@
+---
+name: C_Spell.GetSpellTexture
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: iconID
+  type: number
+- name: originalIconID
+  type: number
+- name: conditionalIconID
+  nilable: true
+  type: number

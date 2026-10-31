@@ -1,0 +1,6 @@
+---
+name: C_LFGList.IsCensoredActiveEntryUnresolved
+status: unimplemented
+outputs:
+- name: isUnresolved
+  type: boolean

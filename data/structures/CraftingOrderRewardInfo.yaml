@@ -1,0 +1,11 @@
+---
+name: CraftingOrderRewardInfo
+fields:
+- name: itemLink
+  nilable: true
+  type: string
+- name: currencyType
+  nilable: true
+  type: number
+- name: count
+  type: number

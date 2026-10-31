@@ -1,0 +1,6 @@
+---
+name: C_EncounterTimeline.GetEventHighlightTime
+status: unimplemented
+outputs:
+- name: highlightTime
+  type: unknown

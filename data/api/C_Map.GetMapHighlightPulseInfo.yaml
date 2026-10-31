@@ -1,0 +1,22 @@
+---
+name: C_Map.GetMapHighlightPulseInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: fileDataID
+  type: number
+- name: atlasID
+  type: string
+- name: texturePercentageX
+  type: number
+- name: texturePercentageY
+  type: number
+- name: textureX
+  type: number
+- name: textureY
+  type: number
+- name: scrollChildX
+  type: number
+- name: scrollChildY
+  type: number

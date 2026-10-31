@@ -1,0 +1,14 @@
+---
+name: ZoneAbilityInfo
+fields:
+- name: zoneAbilityID
+  type: number
+- name: uiPriority
+  type: number
+- name: spellID
+  type: number
+- name: textureKit
+  type: string
+- name: tutorialText
+  nilable: true
+  type: string

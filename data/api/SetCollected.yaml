@@ -1,0 +1,5 @@
+---
+name: SetCollected
+status: unimplemented
+inputs:
+- - type: boolean

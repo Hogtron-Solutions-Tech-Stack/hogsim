@@ -1,0 +1,12 @@
+---
+name: GetPadding
+status: unimplemented
+outputs:
+- name: right
+  type: number
+- name: bottom
+  type: number
+- name: left
+  type: number
+- name: top
+  type: number

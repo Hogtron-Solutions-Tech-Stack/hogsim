@@ -1,0 +1,11 @@
+---
+name: RefundableDecorInfo
+fields:
+- name: decorGUID
+  type: string
+- name: timeRemainingSeconds
+  type: number
+- name: name
+  type: string
+- name: price
+  type: string

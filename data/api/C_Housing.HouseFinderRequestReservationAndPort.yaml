@@ -1,0 +1,6 @@
+---
+name: C_Housing.HouseFinderRequestReservationAndPort
+status: unimplemented
+inputs:
+- - type: string
+  - type: number

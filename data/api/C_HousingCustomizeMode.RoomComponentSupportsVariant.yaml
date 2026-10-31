@@ -1,0 +1,9 @@
+---
+name: C_HousingCustomizeMode.RoomComponentSupportsVariant
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: variantSupported
+  type: boolean

@@ -1,0 +1,15 @@
+---
+name: PetTamerMapInfo
+fields:
+- name: areaPoiID
+  type: number
+- name: position
+  type: unknown
+- name: name
+  type: string
+- name: atlasName
+  nilable: true
+  type: string
+- name: textureIndex
+  nilable: true
+  type: number

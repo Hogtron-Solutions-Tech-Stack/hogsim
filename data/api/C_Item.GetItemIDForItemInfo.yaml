@@ -1,0 +1,8 @@
+---
+name: C_Item.GetItemIDForItemInfo
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: itemID
+  type: number

@@ -1,0 +1,7 @@
+---
+name: SetCooldownFromDurationObject
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: true
+    type: boolean

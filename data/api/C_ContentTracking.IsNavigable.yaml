@@ -1,0 +1,11 @@
+---
+name: C_ContentTracking.IsNavigable
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: result
+  type: number
+- name: isNavigable
+  type: boolean

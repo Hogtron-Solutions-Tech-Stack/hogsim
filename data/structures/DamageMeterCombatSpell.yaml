@@ -1,0 +1,19 @@
+---
+name: DamageMeterCombatSpell
+fields:
+- name: spellID
+  type: number
+- name: totalAmount
+  type: number
+- name: amountPerSecond
+  type: number
+- name: creatureName
+  type: string
+- name: overkillAmount
+  type: number
+- name: isAvoidable
+  type: boolean
+- name: isDeadly
+  type: boolean
+- name: combatSpellDetails
+  type: DamageMeterCombatSpellUnitDetails

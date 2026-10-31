@@ -1,0 +1,17 @@
+---
+name: SocialQueueGroupQueueInfo
+fields:
+- name: clientID
+  type: number
+- name: eligible
+  type: boolean
+- name: needTank
+  type: boolean
+- name: needHealer
+  type: boolean
+- name: needDamage
+  type: boolean
+- name: isAutoAccept
+  type: boolean
+- name: queueData
+  type: QueueSpecificInfo

@@ -1,0 +1,6 @@
+---
+name: C_SecureTransfer.GetHousingPurchaseCost
+status: unimplemented
+outputs:
+- name: totalCost
+  type: number

@@ -1,0 +1,9 @@
+---
+name: C_ClassTalents.GetTraitTreeForSpec
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: treeID
+  nilable: true
+  type: number

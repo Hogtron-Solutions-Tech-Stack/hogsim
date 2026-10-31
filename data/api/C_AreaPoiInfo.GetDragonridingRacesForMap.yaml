@@ -1,0 +1,9 @@
+---
+name: C_AreaPoiInfo.GetDragonridingRacesForMap
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: areaPoiIDs
+  type: table

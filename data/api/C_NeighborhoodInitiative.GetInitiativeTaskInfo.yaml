@@ -1,0 +1,9 @@
+---
+name: C_NeighborhoodInitiative.GetInitiativeTaskInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: info
+  nilable: true
+  type: InitiativeTaskInfo

@@ -1,0 +1,8 @@
+---
+name: C_TooltipInfo.GetAzeriteEssenceSlot
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: data
+  type: unknown

@@ -1,0 +1,25 @@
+---
+name: AddPrivateAuraAnchorArgs
+fields:
+- name: unitToken
+  type: string
+- name: auraIndex
+  type: number
+- name: parent
+  type: unknown
+- name: showCooldownFrame
+  type: boolean
+- name: showCooldownEdge
+  type: boolean
+- name: showCountdownNumbers
+  type: boolean
+- name: showDispelIcon
+  type: boolean
+- name: isContainer
+  type: boolean
+- name: iconInfo
+  nilable: true
+  type: PrivateAuraIconInfo
+- name: durationAnchor
+  nilable: true
+  type: AnchorBinding

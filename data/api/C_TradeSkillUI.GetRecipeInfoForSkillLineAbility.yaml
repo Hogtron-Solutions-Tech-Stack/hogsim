@@ -1,0 +1,11 @@
+---
+name: C_TradeSkillUI.GetRecipeInfoForSkillLineAbility
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: number
+outputs:
+- name: recipeInfo
+  nilable: true
+  type: TradeSkillRecipeInfo

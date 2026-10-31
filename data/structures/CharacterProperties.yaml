@@ -1,0 +1,17 @@
+---
+name: CharacterProperties
+fields:
+- name: codePoint
+  type: number
+- name: isAlphabetic
+  type: boolean
+- name: isDigit
+  type: boolean
+- name: isWhitespace
+  type: boolean
+- name: generalCategory
+  type: string
+- name: scriptCode
+  type: string
+- name: blockCode
+  type: string

@@ -1,0 +1,6 @@
+---
+name: CanBeAccessedInContext
+status: unimplemented
+outputs:
+- name: canAccess
+  type: boolean

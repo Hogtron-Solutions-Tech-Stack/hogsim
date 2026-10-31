@@ -1,0 +1,6 @@
+---
+name: C_Reputation.GetNumFactions
+status: unimplemented
+outputs:
+- name: numFactions
+  type: number

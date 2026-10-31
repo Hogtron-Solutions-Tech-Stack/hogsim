@@ -1,0 +1,6 @@
+---
+name: GetMaxControlPointOrder
+status: unimplemented
+outputs:
+- name: maxOrder
+  type: number

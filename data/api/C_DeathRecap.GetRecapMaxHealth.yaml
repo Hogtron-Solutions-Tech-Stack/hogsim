@@ -1,0 +1,9 @@
+---
+name: C_DeathRecap.GetRecapMaxHealth
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- name: maxHealth
+  type: number

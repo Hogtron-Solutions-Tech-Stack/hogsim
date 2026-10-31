@@ -1,0 +1,12 @@
+---
+name: C_UnitAuras.GetAuraDataByIndex
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number
+  - nilable: true
+    type: unknown
+outputs:
+- name: aura
+  nilable: true
+  type: unknown

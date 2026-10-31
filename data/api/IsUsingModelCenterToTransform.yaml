@@ -1,0 +1,6 @@
+---
+name: IsUsingModelCenterToTransform
+status: unimplemented
+outputs:
+- name: useCenter
+  type: boolean

@@ -1,0 +1,8 @@
+---
+name: GetBaseDifficultyID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: baseDifficultyID
+  type: number

@@ -1,0 +1,6 @@
+---
+name: GetCameraFarClip
+status: unimplemented
+outputs:
+- name: farClip
+  type: number

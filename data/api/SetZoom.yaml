@@ -1,0 +1,5 @@
+---
+name: SetZoom
+status: unimplemented
+inputs:
+- - type: number

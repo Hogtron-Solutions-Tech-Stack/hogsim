@@ -63,6 +63,14 @@ inherits:
 methods:
   AddMaskTexture:
     status: unimplemented
+  ClearRadialProgressBar:
+    status: unimplemented
+  ClearSVG:
+    status: unimplemented
+  ClearTextureSlice:
+    status: unimplemented
+  ClearVertexOffsets:
+    status: unimplemented
   GetAtlas:
     status: unimplemented
   GetBlendMode:
@@ -87,6 +95,16 @@ methods:
     status: unimplemented
   GetNumMaskTextures:
     status: unimplemented
+  GetRadialProgressBarEndOffset:
+    status: unimplemented
+  GetRadialProgressBarFeather:
+    status: unimplemented
+  GetRadialProgressBarPercent:
+    status: unimplemented
+  GetRadialProgressBarReverse:
+    status: unimplemented
+  GetRadialProgressBarStartOffset:
+    status: unimplemented
   GetRotation:
     status: unimplemented
   GetTexCoord:
@@ -107,6 +125,10 @@ methods:
   GetTextureFileID:
     status: unimplemented
   GetTextureFilePath:
+    status: unimplemented
+  GetTextureSliceMargins:
+    status: unimplemented
+  GetTextureSliceMode:
     status: unimplemented
   GetVertexColor:
     fields:
@@ -132,6 +154,8 @@ methods:
   IsSnappingToPixelGrid:
     status: unimplemented
   RemoveMaskTexture:
+    status: unimplemented
+  ResetTexCoord:
     status: unimplemented
   SetAtlas:
     status: implemented
@@ -177,9 +201,23 @@ methods:
     - wow_classic_era_ptr
     - wow_classic_ptr
     status: unimplemented
+  SetRadialProgressBarEndOffset:
+    status: unimplemented
+  SetRadialProgressBarFeather:
+    status: unimplemented
+  SetRadialProgressBarPercent:
+    status: unimplemented
+  SetRadialProgressBarReverse:
+    status: unimplemented
+  SetRadialProgressBarStartOffset:
+    status: unimplemented
   SetRotation:
     status: unimplemented
   SetSnapToPixelGrid:
+    status: unimplemented
+  SetSpriteSheetCell:
+    status: unimplemented
+  SetSVG:
     status: unimplemented
   SetTexCoord:
     status: implemented
@@ -187,6 +225,10 @@ methods:
     status: unimplemented
   SetTexture:
     status: implemented
+  SetTextureSliceMargins:
+    status: unimplemented
+  SetTextureSliceMode:
+    status: unimplemented
   SetVertexOffset:
     status: unimplemented
   SetVertTile:

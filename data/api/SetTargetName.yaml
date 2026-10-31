@@ -1,0 +1,8 @@
+---
+name: SetTargetName
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: success
+  type: boolean

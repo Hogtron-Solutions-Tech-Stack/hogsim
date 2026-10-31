@@ -1,0 +1,10 @@
+---
+name: C_PlayerInfo.GetGlidingInfo
+status: unimplemented
+outputs:
+- name: isGliding
+  type: boolean
+- name: canGlide
+  type: boolean
+- name: forwardSpeed
+  type: number

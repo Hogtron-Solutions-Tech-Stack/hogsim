@@ -1,0 +1,7 @@
+---
+name: XMLTemplateListInfo
+fields:
+- name: name
+  type: string
+- name: type
+  type: string

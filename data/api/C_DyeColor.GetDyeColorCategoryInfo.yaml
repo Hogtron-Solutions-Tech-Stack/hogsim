@@ -1,0 +1,9 @@
+---
+name: C_DyeColor.GetDyeColorCategoryInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: dyeColorCategoryInfo
+  nilable: true
+  type: DyeColorCategoryDisplayInfo

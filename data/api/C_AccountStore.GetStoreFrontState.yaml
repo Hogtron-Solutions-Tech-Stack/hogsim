@@ -1,0 +1,8 @@
+---
+name: C_AccountStore.GetStoreFrontState
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: state
+  type: unknown

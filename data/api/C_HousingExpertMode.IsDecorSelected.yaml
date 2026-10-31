@@ -1,0 +1,6 @@
+---
+name: C_HousingExpertMode.IsDecorSelected
+status: unimplemented
+outputs:
+- name: hasSelectedDecor
+  type: boolean

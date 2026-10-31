@@ -1,0 +1,9 @@
+---
+name: C_Traits.GetSubTreeInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: subTreeInfo
+  type: TraitSubTreeInfo

@@ -1,0 +1,12 @@
+---
+name: math.remap
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number
+  - type: number
+  - type: number
+outputs:
+- name: remappedValue
+  type: number

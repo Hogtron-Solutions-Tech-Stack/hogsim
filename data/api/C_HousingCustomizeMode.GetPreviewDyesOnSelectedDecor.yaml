@@ -1,0 +1,7 @@
+---
+name: C_HousingCustomizeMode.GetPreviewDyesOnSelectedDecor
+status: unimplemented
+outputs:
+- innerType: PreviewDyeSlotInfo
+  name: previewDyes
+  type: table

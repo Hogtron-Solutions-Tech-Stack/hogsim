@@ -1,0 +1,6 @@
+---
+name: GetHyperlinkFormat
+status: unimplemented
+outputs:
+- name: format
+  type: string

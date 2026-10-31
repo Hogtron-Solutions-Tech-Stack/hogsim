@@ -1,0 +1,6 @@
+---
+name: IsIgnoringParentAlpha
+status: unimplemented
+outputs:
+- name: ignore
+  type: boolean

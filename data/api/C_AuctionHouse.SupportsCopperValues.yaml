@@ -1,0 +1,6 @@
+---
+name: C_AuctionHouse.SupportsCopperValues
+status: unimplemented
+outputs:
+- name: supportsCopperValues
+  type: boolean

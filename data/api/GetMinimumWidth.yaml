@@ -1,0 +1,8 @@
+---
+name: GetMinimumWidth
+status: unimplemented
+outputs:
+- name: width
+  type: number
+- name: forced
+  type: boolean

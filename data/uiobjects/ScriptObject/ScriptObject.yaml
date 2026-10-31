@@ -9,12 +9,44 @@ fields:
     type: table
 inherits: {}
 methods:
+  AddAccessRestrictions:
+    status: unimplemented
+  AddForbiddenAspects:
+    status: unimplemented
+  AddSecretAspect:
+    status: unimplemented
+  CanBeAccessedInContext:
+    status: unimplemented
+  GetAccessRestrictions:
+    status: unimplemented
+  GetForbiddenAspects:
+    status: unimplemented
+  GetInheritableForbiddenAspects:
+    status: unimplemented
+  GetObjectTable:
+    status: unimplemented
   GetScript:
     status: implemented
+  HasAccessConstraints:
+    status: unimplemented
+  HasAnyAccessRestrictions:
+    status: unimplemented
+  HasAnyForbiddenAspects:
+    status: unimplemented
+  HasAnySecretAspect:
+    status: unimplemented
   HasScript:
     status: implemented
+  HasSecretAspect:
+    status: unimplemented
+  HasSecretValues:
+    status: unimplemented
   HookScript:
     status: implemented
+  IsPreventingSecretValues:
+    status: unimplemented
   SetScript:
     status: implemented
+  SetToDefaults:
+    status: unimplemented
 virtual: true

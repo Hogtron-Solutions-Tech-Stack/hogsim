@@ -1,0 +1,9 @@
+---
+name: C_QuestInfoSystem.GetQuestShouldToastCompletion
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- name: shouldToast
+  type: boolean

@@ -1,0 +1,7 @@
+---
+name: PreviewDyeSlotInfo
+fields:
+- name: dyeColorID
+  type: number
+- name: dyeSlotID
+  type: number

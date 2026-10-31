@@ -1,0 +1,8 @@
+---
+name: C_ProfSpecs.ShouldShowPointsReminderForSkillLine
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: showReminder
+  type: boolean

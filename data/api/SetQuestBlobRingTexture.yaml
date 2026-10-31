@@ -1,0 +1,5 @@
+---
+name: SetQuestBlobRingTexture
+status: unimplemented
+inputs:
+- - type: unknown

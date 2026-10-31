@@ -1,0 +1,6 @@
+---
+name: GetFlipBookFrames
+status: unimplemented
+outputs:
+- name: frames
+  type: number

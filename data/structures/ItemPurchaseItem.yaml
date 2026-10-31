@@ -1,0 +1,10 @@
+---
+name: ItemPurchaseItem
+fields:
+- name: iconFileID
+  nilable: true
+  type: number
+- name: itemCount
+  type: number
+- name: hyperlink
+  type: string

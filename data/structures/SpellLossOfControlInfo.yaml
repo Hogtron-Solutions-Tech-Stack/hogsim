@@ -1,0 +1,13 @@
+---
+name: SpellLossOfControlInfo
+fields:
+- name: startTime
+  type: number
+- name: duration
+  type: number
+- name: modRate
+  type: number
+- name: isActive
+  type: boolean
+- name: shouldReplaceNormalCooldown
+  type: boolean

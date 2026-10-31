@@ -1,0 +1,12 @@
+---
+name: C_CatalogShop.GetRefundableDecors
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- innerType: RefundableDecorInfo
+  name: refundableDecorInfos
+  type: table
+- name: minTimeRemainingSeconds
+  type: number

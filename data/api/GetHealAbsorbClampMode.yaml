@@ -1,0 +1,6 @@
+---
+name: GetHealAbsorbClampMode
+status: unimplemented
+outputs:
+- name: healAbsorbClampMode
+  type: number

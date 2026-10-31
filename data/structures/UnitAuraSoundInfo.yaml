@@ -1,0 +1,19 @@
+---
+name: UnitAuraSoundInfo
+fields:
+- name: unitToken
+  type: string
+- name: spellID
+  type: number
+- name: soundFileName
+  nilable: true
+  type: string
+- name: soundFileID
+  nilable: true
+  type: number
+- name: outputChannel
+  nilable: true
+  type: string
+- name: throttleSeconds
+  nilable: true
+  type: number

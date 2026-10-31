@@ -1,0 +1,10 @@
+---
+name: C_Spell.GetBaseSpell
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: 0
+    type: number
+outputs:
+- name: baseSpellID
+  type: number

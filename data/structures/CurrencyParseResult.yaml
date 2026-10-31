@@ -1,0 +1,7 @@
+---
+name: CurrencyParseResult
+fields:
+- name: amount
+  type: number
+- name: currencyCode
+  type: string

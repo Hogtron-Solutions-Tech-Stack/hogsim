@@ -1,0 +1,6 @@
+---
+name: GetNumMaskTextures
+status: unimplemented
+outputs:
+- name: count
+  type: number

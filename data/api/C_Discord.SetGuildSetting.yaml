@@ -1,0 +1,6 @@
+---
+name: C_Discord.SetGuildSetting
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetMinimumCountdownDuration
+status: unimplemented
+outputs:
+- name: milliseconds
+  type: unknown

@@ -1,0 +1,28 @@
+---
+name: FriendshipReputationInfo
+fields:
+- name: friendshipFactionID
+  type: number
+- name: standing
+  type: number
+- name: maxRep
+  type: number
+- name: name
+  nilable: true
+  type: string
+- name: text
+  type: string
+- name: texture
+  type: number
+- name: reaction
+  type: string
+- name: reactionThreshold
+  type: number
+- name: nextThreshold
+  nilable: true
+  type: number
+- name: reversedColor
+  type: boolean
+- name: overrideColor
+  nilable: true
+  type: number

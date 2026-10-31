@@ -1,0 +1,7 @@
+---
+name: TextureAndTextEntryInfo
+fields:
+- name: text
+  type: string
+- name: tooltip
+  type: string

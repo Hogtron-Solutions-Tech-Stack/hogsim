@@ -1,0 +1,10 @@
+---
+name: SetModelByCreatureDisplayID
+status: unimplemented
+inputs:
+- - type: number
+  - default: false
+    type: boolean
+outputs:
+- name: success
+  type: boolean

@@ -1,0 +1,8 @@
+---
+name: C_SpecializationInfo.IsSpecSelectionEnabled
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: enabled
+  type: boolean

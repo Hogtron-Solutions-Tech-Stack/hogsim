@@ -1,0 +1,8 @@
+---
+name: C_TransmogOutfitInfo.GetSecondarySlotState
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: state
+  type: boolean

@@ -1,0 +1,7 @@
+---
+name: C_QuestLog.GetQuestTimers
+status: unimplemented
+outputs:
+- innerType: QuestTimerInfo
+  name: questTimers
+  type: table

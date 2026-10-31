@@ -1,0 +1,6 @@
+---
+name: CanNonSpaceWrap
+status: unimplemented
+outputs:
+- name: wrap
+  type: boolean

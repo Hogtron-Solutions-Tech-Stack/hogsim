@@ -1,0 +1,15 @@
+---
+name: AddOnInfo
+fields:
+- name: name
+  type: string
+- name: title
+  type: string
+- name: notes
+  type: string
+- name: loadable
+  type: boolean
+- name: reason
+  type: string
+- name: security
+  type: string

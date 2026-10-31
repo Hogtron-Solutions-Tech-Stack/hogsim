@@ -1,0 +1,14 @@
+---
+name: C_ItemSocketInfo.GetExistingSocketInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: name
+  nilable: true
+  type: string
+- name: icon
+  nilable: true
+  type: number
+- name: gemMatchesSocket
+  type: boolean

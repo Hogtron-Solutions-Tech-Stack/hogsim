@@ -1,0 +1,6 @@
+---
+name: C_PerksActivities.GetAllPerksActivityTags
+status: unimplemented
+outputs:
+- name: tags
+  type: PerksActivityTags

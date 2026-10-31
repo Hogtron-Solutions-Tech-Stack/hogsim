@@ -1,0 +1,5 @@
+---
+name: SetOnUpdateMode
+status: unimplemented
+inputs:
+- - type: number

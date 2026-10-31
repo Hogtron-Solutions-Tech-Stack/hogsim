@@ -1,0 +1,9 @@
+---
+name: C_Container.GetContainerItemQuestInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: questInfo
+  type: ItemQuestInfo

@@ -1,0 +1,8 @@
+---
+name: C_TransmogOutfitInfo.GetNumberOfOutfitsUnlockedForSource
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: unlockedOutfitCount
+  type: number

@@ -1,0 +1,12 @@
+---
+name: C_HousingDecor.GetAllMaxPlacementBudgets
+status: unimplemented
+outputs:
+- innerType: number
+  name: interiorMaxBudgets
+  nilable: true
+  type: table
+- innerType: number
+  name: exteriorMaxBudgets
+  nilable: true
+  type: table

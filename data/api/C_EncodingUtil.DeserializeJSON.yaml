@@ -1,0 +1,9 @@
+---
+name: C_EncodingUtil.DeserializeJSON
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: value
+  nilable: true
+  type: unknown

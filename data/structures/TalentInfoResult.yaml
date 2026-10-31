@@ -1,0 +1,39 @@
+---
+name: TalentInfoResult
+fields:
+- name: talentID
+  type: number
+- name: name
+  type: string
+- name: icon
+  type: number
+- name: tier
+  type: number
+- name: column
+  type: number
+- name: selected
+  type: boolean
+- name: available
+  type: boolean
+- name: spellID
+  type: number
+- name: isPVPTalentUnlocked
+  type: boolean
+- name: known
+  type: boolean
+- name: grantedByAura
+  type: boolean
+- name: rank
+  type: number
+- name: maxRank
+  type: number
+- name: meetsPrereq
+  type: boolean
+- name: previewRank
+  type: number
+- name: meetsPreviewPrereq
+  type: boolean
+- name: isExceptional
+  type: boolean
+- name: hasGoldBorder
+  type: boolean

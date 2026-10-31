@@ -1,0 +1,6 @@
+---
+name: GetSVGFileID
+status: unimplemented
+outputs:
+- name: svgFile
+  type: number

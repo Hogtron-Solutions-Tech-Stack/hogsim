@@ -1,0 +1,8 @@
+---
+name: C_Housing.SearchBNetFriendNeighborhoodsByID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isValidBnetFriend
+  type: boolean

@@ -1,0 +1,11 @@
+---
+name: ChallengeModeBestTimeMember
+fields:
+- name: name
+  type: string
+- name: classFileName
+  type: string
+- name: className
+  type: string
+- name: specializationID
+  type: number

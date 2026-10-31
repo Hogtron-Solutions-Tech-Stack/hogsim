@@ -1,0 +1,6 @@
+---
+name: GetModelScale
+status: unimplemented
+outputs:
+- name: scale
+  type: number

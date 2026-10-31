@@ -1,0 +1,12 @@
+---
+name: InitiativeActivityLogInfo
+fields:
+- name: isLoaded
+  type: boolean
+- name: neighborhoodGUID
+  type: string
+- name: nextUpdateTime
+  type: number
+- innerType: InitiativeActivityLogEntry
+  name: taskActivity
+  type: table

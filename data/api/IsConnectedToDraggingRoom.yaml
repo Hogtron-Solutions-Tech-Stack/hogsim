@@ -1,0 +1,6 @@
+---
+name: IsConnectedToDraggingRoom
+status: unimplemented
+outputs:
+- name: isConnectedToDraggingRoom
+  type: boolean

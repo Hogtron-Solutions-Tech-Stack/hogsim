@@ -1,0 +1,9 @@
+---
+name: ConsoleScriptCollectionElementData
+fields:
+- name: collectionID
+  nilable: true
+  type: number
+- name: consoleScriptID
+  nilable: true
+  type: number

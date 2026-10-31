@@ -1,0 +1,7 @@
+---
+name: C_DelvesUI.GetDelveEntranceDescriptionString
+status: unimplemented
+outputs:
+- name: description
+  nilable: true
+  type: string

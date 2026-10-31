@@ -1,0 +1,27 @@
+---
+name: CustomAuraButtonDispelTypeTextureOptions
+fields:
+- name: showAlways
+  type: boolean
+- name: showWhenHarmful
+  type: boolean
+- name: showWhenHelpful
+  type: boolean
+- name: showWithoutDispelType
+  type: boolean
+- name: stealableFilter
+  nilable: true
+  type: number
+- name: style
+  type: number
+- innerType: CustomAuraButtonDispelTypeTextureAsset
+  name: customDispelAssetMap
+  nilable: true
+  type: table
+- innerType: unknown
+  name: customDispelColorMap
+  nilable: true
+  type: table
+- name: customDispelColorCurve
+  nilable: true
+  type: unknown

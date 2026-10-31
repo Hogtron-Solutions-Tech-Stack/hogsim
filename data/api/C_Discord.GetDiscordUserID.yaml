@@ -1,0 +1,6 @@
+---
+name: C_Discord.GetDiscordUserID
+status: unimplemented
+outputs:
+- name: userID
+  type: number

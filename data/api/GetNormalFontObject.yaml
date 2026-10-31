@@ -1,0 +1,6 @@
+---
+name: GetNormalFontObject
+status: unimplemented
+outputs:
+- name: font
+  type: unknown

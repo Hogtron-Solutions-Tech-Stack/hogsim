@@ -1,0 +1,6 @@
+---
+name: C_RaidLocks.IsRaidLockExtendFeatureEnabled
+status: unimplemented
+outputs:
+- name: raidLockExtendFeatureEnabled
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: SetHealAbsorbMode
+status: unimplemented
+inputs:
+- - type: number

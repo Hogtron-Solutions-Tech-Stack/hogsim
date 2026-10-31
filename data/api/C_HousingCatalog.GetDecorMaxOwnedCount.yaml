@@ -1,0 +1,6 @@
+---
+name: C_HousingCatalog.GetDecorMaxOwnedCount
+status: unimplemented
+outputs:
+- name: maxOwnedCount
+  type: number

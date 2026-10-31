@@ -1,0 +1,9 @@
+---
+name: C_DelvesUI.GetFlavorNodeForCompanion
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- name: nodeID
+  type: number

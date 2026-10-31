@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.IsAutoAttackSpellBookItem
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: isAutoAttack
+  type: boolean

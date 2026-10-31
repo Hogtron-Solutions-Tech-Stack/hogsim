@@ -1,0 +1,8 @@
+---
+name: C_HouseEditor.IsHouseEditorModeActive
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isModeActive
+  type: boolean

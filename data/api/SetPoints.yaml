@@ -1,0 +1,6 @@
+---
+name: SetPoints
+status: unimplemented
+inputs:
+- - innerType: unknown
+    type: table

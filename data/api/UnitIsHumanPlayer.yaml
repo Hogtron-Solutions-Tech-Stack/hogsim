@@ -1,0 +1,11 @@
+---
+name: UnitIsHumanPlayer
+status: unimplemented
+inputs:
+- - nilable: true
+    type: unit
+  - nilable: true
+    type: number
+outputs:
+- name: result
+  type: boolean

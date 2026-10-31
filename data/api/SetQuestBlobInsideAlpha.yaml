@@ -1,0 +1,5 @@
+---
+name: SetQuestBlobInsideAlpha
+status: unimplemented
+inputs:
+- - type: number

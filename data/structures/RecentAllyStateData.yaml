@@ -1,0 +1,19 @@
+---
+name: RecentAllyStateData
+fields:
+- name: isOnline
+  type: boolean
+- name: isDND
+  type: boolean
+- name: isAFK
+  type: boolean
+- name: isConvertedLegacyFriend
+  type: boolean
+- name: pinExpirationDate
+  nilable: true
+  type: number
+- name: friendRequestSentThisSession
+  type: boolean
+- name: currentLocation
+  nilable: true
+  type: string

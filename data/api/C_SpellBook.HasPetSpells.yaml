@@ -1,0 +1,8 @@
+---
+name: C_SpellBook.HasPetSpells
+status: unimplemented
+outputs:
+- name: numPetSpells
+  type: number
+- name: petNameToken
+  type: string

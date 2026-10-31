@@ -1,0 +1,46 @@
+---
+name: VignetteInfo
+fields:
+- name: vignetteGUID
+  type: string
+- name: objectGUID
+  type: string
+- name: name
+  type: string
+- name: isDead
+  type: boolean
+- name: onWorldMap
+  type: boolean
+- name: zoneInfiniteAOI
+  type: boolean
+- name: onMinimap
+  type: boolean
+- name: isUnique
+  type: boolean
+- name: inFogOfWar
+  type: boolean
+- name: atlasName
+  type: string
+- name: hasTooltip
+  type: boolean
+- name: vignetteID
+  type: number
+- name: type
+  type: number
+- name: rewardQuestID
+  type: number
+- name: tooltipWidgetSet
+  nilable: true
+  type: number
+- name: iconWidgetSet
+  nilable: true
+  type: number
+- name: addPaddingAboveTooltipWidgets
+  nilable: true
+  type: boolean
+- name: mapPin
+  nilable: true
+  type: UIMapPinInfo
+- name: objectiveType
+  nilable: true
+  type: number

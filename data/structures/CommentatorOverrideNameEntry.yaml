@@ -1,0 +1,7 @@
+---
+name: CommentatorOverrideNameEntry
+fields:
+- name: originalName
+  type: string
+- name: newName
+  type: string

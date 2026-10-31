@@ -1,0 +1,5 @@
+---
+name: C_UnitAuras.ClearBlockedAuras
+status: unimplemented
+inputs:
+- - type: unknown

@@ -1,0 +1,6 @@
+---
+name: C_PetInfo.GetPetTalentTree
+status: unimplemented
+outputs:
+- name: talentTreeName
+  type: string

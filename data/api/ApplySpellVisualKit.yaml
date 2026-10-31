@@ -1,0 +1,7 @@
+---
+name: ApplySpellVisualKit
+status: unimplemented
+inputs:
+- - type: number
+  - default: false
+    type: boolean

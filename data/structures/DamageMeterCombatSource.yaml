@@ -1,0 +1,32 @@
+---
+name: DamageMeterCombatSource
+fields:
+- name: sourceGUID
+  nilable: true
+  type: string
+- name: sourceCreatureID
+  nilable: true
+  type: number
+- name: name
+  type: string
+- name: classFilename
+  type: string
+- name: specIconID
+  type: number
+- name: totalAmount
+  type: number
+- name: amountPerSecond
+  type: number
+- name: isLocalPlayer
+  type: boolean
+- name: deathRecapID
+  type: number
+- name: deathTimeSeconds
+  type: number
+- name: classification
+  type: string
+- name: sourceDisplayType
+  type: number
+- name: factionGroup
+  nilable: true
+  type: string

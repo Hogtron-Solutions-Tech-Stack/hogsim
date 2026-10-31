@@ -1,0 +1,10 @@
+---
+name: C_Transmog.GetAllSetAppearancesByID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: TransmogSetItemInfo
+  name: setItems
+  nilable: true
+  type: table

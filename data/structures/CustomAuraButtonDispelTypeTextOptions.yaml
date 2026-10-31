@@ -1,0 +1,13 @@
+---
+name: CustomAuraButtonDispelTypeTextOptions
+fields:
+- name: showWhenHarmful
+  type: boolean
+- name: showWhenHelpful
+  type: boolean
+- name: showWithoutDispelType
+  type: boolean
+- innerType: string
+  name: customDispelTextMap
+  nilable: true
+  type: table

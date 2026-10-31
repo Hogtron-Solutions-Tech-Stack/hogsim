@@ -1,0 +1,9 @@
+---
+name: HasAnyForbiddenAspects
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+outputs:
+- name: hasAnyForbiddenAspect
+  type: boolean

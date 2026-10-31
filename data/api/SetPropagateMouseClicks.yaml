@@ -1,0 +1,5 @@
+---
+name: SetPropagateMouseClicks
+status: unimplemented
+inputs:
+- - type: boolean

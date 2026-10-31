@@ -1,0 +1,6 @@
+---
+name: C_HousingDecor.SetPlacedDecorEntryHovered
+status: unimplemented
+inputs:
+- - type: string
+  - type: boolean

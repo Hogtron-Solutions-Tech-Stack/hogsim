@@ -1,0 +1,7 @@
+---
+name: AzeriteEmpoweredItemPowerInfo
+fields:
+- name: azeritePowerID
+  type: number
+- name: spellID
+  type: number

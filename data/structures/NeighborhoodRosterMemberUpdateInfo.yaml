@@ -1,0 +1,9 @@
+---
+name: NeighborhoodRosterMemberUpdateInfo
+fields:
+- name: playerGUID
+  type: string
+- name: residentType
+  type: unknown
+- name: isOnline
+  type: boolean

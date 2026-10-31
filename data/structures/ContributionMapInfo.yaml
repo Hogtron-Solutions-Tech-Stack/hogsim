@@ -1,0 +1,13 @@
+---
+name: ContributionMapInfo
+fields:
+- name: areaPoiID
+  type: number
+- name: position
+  type: unknown
+- name: name
+  type: string
+- name: atlasName
+  type: string
+- name: collectorCreatureID
+  type: number

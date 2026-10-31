@@ -1,0 +1,8 @@
+---
+name: C_CooldownViewer.GetCooldownViewerCooldownInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: cooldownInfo
+  type: CooldownViewerCooldown

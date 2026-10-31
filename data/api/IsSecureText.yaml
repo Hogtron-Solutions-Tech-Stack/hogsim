@@ -1,0 +1,6 @@
+---
+name: IsSecureText
+status: unimplemented
+outputs:
+- name: isSecure
+  type: boolean

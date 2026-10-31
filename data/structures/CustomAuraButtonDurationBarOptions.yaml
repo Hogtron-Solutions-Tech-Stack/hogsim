@@ -1,0 +1,9 @@
+---
+name: CustomAuraButtonDurationBarOptions
+fields:
+- name: interpolation
+  nilable: true
+  type: number
+- name: direction
+  nilable: true
+  type: number

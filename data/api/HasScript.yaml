@@ -1,0 +1,8 @@
+---
+name: HasScript
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: hasScript
+  type: boolean

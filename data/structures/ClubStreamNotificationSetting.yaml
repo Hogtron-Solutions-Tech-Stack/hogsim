@@ -1,0 +1,7 @@
+---
+name: ClubStreamNotificationSetting
+fields:
+- name: streamId
+  type: number
+- name: filter
+  type: number

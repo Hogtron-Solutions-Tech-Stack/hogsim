@@ -1,0 +1,12 @@
+---
+name: C_UnitAuras.GetRefreshExtendedDuration
+status: unimplemented
+inputs:
+- - type: unit
+  - type: number
+  - nilable: true
+    type: unknown
+outputs:
+- name: newDuration
+  nilable: true
+  type: number

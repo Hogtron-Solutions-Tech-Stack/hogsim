@@ -1,0 +1,5 @@
+---
+name: C_HousingLayout.RotateFocusedRoom
+status: unimplemented
+inputs:
+- - type: boolean

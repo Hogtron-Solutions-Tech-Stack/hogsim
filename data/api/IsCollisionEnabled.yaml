@@ -1,0 +1,6 @@
+---
+name: IsCollisionEnabled
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

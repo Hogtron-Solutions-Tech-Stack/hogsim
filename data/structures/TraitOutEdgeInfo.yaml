@@ -1,0 +1,11 @@
+---
+name: TraitOutEdgeInfo
+fields:
+- name: targetNode
+  type: number
+- name: type
+  type: number
+- name: visualStyle
+  type: number
+- name: isActive
+  type: boolean

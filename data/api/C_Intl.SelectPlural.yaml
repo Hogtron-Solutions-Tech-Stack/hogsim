@@ -1,0 +1,9 @@
+---
+name: C_Intl.SelectPlural
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: result
+  type: string

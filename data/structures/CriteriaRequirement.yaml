@@ -1,0 +1,7 @@
+---
+name: CriteriaRequirement
+fields:
+- name: completed
+  type: boolean
+- name: requirementText
+  type: string

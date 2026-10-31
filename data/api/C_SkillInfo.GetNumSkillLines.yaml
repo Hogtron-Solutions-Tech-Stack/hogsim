@@ -1,0 +1,6 @@
+---
+name: C_SkillInfo.GetNumSkillLines
+status: unimplemented
+outputs:
+- name: numSkillLines
+  type: number

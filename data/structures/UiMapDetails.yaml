@@ -1,0 +1,13 @@
+---
+name: UiMapDetails
+fields:
+- name: mapID
+  type: number
+- name: name
+  type: string
+- name: mapType
+  type: number
+- name: parentMapID
+  type: number
+- name: flags
+  type: number

@@ -1,0 +1,19 @@
+---
+name: SpellPowerCostInfo
+fields:
+- name: type
+  type: number
+- name: name
+  type: string
+- name: cost
+  type: number
+- name: minCost
+  type: number
+- name: costPercent
+  type: number
+- name: costPerSec
+  type: number
+- name: requiredAuraID
+  type: number
+- name: hasRequiredAura
+  type: boolean

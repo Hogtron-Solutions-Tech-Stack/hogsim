@@ -1,0 +1,8 @@
+---
+name: C_Traits.GenerateInspectImportString
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: importString
+  type: string

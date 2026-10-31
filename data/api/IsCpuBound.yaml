@@ -1,0 +1,7 @@
+---
+name: IsCpuBound
+status: unimplemented
+outputs:
+- name: isCpuBound
+  nilable: true
+  type: boolean

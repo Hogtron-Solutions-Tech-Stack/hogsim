@@ -1,0 +1,8 @@
+---
+name: C_EncounterWarnings.GetSoundKitForSeverity
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: soundKitID
+  type: number

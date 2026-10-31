@@ -1,0 +1,16 @@
+---
+name: C_ClassTalents.GetHeroTalentSpecsForClassSpec
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+  - nilable: true
+    type: number
+outputs:
+- innerType: number
+  name: subTreeIDs
+  nilable: true
+  type: table
+- name: requiredPlayerLevel
+  nilable: true
+  type: number

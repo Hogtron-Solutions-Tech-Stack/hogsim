@@ -1,0 +1,8 @@
+---
+name: C_Minimap.GetDefaultTrackingValue
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: defaultValue
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_AddOns.GetNumAddOns
+status: unimplemented
+outputs:
+- name: numAddOns
+  type: number

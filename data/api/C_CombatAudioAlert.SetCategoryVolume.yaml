@@ -1,0 +1,9 @@
+---
+name: C_CombatAudioAlert.SetCategoryVolume
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: success
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: SetCameraFieldOfView
+status: unimplemented
+inputs:
+- - type: number

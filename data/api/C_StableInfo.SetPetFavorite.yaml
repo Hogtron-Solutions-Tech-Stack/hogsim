@@ -1,0 +1,6 @@
+---
+name: C_StableInfo.SetPetFavorite
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

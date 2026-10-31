@@ -1,0 +1,5 @@
+---
+name: SetTexelSnappingBias
+status: unimplemented
+inputs:
+- - type: unknown

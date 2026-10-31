@@ -1,0 +1,6 @@
+---
+name: C_EditMode.GetEditModeDefaultLayout
+status: unimplemented
+outputs:
+- name: defaultLayout
+  type: number

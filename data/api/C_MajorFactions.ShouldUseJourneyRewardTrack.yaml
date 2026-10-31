@@ -1,0 +1,8 @@
+---
+name: C_MajorFactions.ShouldUseJourneyRewardTrack
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: shouldUseJourneyRewardTrack
+  type: boolean

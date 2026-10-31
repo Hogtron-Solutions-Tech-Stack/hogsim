@@ -1,0 +1,13 @@
+---
+name: HouseLevelInfo
+fields:
+- name: level
+  type: number
+- name: interiorDecorPlacementBudget
+  type: number
+- name: exteriorDecorPlacementBudget
+  type: number
+- name: roomPlacementBudget
+  type: number
+- name: exteriorFixtureBudget
+  type: number

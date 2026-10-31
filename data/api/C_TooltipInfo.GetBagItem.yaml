@@ -1,0 +1,9 @@
+---
+name: C_TooltipInfo.GetBagItem
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: data
+  type: unknown

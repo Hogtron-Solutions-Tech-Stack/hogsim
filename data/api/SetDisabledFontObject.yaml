@@ -1,0 +1,5 @@
+---
+name: SetDisabledFontObject
+status: unimplemented
+inputs:
+- - type: unknown

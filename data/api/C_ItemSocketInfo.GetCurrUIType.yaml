@@ -1,0 +1,6 @@
+---
+name: C_ItemSocketInfo.GetCurrUIType
+status: unimplemented
+outputs:
+- name: uiType
+  type: number

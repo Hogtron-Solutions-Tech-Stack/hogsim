@@ -1,0 +1,21 @@
+---
+name: TransmogSlotVisualInfo
+fields:
+- name: baseSourceID
+  type: number
+- name: baseVisualID
+  type: number
+- name: appliedSourceID
+  type: number
+- name: appliedVisualID
+  type: number
+- name: pendingSourceID
+  type: number
+- name: pendingVisualID
+  type: number
+- name: hasUndo
+  type: boolean
+- name: isHideVisual
+  type: boolean
+- name: itemSubclass
+  type: number

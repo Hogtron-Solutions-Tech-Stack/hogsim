@@ -1,0 +1,7 @@
+---
+name: GetParticleOverrideScale
+status: unimplemented
+outputs:
+- name: scale
+  nilable: true
+  type: number

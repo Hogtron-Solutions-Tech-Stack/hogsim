@@ -1,0 +1,8 @@
+---
+name: C_StringUtil.TruncateWhenZero
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: text
+  type: string

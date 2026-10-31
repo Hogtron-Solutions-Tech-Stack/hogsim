@@ -1,0 +1,8 @@
+---
+name: C_TransmogOutfitInfo.GetOutfitInfoByName
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: outfitInfo
+  type: TransmogOutfitEntryInfo

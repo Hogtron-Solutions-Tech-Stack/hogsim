@@ -1,0 +1,8 @@
+---
+name: math.isinf
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: infinite
+  type: boolean

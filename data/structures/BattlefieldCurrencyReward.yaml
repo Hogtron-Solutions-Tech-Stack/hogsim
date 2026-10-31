@@ -1,0 +1,7 @@
+---
+name: BattlefieldCurrencyReward
+fields:
+- name: id
+  type: number
+- name: quantity
+  type: number

@@ -1,0 +1,6 @@
+---
+name: C_NeighborhoodInitiative.GetAvailableHouseXP
+status: unimplemented
+outputs:
+- name: availabeXP
+  type: number

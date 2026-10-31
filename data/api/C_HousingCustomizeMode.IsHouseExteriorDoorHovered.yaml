@@ -1,0 +1,6 @@
+---
+name: C_HousingCustomizeMode.IsHouseExteriorDoorHovered
+status: unimplemented
+outputs:
+- name: isHouseExteriorDoorHovered
+  type: boolean

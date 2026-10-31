@@ -1,0 +1,7 @@
+---
+name: C_EncounterTimeline.GetTrackList
+status: unimplemented
+outputs:
+- innerType: EncounterTimelineTrackInfo
+  name: tracks
+  type: table

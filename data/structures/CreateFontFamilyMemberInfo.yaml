@@ -1,0 +1,11 @@
+---
+name: CreateFontFamilyMemberInfo
+fields:
+- name: alphabet
+  type: unknown
+- name: file
+  type: string
+- name: height
+  type: unknown
+- name: flags
+  type: unknown

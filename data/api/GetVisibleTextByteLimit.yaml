@@ -1,0 +1,6 @@
+---
+name: GetVisibleTextByteLimit
+status: unimplemented
+outputs:
+- name: maxVisibleBytes
+  type: number

@@ -1,0 +1,7 @@
+---
+name: C_SuperTrack.GetSuperTrackedVignette
+status: unimplemented
+outputs:
+- name: vignetteGUID
+  nilable: true
+  type: string

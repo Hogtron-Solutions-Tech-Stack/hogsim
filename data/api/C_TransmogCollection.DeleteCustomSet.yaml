@@ -1,0 +1,5 @@
+---
+name: C_TransmogCollection.DeleteCustomSet
+status: unimplemented
+inputs:
+- - type: number

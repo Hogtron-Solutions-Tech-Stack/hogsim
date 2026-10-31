@@ -1,0 +1,10 @@
+---
+name: C_Intl.FormatTime
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: string
+outputs:
+- name: result
+  type: string

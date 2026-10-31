@@ -1,0 +1,6 @@
+---
+name: GetCameraNearClip
+status: unimplemented
+outputs:
+- name: nearClip
+  type: number

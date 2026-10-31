@@ -1,0 +1,5 @@
+---
+name: SetFading
+status: unimplemented
+inputs:
+- - type: boolean

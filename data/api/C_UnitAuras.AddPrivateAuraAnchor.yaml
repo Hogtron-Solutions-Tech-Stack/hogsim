@@ -1,0 +1,9 @@
+---
+name: C_UnitAuras.AddPrivateAuraAnchor
+status: unimplemented
+inputs:
+- - type: AddPrivateAuraAnchorArgs
+outputs:
+- name: anchorID
+  nilable: true
+  type: number

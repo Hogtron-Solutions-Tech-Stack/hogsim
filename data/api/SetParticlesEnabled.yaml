@@ -1,0 +1,5 @@
+---
+name: SetParticlesEnabled
+status: unimplemented
+inputs:
+- - type: boolean

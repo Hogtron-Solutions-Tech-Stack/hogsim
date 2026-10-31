@@ -1,0 +1,8 @@
+---
+name: C_WorldLootObject.GetWorldLootObjectInfoByGUID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: info
+  type: WorldLootObjectInfo

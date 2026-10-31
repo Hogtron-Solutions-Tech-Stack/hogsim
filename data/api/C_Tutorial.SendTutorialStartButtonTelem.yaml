@@ -1,0 +1,5 @@
+---
+name: C_Tutorial.SendTutorialStartButtonTelem
+status: unimplemented
+inputs:
+- - type: boolean

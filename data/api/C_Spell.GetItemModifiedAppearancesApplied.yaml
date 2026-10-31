@@ -1,0 +1,9 @@
+---
+name: C_Spell.GetItemModifiedAppearancesApplied
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: itemModifiedAppearanceIDs
+  type: table

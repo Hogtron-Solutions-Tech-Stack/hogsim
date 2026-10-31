@@ -1,0 +1,7 @@
+---
+name: ChallengeModeCompletionMemberInfo
+fields:
+- name: memberGUID
+  type: string
+- name: name
+  type: string

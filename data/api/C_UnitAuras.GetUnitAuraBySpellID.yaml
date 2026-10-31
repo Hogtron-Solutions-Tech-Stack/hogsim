@@ -1,0 +1,10 @@
+---
+name: C_UnitAuras.GetUnitAuraBySpellID
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: unknown
+outputs:
+- name: aura
+  nilable: true
+  type: unknown

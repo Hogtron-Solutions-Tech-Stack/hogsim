@@ -1,0 +1,15 @@
+---
+name: CreateVectorGraphics
+status: unimplemented
+inputs:
+- - nilable: true
+    type: string
+  - nilable: true
+    type: unknown
+  - nilable: true
+    type: string
+  - nilable: true
+    type: number
+outputs:
+- name: vectorGraphics
+  type: unknown

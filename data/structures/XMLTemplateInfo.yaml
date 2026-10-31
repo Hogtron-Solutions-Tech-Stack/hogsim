@@ -1,0 +1,17 @@
+---
+name: XMLTemplateInfo
+fields:
+- name: type
+  type: string
+- name: width
+  type: number
+- name: height
+  type: number
+- innerType: XMLTemplateKeyValue
+  name: keyValues
+  type: table
+- name: inherits
+  nilable: true
+  type: string
+- name: sourceLocation
+  type: string

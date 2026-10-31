@@ -1,0 +1,6 @@
+---
+name: C_ChallengeMode.GetStartTime
+status: unimplemented
+outputs:
+- name: startTime
+  type: number

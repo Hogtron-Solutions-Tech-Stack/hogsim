@@ -1,0 +1,5 @@
+---
+name: C_Reputation.ToggleFactionAtWar
+status: unimplemented
+inputs:
+- - type: number

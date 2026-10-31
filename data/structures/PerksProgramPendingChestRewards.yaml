@@ -1,0 +1,17 @@
+---
+name: PerksProgramPendingChestRewards
+fields:
+- name: rewardTypeID
+  type: number
+- name: perksVendorItemID
+  nilable: true
+  type: number
+- name: rewardAmount
+  type: number
+- name: monthRewarded
+  nilable: true
+  type: string
+- name: activityMonthID
+  type: number
+- name: thresholdOrderIndex
+  type: number

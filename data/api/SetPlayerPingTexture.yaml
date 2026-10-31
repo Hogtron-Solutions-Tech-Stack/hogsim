@@ -1,0 +1,10 @@
+---
+name: SetPlayerPingTexture
+status: unimplemented
+inputs:
+- - type: number
+  - type: unknown
+  - default: 0
+    type: number
+  - default: 0
+    type: number

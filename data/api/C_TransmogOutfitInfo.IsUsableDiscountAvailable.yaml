@@ -1,0 +1,6 @@
+---
+name: C_TransmogOutfitInfo.IsUsableDiscountAvailable
+status: unimplemented
+outputs:
+- name: isAvailable
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: SetRotatesTexture
+status: unimplemented
+inputs:
+- - type: boolean

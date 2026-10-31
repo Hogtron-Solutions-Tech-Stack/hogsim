@@ -1,0 +1,11 @@
+---
+name: RemixArtifactArtInfo
+fields:
+- name: textureKit
+  type: string
+- name: titleName
+  type: string
+- name: uiModelSceneID
+  type: number
+- name: spellVisualKitID
+  type: number

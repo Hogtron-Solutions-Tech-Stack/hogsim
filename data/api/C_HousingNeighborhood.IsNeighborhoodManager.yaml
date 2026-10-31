@@ -1,0 +1,6 @@
+---
+name: C_HousingNeighborhood.IsNeighborhoodManager
+status: unimplemented
+outputs:
+- name: isManager
+  type: boolean

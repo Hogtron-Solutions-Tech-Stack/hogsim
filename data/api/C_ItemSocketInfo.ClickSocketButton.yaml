@@ -1,0 +1,5 @@
+---
+name: C_ItemSocketInfo.ClickSocketButton
+status: unimplemented
+inputs:
+- - type: number

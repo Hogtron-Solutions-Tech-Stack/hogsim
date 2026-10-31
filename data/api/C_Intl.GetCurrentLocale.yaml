@@ -1,0 +1,6 @@
+---
+name: C_Intl.GetCurrentLocale
+status: unimplemented
+outputs:
+- name: result
+  type: string

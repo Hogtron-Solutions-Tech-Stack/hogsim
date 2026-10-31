@@ -1,0 +1,33 @@
+---
+name: InitiativeTaskInfo
+fields:
+- name: ID
+  type: number
+- name: taskName
+  type: string
+- name: description
+  type: string
+- name: progressContributionAmount
+  type: number
+- name: tracked
+  type: boolean
+- name: supersedes
+  type: number
+- name: timesCompleted
+  type: number
+- name: completed
+  type: boolean
+- name: inProgress
+  type: boolean
+- name: taskType
+  type: number
+- name: sortOrder
+  type: number
+- name: rewardQuestID
+  type: number
+- innerType: CriteriaRequirement
+  name: requirementsList
+  type: table
+- innerType: CriteriaRequiredValue
+  name: criteriaList
+  type: table

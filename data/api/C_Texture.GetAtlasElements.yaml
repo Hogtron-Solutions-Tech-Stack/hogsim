@@ -1,0 +1,7 @@
+---
+name: C_Texture.GetAtlasElements
+status: unimplemented
+outputs:
+- innerType: string
+  name: atlases
+  type: table

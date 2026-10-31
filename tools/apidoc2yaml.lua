@@ -14,10 +14,25 @@ local docdir = ('extracts/%s/Interface/AddOns/Blizzard_APIDocumentationGenerated
 assert(plpath.isdir(docdir), 'no API documentation extracted at ' .. docdir)
 
 local docs = {}
+local currentFile
+-- The doc tables reference Enum.X.Y and Constants.X.Y while being built; any lookup must succeed.
+local function autoviv()
+  return setmetatable({}, { __index = function(t, k)
+    local v = setmetatable({}, { __index = function() return 0 end })
+    rawset(t, k, v)
+    return v
+  end })
+end
 local env = setmetatable({
-  APIDocumentation = { AddDocumentationTable = function(_, t) docs[#docs + 1] = t end },
+  APIDocumentation = { AddDocumentationTable = function(_, t)
+    t.__file = currentFile
+    docs[#docs + 1] = t
+  end },
+  Enum = autoviv(),
+  Constants = autoviv(),
 }, { __index = _G })
 for _, f in ipairs(pldir.getfiles(docdir, '*.lua')) do
+  currentFile = (plpath.basename(f):gsub('Documentation%.lua$', ''))
   local fn = assert(loadfile(f))
   setfenv(fn, env)
   fn()
@@ -150,3 +165,88 @@ writeyaml(globalsfile, globals)
 
 print(('apidoc2yaml %s: %d doc tables; structures +%d, apis %d (stubs +%d), events %d, enums %d, constants %d'):format(
   product, #docs, stats.structures, stats.apis, stats.stubs, stats.events, stats.enums, stats.constants))
+
+-- 5. script-object methods -> data/uiobjects/<Type>/<Type>.yaml, declared "unimplemented" where missing so a
+--    call returns nothing instead of "attempt to call method ... (a nil value)". The engine flattens the
+--    inheritance graph and refuses a method declared twice along any path, so a method is only added to a
+--    type when no ancestor, no descendant and no other ancestor of a descendant already declares it.
+local typemap = {
+  SimpleAnimAPI = 'Animation', SimpleAnimAlphaAPI = 'Alpha', SimpleAnimGroupAPI = 'AnimationGroup',
+  SimpleAnimPathAPI = 'Path', SimpleAnimRotationAPI = 'Rotation', SimpleAnimScaleAPI = 'Scale',
+  SimpleAnimScaleLineAPI = 'LineScale', SimpleAnimTextureCoordTranslationAPI = 'TextureCoordTranslation',
+  SimpleAnimTranslationAPI = 'Translation', SimpleAnimTranslationLineAPI = 'LineTranslation',
+  SimpleBrowserAPI = 'Browser', SimpleButtonAPI = 'Button', SimpleCheckboxAPI = 'CheckButton',
+  SimpleColorSelectAPI = 'ColorSelect', SimpleControlPointAPI = 'ControlPoint', SimpleEditBoxAPI = 'EditBox',
+  SimpleFontAPI = 'Font', SimpleFontStringAPI = 'FontString', SimpleFrameAPI = 'Frame',
+  SimpleFrameScriptObjectAPI = 'ScriptObject', SimpleHTMLAPI = 'SimpleHTML', SimpleLineAPI = 'Line',
+  SimpleMaskTextureAPI = 'MaskTexture', SimpleMessageFrameAPI = 'MessageFrame', SimpleModelAPI = 'Model',
+  SimpleMovieAPI = 'MovieFrame', SimpleObjectAPI = 'UIObject', SimpleOffScreenFrameAPI = 'OffScreenFrame',
+  SimpleRegionAPI = 'Region', SimpleScriptRegionAPI = 'Region', SimpleScriptRegionResizingAPI = 'Region',
+  SimpleScrollFrameAPI = 'ScrollFrame', SimpleSliderAPI = 'Slider', SimpleStatusBarAPI = 'StatusBar',
+  SimpleTextureAPI = 'Texture', SimpleTextureBaseAPI = 'Texture',
+  FrameAPIModelSceneFrame = 'ModelScene', FrameAPIModelSceneFrameShared = 'ModelScene',
+  FrameAPIModelSceneFrameActor = 'Actor', FrameAPIModelSceneFrameActorBase = 'Actor',
+  FrameAPITooltip = 'GameTooltip', FrameAPICooldown = 'Cooldown', FrameAPIDressUpModel = 'DressUpModel',
+  FrameAPITabardModel = 'TabardModel', FrameAPITabardModelBase = 'TabardModel',
+  FrameAPICinematicModel = 'CinematicModel', FrameAPICharacterModelBase = 'PlayerModel',
+  FrameAPIFogOfWarFrame = 'FogOfWarFrame', FrameAPIQuestPOI = 'QuestPOIFrame',
+  FrameAPIScenarioPOI = 'ScenarioPOIFrame', FrameAPISimpleCheckout = 'Checkout',
+  FrameAPIUnitPositionFrame = 'UnitPositionFrame',
+}
+local types, parents = {}, {}
+for _, d in ipairs(pldir.getdirectories('data/uiobjects')) do
+  local t = plpath.basename(d)
+  local y = ('data/uiobjects/%s/%s.yaml'):format(t, t)
+  if plpath.exists(y) then
+    types[t] = yaml.parseFile(y)
+    parents[t] = {}
+    for p in pairs(types[t].inherits or {}) do parents[t][#parents[t] + 1] = p end
+  end
+end
+local function closure(t, seen)
+  for _, p in ipairs(parents[t] or {}) do
+    if not seen[p] then
+      seen[p] = true
+      closure(p, seen)
+    end
+  end
+  return seen
+end
+local anc = {}
+for t in pairs(types) do anc[t] = closure(t, {}) end
+local function declared(t, m) return types[t] and types[t].methods and types[t].methods[m] ~= nil end
+local function conflicts(t, m)
+  if declared(t, m) then return true end
+  for a in pairs(anc[t]) do if declared(a, m) then return true end end
+  for d, cl in pairs(anc) do
+    if cl[t] then
+      if declared(d, m) then return true end
+      for x in pairs(cl) do if x ~= t and declared(x, m) then return true end end
+    end
+  end
+  return false
+end
+stats.methods, stats.skipped = 0, 0
+local touched = {}
+for _, d in ipairs(docs) do
+  local ty = d.__file and typemap[d.__file]
+  if ty and types[ty] then
+    types[ty].methods = types[ty].methods or {}
+    for _, fn in ipairs(d.Functions or {}) do
+      if conflicts(ty, fn.Name) then
+        stats.skipped = stats.skipped + 1
+      else
+        types[ty].methods[fn.Name] = { status = 'unimplemented' }
+        stats.methods = stats.methods + 1
+        touched[ty] = true
+      end
+    end
+  end
+end
+local ntypes = 0
+for ty in pairs(touched) do
+  ntypes = ntypes + 1
+  writeyaml(('data/uiobjects/%s/%s.yaml'):format(ty, ty), types[ty])
+end
+print(('apidoc2yaml %s: uiobject methods +%d across %d types (%d already provided along the inheritance graph)'):format(
+  product, stats.methods, ntypes, stats.skipped))

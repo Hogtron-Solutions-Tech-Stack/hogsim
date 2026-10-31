@@ -1,0 +1,19 @@
+---
+name: RecentAllyCharacterData
+fields:
+- name: guid
+  type: string
+- name: name
+  type: string
+- name: fullName
+  type: string
+- name: realmName
+  type: string
+- name: level
+  type: number
+- name: classID
+  type: number
+- name: raceID
+  type: number
+- name: sex
+  type: number

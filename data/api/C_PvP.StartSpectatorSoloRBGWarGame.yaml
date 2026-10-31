@@ -1,0 +1,11 @@
+---
+name: C_PvP.StartSpectatorSoloRBGWarGame
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: string
+  - type: boolean
+outputs:
+- name: success
+  type: number

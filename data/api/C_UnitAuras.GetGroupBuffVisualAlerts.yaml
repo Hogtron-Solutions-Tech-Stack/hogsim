@@ -1,0 +1,7 @@
+---
+name: C_UnitAuras.GetGroupBuffVisualAlerts
+status: unimplemented
+outputs:
+- innerType: GroupBuffVisualAlertInfo
+  name: visualAlerts
+  type: table

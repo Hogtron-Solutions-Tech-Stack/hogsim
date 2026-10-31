@@ -1,0 +1,11 @@
+---
+name: C_EncodingUtil.SerializeJSON
+status: unimplemented
+inputs:
+- - nilable: true
+    type: unknown
+  - nilable: true
+    type: JSONSerializationOptions
+outputs:
+- name: output
+  type: string

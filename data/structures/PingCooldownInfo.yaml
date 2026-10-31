@@ -1,0 +1,7 @@
+---
+name: PingCooldownInfo
+fields:
+- name: startTimeMs
+  type: number
+- name: endTimeMs
+  type: number

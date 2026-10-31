@@ -1,0 +1,6 @@
+---
+name: C_Reputation.GetSelectedFaction
+status: unimplemented
+outputs:
+- name: selectedFactionSortIndex
+  type: number

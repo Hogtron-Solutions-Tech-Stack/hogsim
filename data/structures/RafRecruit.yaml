@@ -1,0 +1,20 @@
+---
+name: RafRecruit
+fields:
+- name: bnetAccountID
+  type: number
+- name: wowAccountGUID
+  type: string
+- name: battleTag
+  type: string
+- name: monthsRemaining
+  type: number
+- name: subStatus
+  type: number
+- name: acceptanceID
+  type: number
+- name: versionRecruited
+  type: number
+- innerType: RafRecruitActivity
+  name: activities
+  type: table

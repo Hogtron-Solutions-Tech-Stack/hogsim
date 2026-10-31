@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.GetTempShapeshiftBarIndex
+status: unimplemented
+outputs:
+- name: tempShapeshiftBarIndex
+  type: number

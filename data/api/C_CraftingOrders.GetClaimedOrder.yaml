@@ -1,0 +1,7 @@
+---
+name: C_CraftingOrders.GetClaimedOrder
+status: unimplemented
+outputs:
+- name: order
+  nilable: true
+  type: CraftingOrderInfo

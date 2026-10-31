@@ -1,0 +1,6 @@
+---
+name: C_TransmogCollection.HasAnyAppearance
+status: unimplemented
+outputs:
+- name: hasAnyAppearance
+  type: boolean

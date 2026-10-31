@@ -1,0 +1,18 @@
+---
+name: EncounterLootDropRollInfo
+fields:
+- name: playerName
+  type: string
+- name: playerGUID
+  type: string
+- name: playerClass
+  type: string
+- name: isSelf
+  type: boolean
+- name: state
+  type: number
+- name: isWinner
+  type: boolean
+- name: roll
+  nilable: true
+  type: number

@@ -1,0 +1,14 @@
+---
+name: TraitConfigInfo
+fields:
+- name: ID
+  type: number
+- name: type
+  type: number
+- name: name
+  type: string
+- innerType: number
+  name: treeIDs
+  type: table
+- name: usesSharedActionBars
+  type: boolean

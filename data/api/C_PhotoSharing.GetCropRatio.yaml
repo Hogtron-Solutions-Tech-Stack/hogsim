@@ -1,0 +1,6 @@
+---
+name: C_PhotoSharing.GetCropRatio
+status: unimplemented
+outputs:
+- name: cropRatio
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_TransmogOutfitInfo.GetUnassignedDisplayAtlasForSlot
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: atlas
+  type: string

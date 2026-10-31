@@ -1,0 +1,8 @@
+---
+name: C_MajorFactions.ShouldDisplayMajorFactionAsJourney
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: shouldDisplayMajorFactionAsJourney
+  type: boolean

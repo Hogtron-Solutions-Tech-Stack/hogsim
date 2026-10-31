@@ -1,0 +1,7 @@
+---
+name: SetLightDiffuseColor
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number

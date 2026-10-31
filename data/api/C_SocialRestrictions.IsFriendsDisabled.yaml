@@ -1,0 +1,6 @@
+---
+name: C_SocialRestrictions.IsFriendsDisabled
+status: unimplemented
+outputs:
+- name: disabled
+  type: boolean

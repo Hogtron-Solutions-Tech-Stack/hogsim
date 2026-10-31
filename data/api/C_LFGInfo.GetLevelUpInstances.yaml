@@ -1,0 +1,10 @@
+---
+name: C_LFGInfo.GetLevelUpInstances
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean
+outputs:
+- innerType: number
+  name: instances
+  type: table

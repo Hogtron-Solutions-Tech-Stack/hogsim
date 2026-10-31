@@ -1,0 +1,15 @@
+---
+name: UnitHealPredictionValues
+fields:
+- name: health
+  type: number
+- name: healthMax
+  type: number
+- name: totalIncomingHeals
+  type: number
+- name: totalIncomingHealsFromHealer
+  type: number
+- name: totalDamageAbsorbs
+  type: number
+- name: totalHealAbsorbs
+  type: number

@@ -1,0 +1,9 @@
+---
+name: PingTypeInfo
+fields:
+- name: orderIndex
+  type: number
+- name: type
+  type: number
+- name: uiTextureKitID
+  type: string

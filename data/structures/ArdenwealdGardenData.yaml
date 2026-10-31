@@ -1,0 +1,9 @@
+---
+name: ArdenwealdGardenData
+fields:
+- name: active
+  type: number
+- name: ready
+  type: number
+- name: remainingSeconds
+  type: number

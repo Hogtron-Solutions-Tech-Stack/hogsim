@@ -1,0 +1,8 @@
+---
+name: C_ContentTracking.GetVendorTrackingInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: vendorTrackingInfo
+  type: VendorTrackingInfo

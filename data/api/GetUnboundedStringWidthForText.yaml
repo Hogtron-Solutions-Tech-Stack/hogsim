@@ -1,0 +1,8 @@
+---
+name: GetUnboundedStringWidthForText
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: width
+  type: number

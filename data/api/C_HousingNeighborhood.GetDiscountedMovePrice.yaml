@@ -1,0 +1,6 @@
+---
+name: C_HousingNeighborhood.GetDiscountedMovePrice
+status: unimplemented
+outputs:
+- name: movePrice
+  type: number

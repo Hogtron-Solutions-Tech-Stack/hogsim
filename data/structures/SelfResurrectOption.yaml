@@ -1,0 +1,15 @@
+---
+name: SelfResurrectOption
+fields:
+- name: name
+  type: string
+- name: optionType
+  type: number
+- name: id
+  type: number
+- name: canUse
+  type: boolean
+- name: isLimited
+  type: boolean
+- name: priority
+  type: number

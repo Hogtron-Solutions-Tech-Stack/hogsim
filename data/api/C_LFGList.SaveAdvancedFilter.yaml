@@ -1,0 +1,5 @@
+---
+name: C_LFGList.SaveAdvancedFilter
+status: unimplemented
+inputs:
+- - type: AdvancedFilterOptions

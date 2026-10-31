@@ -1,0 +1,6 @@
+---
+name: C_HouseExterior.IsExteriorDecorHidden
+status: unimplemented
+outputs:
+- name: decorHidden
+  type: boolean

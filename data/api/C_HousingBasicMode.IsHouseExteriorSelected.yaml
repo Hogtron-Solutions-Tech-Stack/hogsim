@@ -1,0 +1,6 @@
+---
+name: C_HousingBasicMode.IsHouseExteriorSelected
+status: unimplemented
+outputs:
+- name: isHouseExteriorSelected
+  type: boolean

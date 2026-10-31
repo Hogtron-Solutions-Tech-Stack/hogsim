@@ -1,0 +1,7 @@
+---
+name: SpecializationCurrencyInfo
+fields:
+- name: numAvailable
+  type: number
+- name: currencyName
+  type: string

@@ -1,0 +1,6 @@
+---
+name: GetLineHeight
+status: unimplemented
+outputs:
+- name: lineHeight
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_Timer.NewTimedSignalMap
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: signalMap
+  type: unknown

@@ -1,0 +1,6 @@
+---
+name: IsGuildTabard
+status: unimplemented
+outputs:
+- name: isGuildTabard
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: SetAlphaGradient
+status: unimplemented
+inputs:
+- - type: number
+  - type: unknown

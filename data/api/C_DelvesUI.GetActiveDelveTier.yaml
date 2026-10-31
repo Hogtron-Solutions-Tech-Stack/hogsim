@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.GetActiveDelveTier
+status: unimplemented
+outputs:
+- name: tierInfo
+  type: TieredEntranceTierInfo

@@ -1,0 +1,14 @@
+---
+name: UnitPowerPercent
+status: unimplemented
+inputs:
+- - type: unknown
+  - nilable: true
+    type: number
+  - default: false
+    type: boolean
+  - nilable: true
+    type: unknown
+outputs:
+- name: result
+  type: unknown

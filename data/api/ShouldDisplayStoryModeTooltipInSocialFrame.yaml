@@ -1,0 +1,6 @@
+---
+name: ShouldDisplayStoryModeTooltipInSocialFrame
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

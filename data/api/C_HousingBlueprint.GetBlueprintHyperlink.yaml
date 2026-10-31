@@ -1,0 +1,8 @@
+---
+name: C_HousingBlueprint.GetBlueprintHyperlink
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: hyperLink
+  type: string

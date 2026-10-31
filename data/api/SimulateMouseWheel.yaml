@@ -1,0 +1,5 @@
+---
+name: SimulateMouseWheel
+status: unimplemented
+inputs:
+- - type: number

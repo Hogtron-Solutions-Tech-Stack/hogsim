@@ -1,0 +1,8 @@
+---
+name: C_PartyInfo.IsLootMethodAvailable
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: available
+  type: boolean

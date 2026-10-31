@@ -1,0 +1,5 @@
+---
+name: C_PerksProgram.RequestPurchase
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,10 @@
+---
+name: C_AutoComplete.IsRecognizedName
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - type: number
+outputs:
+- name: isRecognizedName
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: SetEndColor
+status: unimplemented
+inputs:
+- - type: unknown

@@ -1,0 +1,6 @@
+---
+name: IsObjectLoaded
+status: unimplemented
+outputs:
+- name: isLoaded
+  type: boolean

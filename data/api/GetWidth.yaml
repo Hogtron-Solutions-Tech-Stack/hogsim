@@ -1,0 +1,9 @@
+---
+name: GetWidth
+status: unimplemented
+inputs:
+- - default: false
+    type: boolean
+outputs:
+- name: width
+  type: number

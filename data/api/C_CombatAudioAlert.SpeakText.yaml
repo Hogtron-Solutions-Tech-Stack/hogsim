@@ -1,0 +1,11 @@
+---
+name: C_CombatAudioAlert.SpeakText
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - default: true
+    type: boolean
+outputs:
+- name: utteranceID
+  type: number

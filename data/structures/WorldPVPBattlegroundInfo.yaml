@@ -1,0 +1,19 @@
+---
+name: WorldPVPBattlegroundInfo
+fields:
+- name: bgID
+  type: number
+- name: name
+  type: string
+- name: isActive
+  type: boolean
+- name: canQueue
+  type: boolean
+- name: canEnter
+  type: boolean
+- name: startTime
+  type: number
+- name: minLevel
+  type: number
+- name: maxLevel
+  type: number

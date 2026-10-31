@@ -1,0 +1,5 @@
+---
+name: SetMaxInterval
+status: unimplemented
+inputs:
+- - type: number

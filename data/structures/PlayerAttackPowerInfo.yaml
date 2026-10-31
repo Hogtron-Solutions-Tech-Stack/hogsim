@@ -1,0 +1,13 @@
+---
+name: PlayerAttackPowerInfo
+fields:
+- name: mainHandAttackPower
+  type: number
+- name: offHandAttackPower
+  type: number
+- name: rangedAttackPower
+  type: number
+- name: baseAttackPower
+  type: number
+- name: baseRangedAttackPower
+  type: number

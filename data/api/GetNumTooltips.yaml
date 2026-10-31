@@ -1,0 +1,6 @@
+---
+name: GetNumTooltips
+status: unimplemented
+outputs:
+- name: numObjectives
+  type: number

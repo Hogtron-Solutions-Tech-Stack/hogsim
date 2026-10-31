@@ -1,0 +1,15 @@
+---
+name: ConquestWeeklyProgress
+fields:
+- name: progress
+  type: number
+- name: maxProgress
+  type: number
+- name: displayType
+  type: number
+- name: unlocksCompleted
+  type: number
+- name: maxUnlocks
+  type: number
+- name: sampleItemHyperlink
+  type: string

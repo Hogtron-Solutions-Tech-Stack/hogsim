@@ -1,0 +1,17 @@
+---
+name: DamageMeterCombatSpellUnitDetails
+fields:
+- name: unitName
+  type: string
+- name: unitClassFilename
+  type: string
+- name: classification
+  type: string
+- name: isPet
+  type: boolean
+- name: isMob
+  type: boolean
+- name: amount
+  type: number
+- name: specIconID
+  type: number

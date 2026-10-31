@@ -1,0 +1,8 @@
+---
+name: C_AddOns.GetAddOnSecurity
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: security
+  type: number

@@ -1,0 +1,6 @@
+---
+name: GetSheathed
+status: unimplemented
+outputs:
+- name: sheathed
+  type: boolean

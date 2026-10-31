@@ -1,0 +1,8 @@
+---
+name: C_Spell.SpellHasRange
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: hasRange
+  type: boolean

@@ -1,0 +1,8 @@
+---
+name: C_PartyInfo.GetInstanceAbandonShutdownTime
+status: unimplemented
+outputs:
+- name: durationSeconds
+  type: number
+- name: timeLeftSeconds
+  type: number

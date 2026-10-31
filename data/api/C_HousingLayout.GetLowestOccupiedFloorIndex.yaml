@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.GetLowestOccupiedFloorIndex
+status: unimplemented
+outputs:
+- name: lowestFloorIndex
+  type: number

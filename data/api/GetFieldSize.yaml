@@ -1,0 +1,6 @@
+---
+name: GetFieldSize
+status: unimplemented
+outputs:
+- name: fieldSize
+  type: number

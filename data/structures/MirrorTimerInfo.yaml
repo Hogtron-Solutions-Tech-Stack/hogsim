@@ -1,0 +1,17 @@
+---
+name: MirrorTimerInfo
+fields:
+- name: name
+  type: string
+- name: startValue
+  type: number
+- name: maxValue
+  type: number
+- name: scale
+  type: number
+- name: paused
+  type: number
+- name: label
+  type: string
+- name: spellID
+  type: number

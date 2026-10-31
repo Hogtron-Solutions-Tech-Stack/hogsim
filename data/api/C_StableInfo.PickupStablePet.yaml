@@ -1,0 +1,5 @@
+---
+name: C_StableInfo.PickupStablePet
+status: unimplemented
+inputs:
+- - type: number

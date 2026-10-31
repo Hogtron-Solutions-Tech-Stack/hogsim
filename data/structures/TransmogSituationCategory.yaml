@@ -1,0 +1,14 @@
+---
+name: TransmogSituationCategory
+fields:
+- name: triggerID
+  type: number
+- name: name
+  type: string
+- name: description
+  type: string
+- name: isRadioButton
+  type: boolean
+- innerType: TransmogSituationGroup
+  name: groupData
+  type: table

@@ -1,0 +1,5 @@
+---
+name: SetUseTransmogSkin
+status: unimplemented
+inputs:
+- - type: boolean

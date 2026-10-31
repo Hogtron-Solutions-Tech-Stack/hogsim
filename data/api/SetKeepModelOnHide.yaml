@@ -1,0 +1,5 @@
+---
+name: SetKeepModelOnHide
+status: unimplemented
+inputs:
+- - type: boolean

@@ -1,0 +1,12 @@
+---
+name: C_Container.UseContainerItem
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - nilable: true
+    type: unit
+  - nilable: true
+    type: number
+  - default: false
+    type: boolean

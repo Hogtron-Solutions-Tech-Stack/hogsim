@@ -1,0 +1,6 @@
+---
+name: GetSortType
+status: unimplemented
+outputs:
+- name: sortType
+  type: number

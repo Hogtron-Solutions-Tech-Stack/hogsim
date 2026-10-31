@@ -1,0 +1,7 @@
+---
+name: IslandsQueueDifficultyInfo
+fields:
+- name: difficultyId
+  type: number
+- name: previewRewardQuestId
+  type: number

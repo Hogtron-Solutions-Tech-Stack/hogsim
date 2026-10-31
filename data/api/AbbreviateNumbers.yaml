@@ -1,0 +1,10 @@
+---
+name: AbbreviateNumbers
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: NumberAbbrevOptions
+outputs:
+- name: result
+  type: string

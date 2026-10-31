@@ -1,0 +1,6 @@
+---
+name: GetUseAuraDisplayTime
+status: unimplemented
+outputs:
+- name: useAuraDisplayTime
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_BlizzCon2026.GetExperience
+status: unimplemented
+outputs:
+- name: experience
+  type: number

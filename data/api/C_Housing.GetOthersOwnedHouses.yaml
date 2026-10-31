@@ -1,0 +1,9 @@
+---
+name: C_Housing.GetOthersOwnedHouses
+status: unimplemented
+inputs:
+- - nilable: true
+    type: string
+  - nilable: true
+    type: number
+  - type: boolean

@@ -1,0 +1,29 @@
+---
+name: TransmogAppearanceInfoBySourceData
+fields:
+- name: appearanceID
+  type: number
+- name: appearanceIsCollected
+  type: boolean
+- name: sourceIsCollected
+  type: boolean
+- name: sourceIsCollectedPermanent
+  type: boolean
+- name: sourceIsCollectedConditional
+  type: boolean
+- name: meetsTransmogPlayerCondition
+  type: boolean
+- name: appearanceHasAnyNonLevelRequirements
+  type: boolean
+- name: appearanceMeetsNonLevelRequirements
+  type: boolean
+- name: appearanceIsUsable
+  type: boolean
+- name: appearanceNumSources
+  type: number
+- name: sourceIsKnown
+  type: boolean
+- name: canDisplayOnPlayer
+  type: boolean
+- name: isAnySourceValidForPlayer
+  type: boolean

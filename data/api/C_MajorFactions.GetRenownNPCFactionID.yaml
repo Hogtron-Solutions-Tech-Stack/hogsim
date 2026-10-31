@@ -1,0 +1,6 @@
+---
+name: C_MajorFactions.GetRenownNPCFactionID
+status: unimplemented
+outputs:
+- name: renownNPCFactionID
+  type: number

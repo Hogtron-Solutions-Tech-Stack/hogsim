@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.IsBattleNetFriendsListEnabled
+status: unimplemented
+outputs:
+- name: isBattleNetFriendsListEnabled
+  type: boolean

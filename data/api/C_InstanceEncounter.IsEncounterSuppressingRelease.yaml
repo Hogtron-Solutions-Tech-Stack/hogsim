@@ -1,0 +1,6 @@
+---
+name: C_InstanceEncounter.IsEncounterSuppressingRelease
+status: unimplemented
+outputs:
+- name: isSuppressingRelease
+  type: boolean

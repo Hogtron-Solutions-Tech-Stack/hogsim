@@ -1,0 +1,8 @@
+---
+name: C_SpellBook.CastSpellBookItem
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - default: false
+    type: boolean

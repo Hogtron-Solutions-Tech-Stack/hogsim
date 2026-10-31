@@ -1,0 +1,6 @@
+---
+name: GetFogNear
+status: unimplemented
+outputs:
+- name: fogNear
+  type: number

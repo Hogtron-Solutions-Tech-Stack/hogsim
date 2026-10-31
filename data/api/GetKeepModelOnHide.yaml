@@ -1,0 +1,6 @@
+---
+name: GetKeepModelOnHide
+status: unimplemented
+outputs:
+- name: keepModelOnHide
+  type: boolean

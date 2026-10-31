@@ -1,0 +1,9 @@
+---
+name: C_CombatLogSecure.CreateCombatLogMessage
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - type: number
+  - type: number
+  - type: number

@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.AreTitleFriendsEnabled
+status: unimplemented
+outputs:
+- name: areTitleFriendsEnabled
+  type: boolean

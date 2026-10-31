@@ -1,0 +1,6 @@
+---
+name: C_PaperDollInfo.AmmoNeeded
+status: unimplemented
+outputs:
+- name: ammoNeeded
+  type: boolean

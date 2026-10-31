@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.GetTieredEntrancePDEID
+status: unimplemented
+outputs:
+- name: pdeID
+  type: number

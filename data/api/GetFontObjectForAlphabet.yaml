@@ -1,0 +1,8 @@
+---
+name: GetFontObjectForAlphabet
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: font
+  type: unknown

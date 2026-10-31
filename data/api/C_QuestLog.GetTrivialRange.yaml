@@ -1,0 +1,6 @@
+---
+name: C_QuestLog.GetTrivialRange
+status: unimplemented
+outputs:
+- name: range
+  type: number

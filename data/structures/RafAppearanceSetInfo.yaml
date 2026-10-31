@@ -1,0 +1,10 @@
+---
+name: RafAppearanceSetInfo
+fields:
+- name: setID
+  type: number
+- name: setName
+  type: string
+- innerType: number
+  name: appearanceIDs
+  type: table

@@ -1,0 +1,6 @@
+---
+name: CanRoundUpLastUnit
+status: unimplemented
+outputs:
+- name: canRound
+  type: boolean

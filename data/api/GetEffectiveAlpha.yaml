@@ -1,0 +1,6 @@
+---
+name: GetEffectiveAlpha
+status: unimplemented
+outputs:
+- name: effectiveAlpha
+  type: unknown

@@ -1,0 +1,7 @@
+---
+name: CursorFileInfo
+fields:
+- name: name
+  type: string
+- name: hasBaseBlp
+  type: boolean

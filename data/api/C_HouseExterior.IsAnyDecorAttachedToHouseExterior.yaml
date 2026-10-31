@@ -1,0 +1,6 @@
+---
+name: C_HouseExterior.IsAnyDecorAttachedToHouseExterior
+status: unimplemented
+outputs:
+- name: anyAttachedDecor
+  type: boolean

@@ -1,0 +1,9 @@
+---
+name: C_Container.GetContainerItemInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: containerInfo
+  type: ContainerItemInfo

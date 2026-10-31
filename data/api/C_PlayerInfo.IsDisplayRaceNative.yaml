@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.IsDisplayRaceNative
+status: unimplemented
+outputs:
+- name: isDisplayRaceNative
+  type: boolean

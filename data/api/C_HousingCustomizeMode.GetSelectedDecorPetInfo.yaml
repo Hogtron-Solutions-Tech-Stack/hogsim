@@ -1,0 +1,9 @@
+---
+name: C_HousingCustomizeMode.GetSelectedDecorPetInfo
+status: unimplemented
+outputs:
+- name: petID
+  nilable: true
+  type: string
+- name: petBehavior
+  type: number

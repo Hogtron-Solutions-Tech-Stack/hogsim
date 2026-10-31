@@ -1,0 +1,6 @@
+---
+name: GetSearchCount
+status: unimplemented
+outputs:
+- name: searchCount
+  type: number

@@ -1,0 +1,5 @@
+---
+name: C_LiveEvent.OnLiveEventPopupClicked
+status: unimplemented
+inputs:
+- - type: number

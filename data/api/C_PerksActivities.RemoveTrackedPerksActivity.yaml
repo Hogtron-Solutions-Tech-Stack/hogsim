@@ -1,0 +1,5 @@
+---
+name: C_PerksActivities.RemoveTrackedPerksActivity
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,15 @@
+---
+name: RecentAllyInteractionContextData
+fields:
+- name: itemID
+  nilable: true
+  type: number
+- name: locationName
+  nilable: true
+  type: string
+- name: activityDifficultyID
+  nilable: true
+  type: number
+- name: activityDifficultyLevel
+  nilable: true
+  type: number

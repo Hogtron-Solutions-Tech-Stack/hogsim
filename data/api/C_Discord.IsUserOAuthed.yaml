@@ -1,0 +1,6 @@
+---
+name: C_Discord.IsUserOAuthed
+status: unimplemented
+outputs:
+- name: hasOAuth
+  type: boolean

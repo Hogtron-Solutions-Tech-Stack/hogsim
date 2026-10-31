@@ -1,0 +1,6 @@
+---
+name: C_TooltipInfo.GetItemInteractionItem
+status: unimplemented
+outputs:
+- name: data
+  type: unknown

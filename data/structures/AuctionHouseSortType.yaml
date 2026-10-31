@@ -1,0 +1,7 @@
+---
+name: AuctionHouseSortType
+fields:
+- name: sortOrder
+  type: number
+- name: reverseSort
+  type: boolean

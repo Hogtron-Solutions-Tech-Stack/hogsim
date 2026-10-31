@@ -1,0 +1,6 @@
+---
+name: C_TransmogSets.IsUsingDefaultSetsFilters
+status: unimplemented
+outputs:
+- name: isUsingDefaultSetsFilters
+  type: boolean

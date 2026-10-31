@@ -1,0 +1,6 @@
+---
+name: C_GameRules.IsPlunderstorm
+status: unimplemented
+outputs:
+- name: active
+  type: boolean

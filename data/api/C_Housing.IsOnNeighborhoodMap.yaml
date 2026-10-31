@@ -1,0 +1,6 @@
+---
+name: C_Housing.IsOnNeighborhoodMap
+status: unimplemented
+outputs:
+- name: isOnNeighborhoodMap
+  type: boolean

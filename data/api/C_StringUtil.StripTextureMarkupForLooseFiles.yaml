@@ -1,0 +1,8 @@
+---
+name: C_StringUtil.StripTextureMarkupForLooseFiles
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: stripped
+  type: string

@@ -1,0 +1,5 @@
+---
+name: C_EncounterJournal.SetTab
+status: unimplemented
+inputs:
+- - type: number

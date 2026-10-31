@@ -1,0 +1,7 @@
+---
+name: TimedSignalMapEntry
+fields:
+- name: key
+  type: number
+- name: time
+  type: unknown

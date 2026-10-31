@@ -1,0 +1,12 @@
+---
+name: ConsoleEcho
+status: unimplemented
+inputs:
+- - type: string
+  - default: false
+    type: boolean
+  - nilable: true
+    type: string
+outputs:
+- name: result
+  type: boolean

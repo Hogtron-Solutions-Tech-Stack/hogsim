@@ -1,0 +1,6 @@
+---
+name: GetLowerBorderFile
+status: unimplemented
+outputs:
+- name: file
+  type: number

@@ -1,0 +1,6 @@
+---
+name: GetRaisedFrameLevel
+status: unimplemented
+outputs:
+- name: frameLevel
+  type: number

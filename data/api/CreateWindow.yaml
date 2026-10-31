@@ -1,0 +1,12 @@
+---
+name: CreateWindow
+status: unimplemented
+inputs:
+- - default: true
+    type: boolean
+  - default: false
+    type: boolean
+outputs:
+- name: window
+  nilable: true
+  type: unknown

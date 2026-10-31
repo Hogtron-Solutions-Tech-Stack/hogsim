@@ -1,0 +1,10 @@
+---
+name: ItemQuestInfo
+fields:
+- name: isQuestItem
+  type: boolean
+- name: questID
+  nilable: true
+  type: number
+- name: isActive
+  type: boolean

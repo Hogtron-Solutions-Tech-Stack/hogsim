@@ -1,0 +1,6 @@
+---
+name: IsDesaturated
+status: unimplemented
+outputs:
+- name: desaturated
+  type: boolean

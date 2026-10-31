@@ -1,0 +1,6 @@
+---
+name: CanRoundUpIntervals
+status: unimplemented
+outputs:
+- name: canRound
+  type: boolean

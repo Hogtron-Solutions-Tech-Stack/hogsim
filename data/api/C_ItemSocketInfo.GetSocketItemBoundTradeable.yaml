@@ -1,0 +1,6 @@
+---
+name: C_ItemSocketInfo.GetSocketItemBoundTradeable
+status: unimplemented
+outputs:
+- name: socketItemTradeable
+  type: boolean

@@ -1,0 +1,13 @@
+---
+name: C_SpecializationInfo.GetSpecializationMasterySpells
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: boolean
+  - nilable: true
+    type: boolean
+outputs:
+- innerType: number
+  name: spellIDs
+  type: table

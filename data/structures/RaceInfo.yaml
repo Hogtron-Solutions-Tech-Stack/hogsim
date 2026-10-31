@@ -1,0 +1,9 @@
+---
+name: RaceInfo
+fields:
+- name: raceName
+  type: string
+- name: clientFileString
+  type: string
+- name: raceID
+  type: number

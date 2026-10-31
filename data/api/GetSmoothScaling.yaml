@@ -1,0 +1,6 @@
+---
+name: GetSmoothScaling
+status: unimplemented
+outputs:
+- name: smoothScaling
+  type: boolean

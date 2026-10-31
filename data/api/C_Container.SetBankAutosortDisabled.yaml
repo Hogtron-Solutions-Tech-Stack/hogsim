@@ -1,0 +1,5 @@
+---
+name: C_Container.SetBankAutosortDisabled
+status: unimplemented
+inputs:
+- - type: boolean

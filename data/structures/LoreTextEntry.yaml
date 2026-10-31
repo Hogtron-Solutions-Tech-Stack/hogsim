@@ -1,0 +1,7 @@
+---
+name: LoreTextEntry
+fields:
+- name: text
+  type: string
+- name: isHeader
+  type: boolean

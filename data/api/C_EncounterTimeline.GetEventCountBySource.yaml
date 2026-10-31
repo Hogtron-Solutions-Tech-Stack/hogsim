@@ -1,0 +1,8 @@
+---
+name: C_EncounterTimeline.GetEventCountBySource
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: count
+  type: number

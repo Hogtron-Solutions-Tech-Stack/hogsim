@@ -1,0 +1,5 @@
+---
+name: ConsolePrintAllMatchingCommands
+status: unimplemented
+inputs:
+- - type: string

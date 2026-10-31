@@ -1,0 +1,24 @@
+---
+name: AuraContainerTooltipBackdropInfo
+fields:
+- name: bgFile
+  nilable: true
+  type: unknown
+- name: edgeFile
+  nilable: true
+  type: unknown
+- name: edgeSize
+  nilable: true
+  type: number
+- name: insets
+  nilable: true
+  type: AuraContainerTooltipBackdropInsets
+- name: tile
+  nilable: true
+  type: boolean
+- name: tileEdge
+  nilable: true
+  type: boolean
+- name: tileSize
+  nilable: true
+  type: number

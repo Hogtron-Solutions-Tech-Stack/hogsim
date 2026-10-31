@@ -1,0 +1,8 @@
+---
+name: C_CurrencyInfo.IsAccountWideCurrency
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isAccountWideCurrency
+  type: boolean

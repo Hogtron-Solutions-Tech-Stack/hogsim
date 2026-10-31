@@ -1,0 +1,11 @@
+---
+name: C_DyeColor.GetDyeColorsInCategory
+status: unimplemented
+inputs:
+- - type: number
+  - default: false
+    type: boolean
+outputs:
+- innerType: number
+  name: dyeColorIDs
+  type: table

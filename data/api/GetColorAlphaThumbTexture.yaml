@@ -1,0 +1,6 @@
+---
+name: GetColorAlphaThumbTexture
+status: unimplemented
+outputs:
+- name: texture
+  type: unknown

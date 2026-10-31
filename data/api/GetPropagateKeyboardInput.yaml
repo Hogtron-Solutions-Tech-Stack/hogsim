@@ -1,0 +1,6 @@
+---
+name: GetPropagateKeyboardInput
+status: unimplemented
+outputs:
+- name: propagate
+  type: boolean

@@ -1,0 +1,8 @@
+---
+name: CinematicStarted
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - default: true
+    type: boolean

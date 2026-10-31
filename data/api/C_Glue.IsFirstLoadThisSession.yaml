@@ -1,0 +1,6 @@
+---
+name: C_Glue.IsFirstLoadThisSession
+status: unimplemented
+outputs:
+- name: IsFirstLoadThisSession
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetAutoDeclineNeighborhoodInvites
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

@@ -1,0 +1,12 @@
+---
+name: C_ActionBar.GetActionDisplayCount
+status: unimplemented
+inputs:
+- - type: number
+  - default: 9999
+    type: number
+  - default: '*'
+    type: string
+outputs:
+- name: displayCount
+  type: string

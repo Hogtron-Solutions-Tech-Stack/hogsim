@@ -1,0 +1,9 @@
+---
+name: C_AccountStore.GetCategories
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: categories
+  type: table

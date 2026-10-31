@@ -1,0 +1,25 @@
+---
+name: ScenarioInformation
+fields:
+- name: name
+  type: string
+- name: currentStage
+  type: number
+- name: numStages
+  type: number
+- name: flags
+  type: number
+- name: isComplete
+  type: boolean
+- name: xp
+  type: number
+- name: money
+  type: number
+- name: type
+  type: number
+- name: area
+  type: string
+- name: uiTextureKit
+  type: string
+- name: scenarioID
+  type: number

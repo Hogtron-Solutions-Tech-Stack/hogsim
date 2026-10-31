@@ -1,0 +1,5 @@
+---
+name: SetQuestBlobRingScalar
+status: unimplemented
+inputs:
+- - type: number

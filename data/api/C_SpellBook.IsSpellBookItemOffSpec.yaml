@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.IsSpellBookItemOffSpec
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: isOffSpec
+  type: boolean

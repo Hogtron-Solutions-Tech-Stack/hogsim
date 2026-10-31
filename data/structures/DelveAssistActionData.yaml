@@ -1,0 +1,16 @@
+---
+name: DelveAssistActionData
+fields:
+- name: assistedPlayer
+  type: string
+- name: mapName
+  nilable: true
+  type: string
+- name: creatureName
+  nilable: true
+  type: string
+- name: receivedSpellID
+  nilable: true
+  type: number
+- name: assistAction
+  type: number

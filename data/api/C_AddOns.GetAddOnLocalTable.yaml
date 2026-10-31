@@ -1,0 +1,8 @@
+---
+name: C_AddOns.GetAddOnLocalTable
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: table
+  type: unknown

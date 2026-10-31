@@ -1,0 +1,6 @@
+---
+name: GetStringHeight
+status: unimplemented
+outputs:
+- name: height
+  type: number

@@ -1,0 +1,6 @@
+---
+name: GetName
+status: unimplemented
+outputs:
+- name: name
+  type: string

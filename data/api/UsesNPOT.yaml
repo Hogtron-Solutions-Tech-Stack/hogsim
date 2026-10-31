@@ -1,0 +1,7 @@
+---
+name: UsesNPOT
+status: unimplemented
+outputs:
+- name: usesNPOT
+  nilable: true
+  type: boolean

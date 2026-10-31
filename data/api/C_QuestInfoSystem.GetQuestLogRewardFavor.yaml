@@ -1,0 +1,11 @@
+---
+name: C_QuestInfoSystem.GetQuestLogRewardFavor
+status: unimplemented
+inputs:
+- - nilable: true
+    type: number
+  - nilable: true
+    type: boolean
+outputs:
+- name: amount
+  type: number

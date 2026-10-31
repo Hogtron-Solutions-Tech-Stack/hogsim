@@ -1,0 +1,9 @@
+---
+name: C_MacOptions.AreOSShortcutsDisabled
+status: unimplemented
+outputs:
+- name: osShortcutsDisabledCVar
+  nilable: true
+  type: boolean
+- name: osShortcutsDisabled
+  type: boolean

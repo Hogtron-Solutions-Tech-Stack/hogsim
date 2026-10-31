@@ -1,0 +1,9 @@
+---
+name: SeasonTimeInfo
+fields:
+- name: bestTime
+  type: number
+- name: lastTime
+  type: number
+- name: medal
+  type: number

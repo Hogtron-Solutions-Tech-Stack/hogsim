@@ -1,0 +1,8 @@
+---
+name: HighlightText
+status: unimplemented
+inputs:
+- - default: 0
+    type: number
+  - default: -1
+    type: number

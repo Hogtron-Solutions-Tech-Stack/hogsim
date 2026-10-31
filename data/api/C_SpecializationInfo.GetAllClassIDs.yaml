@@ -1,0 +1,7 @@
+---
+name: C_SpecializationInfo.GetAllClassIDs
+status: unimplemented
+outputs:
+- innerType: number
+  name: allClassIDs
+  type: table

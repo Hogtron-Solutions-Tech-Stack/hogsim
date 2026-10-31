@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.HasSelectedRoom
+status: unimplemented
+outputs:
+- name: hasSelectedRoom
+  type: boolean

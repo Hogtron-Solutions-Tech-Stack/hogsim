@@ -1,0 +1,15 @@
+---
+name: SpellChargeInfo
+fields:
+- name: currentCharges
+  type: number
+- name: maxCharges
+  type: number
+- name: cooldownStartTime
+  type: number
+- name: cooldownDuration
+  type: number
+- name: chargeModRate
+  type: number
+- name: isActive
+  type: boolean

@@ -1,0 +1,8 @@
+---
+name: C_HousingBlueprint.IsShareCodeValid
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isValid
+  type: boolean

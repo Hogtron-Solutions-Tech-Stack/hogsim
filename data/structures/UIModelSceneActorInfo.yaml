@@ -1,0 +1,27 @@
+---
+name: UIModelSceneActorInfo
+fields:
+- name: modelActorID
+  type: number
+- name: scriptTag
+  type: string
+- name: position
+  type: unknown
+- name: yaw
+  type: number
+- name: pitch
+  type: number
+- name: roll
+  type: number
+- name: normalizeScaleAggressiveness
+  nilable: true
+  type: number
+- name: useCenterForOriginX
+  type: boolean
+- name: useCenterForOriginY
+  type: boolean
+- name: useCenterForOriginZ
+  type: boolean
+- name: modelActorDisplayID
+  nilable: true
+  type: number

@@ -1,0 +1,5 @@
+---
+name: SetUserPlaced
+status: unimplemented
+inputs:
+- - type: boolean

@@ -1,0 +1,8 @@
+---
+name: CalculateMountScale
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: scale
+  type: number

@@ -1,0 +1,8 @@
+---
+name: GetShadowOffset
+status: unimplemented
+outputs:
+- name: offsetX
+  type: number
+- name: offsetY
+  type: number

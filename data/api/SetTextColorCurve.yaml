@@ -1,0 +1,6 @@
+---
+name: SetTextColorCurve
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number

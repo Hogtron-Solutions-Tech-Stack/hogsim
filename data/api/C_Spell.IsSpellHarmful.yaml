@@ -1,0 +1,8 @@
+---
+name: C_Spell.IsSpellHarmful
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isHarmful
+  type: boolean

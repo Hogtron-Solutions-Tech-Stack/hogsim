@@ -1,0 +1,8 @@
+---
+name: C_EncounterTimeline.GetTrackType
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: trackType
+  type: number

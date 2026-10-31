@@ -1,0 +1,5 @@
+---
+name: C_GuildInfo.Uninvite
+status: unimplemented
+inputs:
+- - type: string

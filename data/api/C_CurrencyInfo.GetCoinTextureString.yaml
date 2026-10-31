@@ -1,0 +1,10 @@
+---
+name: C_CurrencyInfo.GetCoinTextureString
+status: unimplemented
+inputs:
+- - type: number
+  - default: 14
+    type: number
+outputs:
+- name: result
+  type: string

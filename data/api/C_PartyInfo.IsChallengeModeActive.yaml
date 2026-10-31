@@ -1,0 +1,6 @@
+---
+name: C_PartyInfo.IsChallengeModeActive
+status: unimplemented
+outputs:
+- name: active
+  type: boolean

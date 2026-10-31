@@ -1,0 +1,6 @@
+---
+name: GetPredictedValues
+status: unimplemented
+outputs:
+- name: predictedValues
+  type: UnitHealPredictionValues

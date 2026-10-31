@@ -1,0 +1,6 @@
+---
+name: IsCursorVisible
+status: unimplemented
+outputs:
+- name: visible
+  type: boolean

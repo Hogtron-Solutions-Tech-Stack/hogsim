@@ -1,0 +1,7 @@
+---
+name: C_HousingCatalog.GetAllFilterTagGroups
+status: unimplemented
+outputs:
+- innerType: HousingCatalogFilterTagGroupInfo
+  name: filterTagGroups
+  type: table

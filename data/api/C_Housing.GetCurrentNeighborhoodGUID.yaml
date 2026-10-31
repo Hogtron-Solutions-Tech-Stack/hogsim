@@ -1,0 +1,7 @@
+---
+name: C_Housing.GetCurrentNeighborhoodGUID
+status: unimplemented
+outputs:
+- name: neighborhoodGUID
+  nilable: true
+  type: string

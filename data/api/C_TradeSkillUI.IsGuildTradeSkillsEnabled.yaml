@@ -1,0 +1,6 @@
+---
+name: C_TradeSkillUI.IsGuildTradeSkillsEnabled
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: GetControlPoints
+status: unimplemented
+outputs:
+- name: points
+  type: unknown

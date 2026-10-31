@@ -1,0 +1,6 @@
+---
+name: C_VideoOptions.IsSecondaryLightingSupported
+status: unimplemented
+outputs:
+- name: isSupported
+  type: boolean

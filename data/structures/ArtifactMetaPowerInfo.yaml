@@ -1,0 +1,9 @@
+---
+name: ArtifactMetaPowerInfo
+fields:
+- name: spellID
+  type: number
+- name: powerCost
+  type: number
+- name: currentRank
+  type: number

@@ -1,0 +1,5 @@
+---
+name: C_SkillInfo.ExpandSkillHeader
+status: unimplemented
+inputs:
+- - type: number

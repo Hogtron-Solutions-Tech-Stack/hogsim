@@ -1,0 +1,5 @@
+---
+name: C_UnitAuras.RemovePrivateAuraAnchor
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,6 @@
+---
+name: IsIgnoringChildrenForBounds
+status: unimplemented
+outputs:
+- name: ignore
+  type: boolean

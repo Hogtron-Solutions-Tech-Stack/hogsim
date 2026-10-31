@@ -1,0 +1,7 @@
+---
+name: GetNumber
+status: unimplemented
+outputs:
+- name: number
+  nilable: true
+  type: number

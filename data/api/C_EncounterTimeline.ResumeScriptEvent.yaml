@@ -1,0 +1,5 @@
+---
+name: C_EncounterTimeline.ResumeScriptEvent
+status: unimplemented
+inputs:
+- - type: number

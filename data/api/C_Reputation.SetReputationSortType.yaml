@@ -1,0 +1,5 @@
+---
+name: C_Reputation.SetReputationSortType
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.GetRoomPlayerIsIn
+status: unimplemented
+outputs:
+- name: roomGUID
+  type: string

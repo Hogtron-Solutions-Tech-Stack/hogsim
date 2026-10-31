@@ -1,0 +1,9 @@
+---
+name: PerksVendorItemUIGroupInfo
+fields:
+- name: ID
+  type: number
+- name: name
+  type: string
+- name: priority
+  type: number

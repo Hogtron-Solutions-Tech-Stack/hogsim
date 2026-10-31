@@ -1,0 +1,6 @@
+---
+name: C_PlayerInfo.IsTutorialsTabAvailable
+status: unimplemented
+outputs:
+- name: isAvailable
+  type: boolean

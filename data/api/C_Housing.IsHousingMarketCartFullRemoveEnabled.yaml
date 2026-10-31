@@ -1,0 +1,6 @@
+---
+name: C_Housing.IsHousingMarketCartFullRemoveEnabled
+status: unimplemented
+outputs:
+- name: isHousingMarketCartFullRemoveEnabled
+  type: boolean

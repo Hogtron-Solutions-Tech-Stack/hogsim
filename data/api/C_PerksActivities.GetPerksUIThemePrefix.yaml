@@ -1,0 +1,6 @@
+---
+name: C_PerksActivities.GetPerksUIThemePrefix
+status: unimplemented
+outputs:
+- name: kitPrefix
+  type: string

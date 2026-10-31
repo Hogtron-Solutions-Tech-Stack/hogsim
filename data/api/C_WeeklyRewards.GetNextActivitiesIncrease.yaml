@@ -1,0 +1,18 @@
+---
+name: C_WeeklyRewards.GetNextActivitiesIncrease
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: hasSeasonData
+  type: boolean
+- name: nextActivityTierID
+  nilable: true
+  type: number
+- name: nextLevel
+  nilable: true
+  type: number
+- name: itemLevel
+  nilable: true
+  type: number

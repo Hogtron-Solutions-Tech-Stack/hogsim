@@ -1,0 +1,7 @@
+---
+name: C_UnitAuras.GetHiddenGroupBuffs
+status: unimplemented
+outputs:
+- innerType: number
+  name: spellIDs
+  type: table

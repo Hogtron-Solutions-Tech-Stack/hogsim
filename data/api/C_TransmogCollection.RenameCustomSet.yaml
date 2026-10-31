@@ -1,0 +1,6 @@
+---
+name: C_TransmogCollection.RenameCustomSet
+status: unimplemented
+inputs:
+- - type: number
+  - type: string

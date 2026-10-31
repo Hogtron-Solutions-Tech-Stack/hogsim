@@ -1,0 +1,9 @@
+---
+name: GetBuildOption
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isSet
+  nilable: true
+  type: boolean

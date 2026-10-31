@@ -1,0 +1,10 @@
+---
+name: C_WeeklyRewards.GetNumCompletedDungeonRuns
+status: unimplemented
+outputs:
+- name: numHeroic
+  type: number
+- name: numMythic
+  type: number
+- name: numMythicPlus
+  type: number

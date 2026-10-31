@@ -1,0 +1,6 @@
+---
+name: GetSpacing
+status: unimplemented
+outputs:
+- name: fontHeight
+  type: number

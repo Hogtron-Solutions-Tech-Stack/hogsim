@@ -1,0 +1,6 @@
+---
+name: IsPaused
+status: unimplemented
+outputs:
+- name: isPaused
+  type: boolean

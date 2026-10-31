@@ -1,0 +1,7 @@
+---
+name: C_Reputation.GetWatchedFactionData
+status: unimplemented
+outputs:
+- name: watchedFactionData
+  nilable: true
+  type: FactionData

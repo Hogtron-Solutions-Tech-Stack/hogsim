@@ -1,0 +1,9 @@
+---
+name: C_AutoComplete.GetAutoCompletePresenceID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: presenceID
+  nilable: true
+  type: number

@@ -1,0 +1,9 @@
+---
+name: TeamPlayerRequestedCooldownInfo
+fields:
+- name: teamIndex
+  type: number
+- name: playerIndex
+  type: number
+- name: cooldownsRequested
+  type: number

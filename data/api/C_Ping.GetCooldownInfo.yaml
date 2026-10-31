@@ -1,0 +1,6 @@
+---
+name: C_Ping.GetCooldownInfo
+status: unimplemented
+outputs:
+- name: cooldownInfo
+  type: PingCooldownInfo

@@ -1,0 +1,5 @@
+---
+name: C_HousingBasicMode.StartPlacingNewDecor
+status: unimplemented
+inputs:
+- - type: HousingCatalogEntryVariantID

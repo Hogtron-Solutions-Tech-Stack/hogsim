@@ -1,0 +1,9 @@
+---
+name: C_TaskQuest.GetQuestsOnMap
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: QuestPOIMapInfo
+  name: taskPOIs
+  type: table

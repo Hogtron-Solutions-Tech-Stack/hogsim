@@ -1,0 +1,10 @@
+---
+name: C_TransmogOutfitInfo.GetAllSlotLocationInfo
+status: unimplemented
+outputs:
+- innerType: TransmogOutfitSlotInfo
+  name: appearanceSlotInfo
+  type: table
+- innerType: TransmogOutfitSlotInfo
+  name: illusionSlotInfo
+  type: table

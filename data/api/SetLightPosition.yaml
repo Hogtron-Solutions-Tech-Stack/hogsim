@@ -1,0 +1,7 @@
+---
+name: SetLightPosition
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number

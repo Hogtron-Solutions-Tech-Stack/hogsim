@@ -1,0 +1,9 @@
+---
+name: C_StableInfo.GetStablePetFoodTypes
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: string
+  name: foodTypes
+  type: table

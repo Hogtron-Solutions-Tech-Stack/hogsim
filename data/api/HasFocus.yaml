@@ -1,0 +1,6 @@
+---
+name: HasFocus
+status: unimplemented
+outputs:
+- name: hasFocus
+  type: boolean

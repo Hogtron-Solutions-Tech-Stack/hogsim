@@ -1,0 +1,8 @@
+---
+name: Intersects
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: intersects
+  type: boolean

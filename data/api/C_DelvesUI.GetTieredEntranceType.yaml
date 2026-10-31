@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.GetTieredEntranceType
+status: unimplemented
+outputs:
+- name: entranceType
+  type: number

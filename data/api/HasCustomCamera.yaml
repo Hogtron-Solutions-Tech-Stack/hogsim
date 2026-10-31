@@ -1,0 +1,6 @@
+---
+name: HasCustomCamera
+status: unimplemented
+outputs:
+- name: hasCustomCamera
+  type: boolean

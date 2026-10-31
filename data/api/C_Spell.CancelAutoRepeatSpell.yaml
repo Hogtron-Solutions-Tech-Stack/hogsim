@@ -1,0 +1,6 @@
+---
+name: C_Spell.CancelAutoRepeatSpell
+status: unimplemented
+outputs:
+- name: wasCancelled
+  type: boolean

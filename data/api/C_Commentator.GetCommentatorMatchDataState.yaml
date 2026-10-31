@@ -1,0 +1,6 @@
+---
+name: C_Commentator.GetCommentatorMatchDataState
+status: unimplemented
+outputs:
+- name: state
+  type: CommentatorMatchDataState

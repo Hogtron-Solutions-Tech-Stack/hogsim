@@ -1,0 +1,6 @@
+---
+name: C_ColorOverrides.SetColorOverride
+status: unimplemented
+inputs:
+- - type: number
+  - type: unknown

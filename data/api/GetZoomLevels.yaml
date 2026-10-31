@@ -1,0 +1,6 @@
+---
+name: GetZoomLevels
+status: unimplemented
+outputs:
+- name: zoomLevels
+  type: number

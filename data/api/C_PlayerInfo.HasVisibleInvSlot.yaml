@@ -1,0 +1,8 @@
+---
+name: C_PlayerInfo.HasVisibleInvSlot
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isVisible
+  type: boolean

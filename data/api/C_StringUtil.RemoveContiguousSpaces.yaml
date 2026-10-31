@@ -1,0 +1,9 @@
+---
+name: C_StringUtil.RemoveContiguousSpaces
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+outputs:
+- name: trimmedText
+  type: string

@@ -1,0 +1,6 @@
+---
+name: GetLoopState
+status: unimplemented
+outputs:
+- name: loopState
+  type: string

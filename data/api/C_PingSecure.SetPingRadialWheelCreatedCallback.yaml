@@ -1,0 +1,5 @@
+---
+name: C_PingSecure.SetPingRadialWheelCreatedCallback
+status: unimplemented
+inputs:
+- - type: unknown

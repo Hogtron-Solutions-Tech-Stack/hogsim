@@ -1,0 +1,14 @@
+---
+name: BulkPurchaseIndividualProductResult
+fields:
+- name: recordId
+  type: number
+- name: parentProductId
+  nilable: true
+  type: number
+- name: entitlementId
+  type: string
+- name: externalTransactionId
+  type: string
+- name: status
+  type: number

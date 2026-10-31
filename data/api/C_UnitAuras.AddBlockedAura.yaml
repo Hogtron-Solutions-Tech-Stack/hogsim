@@ -1,0 +1,6 @@
+---
+name: C_UnitAuras.AddBlockedAura
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number

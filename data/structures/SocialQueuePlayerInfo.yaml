@@ -1,0 +1,8 @@
+---
+name: SocialQueuePlayerInfo
+fields:
+- name: guid
+  type: string
+- name: clubId
+  nilable: true
+  type: number

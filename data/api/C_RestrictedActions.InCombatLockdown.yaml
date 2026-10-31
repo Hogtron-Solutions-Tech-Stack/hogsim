@@ -1,0 +1,6 @@
+---
+name: C_RestrictedActions.InCombatLockdown
+status: unimplemented
+outputs:
+- name: inCombatLockdown
+  type: boolean

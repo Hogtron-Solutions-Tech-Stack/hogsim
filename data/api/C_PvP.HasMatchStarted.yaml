@@ -1,0 +1,6 @@
+---
+name: C_PvP.HasMatchStarted
+status: unimplemented
+outputs:
+- name: hasStarted
+  type: boolean

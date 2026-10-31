@@ -1,0 +1,11 @@
+---
+name: LobbyMatchmakerQueueInfo
+fields:
+- name: isQueueActive
+  type: boolean
+- name: playlistEntryID
+  type: unknown
+- name: queueState
+  type: number
+- name: queueStartTime
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_AddOns.GetAddOnInterfaceVersion
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: interfaceVersion
+  type: number

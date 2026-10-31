@@ -1,0 +1,9 @@
+---
+name: C_BattleNet.GetFriendInviteInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: inviteInfo
+  nilable: true
+  type: BNetFriendInviteInfo

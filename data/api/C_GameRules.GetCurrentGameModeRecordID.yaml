@@ -1,0 +1,6 @@
+---
+name: C_GameRules.GetCurrentGameModeRecordID
+status: unimplemented
+outputs:
+- name: gameModeRecordID
+  type: number

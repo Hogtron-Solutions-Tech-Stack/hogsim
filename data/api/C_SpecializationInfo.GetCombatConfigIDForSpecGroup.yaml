@@ -1,0 +1,9 @@
+---
+name: C_SpecializationInfo.GetCombatConfigIDForSpecGroup
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: configID
+  nilable: true
+  type: number

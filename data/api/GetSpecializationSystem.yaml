@@ -1,0 +1,6 @@
+---
+name: GetSpecializationSystem
+status: unimplemented
+outputs:
+- name: system
+  type: number

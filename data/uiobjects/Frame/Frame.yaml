@@ -66,7 +66,17 @@ inherits:
   Region: {}
   ScriptObject: {}
 methods:
+  AbortDrag:
+    status: unimplemented
+  AddRoleset:
+    status: unimplemented
   CanChangeAttribute:
+    status: unimplemented
+  ClearAlphaGradient:
+    status: unimplemented
+  ClearAttribute:
+    status: unimplemented
+  ClearAttributes:
     status: unimplemented
   CreateFontString:
     status: implemented
@@ -76,11 +86,15 @@ methods:
     status: implemented
   CreateTexture:
     status: implemented
+  CreateVectorGraphics:
+    status: unimplemented
   DesaturateHierarchy:
     status: unimplemented
   DisableDrawLayer:
     status: unimplemented
   DoesClipChildren:
+    status: unimplemented
+  DoesHyperlinkPropagateToParent:
     status: unimplemented
   EnableDrawLayer:
     status: unimplemented
@@ -132,6 +146,8 @@ methods:
     fields:
     - name: frameStrata
     status: getter
+  GetHighestFrameLevel:
+    status: unimplemented
   GetHitRectInsets:
     status: unimplemented
   GetHyperlinksEnabled:
@@ -168,10 +184,14 @@ methods:
     status: implemented
   GetNumRegions:
     status: implemented
+  GetOnUpdateMode:
+    status: unimplemented
   GetPropagateKeyboardInput:
     fields:
     - name: propagateKeyboardInput
     status: getter
+  GetRaisedFrameLevel:
+    status: unimplemented
   GetRegions:
     status: implemented
   GetResizeBounds:
@@ -179,6 +199,12 @@ methods:
     - wow
     - wow_beta
     - wowt
+    status: unimplemented
+  GetRolesetNames:
+    status: unimplemented
+  GetWindow:
+    status: unimplemented
+  HasAlphaGradient:
     status: unimplemented
   HasFixedFrameLevel:
     fields:
@@ -196,15 +222,25 @@ methods:
     - wow_classic_era_ptr
     - wow_classic_ptr
     status: unimplemented
+  InterceptStartDrag:
+    status: unimplemented
   IsClampedToScreen:
     fields:
     - name: isClampedToScreen
     status: getter
+  IsDrawLayerEnabled:
+    status: unimplemented
   IsEventRegistered:
     status: implemented
+  IsFrameBuffer:
+    status: unimplemented
   IsGamePadButtonEnabled:
     status: unimplemented
   IsGamePadStickEnabled:
+    status: unimplemented
+  IsHighlightLocked:
+    status: unimplemented
+  IsIgnoringChildrenForBounds:
     status: unimplemented
   IsIgnoringDepth:
     products:
@@ -224,6 +260,8 @@ methods:
     fields:
     - name: resizable
     status: getter
+  IsRolesetFiltered:
+    status: unimplemented
   IsToplevel:
     fields:
     - name: toplevel
@@ -232,6 +270,8 @@ methods:
     fields:
     - name: isUserPlaced
     status: getter
+  IsUsingParentLevel:
+    status: unimplemented
   Lower:
     status: unimplemented
   Raise:
@@ -240,11 +280,23 @@ methods:
     status: implemented
   RegisterEvent:
     status: implemented
+  RegisterEventCallback:
+    status: unimplemented
   RegisterForDrag:
     status: unimplemented
   RegisterUnitEvent:
     status: implemented
+  RegisterUnitEventCallback:
+    status: unimplemented
+  RemoveRoleset:
+    status: unimplemented
+  ResizeToBoundsRect:
+    status: unimplemented
   RotateTextures:
+    status: unimplemented
+  SetAlphaFromBoolean:
+    status: unimplemented
+  SetAlphaGradient:
     status: unimplemented
   SetAttribute:
     status: implemented
@@ -296,6 +348,8 @@ methods:
     status: setter
   SetHitRectInsets:
     status: unimplemented
+  SetHyperlinkPropagateToParent:
+    status: unimplemented
   SetHyperlinksEnabled:
     fields:
     - name: hyperlinksEnabled
@@ -304,6 +358,8 @@ methods:
     fields:
     - name: id
     status: setter
+  SetIgnoringChildrenForBounds:
+    status: unimplemented
   SetIsFrameBuffer:
     products:
     - wow
@@ -336,6 +392,8 @@ methods:
     fields:
     - name: movable
     status: setter
+  SetOnUpdateMode:
+    status: unimplemented
   SetPropagateKeyboardInput:
     fields:
     - name: propagateKeyboardInput
@@ -350,6 +408,8 @@ methods:
     - wow_beta
     - wowt
     status: unimplemented
+  SetRolesets:
+    status: unimplemented
   SetToplevel:
     fields:
     - name: toplevel
@@ -358,6 +418,10 @@ methods:
     fields:
     - name: isUserPlaced
     status: setter
+  SetUsingParentLevel:
+    status: unimplemented
+  SetWindow:
+    status: unimplemented
   StartMoving:
     status: unimplemented
   StartSizing:

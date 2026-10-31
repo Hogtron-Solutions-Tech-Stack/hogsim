@@ -1,0 +1,31 @@
+---
+name: ScenarioCriteriaInfo
+fields:
+- name: description
+  type: string
+- name: criteriaType
+  type: number
+- name: completed
+  type: boolean
+- name: quantity
+  type: number
+- name: totalQuantity
+  type: number
+- name: flags
+  type: number
+- name: assetID
+  type: number
+- name: criteriaID
+  type: number
+- name: duration
+  type: number
+- name: elapsed
+  type: number
+- name: failed
+  type: boolean
+- name: isWeightedProgress
+  type: boolean
+- name: isFormatted
+  type: boolean
+- name: quantityString
+  type: string

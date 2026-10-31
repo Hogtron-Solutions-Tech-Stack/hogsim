@@ -1,0 +1,6 @@
+---
+name: C_DateAndTime.IsDayTime
+status: unimplemented
+outputs:
+- name: isDayTime
+  type: boolean

@@ -1,0 +1,9 @@
+---
+name: C_CooldownViewer.GetValidAlertTypes
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: validAlertTypes
+  type: table

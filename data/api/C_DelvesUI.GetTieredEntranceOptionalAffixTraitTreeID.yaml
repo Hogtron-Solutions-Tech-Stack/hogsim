@@ -1,0 +1,7 @@
+---
+name: C_DelvesUI.GetTieredEntranceOptionalAffixTraitTreeID
+status: unimplemented
+outputs:
+- name: treeID
+  nilable: true
+  type: number

@@ -1,0 +1,6 @@
+---
+name: GetModelAlpha
+status: unimplemented
+outputs:
+- name: alpha
+  type: number

@@ -1,0 +1,8 @@
+---
+name: C_StringUtil.EscapeLuaFormatString
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: escapedText
+  type: string

@@ -1,0 +1,6 @@
+---
+name: C_HouseExterior.RemoveFixtureFromSelectedPoint
+status: unimplemented
+inputs:
+- - default: Store
+    type: number

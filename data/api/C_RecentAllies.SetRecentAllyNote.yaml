@@ -1,0 +1,6 @@
+---
+name: C_RecentAllies.SetRecentAllyNote
+status: unimplemented
+inputs:
+- - type: string
+  - type: string

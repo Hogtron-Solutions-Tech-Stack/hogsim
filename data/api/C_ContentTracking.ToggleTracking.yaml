@@ -1,0 +1,11 @@
+---
+name: C_ContentTracking.ToggleTracking
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number
+outputs:
+- name: error
+  nilable: true
+  type: number

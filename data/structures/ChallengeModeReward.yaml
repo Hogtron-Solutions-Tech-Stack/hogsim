@@ -1,0 +1,11 @@
+---
+name: ChallengeModeReward
+fields:
+- name: rewardID
+  type: number
+- name: displayInfoID
+  type: number
+- name: quantity
+  type: number
+- name: isCurrency
+  type: boolean

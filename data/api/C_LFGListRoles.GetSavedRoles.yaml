@@ -1,0 +1,6 @@
+---
+name: C_LFGListRoles.GetSavedRoles
+status: unimplemented
+outputs:
+- name: roles
+  type: LFGRoles

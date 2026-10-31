@@ -1,0 +1,5 @@
+---
+name: SetFixedFrameLevel
+status: unimplemented
+inputs:
+- - type: boolean

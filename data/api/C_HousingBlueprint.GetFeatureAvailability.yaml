@@ -1,0 +1,6 @@
+---
+name: C_HousingBlueprint.GetFeatureAvailability
+status: unimplemented
+outputs:
+- name: blueprintsAvailability
+  type: number

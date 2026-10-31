@@ -1,0 +1,11 @@
+---
+name: C_Item.DoesItemContainSpec
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number
+  - default: 0
+    type: number
+outputs:
+- name: result
+  type: boolean

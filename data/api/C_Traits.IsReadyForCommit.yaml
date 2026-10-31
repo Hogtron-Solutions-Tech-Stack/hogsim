@@ -1,0 +1,6 @@
+---
+name: C_Traits.IsReadyForCommit
+status: unimplemented
+outputs:
+- name: isReadyForCommit
+  type: boolean

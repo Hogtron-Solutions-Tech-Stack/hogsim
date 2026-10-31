@@ -1,0 +1,7 @@
+---
+name: C_DamageMeter.GetAvailableCombatSessions
+status: unimplemented
+outputs:
+- innerType: DamageMeterAvailableCombatSession
+  name: availableSessions
+  type: table

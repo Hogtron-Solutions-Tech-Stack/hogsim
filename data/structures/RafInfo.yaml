@@ -1,0 +1,14 @@
+---
+name: RafInfo
+fields:
+- innerType: RafVersionInfo
+  name: versions
+  type: table
+- name: recruitmentInfo
+  nilable: true
+  type: RafRecruitmentinfo
+- innerType: RafRecruit
+  name: recruits
+  type: table
+- name: claimInProgress
+  type: boolean

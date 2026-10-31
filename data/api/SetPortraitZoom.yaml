@@ -1,0 +1,5 @@
+---
+name: SetPortraitZoom
+status: unimplemented
+inputs:
+- - type: number

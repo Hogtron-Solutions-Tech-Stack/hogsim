@@ -1,0 +1,11 @@
+---
+name: C_Item.GetItemSubClassInfo
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: subClassName
+  type: string
+- name: subClassUsesInvType
+  type: boolean

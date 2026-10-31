@@ -1,0 +1,21 @@
+---
+name: SpecializationInfoQuery
+fields:
+- name: specializationIndex
+  type: number
+- name: isInspect
+  type: boolean
+- name: isPet
+  type: boolean
+- name: inspectTarget
+  nilable: true
+  type: string
+- name: sex
+  nilable: true
+  type: number
+- name: groupIndex
+  nilable: true
+  type: number
+- name: classID
+  nilable: true
+  type: number

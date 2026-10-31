@@ -1,0 +1,6 @@
+---
+name: C_EncounterWarnings.IsFeatureAvailable
+status: unimplemented
+outputs:
+- name: isAvailable
+  type: boolean

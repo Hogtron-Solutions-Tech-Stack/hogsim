@@ -1,0 +1,7 @@
+---
+name: SoulbindConduitData
+fields:
+- name: conduitID
+  type: number
+- name: conduitRank
+  type: number

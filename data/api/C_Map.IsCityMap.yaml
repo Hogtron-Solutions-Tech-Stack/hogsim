@@ -1,0 +1,8 @@
+---
+name: C_Map.IsCityMap
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isCityMap
+  type: boolean

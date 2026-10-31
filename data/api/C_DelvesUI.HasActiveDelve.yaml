@@ -1,0 +1,6 @@
+---
+name: C_DelvesUI.HasActiveDelve
+status: unimplemented
+outputs:
+- name: result
+  type: boolean

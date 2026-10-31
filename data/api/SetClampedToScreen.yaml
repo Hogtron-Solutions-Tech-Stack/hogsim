@@ -1,0 +1,5 @@
+---
+name: SetClampedToScreen
+status: unimplemented
+inputs:
+- - type: boolean

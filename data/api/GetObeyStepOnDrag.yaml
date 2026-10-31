@@ -1,0 +1,6 @@
+---
+name: GetObeyStepOnDrag
+status: unimplemented
+outputs:
+- name: isObeyStepOnDrag
+  type: boolean

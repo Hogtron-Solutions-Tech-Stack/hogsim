@@ -1,0 +1,9 @@
+---
+name: C_CatalogShop.GetProductInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: productInfo
+  nilable: true
+  type: CatalogShopProductInfo

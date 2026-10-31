@@ -1,0 +1,5 @@
+---
+name: C_Reputation.CollapseFactionHeader
+status: unimplemented
+inputs:
+- - type: number

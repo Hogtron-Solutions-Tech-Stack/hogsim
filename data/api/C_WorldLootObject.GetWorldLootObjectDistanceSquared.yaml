@@ -1,0 +1,9 @@
+---
+name: C_WorldLootObject.GetWorldLootObjectDistanceSquared
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: distanceSquared
+  nilable: true
+  type: number

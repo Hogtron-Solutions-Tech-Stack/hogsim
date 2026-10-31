@@ -1,0 +1,6 @@
+---
+name: IsHighlightLocked
+status: unimplemented
+outputs:
+- name: locked
+  type: boolean

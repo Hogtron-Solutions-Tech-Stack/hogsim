@@ -1,0 +1,7 @@
+---
+name: C_StorePublic.EventStoreUISetShown
+status: unimplemented
+inputs:
+- - type: boolean
+  - nilable: true
+    type: string

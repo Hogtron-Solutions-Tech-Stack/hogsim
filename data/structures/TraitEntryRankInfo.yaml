@@ -1,0 +1,7 @@
+---
+name: TraitEntryRankInfo
+fields:
+- name: entryID
+  type: number
+- name: rank
+  type: number

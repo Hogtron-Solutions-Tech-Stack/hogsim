@@ -1,0 +1,6 @@
+---
+name: C_ChatInfo.AreOutgoingAddonChatMessagesRestricted
+status: unimplemented
+outputs:
+- name: isRestricted
+  type: boolean

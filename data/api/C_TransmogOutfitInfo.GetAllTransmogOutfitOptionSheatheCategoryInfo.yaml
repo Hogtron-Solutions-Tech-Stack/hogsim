@@ -1,0 +1,9 @@
+---
+name: C_TransmogOutfitInfo.GetAllTransmogOutfitOptionSheatheCategoryInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: TransmogOutfitOptionSheatheCategoryInfo
+  name: categoryInfo
+  type: table

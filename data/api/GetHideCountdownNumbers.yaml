@@ -1,0 +1,6 @@
+---
+name: GetHideCountdownNumbers
+status: unimplemented
+outputs:
+- name: hideNumbers
+  type: boolean

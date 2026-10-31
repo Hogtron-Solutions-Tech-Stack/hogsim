@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.HasAnySelections
+status: unimplemented
+outputs:
+- name: hasAnySelections
+  type: boolean

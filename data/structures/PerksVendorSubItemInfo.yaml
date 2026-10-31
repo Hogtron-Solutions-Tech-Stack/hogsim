@@ -1,0 +1,13 @@
+---
+name: PerksVendorSubItemInfo
+fields:
+- name: name
+  type: string
+- name: itemID
+  type: number
+- name: itemModifiedAppearanceID
+  type: number
+- name: invType
+  type: string
+- name: quality
+  type: number

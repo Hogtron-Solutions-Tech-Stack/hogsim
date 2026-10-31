@@ -1,0 +1,11 @@
+---
+name: FlyoutInfo
+fields:
+- name: name
+  type: string
+- name: description
+  type: string
+- name: numSlots
+  type: number
+- name: isKnown
+  type: boolean

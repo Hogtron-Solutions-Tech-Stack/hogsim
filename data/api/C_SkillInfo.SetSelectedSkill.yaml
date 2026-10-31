@@ -1,0 +1,5 @@
+---
+name: C_SkillInfo.SetSelectedSkill
+status: unimplemented
+inputs:
+- - type: number

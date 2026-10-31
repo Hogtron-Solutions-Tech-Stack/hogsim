@@ -1,0 +1,8 @@
+---
+name: C_Spell.IsRangedAutoAttackSpell
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: isRangedAutoAttack
+  type: boolean

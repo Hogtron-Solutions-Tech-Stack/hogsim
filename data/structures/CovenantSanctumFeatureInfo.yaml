@@ -1,0 +1,9 @@
+---
+name: CovenantSanctumFeatureInfo
+fields:
+- name: garrTalentTreeID
+  type: number
+- name: featureType
+  type: number
+- name: uiOrder
+  type: number

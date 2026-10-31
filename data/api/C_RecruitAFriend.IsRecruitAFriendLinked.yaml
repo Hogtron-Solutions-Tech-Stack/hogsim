@@ -1,0 +1,8 @@
+---
+name: C_RecruitAFriend.IsRecruitAFriendLinked
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: result
+  type: boolean

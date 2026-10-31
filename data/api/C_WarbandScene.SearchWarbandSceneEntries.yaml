@@ -1,0 +1,9 @@
+---
+name: C_WarbandScene.SearchWarbandSceneEntries
+status: unimplemented
+inputs:
+- - type: WarbandSceneSearchInfo
+outputs:
+- innerType: number
+  name: matchingEntryIDs
+  type: table

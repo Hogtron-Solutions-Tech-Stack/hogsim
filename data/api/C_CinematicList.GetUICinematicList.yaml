@@ -1,0 +1,7 @@
+---
+name: C_CinematicList.GetUICinematicList
+status: unimplemented
+outputs:
+- innerType: UICinematic
+  name: cinematics
+  type: table

@@ -1,0 +1,22 @@
+---
+name: AddUnit
+status: unimplemented
+inputs:
+- - type: string
+  - type: unknown
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+  - nilable: true
+    type: boolean

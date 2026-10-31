@@ -1,0 +1,7 @@
+---
+name: C_ClassTalents.GetActiveHeroTalentSpec
+status: unimplemented
+outputs:
+- name: heroSpecID
+  nilable: true
+  type: number

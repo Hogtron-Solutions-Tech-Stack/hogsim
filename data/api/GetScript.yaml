@@ -1,0 +1,10 @@
+---
+name: GetScript
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: Extrinsic
+    type: number
+outputs:
+- name: script
+  type: unknown

@@ -1,0 +1,10 @@
+---
+name: C_Discord.GetGuildLinkStatus
+status: unimplemented
+outputs:
+- name: isFullyLinked
+  type: boolean
+- name: linkedChannelName
+  type: string
+- name: linkedServerName
+  type: string

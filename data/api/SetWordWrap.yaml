@@ -1,0 +1,5 @@
+---
+name: SetWordWrap
+status: unimplemented
+inputs:
+- - type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_SecureTransfer.GetMailReceiveInfo
+status: unimplemented
+outputs:
+- name: mailInfo
+  type: MailReceiveInfo

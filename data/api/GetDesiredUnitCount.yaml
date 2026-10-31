@@ -1,0 +1,7 @@
+---
+name: GetDesiredUnitCount
+status: unimplemented
+outputs:
+- name: count
+  nilable: true
+  type: number

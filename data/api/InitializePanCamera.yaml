@@ -1,0 +1,6 @@
+---
+name: InitializePanCamera
+status: unimplemented
+inputs:
+- - default: 0
+    type: number

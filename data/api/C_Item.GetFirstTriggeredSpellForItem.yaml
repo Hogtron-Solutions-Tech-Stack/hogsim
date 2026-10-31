@@ -1,0 +1,10 @@
+---
+name: C_Item.GetFirstTriggeredSpellForItem
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: spellID
+  nilable: true
+  type: number

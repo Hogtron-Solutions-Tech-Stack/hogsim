@@ -1,0 +1,7 @@
+---
+name: HouseholdMemberInfo
+fields:
+- name: characterName
+  type: string
+- name: classID
+  type: number

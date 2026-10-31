@@ -1,0 +1,6 @@
+---
+name: GetProgress
+status: unimplemented
+outputs:
+- name: progress
+  type: number

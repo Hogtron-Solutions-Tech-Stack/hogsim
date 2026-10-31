@@ -1,0 +1,6 @@
+---
+name: IsStoredOnlyActive
+status: unimplemented
+outputs:
+- name: isActive
+  type: boolean

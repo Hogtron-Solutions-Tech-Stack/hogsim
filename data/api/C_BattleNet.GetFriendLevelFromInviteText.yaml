@@ -1,0 +1,8 @@
+---
+name: C_BattleNet.GetFriendLevelFromInviteText
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: friendLevel
+  type: number

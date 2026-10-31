@@ -1,0 +1,11 @@
+---
+name: HousingCatalogFilterTagInfo
+fields:
+- name: tagID
+  type: number
+- name: tagName
+  type: string
+- name: orderIndex
+  type: number
+- name: anyAssociatedEntries
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_Housing.HasHousingExpansionAccess
+status: unimplemented
+outputs:
+- name: hasAccess
+  type: boolean

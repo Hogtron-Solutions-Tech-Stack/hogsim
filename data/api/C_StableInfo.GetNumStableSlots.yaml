@@ -1,0 +1,6 @@
+---
+name: C_StableInfo.GetNumStableSlots
+status: unimplemented
+outputs:
+- name: numSlots
+  type: number

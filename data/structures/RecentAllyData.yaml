@@ -1,0 +1,9 @@
+---
+name: RecentAllyData
+fields:
+- name: stateData
+  type: RecentAllyStateData
+- name: characterData
+  type: RecentAllyCharacterData
+- name: interactionData
+  type: RecentAllyInteractionData

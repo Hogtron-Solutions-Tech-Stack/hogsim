@@ -1,0 +1,10 @@
+---
+name: C_ItemUpgrade.GetHighWatermarkForItem
+status: unimplemented
+inputs:
+- - type: unknown
+outputs:
+- name: characterHighWatermark
+  type: number
+- name: accountHighWatermark
+  type: number

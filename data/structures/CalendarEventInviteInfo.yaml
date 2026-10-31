@@ -1,0 +1,31 @@
+---
+name: CalendarEventInviteInfo
+fields:
+- name: name
+  nilable: true
+  type: string
+- name: level
+  type: number
+- name: className
+  nilable: true
+  type: string
+- name: classFilename
+  nilable: true
+  type: string
+- name: inviteStatus
+  nilable: true
+  type: number
+- name: modStatus
+  nilable: true
+  type: string
+- name: inviteIsMine
+  type: boolean
+- name: type
+  type: number
+- name: notes
+  type: string
+- name: classID
+  nilable: true
+  type: number
+- name: guid
+  type: string

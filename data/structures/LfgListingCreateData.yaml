@@ -1,0 +1,29 @@
+---
+name: LfgListingCreateData
+fields:
+- innerType: number
+  name: activityIDs
+  type: table
+- name: questID
+  nilable: true
+  type: number
+- name: isAutoAccept
+  type: boolean
+- name: isCrossFactionListing
+  type: boolean
+- name: isPrivateGroup
+  type: boolean
+- name: newPlayerFriendly
+  type: boolean
+- name: playstyle
+  type: number
+- name: generalPlaystyle
+  type: number
+- name: requiredDungeonScore
+  type: number
+- name: requiredItemLevel
+  type: number
+- name: requiredPvpRating
+  type: number
+- name: voiceMode
+  type: number

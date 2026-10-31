@@ -1,0 +1,15 @@
+---
+name: AzeriteEssenceInfo
+fields:
+- name: ID
+  type: number
+- name: name
+  type: string
+- name: rank
+  type: number
+- name: unlocked
+  type: boolean
+- name: valid
+  type: boolean
+- name: icon
+  type: number

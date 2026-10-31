@@ -1,0 +1,11 @@
+---
+name: securecopy
+status: unimplemented
+inputs:
+- - nilable: true
+    type: unknown
+  - nilable: true
+    type: SecureCopyOptions
+outputs:
+- name: copy
+  type: unknown

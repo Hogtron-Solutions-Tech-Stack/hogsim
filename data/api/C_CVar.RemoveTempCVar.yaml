@@ -1,0 +1,5 @@
+---
+name: C_CVar.RemoveTempCVar
+status: unimplemented
+inputs:
+- - type: string

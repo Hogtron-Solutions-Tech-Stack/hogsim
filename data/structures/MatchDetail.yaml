@@ -1,0 +1,7 @@
+---
+name: MatchDetail
+fields:
+- name: type
+  type: number
+- name: value
+  type: number

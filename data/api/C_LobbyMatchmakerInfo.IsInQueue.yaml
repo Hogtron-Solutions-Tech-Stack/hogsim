@@ -1,0 +1,6 @@
+---
+name: C_LobbyMatchmakerInfo.IsInQueue
+status: unimplemented
+outputs:
+- name: isInQueue
+  type: boolean

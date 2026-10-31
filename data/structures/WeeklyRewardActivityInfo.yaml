@@ -1,0 +1,26 @@
+---
+name: WeeklyRewardActivityInfo
+fields:
+- name: type
+  type: unknown
+- name: index
+  type: number
+- name: threshold
+  type: number
+- name: progress
+  type: number
+- name: id
+  type: number
+- name: activityTierID
+  type: number
+- name: level
+  type: number
+- name: claimID
+  nilable: true
+  type: number
+- name: raidString
+  nilable: true
+  type: string
+- innerType: WeeklyRewardActivityRewardInfo
+  name: rewards
+  type: table

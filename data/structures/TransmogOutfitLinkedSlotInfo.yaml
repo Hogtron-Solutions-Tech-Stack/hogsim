@@ -1,0 +1,7 @@
+---
+name: TransmogOutfitLinkedSlotInfo
+fields:
+- name: primarySlotInfo
+  type: TransmogOutfitSlotInfo
+- name: secondarySlotInfo
+  type: TransmogOutfitSlotInfo

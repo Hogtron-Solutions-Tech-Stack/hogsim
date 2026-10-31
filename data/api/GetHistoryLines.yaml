@@ -1,0 +1,6 @@
+---
+name: GetHistoryLines
+status: unimplemented
+outputs:
+- name: numHistoryLines
+  type: number

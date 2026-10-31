@@ -1,0 +1,5 @@
+---
+name: C_Container.SetSortBagsRightToLeft
+status: unimplemented
+inputs:
+- - type: boolean

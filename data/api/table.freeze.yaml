@@ -1,0 +1,8 @@
+---
+name: table.freeze
+status: unimplemented
+inputs:
+- - type: table
+outputs:
+- name: frozen
+  type: table

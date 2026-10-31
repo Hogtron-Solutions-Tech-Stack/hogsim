@@ -1,0 +1,5 @@
+---
+name: SetIgnoreParentScale
+status: unimplemented
+inputs:
+- - type: boolean

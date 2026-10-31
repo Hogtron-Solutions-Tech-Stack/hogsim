@@ -1,0 +1,40 @@
+---
+name: CalendarEventInfo
+fields:
+- name: title
+  type: string
+- name: description
+  type: string
+- name: creator
+  nilable: true
+  type: string
+- name: eventType
+  type: number
+- name: repeatOption
+  type: number
+- name: maxSize
+  type: number
+- name: textureIndex
+  nilable: true
+  type: number
+- name: time
+  type: CalendarTime
+- name: lockoutTime
+  type: CalendarTime
+- name: isLocked
+  type: boolean
+- name: isAutoApprove
+  type: boolean
+- name: hasPendingInvite
+  type: boolean
+- name: inviteStatus
+  nilable: true
+  type: number
+- name: inviteType
+  nilable: true
+  type: number
+- name: calendarType
+  type: string
+- name: communityName
+  nilable: true
+  type: string

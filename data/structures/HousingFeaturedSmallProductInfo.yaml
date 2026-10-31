@@ -1,0 +1,15 @@
+---
+name: HousingFeaturedSmallProductInfo
+fields:
+- name: entryVariantID
+  nilable: true
+  type: HousingCatalogEntryVariantID
+- name: productID
+  type: number
+- name: price
+  type: number
+- name: originalPrice
+  nilable: true
+  type: number
+- name: canPreview
+  type: boolean

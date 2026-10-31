@@ -1,0 +1,11 @@
+---
+name: ClubRoleInfo
+fields:
+- name: roleId
+  type: number
+- name: name
+  type: string
+- name: required
+  type: boolean
+- name: unique
+  type: boolean

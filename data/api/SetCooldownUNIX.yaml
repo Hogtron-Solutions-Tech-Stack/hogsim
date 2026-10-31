@@ -1,0 +1,8 @@
+---
+name: SetCooldownUNIX
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - default: 1
+    type: number

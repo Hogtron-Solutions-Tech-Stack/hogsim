@@ -1,0 +1,7 @@
+---
+name: C_PerksProgram.GetAvailableVendorItemIDs
+status: unimplemented
+outputs:
+- innerType: number
+  name: vendorItemIDs
+  type: table

@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.IsPossessBarVisible
+status: unimplemented
+outputs:
+- name: isPossessBarVisible
+  type: boolean

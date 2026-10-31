@@ -1,0 +1,16 @@
+---
+name: DeadlyDebuffInfo
+fields:
+- name: criticalTimeRemainingMs
+  nilable: true
+  type: number
+- name: criticalStacks
+  nilable: true
+  type: number
+- name: priority
+  type: number
+- name: warningText
+  type: string
+- name: soundKitID
+  nilable: true
+  type: number

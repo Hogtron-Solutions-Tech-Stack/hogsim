@@ -1,0 +1,6 @@
+---
+name: C_QuestOffer.GetHideRequiredItems
+status: unimplemented
+outputs:
+- name: hideRequiredItems
+  type: boolean

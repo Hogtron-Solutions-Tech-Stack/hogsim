@@ -1,0 +1,9 @@
+---
+name: PerksVendorCategoryInfo
+fields:
+- name: ID
+  type: number
+- name: displayName
+  type: string
+- name: defaultUIModelSceneID
+  type: number

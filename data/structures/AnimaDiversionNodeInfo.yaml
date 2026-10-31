@@ -1,0 +1,20 @@
+---
+name: AnimaDiversionNodeInfo
+fields:
+- name: talentID
+  type: number
+- name: name
+  type: string
+- name: description
+  type: string
+- innerType: AnimaDiversionCostInfo
+  name: costs
+  type: table
+- name: currencyID
+  type: number
+- name: icon
+  type: number
+- name: normalizedPosition
+  type: unknown
+- name: state
+  type: number

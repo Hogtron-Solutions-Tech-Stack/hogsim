@@ -1,0 +1,8 @@
+---
+name: GetFontStringByID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: fontString
+  type: unknown

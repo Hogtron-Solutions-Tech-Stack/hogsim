@@ -1,0 +1,7 @@
+---
+name: C_GameRules.GetForeverExperiencePreset
+status: unimplemented
+outputs:
+- name: preset
+  nilable: true
+  type: number

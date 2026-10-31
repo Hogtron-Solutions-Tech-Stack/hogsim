@@ -1,0 +1,5 @@
+---
+name: ClubLimits
+fields:
+- name: maximumNumberOfStreams
+  type: number

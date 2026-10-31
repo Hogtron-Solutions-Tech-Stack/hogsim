@@ -1,0 +1,6 @@
+---
+name: C_Discord.GetDisplayNameType
+status: unimplemented
+outputs:
+- name: type
+  type: number

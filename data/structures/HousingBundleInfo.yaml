@@ -1,0 +1,18 @@
+---
+name: HousingBundleInfo
+fields:
+- name: productID
+  type: number
+- name: price
+  type: number
+- name: originalPrice
+  nilable: true
+  type: number
+- innerType: number
+  name: nonDecorProducts
+  type: table
+- innerType: HousingBundleDecorEntryInfo
+  name: decorEntries
+  type: table
+- name: canPreview
+  type: boolean

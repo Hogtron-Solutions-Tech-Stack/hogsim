@@ -1,0 +1,9 @@
+---
+name: C_HousingDecor.GetDecorAssignedPetName
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: name
+  nilable: true
+  type: string

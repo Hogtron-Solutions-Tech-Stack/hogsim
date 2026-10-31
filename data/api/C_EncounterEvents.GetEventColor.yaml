@@ -1,0 +1,10 @@
+---
+name: C_EncounterEvents.GetEventColor
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: color
+  nilable: true
+  type: unknown

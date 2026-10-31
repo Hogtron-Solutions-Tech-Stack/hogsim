@@ -1,0 +1,6 @@
+---
+name: GetNumTotemSlots
+status: unimplemented
+outputs:
+- name: numSlots
+  type: number

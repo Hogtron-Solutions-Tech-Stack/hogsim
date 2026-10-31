@@ -1,0 +1,9 @@
+---
+name: C_UnitAuras.DoesAuraHaveExpirationTime
+status: unimplemented
+inputs:
+- - type: unit
+  - type: number
+outputs:
+- name: hasExpirationTime
+  type: boolean

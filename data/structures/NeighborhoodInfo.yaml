@@ -1,0 +1,22 @@
+---
+name: NeighborhoodInfo
+fields:
+- name: neighborhoodType
+  type: unknown
+- name: neighborhoodOwnerType
+  type: unknown
+- name: neighborhoodName
+  type: string
+- name: neighborhoodGUID
+  type: string
+- name: ownerGUID
+  type: string
+- name: suggestionReason
+  nilable: true
+  type: number
+- name: ownerName
+  nilable: true
+  type: string
+- name: locationName
+  nilable: true
+  type: string

@@ -1,0 +1,6 @@
+---
+name: GetRegions
+status: unimplemented
+outputs:
+- name: regions
+  type: unknown

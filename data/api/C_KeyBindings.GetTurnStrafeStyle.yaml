@@ -1,0 +1,6 @@
+---
+name: C_KeyBindings.GetTurnStrafeStyle
+status: unimplemented
+outputs:
+- name: style
+  type: number

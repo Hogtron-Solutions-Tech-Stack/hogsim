@@ -1,0 +1,8 @@
+---
+name: C_StringUtil.EscapeDecimalNonPrintables
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: escapedText
+  type: string

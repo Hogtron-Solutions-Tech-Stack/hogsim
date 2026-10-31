@@ -1,0 +1,8 @@
+---
+name: C_PlayerInfo.CanUseItem
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isUseable
+  type: boolean

@@ -1,0 +1,9 @@
+---
+name: C_SpecializationInfo.GetPvpTalentInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: talentInfo
+  nilable: true
+  type: PvpTalentInfo

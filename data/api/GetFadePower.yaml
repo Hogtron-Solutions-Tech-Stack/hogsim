@@ -1,0 +1,6 @@
+---
+name: GetFadePower
+status: unimplemented
+outputs:
+- name: fadePower
+  type: number

@@ -1,0 +1,23 @@
+---
+name: SpellBookItemInfo
+fields:
+- name: actionID
+  type: number
+- name: spellID
+  nilable: true
+  type: number
+- name: itemType
+  type: number
+- name: name
+  type: string
+- name: subName
+  type: string
+- name: iconID
+  type: number
+- name: isPassive
+  type: boolean
+- name: isOffSpec
+  type: boolean
+- name: skillLineIndex
+  nilable: true
+  type: number

@@ -1,0 +1,6 @@
+---
+name: C_PartyInfo.GetRestrictPings
+status: unimplemented
+outputs:
+- name: restrictTo
+  type: number

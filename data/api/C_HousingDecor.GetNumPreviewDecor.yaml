@@ -1,0 +1,6 @@
+---
+name: C_HousingDecor.GetNumPreviewDecor
+status: unimplemented
+outputs:
+- name: numDecor
+  type: number

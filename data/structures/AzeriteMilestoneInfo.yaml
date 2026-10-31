@@ -1,0 +1,17 @@
+---
+name: AzeriteMilestoneInfo
+fields:
+- name: ID
+  type: number
+- name: requiredLevel
+  type: number
+- name: canUnlock
+  type: boolean
+- name: unlocked
+  type: boolean
+- name: rank
+  nilable: true
+  type: number
+- name: slot
+  nilable: true
+  type: number

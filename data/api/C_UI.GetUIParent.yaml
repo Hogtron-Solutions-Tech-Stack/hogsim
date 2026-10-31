@@ -1,0 +1,6 @@
+---
+name: C_UI.GetUIParent
+status: unimplemented
+outputs:
+- name: uiParent
+  type: unknown

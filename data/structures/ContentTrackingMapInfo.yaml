@@ -1,0 +1,17 @@
+---
+name: ContentTrackingMapInfo
+fields:
+- name: x
+  type: number
+- name: y
+  type: number
+- name: trackableType
+  type: number
+- name: trackableID
+  type: number
+- name: targetType
+  type: number
+- name: targetID
+  type: number
+- name: waypointText
+  type: string

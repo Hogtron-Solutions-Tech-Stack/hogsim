@@ -1,0 +1,6 @@
+---
+name: C_CombatText.GetActiveUnit
+status: unimplemented
+outputs:
+- name: unitTarget
+  type: string

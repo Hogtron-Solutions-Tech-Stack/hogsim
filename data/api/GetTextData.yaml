@@ -1,0 +1,7 @@
+---
+name: GetTextData
+status: unimplemented
+outputs:
+- innerType: HTMLContentNode
+  name: content
+  type: table

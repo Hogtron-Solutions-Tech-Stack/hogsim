@@ -1,0 +1,9 @@
+---
+name: GetRemainingPercent
+status: unimplemented
+inputs:
+- - default: RealTime
+    type: number
+outputs:
+- name: remainingPercent
+  type: number

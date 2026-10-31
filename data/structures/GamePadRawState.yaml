@@ -1,0 +1,19 @@
+---
+name: GamePadRawState
+fields:
+- name: name
+  type: string
+- name: vendorID
+  type: number
+- name: productID
+  type: number
+- name: rawButtonCount
+  type: number
+- name: rawAxisCount
+  type: number
+- innerType: boolean
+  name: rawButtons
+  type: table
+- innerType: number
+  name: rawAxes
+  type: table

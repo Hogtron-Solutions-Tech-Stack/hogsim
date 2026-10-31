@@ -1,0 +1,7 @@
+---
+name: UnlockedAzeriteEmpoweredItems
+fields:
+- name: unlockedItem
+  type: unknown
+- name: tierIndex
+  type: number

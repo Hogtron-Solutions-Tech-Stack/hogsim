@@ -1,0 +1,9 @@
+---
+name: C_SpellBook.IsSpellBookItemHelpful
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: isHelpful
+  type: boolean

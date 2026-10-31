@@ -1,0 +1,9 @@
+---
+name: EncounterUnitStatus
+fields:
+- name: creatureID
+  type: number
+- name: creatureName
+  type: string
+- name: remainingHealthPercent
+  type: number

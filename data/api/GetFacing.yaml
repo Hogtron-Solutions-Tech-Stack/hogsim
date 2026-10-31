@@ -1,0 +1,6 @@
+---
+name: GetFacing
+status: unimplemented
+outputs:
+- name: facing
+  type: number

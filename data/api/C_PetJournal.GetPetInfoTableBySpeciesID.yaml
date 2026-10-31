@@ -1,0 +1,8 @@
+---
+name: C_PetJournal.GetPetInfoTableBySpeciesID
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: petInfo
+  type: PetJournalPetInfo

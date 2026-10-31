@@ -1,0 +1,7 @@
+---
+name: SetRotation
+status: unimplemented
+inputs:
+- - type: number
+  - nilable: true
+    type: unknown

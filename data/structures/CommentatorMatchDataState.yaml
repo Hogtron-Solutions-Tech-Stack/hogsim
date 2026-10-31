@@ -1,0 +1,12 @@
+---
+name: CommentatorMatchDataState
+fields:
+- name: receivedPlayerInfo
+  type: boolean
+- name: setInstancePlayers
+  type: boolean
+- name: requestedCooldownInfo
+  type: boolean
+- innerType: TeamPlayerRequestedCooldownInfo
+  name: requestedPlayerCooldowns
+  type: table

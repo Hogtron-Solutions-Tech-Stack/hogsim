@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.GetNumActiveRooms
+status: unimplemented
+outputs:
+- name: numRooms
+  type: number

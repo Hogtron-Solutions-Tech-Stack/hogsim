@@ -1,0 +1,14 @@
+---
+name: C_SpellBook.GetSpellBookItemType
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: itemType
+  type: number
+- name: actionID
+  type: number
+- name: spellID
+  nilable: true
+  type: number

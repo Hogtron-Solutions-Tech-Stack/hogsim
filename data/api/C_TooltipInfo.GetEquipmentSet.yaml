@@ -1,0 +1,8 @@
+---
+name: C_TooltipInfo.GetEquipmentSet
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: data
+  type: unknown

@@ -1,0 +1,13 @@
+---
+name: NumberAbbreviationBreakpoint
+fields:
+- name: breakpoint
+  type: number
+- name: abbreviation
+  type: string
+- name: significandDivisor
+  type: number
+- name: fractionDivisor
+  type: number
+- name: abbreviationIsGlobal
+  type: boolean

@@ -1,0 +1,20 @@
+---
+name: TraitEntryInfo
+fields:
+- name: definitionID
+  nilable: true
+  type: number
+- name: subTreeID
+  nilable: true
+  type: number
+- name: type
+  type: number
+- name: maxRanks
+  type: number
+- name: isAvailable
+  type: boolean
+- name: isDisplayError
+  type: boolean
+- innerType: number
+  name: conditionIDs
+  type: table

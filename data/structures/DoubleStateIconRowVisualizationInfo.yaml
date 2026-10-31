@@ -1,0 +1,37 @@
+---
+name: DoubleStateIconRowVisualizationInfo
+fields:
+- name: shownState
+  type: number
+- innerType: UIWidgetStateIconInfo
+  name: leftIcons
+  type: table
+- innerType: UIWidgetStateIconInfo
+  name: rightIcons
+  type: table
+- name: tooltipLoc
+  type: number
+- name: widgetSizeSetting
+  type: number
+- name: textureKit
+  type: string
+- name: frameTextureKit
+  type: string
+- name: hasTimer
+  type: boolean
+- name: orderIndex
+  type: number
+- name: widgetTag
+  type: string
+- name: inAnimType
+  type: number
+- name: outAnimType
+  type: number
+- name: widgetScale
+  type: number
+- name: layoutDirection
+  type: number
+- name: modelSceneLayer
+  type: number
+- name: scriptedAnimationEffectID
+  type: number

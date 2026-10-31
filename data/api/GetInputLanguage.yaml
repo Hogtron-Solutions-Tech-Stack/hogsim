@@ -1,0 +1,6 @@
+---
+name: GetInputLanguage
+status: unimplemented
+outputs:
+- name: language
+  type: string

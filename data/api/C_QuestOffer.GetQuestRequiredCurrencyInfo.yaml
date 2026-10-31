@@ -1,0 +1,9 @@
+---
+name: C_QuestOffer.GetQuestRequiredCurrencyInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: questRequiredCurrencyInfo
+  nilable: true
+  type: QuestRequiredCurrencyInfo

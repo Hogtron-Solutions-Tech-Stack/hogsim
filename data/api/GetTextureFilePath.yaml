@@ -1,0 +1,7 @@
+---
+name: GetTextureFilePath
+status: unimplemented
+outputs:
+- name: textureFile
+  nilable: true
+  type: string

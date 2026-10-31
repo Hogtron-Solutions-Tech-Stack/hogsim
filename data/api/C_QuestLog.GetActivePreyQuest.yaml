@@ -1,0 +1,6 @@
+---
+name: C_QuestLog.GetActivePreyQuest
+status: unimplemented
+outputs:
+- name: questID
+  type: number

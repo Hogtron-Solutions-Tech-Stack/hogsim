@@ -1,0 +1,7 @@
+---
+name: C_Ping.GetDefaultPingOptions
+status: unimplemented
+outputs:
+- innerType: PingTypeInfo
+  name: pingTypes
+  type: table

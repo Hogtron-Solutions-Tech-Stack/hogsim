@@ -1,0 +1,9 @@
+---
+name: C_MajorFactions.GetMajorFactionProgressionInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: data
+  nilable: true
+  type: MajorFactionProgressionInfo

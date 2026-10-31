@@ -1,0 +1,6 @@
+---
+name: IsRolesetFiltered
+status: unimplemented
+outputs:
+- name: isRolesetFiltered
+  type: boolean

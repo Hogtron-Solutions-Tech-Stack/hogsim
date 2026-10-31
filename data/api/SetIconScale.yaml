@@ -1,0 +1,5 @@
+---
+name: SetIconScale
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,5 @@
+---
+name: C_HouseExterior.SetExteriorDecorHidden
+status: unimplemented
+inputs:
+- - type: boolean

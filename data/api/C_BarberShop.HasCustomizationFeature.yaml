@@ -1,0 +1,8 @@
+---
+name: C_BarberShop.HasCustomizationFeature
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hasCustomizationFeature
+  type: boolean

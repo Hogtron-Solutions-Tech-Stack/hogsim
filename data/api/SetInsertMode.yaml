@@ -1,0 +1,5 @@
+---
+name: SetInsertMode
+status: unimplemented
+inputs:
+- - type: unknown

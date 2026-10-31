@@ -1,0 +1,6 @@
+---
+name: C_ChallengeMode.IsChallengeModeResettable
+status: unimplemented
+outputs:
+- name: canReset
+  type: boolean

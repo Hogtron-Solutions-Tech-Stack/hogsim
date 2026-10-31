@@ -1,0 +1,38 @@
+---
+name: ButtonHeaderWidgetVisualizationInfo
+fields:
+- name: shownState
+  type: number
+- name: headerText
+  type: string
+- name: tooltip
+  type: string
+- name: tooltipLoc
+  type: number
+- innerType: UIWidgetSpellButtonInfo
+  name: buttons
+  type: table
+- name: widgetSizeSetting
+  type: number
+- name: textureKit
+  type: string
+- name: frameTextureKit
+  type: string
+- name: hasTimer
+  type: boolean
+- name: orderIndex
+  type: number
+- name: widgetTag
+  type: string
+- name: inAnimType
+  type: number
+- name: outAnimType
+  type: number
+- name: widgetScale
+  type: number
+- name: layoutDirection
+  type: number
+- name: modelSceneLayer
+  type: number
+- name: scriptedAnimationEffectID
+  type: number

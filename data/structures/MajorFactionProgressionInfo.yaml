@@ -1,0 +1,17 @@
+---
+name: MajorFactionProgressionInfo
+fields:
+- name: renownLevel
+  type: number
+- name: previousWeekProgressiveMaxLevel
+  type: number
+- name: currentWeekProgressiveMaxLevel
+  type: number
+- name: maxLevel
+  type: number
+- name: renownReputationEarned
+  type: number
+- name: renownLevelThreshold
+  type: number
+- name: weekNumber
+  type: number

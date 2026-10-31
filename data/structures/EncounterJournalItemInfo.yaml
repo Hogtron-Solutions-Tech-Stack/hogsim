@@ -1,0 +1,47 @@
+---
+name: EncounterJournalItemInfo
+fields:
+- name: itemID
+  type: number
+- name: encounterID
+  nilable: true
+  type: number
+- name: name
+  nilable: true
+  type: string
+- name: itemQuality
+  nilable: true
+  type: string
+- name: filterType
+  nilable: true
+  type: number
+- name: icon
+  nilable: true
+  type: number
+- name: slot
+  nilable: true
+  type: string
+- name: armorType
+  nilable: true
+  type: string
+- name: link
+  nilable: true
+  type: string
+- name: handError
+  nilable: true
+  type: boolean
+- name: weaponTypeError
+  nilable: true
+  type: boolean
+- name: displayAsPerPlayerLoot
+  nilable: true
+  type: boolean
+- name: displayAsVeryRare
+  nilable: true
+  type: boolean
+- name: displayAsExtremelyRare
+  nilable: true
+  type: boolean
+- name: displaySeasonID
+  nilable: true
+  type: number

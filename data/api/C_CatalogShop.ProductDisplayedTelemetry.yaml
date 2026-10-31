@@ -1,0 +1,7 @@
+---
+name: C_CatalogShop.ProductDisplayedTelemetry
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number

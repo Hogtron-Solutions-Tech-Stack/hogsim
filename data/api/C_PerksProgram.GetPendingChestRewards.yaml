@@ -1,0 +1,7 @@
+---
+name: C_PerksProgram.GetPendingChestRewards
+status: unimplemented
+outputs:
+- innerType: PerksProgramPendingChestRewards
+  name: pendingRewards
+  type: table

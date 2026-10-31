@@ -1,0 +1,19 @@
+---
+name: CampaignInfo
+fields:
+- name: name
+  type: string
+- name: description
+  type: string
+- name: uiTextureKit
+  type: string
+- name: isWarCampaign
+  type: boolean
+- name: usesNormalQuestIcons
+  type: boolean
+- name: isContainerCampaign
+  type: boolean
+- name: sortAsNormalQuest
+  type: boolean
+- name: hideFutureChapters
+  type: boolean

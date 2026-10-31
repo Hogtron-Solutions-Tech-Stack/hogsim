@@ -1,0 +1,6 @@
+---
+name: C_Glue.IsOnGlueScreen
+status: unimplemented
+outputs:
+- name: isOnGlueScreen
+  type: boolean

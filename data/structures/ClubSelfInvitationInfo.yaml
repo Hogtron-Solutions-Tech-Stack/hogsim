@@ -1,0 +1,12 @@
+---
+name: ClubSelfInvitationInfo
+fields:
+- name: invitationId
+  type: number
+- name: club
+  type: ClubInfo
+- name: inviter
+  type: ClubMemberInfo
+- innerType: ClubMemberInfo
+  name: leaders
+  type: table

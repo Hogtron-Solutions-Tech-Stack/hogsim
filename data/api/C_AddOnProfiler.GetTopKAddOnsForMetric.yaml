@@ -1,0 +1,10 @@
+---
+name: C_AddOnProfiler.GetTopKAddOnsForMetric
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- innerType: AddOnProfilerResult
+  name: results
+  type: table

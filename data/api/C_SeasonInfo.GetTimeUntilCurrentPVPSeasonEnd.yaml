@@ -1,0 +1,6 @@
+---
+name: C_SeasonInfo.GetTimeUntilCurrentPVPSeasonEnd
+status: unimplemented
+outputs:
+- name: timeInSeconds
+  type: number

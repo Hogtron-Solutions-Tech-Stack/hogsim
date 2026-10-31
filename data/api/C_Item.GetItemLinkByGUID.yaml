@@ -1,0 +1,9 @@
+---
+name: C_Item.GetItemLinkByGUID
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: itemLink
+  nilable: true
+  type: string

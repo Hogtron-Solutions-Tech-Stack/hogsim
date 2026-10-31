@@ -1,0 +1,6 @@
+---
+name: C_RecentAllies.IsSystemSupported
+status: unimplemented
+outputs:
+- name: isRecentAllySystemSupported
+  type: boolean

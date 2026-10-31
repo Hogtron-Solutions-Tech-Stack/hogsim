@@ -1,0 +1,6 @@
+---
+name: IsMouseMotionFocus
+status: unimplemented
+outputs:
+- name: isMouseMotionFocus
+  type: boolean

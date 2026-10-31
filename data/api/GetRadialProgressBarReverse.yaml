@@ -1,0 +1,6 @@
+---
+name: GetRadialProgressBarReverse
+status: unimplemented
+outputs:
+- name: reverse
+  type: boolean

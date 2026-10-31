@@ -1,0 +1,7 @@
+---
+name: ClubMessageIdentifier
+fields:
+- name: epoch
+  type: number
+- name: position
+  type: number

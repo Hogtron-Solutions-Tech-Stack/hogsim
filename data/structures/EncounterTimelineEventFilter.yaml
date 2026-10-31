@@ -1,0 +1,13 @@
+---
+name: EncounterTimelineEventFilter
+fields:
+- name: maxEventCount
+  nilable: true
+  type: number
+- name: maxEventDuration
+  nilable: true
+  type: unknown
+- name: excludeTerminalStates
+  type: boolean
+- name: excludeHiddenEvents
+  type: boolean

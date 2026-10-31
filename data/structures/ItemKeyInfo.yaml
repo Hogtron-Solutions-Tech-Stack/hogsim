@@ -1,0 +1,25 @@
+---
+name: ItemKeyInfo
+fields:
+- name: itemID
+  type: number
+- name: battlePetSpeciesID
+  type: number
+- name: itemName
+  type: string
+- name: battlePetLink
+  nilable: true
+  type: string
+- name: appearanceLink
+  nilable: true
+  type: string
+- name: quality
+  type: number
+- name: iconFileID
+  type: number
+- name: isPet
+  type: boolean
+- name: isCommodity
+  type: boolean
+- name: isEquipment
+  type: boolean

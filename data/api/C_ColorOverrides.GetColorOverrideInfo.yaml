@@ -1,0 +1,9 @@
+---
+name: C_ColorOverrides.GetColorOverrideInfo
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: overrideInfo
+  nilable: true
+  type: ColorOverrideInfo

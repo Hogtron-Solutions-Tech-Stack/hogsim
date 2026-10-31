@@ -1,0 +1,6 @@
+---
+name: GetSourceLocation
+status: unimplemented
+outputs:
+- name: location
+  type: string

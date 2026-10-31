@@ -1,0 +1,10 @@
+---
+name: MatchDetails
+fields:
+- name: matchType
+  type: number
+- name: matchEnded
+  type: boolean
+- innerType: MatchDetail
+  name: detailsList
+  type: table

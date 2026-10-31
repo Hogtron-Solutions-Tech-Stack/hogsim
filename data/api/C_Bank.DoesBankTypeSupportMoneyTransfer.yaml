@@ -1,0 +1,8 @@
+---
+name: C_Bank.DoesBankTypeSupportMoneyTransfer
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: doesBankTypeSupportMoneyTransfer
+  type: boolean

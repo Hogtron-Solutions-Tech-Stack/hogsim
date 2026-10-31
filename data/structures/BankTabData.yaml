@@ -1,0 +1,17 @@
+---
+name: BankTabData
+fields:
+- name: ID
+  type: number
+- name: bankType
+  type: number
+- name: name
+  type: string
+- name: icon
+  type: number
+- name: depositFlags
+  type: number
+- name: tabCleanupConfirmation
+  type: string
+- name: tabNameEditBoxHeader
+  type: string

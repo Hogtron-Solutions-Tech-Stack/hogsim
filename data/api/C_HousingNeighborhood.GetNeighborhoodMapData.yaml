@@ -1,0 +1,7 @@
+---
+name: C_HousingNeighborhood.GetNeighborhoodMapData
+status: unimplemented
+outputs:
+- innerType: NeighborhoodPlotMapInfo
+  name: neighborhoodPlots
+  type: table

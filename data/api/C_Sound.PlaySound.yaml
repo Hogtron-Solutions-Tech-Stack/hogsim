@@ -1,0 +1,20 @@
+---
+name: C_Sound.PlaySound
+status: unimplemented
+inputs:
+- - type: number
+  - default: g_defaultSI3UISoundSubTypeForLua
+    type: unknown
+  - default: false
+    type: boolean
+  - default: false
+    type: boolean
+  - nilable: true
+    type: number
+  - nilable: true
+    type: number
+outputs:
+- name: success
+  type: boolean
+- name: soundHandle
+  type: unknown

@@ -1,0 +1,11 @@
+---
+name: CraftingOrderReagentInfo
+fields:
+- name: reagentInfo
+  type: CraftingReagentInfo
+- name: slotIndex
+  type: number
+- name: source
+  type: number
+- name: isBasicReagent
+  type: boolean

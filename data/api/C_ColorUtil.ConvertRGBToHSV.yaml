@@ -1,0 +1,14 @@
+---
+name: C_ColorUtil.ConvertRGBToHSV
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+  - type: number
+outputs:
+- name: hsvH
+  type: number
+- name: hsvS
+  type: number
+- name: hsvV
+  type: number

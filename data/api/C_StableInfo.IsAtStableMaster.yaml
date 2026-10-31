@@ -1,0 +1,6 @@
+---
+name: C_StableInfo.IsAtStableMaster
+status: unimplemented
+outputs:
+- name: isAtStableMaster
+  type: boolean

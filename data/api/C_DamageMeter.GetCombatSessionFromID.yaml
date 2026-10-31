@@ -1,0 +1,9 @@
+---
+name: C_DamageMeter.GetCombatSessionFromID
+status: unimplemented
+inputs:
+- - type: number
+  - type: number
+outputs:
+- name: session
+  type: DamageMeterCombatSession

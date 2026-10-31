@@ -1,0 +1,6 @@
+---
+name: C_HousingCatalog.HasFeaturedEntries
+status: unimplemented
+outputs:
+- name: hasEntries
+  type: boolean

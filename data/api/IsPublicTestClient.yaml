@@ -1,0 +1,6 @@
+---
+name: IsPublicTestClient
+status: unimplemented
+outputs:
+- name: isPublicTestClient
+  type: boolean

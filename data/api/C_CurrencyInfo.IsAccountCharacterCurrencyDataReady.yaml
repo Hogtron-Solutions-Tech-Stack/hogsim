@@ -1,0 +1,6 @@
+---
+name: C_CurrencyInfo.IsAccountCharacterCurrencyDataReady
+status: unimplemented
+outputs:
+- name: isReady
+  type: boolean

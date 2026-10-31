@@ -1,0 +1,6 @@
+---
+name: GetCameraRoll
+status: unimplemented
+outputs:
+- name: radians
+  type: number

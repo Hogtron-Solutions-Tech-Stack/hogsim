@@ -18,6 +18,14 @@ methods:
     status: unimplemented
   GetCooldownTimes:
     status: unimplemented
+  GetCountdownAbbrevThreshold:
+    status: unimplemented
+  GetCountdownFontString:
+    status: unimplemented
+  GetCountdownFormatter:
+    status: unimplemented
+  GetCountdownMillisecondsThreshold:
+    status: unimplemented
   GetDrawBling:
     status: unimplemented
   GetDrawEdge:
@@ -26,9 +34,15 @@ methods:
     status: unimplemented
   GetEdgeScale:
     status: unimplemented
+  GetHideCountdownNumbers:
+    status: unimplemented
+  GetMinimumCountdownDuration:
+    status: unimplemented
   GetReverse:
     status: unimplemented
   GetRotation:
+    status: unimplemented
+  GetUseAuraDisplayTime:
     status: unimplemented
   IsPaused:
     status: unimplemented
@@ -44,17 +58,27 @@ methods:
     status: unimplemented
   SetCooldownDuration:
     status: unimplemented
+  SetCooldownFromDurationObject:
+    status: unimplemented
+  SetCooldownFromExpirationTime:
+    status: unimplemented
   SetCooldownUNIX:
     status: unimplemented
   SetCountdownAbbrevThreshold:
     status: unimplemented
   SetCountdownFont:
     status: unimplemented
+  SetCountdownFormatter:
+    status: unimplemented
+  SetCountdownMillisecondsThreshold:
+    status: unimplemented
   SetDrawBling:
     status: unimplemented
   SetDrawEdge:
     status: unimplemented
   SetDrawSwipe:
+    status: unimplemented
+  SetEdgeColor:
     status: unimplemented
   SetEdgeScale:
     status: unimplemented
@@ -63,6 +87,10 @@ methods:
     - name: edgeTexture
     status: setter
   SetHideCountdownNumbers:
+    status: unimplemented
+  SetMinimumCountdownDuration:
+    status: unimplemented
+  SetPaused:
     status: unimplemented
   SetReverse:
     status: unimplemented
@@ -79,6 +107,8 @@ methods:
     - wow
     - wow_beta
     - wowt
+    status: unimplemented
+  SetUseAuraDisplayTime:
     status: unimplemented
   SetUseCircularEdge:
     status: unimplemented

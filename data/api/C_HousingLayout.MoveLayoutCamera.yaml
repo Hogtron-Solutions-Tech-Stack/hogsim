@@ -1,0 +1,6 @@
+---
+name: C_HousingLayout.MoveLayoutCamera
+status: unimplemented
+inputs:
+- - type: number
+  - type: boolean

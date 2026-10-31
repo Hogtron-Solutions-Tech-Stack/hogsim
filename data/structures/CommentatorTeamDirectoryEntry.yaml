@@ -1,0 +1,7 @@
+---
+name: CommentatorTeamDirectoryEntry
+fields:
+- name: playerName
+  type: string
+- name: teamName
+  type: string

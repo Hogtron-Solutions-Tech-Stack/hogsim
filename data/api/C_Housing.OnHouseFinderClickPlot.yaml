@@ -1,0 +1,5 @@
+---
+name: C_Housing.OnHouseFinderClickPlot
+status: unimplemented
+inputs:
+- - type: number

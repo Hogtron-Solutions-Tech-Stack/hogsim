@@ -1,0 +1,6 @@
+---
+name: SetMinMaxValues
+status: unimplemented
+inputs:
+- - type: number
+  - type: number

@@ -1,0 +1,18 @@
+---
+name: GetPointByName
+status: unimplemented
+inputs:
+- - type: unknown
+  - default: false
+    type: boolean
+outputs:
+- name: point
+  type: unknown
+- name: relativeTo
+  type: unknown
+- name: relativePoint
+  type: unknown
+- name: offsetX
+  type: number
+- name: offsetY
+  type: number

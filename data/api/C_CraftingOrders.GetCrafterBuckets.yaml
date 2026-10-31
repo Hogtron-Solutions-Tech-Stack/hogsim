@@ -1,0 +1,7 @@
+---
+name: C_CraftingOrders.GetCrafterBuckets
+status: unimplemented
+outputs:
+- innerType: CraftingOrderBucketInfo
+  name: buckets
+  type: table

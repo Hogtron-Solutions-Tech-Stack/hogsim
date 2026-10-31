@@ -1,0 +1,8 @@
+---
+name: C_HousingCatalog.GetDestroyableInstanceCount
+status: unimplemented
+inputs:
+- - type: HousingCatalogEntryVariantID
+outputs:
+- name: destroyableInstanceCount
+  type: number

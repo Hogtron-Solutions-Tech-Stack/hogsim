@@ -1,0 +1,6 @@
+---
+name: GetEndColor
+status: unimplemented
+outputs:
+- name: color
+  type: unknown

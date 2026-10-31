@@ -1,0 +1,15 @@
+---
+name: DungeonEntranceMapInfo
+fields:
+- name: areaPoiID
+  type: number
+- name: position
+  type: unknown
+- name: name
+  type: string
+- name: description
+  type: string
+- name: atlasName
+  type: string
+- name: journalInstanceID
+  type: number

@@ -1,0 +1,6 @@
+---
+name: C_EncounterTimeline.HasPausedEvents
+status: unimplemented
+outputs:
+- name: hasPausedEvents
+  type: boolean

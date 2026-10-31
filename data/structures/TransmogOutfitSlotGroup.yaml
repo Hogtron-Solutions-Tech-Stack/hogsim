@@ -1,0 +1,11 @@
+---
+name: TransmogOutfitSlotGroup
+fields:
+- name: position
+  type: number
+- innerType: TransmogOutfitSlotInfo
+  name: appearanceSlotInfo
+  type: table
+- innerType: TransmogOutfitSlotInfo
+  name: illusionSlotInfo
+  type: table

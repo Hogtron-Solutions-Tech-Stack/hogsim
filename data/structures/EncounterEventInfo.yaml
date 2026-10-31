@@ -1,0 +1,15 @@
+---
+name: EncounterEventInfo
+fields:
+- name: encounterEventID
+  type: number
+- name: enabled
+  type: boolean
+- name: spellID
+  type: number
+- name: iconFileID
+  type: number
+- name: severity
+  type: number
+- name: icons
+  type: number

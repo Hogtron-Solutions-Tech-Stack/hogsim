@@ -1,0 +1,7 @@
+---
+name: C_HousingCatalog.GetFeaturedSmallProducts
+status: unimplemented
+outputs:
+- innerType: HousingFeaturedSmallProductInfo
+  name: infos
+  type: table

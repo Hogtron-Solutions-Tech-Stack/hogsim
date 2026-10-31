@@ -1,0 +1,8 @@
+---
+name: C_ActionBar.IsEquippedGearOutfitAction
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: isEquippedGearOutfitAction
+  type: boolean

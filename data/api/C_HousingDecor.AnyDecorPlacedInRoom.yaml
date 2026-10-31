@@ -1,0 +1,8 @@
+---
+name: C_HousingDecor.AnyDecorPlacedInRoom
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isPlaced
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_HousingBlueprint.GetExportAvailability
+status: unimplemented
+outputs:
+- name: availability
+  type: number

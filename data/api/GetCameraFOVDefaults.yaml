@@ -1,0 +1,10 @@
+---
+name: GetCameraFOVDefaults
+status: unimplemented
+outputs:
+- name: fieldOfViewDegreesDefault
+  type: number
+- name: fieldOfViewDegreesPlayerMin
+  type: number
+- name: fieldOfViewDegreesPlayerMax
+  type: number

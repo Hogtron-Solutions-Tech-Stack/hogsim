@@ -1,0 +1,24 @@
+---
+name: BidInfo
+fields:
+- name: auctionID
+  type: number
+- name: itemKey
+  type: ItemKey
+- name: itemLink
+  nilable: true
+  type: string
+- name: timeLeft
+  type: number
+- name: minBid
+  nilable: true
+  type: number
+- name: bidAmount
+  nilable: true
+  type: number
+- name: buyoutAmount
+  nilable: true
+  type: number
+- name: bidder
+  nilable: true
+  type: string

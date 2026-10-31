@@ -1,0 +1,9 @@
+---
+name: ClubInvitationInfo
+fields:
+- name: invitationId
+  type: number
+- name: isMyInvitation
+  type: boolean
+- name: invitee
+  type: ClubMemberInfo

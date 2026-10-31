@@ -1,0 +1,5 @@
+---
+name: C_HousingNeighborhood.InvitePlayerToNeighborhood
+status: unimplemented
+inputs:
+- - type: string

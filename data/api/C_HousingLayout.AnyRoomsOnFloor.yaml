@@ -1,0 +1,8 @@
+---
+name: C_HousingLayout.AnyRoomsOnFloor
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: anyRooms
+  type: boolean

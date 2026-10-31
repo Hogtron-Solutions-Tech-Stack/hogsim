@@ -1,0 +1,11 @@
+---
+name: TextColumnRowEntryInfo
+fields:
+- name: text
+  type: string
+- name: enabledState
+  type: number
+- name: hAlign
+  type: number
+- name: columnWidth
+  type: number

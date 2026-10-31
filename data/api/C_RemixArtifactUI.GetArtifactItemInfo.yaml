@@ -1,0 +1,21 @@
+---
+name: C_RemixArtifactUI.GetArtifactItemInfo
+status: unimplemented
+outputs:
+- name: itemID
+  type: number
+- name: altItemID
+  nilable: true
+  type: number
+- name: artifactAppearanceID
+  type: number
+- name: appearanceModID
+  type: number
+- name: itemAppearanceID
+  nilable: true
+  type: number
+- name: altItemAppearanceID
+  nilable: true
+  type: number
+- name: altOnTop
+  type: boolean

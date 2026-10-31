@@ -1,0 +1,7 @@
+---
+name: C_PvP.GetTrainingGrounds
+status: unimplemented
+outputs:
+- innerType: BattlegroundInfo
+  name: trainingGrounds
+  type: table

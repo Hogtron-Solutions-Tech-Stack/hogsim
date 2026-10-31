@@ -1,0 +1,8 @@
+---
+name: SetModelByUnitCreatureDisplayID
+status: unimplemented
+inputs:
+- - type: unit
+outputs:
+- name: success
+  type: boolean

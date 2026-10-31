@@ -1,0 +1,25 @@
+---
+name: GarrisonAbilityInfo
+fields:
+- name: id
+  type: number
+- name: name
+  type: string
+- name: description
+  type: string
+- name: icon
+  type: number
+- name: isTrait
+  type: boolean
+- name: isSpecialization
+  type: boolean
+- name: temporary
+  type: boolean
+- name: category
+  nilable: true
+  type: string
+- innerType: GarrisonAbilityCounterInfo
+  name: counters
+  type: table
+- name: isEmptySlot
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: settablesecurity
+status: unimplemented
+inputs:
+- - type: unknown
+  - type: number

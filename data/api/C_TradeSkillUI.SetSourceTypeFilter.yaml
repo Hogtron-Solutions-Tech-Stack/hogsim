@@ -1,0 +1,5 @@
+---
+name: C_TradeSkillUI.SetSourceTypeFilter
+status: unimplemented
+inputs:
+- - type: number

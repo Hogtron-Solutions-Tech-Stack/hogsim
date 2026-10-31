@@ -1,0 +1,8 @@
+---
+name: AzeriteEmpoweredItemTierInfo
+fields:
+- innerType: number
+  name: azeritePowerIDs
+  type: table
+- name: unlockLevel
+  type: number

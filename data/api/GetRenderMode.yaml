@@ -1,0 +1,6 @@
+---
+name: GetRenderMode
+status: unimplemented
+outputs:
+- name: renderMode
+  type: number

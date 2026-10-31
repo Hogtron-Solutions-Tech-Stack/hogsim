@@ -1,0 +1,9 @@
+---
+name: C_AuctionHouse.GetItemKeySampleLink
+status: unimplemented
+inputs:
+- - type: ItemKey
+outputs:
+- name: sampleItemLink
+  nilable: true
+  type: string

@@ -1,0 +1,5 @@
+---
+name: C_TransmogOutfitInfo.ChangeViewedOutfit
+status: unimplemented
+inputs:
+- - type: number

@@ -1,0 +1,7 @@
+---
+name: C_Roleset.GetActiveAllowedRolesets
+status: unimplemented
+outputs:
+- innerType: string
+  name: allowedRolesets
+  type: table

@@ -1,0 +1,9 @@
+---
+name: CraftingRecipeRequirement
+fields:
+- name: name
+  type: string
+- name: met
+  type: boolean
+- name: type
+  type: number

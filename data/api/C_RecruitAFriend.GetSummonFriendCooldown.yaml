@@ -1,0 +1,10 @@
+---
+name: C_RecruitAFriend.GetSummonFriendCooldown
+status: unimplemented
+outputs:
+- name: startTimeSeconds
+  type: number
+- name: durationSeconds
+  type: number
+- name: enableCooldownTimer
+  type: boolean

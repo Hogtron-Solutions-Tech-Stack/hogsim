@@ -1,0 +1,10 @@
+---
+name: GetFont
+status: unimplemented
+outputs:
+- name: name
+  type: string
+- name: fontHeight
+  type: number
+- name: flags
+  type: unknown

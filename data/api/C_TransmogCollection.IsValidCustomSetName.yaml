@@ -1,0 +1,8 @@
+---
+name: C_TransmogCollection.IsValidCustomSetName
+status: unimplemented
+inputs:
+- - type: string
+outputs:
+- name: isApproved
+  type: boolean

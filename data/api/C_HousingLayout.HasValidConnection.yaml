@@ -1,0 +1,10 @@
+---
+name: C_HousingLayout.HasValidConnection
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - type: number
+outputs:
+- name: canPlace
+  type: boolean

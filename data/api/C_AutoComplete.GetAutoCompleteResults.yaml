@@ -1,0 +1,14 @@
+---
+name: C_AutoComplete.GetAutoCompleteResults
+status: unimplemented
+inputs:
+- - type: string
+  - type: number
+  - type: number
+  - type: boolean
+  - type: number
+  - type: number
+outputs:
+- innerType: AutoCompleteResult
+  name: results
+  type: table

@@ -1,0 +1,13 @@
+---
+name: HouseExteriorTypeOption
+fields:
+- name: houseExteriorTypeID
+  type: number
+- name: name
+  type: string
+- name: isLocked
+  type: boolean
+- name: isInvalid
+  type: boolean
+- name: reasonString
+  type: string

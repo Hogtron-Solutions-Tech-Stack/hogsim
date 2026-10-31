@@ -1,0 +1,6 @@
+---
+name: C_MountJournal.GetDynamicFlightModeSpellID
+status: unimplemented
+outputs:
+- name: spellID
+  type: number

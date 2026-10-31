@@ -1,0 +1,11 @@
+---
+name: DungeonEncounterInfo
+fields:
+- name: encounterName
+  type: string
+- name: texture
+  type: string
+- name: isKilled
+  type: boolean
+- name: ineligible
+  type: boolean

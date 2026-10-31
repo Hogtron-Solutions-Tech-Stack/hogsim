@@ -1,0 +1,10 @@
+---
+name: C_Item.GetDelvePreviewItemLink
+status: unimplemented
+inputs:
+- - type: number
+  - type: unknown
+outputs:
+- name: itemLink
+  nilable: true
+  type: string

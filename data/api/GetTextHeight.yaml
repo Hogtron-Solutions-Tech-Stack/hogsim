@@ -1,0 +1,6 @@
+---
+name: GetTextHeight
+status: unimplemented
+outputs:
+- name: height
+  type: number

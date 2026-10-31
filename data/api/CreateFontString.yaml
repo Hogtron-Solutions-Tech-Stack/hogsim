@@ -1,0 +1,13 @@
+---
+name: CreateFontString
+status: unimplemented
+inputs:
+- - nilable: true
+    type: string
+  - nilable: true
+    type: unknown
+  - nilable: true
+    type: string
+outputs:
+- name: line
+  type: unknown

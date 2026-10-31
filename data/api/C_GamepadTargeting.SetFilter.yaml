@@ -1,0 +1,5 @@
+---
+name: C_GamepadTargeting.SetFilter
+status: unimplemented
+inputs:
+- - type: number

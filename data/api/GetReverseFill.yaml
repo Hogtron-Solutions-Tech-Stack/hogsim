@@ -1,0 +1,6 @@
+---
+name: GetReverseFill
+status: unimplemented
+outputs:
+- name: isReverseFill
+  type: boolean

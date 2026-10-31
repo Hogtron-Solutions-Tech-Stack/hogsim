@@ -1,0 +1,9 @@
+---
+name: C_UnitAuras.GetAuraDuration
+status: unimplemented
+inputs:
+- - type: unit
+  - type: number
+outputs:
+- name: duration
+  type: unknown

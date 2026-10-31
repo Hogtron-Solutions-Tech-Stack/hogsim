@@ -1,0 +1,6 @@
+---
+name: IsAlphabeticOnly
+status: unimplemented
+outputs:
+- name: enabled
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.HasOverrideActionBar
+status: unimplemented
+outputs:
+- name: hasOverrideActionBar
+  type: boolean

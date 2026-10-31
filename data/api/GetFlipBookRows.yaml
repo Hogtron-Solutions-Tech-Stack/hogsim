@@ -1,0 +1,6 @@
+---
+name: GetFlipBookRows
+status: unimplemented
+outputs:
+- name: rows
+  type: number

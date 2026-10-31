@@ -1,0 +1,6 @@
+---
+name: C_BattleNet.SetAppearOffline
+status: unimplemented
+inputs:
+- - default: true
+    type: boolean

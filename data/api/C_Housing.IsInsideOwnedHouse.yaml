@@ -1,0 +1,6 @@
+---
+name: C_Housing.IsInsideOwnedHouse
+status: unimplemented
+outputs:
+- name: isInsideOwnedHouse
+  type: boolean

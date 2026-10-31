@@ -1,0 +1,13 @@
+---
+name: DamageMeterCombatSession
+fields:
+- innerType: DamageMeterCombatSource
+  name: combatSources
+  type: table
+- name: maxAmount
+  type: number
+- name: totalAmount
+  type: number
+- name: durationSeconds
+  nilable: true
+  type: number

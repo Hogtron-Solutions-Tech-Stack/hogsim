@@ -1,0 +1,9 @@
+---
+name: ScenarioStepSpellInfo
+fields:
+- name: spellID
+  type: number
+- name: name
+  type: string
+- name: icon
+  type: number

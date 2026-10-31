@@ -1,0 +1,6 @@
+---
+name: IsBlockingLoadRequested
+status: unimplemented
+outputs:
+- name: blocking
+  type: boolean

@@ -1,0 +1,5 @@
+---
+name: SetTaskBlobInsideTexture
+status: unimplemented
+inputs:
+- - type: unknown

@@ -1,0 +1,9 @@
+---
+name: C_AreaPoiInfo.GetQuestHubsForMap
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- innerType: number
+  name: areaPoiIDs
+  type: table

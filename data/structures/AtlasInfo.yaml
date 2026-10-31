@@ -1,0 +1,32 @@
+---
+name: AtlasInfo
+fields:
+- name: elementName
+  type: string
+- name: width
+  type: number
+- name: height
+  type: number
+- name: rawSize
+  type: unknown
+- name: leftTexCoord
+  type: number
+- name: rightTexCoord
+  type: number
+- name: topTexCoord
+  type: number
+- name: bottomTexCoord
+  type: number
+- name: tilesHorizontally
+  type: boolean
+- name: tilesVertically
+  type: boolean
+- name: file
+  nilable: true
+  type: number
+- name: filename
+  nilable: true
+  type: string
+- name: sliceData
+  nilable: true
+  type: UITextureSliceData

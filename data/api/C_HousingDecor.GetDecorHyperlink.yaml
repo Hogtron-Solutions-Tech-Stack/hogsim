@@ -1,0 +1,8 @@
+---
+name: C_HousingDecor.GetDecorHyperlink
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: hyperLink
+  type: string

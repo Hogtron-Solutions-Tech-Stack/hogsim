@@ -1,0 +1,11 @@
+---
+name: SocketItemInfo
+fields:
+- name: name
+  nilable: true
+  type: string
+- name: icon
+  nilable: true
+  type: number
+- name: quality
+  type: number

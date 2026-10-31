@@ -1,0 +1,6 @@
+---
+name: IsRectValid
+status: unimplemented
+outputs:
+- name: isValid
+  type: boolean

@@ -1,0 +1,6 @@
+---
+name: C_ActionBar.HasTempShapeshiftActionBar
+status: unimplemented
+outputs:
+- name: hasTempShapeshiftActionBar
+  type: boolean

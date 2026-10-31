@@ -1,0 +1,11 @@
+---
+name: C_ChatInfo.SendChatMessage
+status: unimplemented
+inputs:
+- - type: string
+  - nilable: true
+    type: unknown
+  - nilable: true
+    type: number
+  - nilable: true
+    type: string

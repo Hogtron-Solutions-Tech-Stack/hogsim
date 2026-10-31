@@ -1,0 +1,6 @@
+---
+name: GetDuration
+status: unimplemented
+outputs:
+- name: durationSec
+  type: number

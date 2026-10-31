@@ -1,0 +1,8 @@
+---
+name: IsProtected
+status: unimplemented
+outputs:
+- name: isProtected
+  type: boolean
+- name: isProtectedExplicitly
+  type: boolean

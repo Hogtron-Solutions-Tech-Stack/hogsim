@@ -1,0 +1,34 @@
+---
+name: CovenantData
+fields:
+- name: ID
+  type: number
+- name: textureKit
+  type: string
+- name: celebrationSoundKit
+  type: number
+- name: animaChannelSelectSoundKit
+  type: number
+- name: animaChannelActiveSoundKit
+  type: number
+- name: animaGemsFullSoundKit
+  type: number
+- name: animaNewGemSoundKit
+  type: number
+- name: animaReinforceSelectSoundKit
+  type: number
+- name: upgradeTabSelectSoundKitID
+  type: number
+- name: reservoirFullSoundKitID
+  type: number
+- name: beginResearchSoundKitID
+  type: number
+- name: renownFanfareSoundKitID
+  type: number
+- name: factionID
+  type: number
+- name: name
+  type: string
+- innerType: number
+  name: soulbindIDs
+  type: table

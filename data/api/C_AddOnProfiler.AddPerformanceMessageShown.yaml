@@ -1,0 +1,5 @@
+---
+name: C_AddOnProfiler.AddPerformanceMessageShown
+status: unimplemented
+inputs:
+- - type: AddOnPerformanceMessage

@@ -1,0 +1,6 @@
+---
+name: PlatformIsHandheld
+status: unimplemented
+outputs:
+- name: isHandheld
+  type: boolean

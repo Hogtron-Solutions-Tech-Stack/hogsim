@@ -1,0 +1,8 @@
+---
+name: C_CombatAudioAlert.GetSpecSetting
+status: unimplemented
+inputs:
+- - type: number
+outputs:
+- name: value
+  type: number

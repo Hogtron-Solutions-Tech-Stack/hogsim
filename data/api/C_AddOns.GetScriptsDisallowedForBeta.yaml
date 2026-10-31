@@ -1,0 +1,6 @@
+---
+name: C_AddOns.GetScriptsDisallowedForBeta
+status: unimplemented
+outputs:
+- name: disallowed
+  type: boolean

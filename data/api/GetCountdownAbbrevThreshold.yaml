@@ -1,0 +1,6 @@
+---
+name: GetCountdownAbbrevThreshold
+status: unimplemented
+outputs:
+- name: seconds
+  type: unknown
