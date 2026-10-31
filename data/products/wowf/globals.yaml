@@ -2610,10 +2610,7 @@ Enum:
     MaxValue: 7
     MinValue: 0
     NumValues: 8
-  CombatAudioAlertCastState:
-    Off: 0
-    OnCastEnd: 2
-    OnCastStart: 1
+  CombatAudioAlertCastState: {}
   CombatAudioAlertCastStateMeta:
     MaxValue: 2
     MinValue: 0
@@ -2634,35 +2631,24 @@ Enum:
     MinValue: 0
     NumValues: 10
   CombatAudioAlertDebuffSelfAlertValues:
+    false: 0
     DispelType: 1
-    Off: 0
   CombatAudioAlertDebuffSelfAlertValuesMeta:
     MaxValue: 1
     MinValue: 0
     NumValues: 2
-  CombatAudioAlertPartyPercentValues:
-    Off: 0
-    Under100Percent: 1
-    Under10Percent: 10
-    Under20Percent: 9
-    Under30Percent: 8
-    Under40Percent: 7
-    Under50Percent: 6
-    Under60Percent: 5
-    Under70Percent: 4
-    Under80Percent: 3
-    Under90Percent: 2
+  CombatAudioAlertPartyPercentValues: {}
   CombatAudioAlertPartyPercentValuesMeta:
     MaxValue: 10
     MinValue: 0
     NumValues: 11
   CombatAudioAlertPercentValues:
+    false: 0
     Every10Percent: 1
     Every20Percent: 2
     Every30Percent: 3
     Every40Percent: 4
     Every50Percent: 5
-    Off: 0
   CombatAudioAlertPercentValuesMeta:
     MaxValue: 5
     MinValue: 0
@@ -2706,17 +2692,7 @@ Enum:
     MaxValue: 5
     MinValue: 0
     NumValues: 6
-  CombatAudioAlertPulsePercentValues:
-    Off: 0
-    Under10Percent: 9
-    Under20Percent: 8
-    Under30Percent: 7
-    Under40Percent: 6
-    Under50Percent: 5
-    Under60Percent: 4
-    Under70Percent: 3
-    Under80Percent: 2
-    Under90Percent: 1
+  CombatAudioAlertPulsePercentValues: {}
   CombatAudioAlertPulsePercentValuesMeta:
     MaxValue: 9
     MinValue: 0

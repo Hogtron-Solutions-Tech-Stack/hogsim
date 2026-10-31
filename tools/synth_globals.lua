@@ -8,7 +8,7 @@ local gfile = ('data/products/%s/globals.yaml'):format(product)
 local g = yaml.parseFile(gfile)
 g.Enum = g.Enum or {}
 g.Constants = g.Constants or {}
-local enumUse, constUse, leUse = {}, {}, {}
+local enumUse, constUse, leUse, eventUse = {}, {}, {}, {}
 for root, _, files in pldir.walk(('extracts/%s/Interface/AddOns'):format(product)) do
   for _, f in ipairs(files) do
     if f:sub(-4) == '.lua' then
@@ -23,6 +23,9 @@ for root, _, files in pldir.walk(('extracts/%s/Interface/AddOns'):format(product
       end
       for le in src:gmatch('[^%w_](LE_[A-Z0-9_]+)') do
         leUse[le] = true
+      end
+      for ev in src:gmatch('Register[A-Za-z]*Event%(%s*"([A-Z][A-Z0-9_]+)"') do
+        eventUse[ev] = true
       end
     end
   end
@@ -65,8 +68,20 @@ for _, le in ipairs(sortedKeys(leUse)) do
   end
 end
 plfile.write(gfile, yaml.pprint(g))
+-- events the Lua registers but the docs omit: known names with no payload, so RegisterEvent accepts them
+local efile = ('data/products/%s/events.yaml'):format(product)
+local events = yaml.parseFile(efile)
+counts.events = 0
+for _, ev in ipairs(sortedKeys(eventUse)) do
+  if events[ev] == nil then
+    events[ev] = {}
+    counts.events = counts.events + 1
+    report[#report + 1] = 'event ' .. ev .. ' (no payload)'
+  end
+end
+plfile.write(efile, yaml.pprint(events))
 plfile.write(('data/products/%s/synthesized.txt'):format(product),
   'Synthesized by tools/synth_globals.lua: not in the client API docs; values are placeholders, not client values.'
   .. string.char(10) .. table.concat(report, string.char(10)) .. string.char(10))
-print(('synth_globals %s: enums %d (%d members), constant groups %d (%d members), LE_* %d'):format(
-  product, counts.enums, counts.enumMembers, counts.constGroups, counts.constMembers, counts.le))
+print(('synth_globals %s: enums %d (%d members), constant groups %d (%d members), LE_* %d, events %d'):format(
+  product, counts.enums, counts.enumMembers, counts.constGroups, counts.constMembers, counts.le, counts.events))

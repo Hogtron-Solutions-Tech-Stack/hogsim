@@ -1,6 +1,4 @@
 ---
 name: AddSourceLocationExclude
-status: unimplemented
-comment: generated from Blizzard_APIDocumentationGenerated
-inputs:
-- - type: string
+status: implemented
+outputs: {}

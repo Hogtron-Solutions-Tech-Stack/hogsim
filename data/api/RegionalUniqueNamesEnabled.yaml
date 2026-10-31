@@ -1,7 +1,5 @@
 ---
 name: RegionalUniqueNamesEnabled
-status: unimplemented
-comment: generated from Blizzard_APIDocumentationGenerated
+status: implemented
 outputs:
-- name: result
-  type: boolean
+- type: boolean

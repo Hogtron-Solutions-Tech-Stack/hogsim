@@ -1,9 +1,5 @@
 ---
 name: C_Timer.NewTimedSignalMap
-status: unimplemented
-comment: generated from Blizzard_APIDocumentationGenerated
-inputs:
-- - type: unknown
+status: implemented
 outputs:
-- name: signalMap
-  type: unknown
+- type: table
