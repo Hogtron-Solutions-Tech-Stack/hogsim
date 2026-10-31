@@ -46,6 +46,21 @@ local function factory(theProduct)
             .. wmaj .. '.' .. wmin .. '.' .. wpat .. ' layout (build distance ' .. bestDist .. ')' .. string.char(10))
           return best
         end
+        -- no layout for this version line at all: use the newest layout the definitions know
+        local newest, newestBuild = nil, -1
+        for _, version in ipairs(dbd.versions) do
+          for _, vb in ipairs(version.builds) do
+            local b4 = tonumber(vb[#vb][4]) or 0
+            if b4 > newestBuild then
+              newest, newestBuild = version, b4
+            end
+          end
+        end
+        if newest then
+          io.stderr:write('WARN ' .. db .. ': no ' .. wmaj .. '.' .. wmin .. '.' .. wpat
+            .. ' layout in dbd; using newest known layout (build ' .. newestBuild .. ')' .. string.char(10))
+          return newest
+        end
         error('cannot find ' .. bv .. ' in dbd ' .. db)
       end)()
       local sig, field2index = require('luadbd.sig')(dbd, v)
@@ -118,7 +133,7 @@ local function factory(theProduct)
         end
       end)
       if not success then
-        error('failed to populate ' .. k .. ': ' .. msg)
+        io.stderr:write('WARN: failed to populate ' .. k .. ' (table left empty): ' .. tostring(msg) .. string.char(10))
       end
     end
     table.insert(dbinit, 'COMMIT')
