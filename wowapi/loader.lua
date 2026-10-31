@@ -99,13 +99,22 @@ local function loadFunctions(api, loader)
       end
     end
 
+    -- forever-sim: stubs generated from the API docs only log argument mismatches (Blizzard code passes what
+    -- the real engine returned, and our stubs return defaults); hand-written implementations stay strict.
+    local function inputProblem(msg)
+      if apicfg.status == 'unimplemented' then
+        api.log(2, msg)
+      else
+        error(msg)
+      end
+    end
     local function doCheckInputs(sig, ...)
       local args = {}
       for i, param in ipairs(sig) do
         local arg = select(i, ...)
         if arg == nil then
           if not param.nilable and param.default == nil then
-            error(('arg %d (%q) of %q is not nilable, but nil was passed'):format(i, tostring(param.name), fname))
+            inputProblem(('arg %d (%q) of %q is not nilable, but nil was passed'):format(i, tostring(param.name), fname))
           end
         else
           local ty = type(arg)
@@ -123,7 +132,7 @@ local function loadFunctions(api, loader)
             ty = 'unit'
           end
           if ty ~= param.type then
-            error(
+            inputProblem(
               ('arg %d (%q) of %q is of type %q, but %q was passed'):format(
                 i,
                 tostring(param.name),

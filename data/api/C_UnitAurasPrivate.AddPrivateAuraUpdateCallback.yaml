@@ -1,0 +1,5 @@
+---
+name: C_UnitAurasPrivate.AddPrivateAuraUpdateCallback
+status: implemented
+outputs:
+- type: number

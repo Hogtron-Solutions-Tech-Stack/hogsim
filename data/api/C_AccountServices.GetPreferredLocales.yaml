@@ -1,0 +1,5 @@
+---
+name: C_AccountServices.GetPreferredLocales
+status: implemented
+outputs:
+- type: table

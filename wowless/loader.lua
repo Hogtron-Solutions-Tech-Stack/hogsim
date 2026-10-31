@@ -134,6 +134,12 @@ local function loader(api, cfg)
     local before = api.env.ScrollingMessageFrameMixin
     local fn = setfenv(loadstr(str, filename, line), api.env)
     local addonName = ...
+    if type(addonName) == 'string' then
+      -- forever-sim: module system. Remember which module directory is loading so import('.X') can be relative to it.
+      local rel = filename:match('[/\]AddOns[/\][^/\]+[/\](.+)%.lua$')
+      local dir = rel and rel:match('^(.*)[/\][^/\]+$')
+      api.currentModuleDir = dir and (addonName .. '.' .. dir:gsub('[/\]', '.')) or addonName
+    end
     api.CallSafely(function(...)
       debug.setnewclosuretaint(closureTaint)
       local ret = fn(...)

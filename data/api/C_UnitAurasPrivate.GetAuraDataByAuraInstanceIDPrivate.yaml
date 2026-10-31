@@ -1,0 +1,6 @@
+---
+name: C_UnitAurasPrivate.GetAuraDataByAuraInstanceIDPrivate
+status: implemented
+outputs:
+- nilable: true
+  type: table
