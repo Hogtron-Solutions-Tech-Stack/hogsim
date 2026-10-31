@@ -1,6 +1,7 @@
 ---
 name: MakeModifiers
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: modifiers
   type: number

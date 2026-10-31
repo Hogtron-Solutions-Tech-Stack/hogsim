@@ -1,6 +1,7 @@
 ---
 name: IsCursorVisible
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: visible
   type: boolean

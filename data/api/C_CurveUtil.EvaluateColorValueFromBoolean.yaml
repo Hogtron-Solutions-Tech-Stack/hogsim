@@ -1,6 +1,7 @@
 ---
 name: C_CurveUtil.EvaluateColorValueFromBoolean
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: boolean
   - type: unknown

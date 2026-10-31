@@ -1,6 +1,7 @@
 ---
 name: C_PhotoSharing.UploadPhotoToService
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - default: ''
     type: string

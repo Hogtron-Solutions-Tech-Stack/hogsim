@@ -1,6 +1,7 @@
 ---
 name: C_PaperDollInfo.GetInspectRatedBGData
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: ratedBGData
   type: InspectRatedBGData

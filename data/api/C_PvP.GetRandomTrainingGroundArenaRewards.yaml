@@ -1,6 +1,7 @@
 ---
 name: C_PvP.GetRandomTrainingGroundArenaRewards
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: honor
   type: number

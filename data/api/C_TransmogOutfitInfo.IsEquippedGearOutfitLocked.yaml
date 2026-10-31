@@ -1,6 +1,7 @@
 ---
 name: C_TransmogOutfitInfo.IsEquippedGearOutfitLocked
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isLocked
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: C_Housing.GetCurrentNeighborhoodGUID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: neighborhoodGUID
   nilable: true

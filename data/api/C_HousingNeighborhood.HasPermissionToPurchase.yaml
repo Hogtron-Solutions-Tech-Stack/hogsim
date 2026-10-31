@@ -1,6 +1,7 @@
 ---
 name: C_HousingNeighborhood.HasPermissionToPurchase
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: cantPurchaseReason
   type: unknown

@@ -1,6 +1,7 @@
 ---
 name: GetCameraPosition
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: positionX
   type: number

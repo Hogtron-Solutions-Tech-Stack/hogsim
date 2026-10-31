@@ -1,6 +1,7 @@
 ---
 name: C_ScenarioInfo.IsTieredEntranceScenario
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isTieredEntrance
   type: boolean

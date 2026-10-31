@@ -1,6 +1,7 @@
 ---
 name: C_TradeSkillUI.GetProfessionInventorySlots
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: unknown
   name: invSlots

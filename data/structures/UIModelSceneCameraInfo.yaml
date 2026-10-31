@@ -7,7 +7,8 @@ fields:
   type: string
 - name: cameraType
   type: string
-- name: target
+- mixin: Vector3DMixin
+  name: target
   type: unknown
 - name: yaw
   type: number
@@ -21,7 +22,8 @@ fields:
   type: number
 - name: maxZoomDistance
   type: number
-- name: zoomedTargetOffset
+- mixin: Vector3DMixin
+  name: zoomedTargetOffset
   type: unknown
 - name: zoomedYawOffset
   type: number

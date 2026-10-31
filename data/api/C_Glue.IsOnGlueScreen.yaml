@@ -1,6 +1,7 @@
 ---
 name: C_Glue.IsOnGlueScreen
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isOnGlueScreen
   type: boolean

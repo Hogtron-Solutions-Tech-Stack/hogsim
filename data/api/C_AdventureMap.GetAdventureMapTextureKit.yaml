@@ -1,6 +1,7 @@
 ---
 name: C_AdventureMap.GetAdventureMapTextureKit
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: adventureMapTextureKit
   type: string

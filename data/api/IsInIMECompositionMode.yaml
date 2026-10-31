@@ -1,6 +1,7 @@
 ---
 name: IsInIMECompositionMode
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isInIMECompositionMode
   type: boolean

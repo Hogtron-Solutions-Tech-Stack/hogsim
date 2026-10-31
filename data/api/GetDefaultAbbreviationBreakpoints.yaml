@@ -1,6 +1,7 @@
 ---
 name: GetDefaultAbbreviationBreakpoints
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - nilable: true
     type: WowLocale

@@ -1,6 +1,7 @@
 ---
 name: HasText
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasText
   type: boolean

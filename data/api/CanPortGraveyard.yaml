@@ -1,6 +1,7 @@
 ---
 name: CanPortGraveyard
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canPortGraveyard
   type: boolean

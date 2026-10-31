@@ -1,6 +1,7 @@
 ---
 name: C_PaperDollInfo.CanAutoEquipCursorItem
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canAutoEquip
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: C_HousingBasicMode.IsPlacingNewDecor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasPendingDecor
   type: boolean

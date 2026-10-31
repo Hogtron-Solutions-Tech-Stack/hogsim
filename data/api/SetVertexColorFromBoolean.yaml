@@ -1,7 +1,8 @@
 ---
 name: SetVertexColorFromBoolean
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: boolean
-  - type: unknown
-  - type: unknown
+  - type: colorRGBA
+  - type: colorRGBA

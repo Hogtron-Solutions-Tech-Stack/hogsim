@@ -1,6 +1,7 @@
 ---
 name: C_DelvesUI.GetCompanionInfoForActivePlayer
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: playerCompanionInfoID
   type: number

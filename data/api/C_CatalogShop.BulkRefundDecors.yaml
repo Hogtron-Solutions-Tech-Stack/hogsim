@@ -1,6 +1,7 @@
 ---
 name: C_CatalogShop.BulkRefundDecors
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - innerType: string
     type: table

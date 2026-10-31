@@ -1,6 +1,7 @@
 ---
 name: C_PvP.GetPvpTalentsUnlockedLevel
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: unlockLevel
   type: number

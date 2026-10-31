@@ -1,6 +1,7 @@
 ---
 name: C_UnitAuras.SetGroupBuffVisualAlerts
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - innerType: GroupBuffVisualAlertInfo
     type: table

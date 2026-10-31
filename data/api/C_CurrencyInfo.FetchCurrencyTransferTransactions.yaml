@@ -1,6 +1,7 @@
 ---
 name: C_CurrencyInfo.FetchCurrencyTransferTransactions
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: CurrencyTransferTransaction
   name: currencyTransferTransactions

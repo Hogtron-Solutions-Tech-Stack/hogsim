@@ -1,6 +1,7 @@
 ---
 name: C_HousingLayout.GetSpentPlacementBudget
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: spentPlacementBudget
   nilable: true

@@ -1,6 +1,7 @@
 ---
 name: C_EncounterTimeline.HasActiveEvents
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasActiveEvents
   type: boolean

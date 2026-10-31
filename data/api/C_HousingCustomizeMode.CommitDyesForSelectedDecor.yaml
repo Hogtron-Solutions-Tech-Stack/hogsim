@@ -1,6 +1,7 @@
 ---
 name: C_HousingCustomizeMode.CommitDyesForSelectedDecor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasChanges
   type: boolean

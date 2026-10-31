@@ -1,6 +1,7 @@
 ---
 name: C_PartyInfo.GetRestrictPings
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: restrictTo
   type: number

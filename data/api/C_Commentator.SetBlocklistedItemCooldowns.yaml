@@ -1,6 +1,7 @@
 ---
 name: C_Commentator.SetBlocklistedItemCooldowns
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - innerType: number
     type: table

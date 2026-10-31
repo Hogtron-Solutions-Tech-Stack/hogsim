@@ -1,6 +1,7 @@
 ---
 name: GetPlayerPingScale
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: scale
   type: number

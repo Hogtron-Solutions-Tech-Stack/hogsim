@@ -1,6 +1,7 @@
 ---
 name: GetTexelSnappingBias
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: bias
   type: unknown

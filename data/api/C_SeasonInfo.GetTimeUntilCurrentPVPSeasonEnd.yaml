@@ -1,6 +1,7 @@
 ---
 name: C_SeasonInfo.GetTimeUntilCurrentPVPSeasonEnd
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: timeInSeconds
   type: number

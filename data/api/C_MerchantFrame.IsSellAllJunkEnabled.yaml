@@ -1,6 +1,7 @@
 ---
 name: C_MerchantFrame.IsSellAllJunkEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: enabled
   type: boolean

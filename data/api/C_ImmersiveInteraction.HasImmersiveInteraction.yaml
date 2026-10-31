@@ -1,6 +1,7 @@
 ---
 name: C_ImmersiveInteraction.HasImmersiveInteraction
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: immersiveInteraction
   type: boolean

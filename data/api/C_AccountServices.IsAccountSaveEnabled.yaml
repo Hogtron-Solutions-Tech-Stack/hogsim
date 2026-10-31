@@ -1,0 +1,5 @@
+---
+name: C_AccountServices.IsAccountSaveEnabled
+status: implemented
+outputs:
+- type: boolean

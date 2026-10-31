@@ -1,6 +1,7 @@
 ---
 name: GetSmoothScaling
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: smoothScaling
   type: boolean

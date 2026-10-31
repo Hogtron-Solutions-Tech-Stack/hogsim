@@ -1,6 +1,7 @@
 ---
 name: GetHitRectThickness
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: thickness
   type: number

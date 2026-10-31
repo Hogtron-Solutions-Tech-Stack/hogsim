@@ -1,6 +1,7 @@
 ---
 name: C_PlayerInfo.IsPlayerInTimerunningHeroicWorldTier
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: inTimerunningHeroicWorldTier
   type: boolean

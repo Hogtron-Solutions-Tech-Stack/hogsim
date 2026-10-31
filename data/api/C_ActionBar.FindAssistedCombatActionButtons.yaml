@@ -1,6 +1,7 @@
 ---
 name: C_ActionBar.FindAssistedCombatActionButtons
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - default: All
     type: number

@@ -1,6 +1,7 @@
 ---
 name: C_HousingNeighborhood.GetCurrentNeighborhoodTextureSuffix
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: neighborhoodTextureSuffix
   type: string

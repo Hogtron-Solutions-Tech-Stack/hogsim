@@ -1,6 +1,7 @@
 ---
 name: PlayerGetTimerunningSeasonID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: timerunningSeasonID
   nilable: true

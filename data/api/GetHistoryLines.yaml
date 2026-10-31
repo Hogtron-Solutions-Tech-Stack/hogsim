@@ -1,6 +1,7 @@
 ---
 name: GetHistoryLines
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: numHistoryLines
   type: number

@@ -1,6 +1,7 @@
 ---
 name: C_CooldownViewer.GetGroupBuffItems
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: GroupBuffItem
   name: groupBuffItems

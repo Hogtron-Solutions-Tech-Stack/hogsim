@@ -8,7 +8,24 @@ gametypes:
 - mainline
 - camelot
 hash: 7feb61f3c994bcb168526b8db521514a
+loadfirst:
+- Blizzard_SharedXMLBase
+- Blizzard_Colors
+- Blizzard_Fonts_Shared
+- Blizzard_SharedXML
+- Blizzard_SharedXMLGame
+- Blizzard_ObjectAPI
+- Blizzard_FrameXMLBase
+- Blizzard_FrameXMLUtil
+- Blizzard_UIParent
+- Blizzard_FrameXML
+- Blizzard_StaticPopup
+- Blizzard_GameTooltip
+- Blizzard_EditMode
+- Blizzard_ActionBar
 ptr: false
 test: false
 tocversion: 16001
 version: 1.60.1
+skipaddons:
+- Blizzard_EnvironmentCleanup

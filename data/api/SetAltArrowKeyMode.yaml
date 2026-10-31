@@ -1,6 +1,7 @@
 ---
 name: SetAltArrowKeyMode
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - default: false
     type: boolean

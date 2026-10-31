@@ -1,6 +1,7 @@
 ---
 name: C_ClassTalents.GetActiveHeroTalentSpec
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: heroSpecID
   nilable: true

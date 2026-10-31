@@ -1,6 +1,7 @@
 ---
 name: GetMillisecondsThreshold
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: threshold
   type: unknown

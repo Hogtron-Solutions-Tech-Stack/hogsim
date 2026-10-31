@@ -88,8 +88,28 @@ local function factory(theProduct)
 
   local function create(filename)
     local dbinit = { 'BEGIN' }
+    -- forever-sim: indexes. Every table with an ID column gets one (joins on ID scanned before), and the atlas
+    -- name columns get case-insensitive ones so C_Texture.GetAtlasInfo is a lookup, not a 20k-row scan.
+    local nocase = {
+      UiTextureAtlasElement = { 'Name' },
+      UiTextureAtlasMember = { 'CommittedName' },
+    }
     for k, v in pairs(defs) do
       table.insert(dbinit, ('CREATE TABLE %s (%s)'):format(k, table.concat(v.orderedfields, ',')))
+      local hasId, hasElement = false, false
+      for _, f in ipairs(v.orderedfields) do
+        hasId = hasId or f == 'ID'
+        hasElement = hasElement or f == 'UiTextureAtlasElementID'
+      end
+      if hasId then
+        table.insert(dbinit, ('CREATE INDEX idx_%s_ID ON %s (ID)'):format(k, k))
+      end
+      if hasElement then
+        table.insert(dbinit, ('CREATE INDEX idx_%s_Element ON %s (UiTextureAtlasElementID)'):format(k, k))
+      end
+      for _, col in ipairs(nocase[k] or {}) do
+        table.insert(dbinit, ('CREATE INDEX idx_%s_%s_nocase ON %s (%s COLLATE NOCASE)'):format(k, col, k, col))
+      end
     end
     table.insert(dbinit, 'COMMIT')
     table.insert(dbinit, '')

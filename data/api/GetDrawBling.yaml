@@ -1,6 +1,7 @@
 ---
 name: GetDrawBling
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: drawBling
   type: boolean

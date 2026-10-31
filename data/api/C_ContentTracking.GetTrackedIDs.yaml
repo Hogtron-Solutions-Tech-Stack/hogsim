@@ -1,6 +1,7 @@
 ---
 name: C_ContentTracking.GetTrackedIDs
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
 outputs:

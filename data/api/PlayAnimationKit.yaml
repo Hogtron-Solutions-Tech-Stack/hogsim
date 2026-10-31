@@ -1,6 +1,7 @@
 ---
 name: PlayAnimationKit
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
   - default: false

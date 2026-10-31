@@ -1,6 +1,7 @@
 ---
 name: GetDisplayInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: displayID
   type: number

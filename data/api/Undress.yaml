@@ -1,6 +1,7 @@
 ---
 name: Undress
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - default: true
     type: boolean

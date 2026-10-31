@@ -1,6 +1,7 @@
 ---
 name: GetObeyStepOnDrag
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isObeyStepOnDrag
   type: boolean

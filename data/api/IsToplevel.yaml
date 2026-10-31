@@ -1,6 +1,7 @@
 ---
 name: IsToplevel
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isTopLevel
   type: boolean

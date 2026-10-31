@@ -1,0 +1,5 @@
+---
+name: C_UnitAurasPrivate.GetAllPrivateAuras
+status: implemented
+outputs:
+- type: table

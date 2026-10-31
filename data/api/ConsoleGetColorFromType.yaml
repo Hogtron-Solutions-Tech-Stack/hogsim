@@ -1,8 +1,10 @@
 ---
 name: ConsoleGetColorFromType
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
 outputs:
-- name: color
-  type: unknown
+- mixin: ColorMixin
+  name: color
+  type: colorRGB

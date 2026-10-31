@@ -1,5 +1,6 @@
 ---
 name: C_MacOptions.SetOSShortcutsDisabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: boolean

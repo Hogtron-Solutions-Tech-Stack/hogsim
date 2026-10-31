@@ -57,8 +57,9 @@ fields:
 - name: hideSoundKitID
   nilable: true
   type: number
-- name: colorTint
+- mixin: ColorMixin
+  name: colorTint
   nilable: true
-  type: unknown
+  type: colorRGB
 - name: flags
   type: number

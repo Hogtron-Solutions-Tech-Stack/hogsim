@@ -1,6 +1,7 @@
 ---
 name: GetAllowRecentAlliesSeeLocation
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: allowRecentAlliesSeeLocation
   type: boolean

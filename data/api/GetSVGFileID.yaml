@@ -1,6 +1,7 @@
 ---
 name: GetSVGFileID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: svgFile
   type: number

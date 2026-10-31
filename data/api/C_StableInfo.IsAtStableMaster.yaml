@@ -1,6 +1,7 @@
 ---
 name: C_StableInfo.IsAtStableMaster
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isAtStableMaster
   type: boolean

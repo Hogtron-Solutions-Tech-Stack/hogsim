@@ -1,6 +1,7 @@
 ---
 name: GetObjectTable
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: objectTable
   type: unknown

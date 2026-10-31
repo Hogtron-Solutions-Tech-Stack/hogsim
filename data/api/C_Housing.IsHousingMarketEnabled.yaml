@@ -1,6 +1,7 @@
 ---
 name: C_Housing.IsHousingMarketEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isHousingMarketEnabled
   type: boolean

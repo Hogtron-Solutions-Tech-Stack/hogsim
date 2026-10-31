@@ -1,6 +1,7 @@
 ---
 name: C_HousingCatalog.GetDecorMaxOwnedCount
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: maxOwnedCount
   type: number

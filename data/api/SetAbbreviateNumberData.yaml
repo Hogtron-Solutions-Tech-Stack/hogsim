@@ -1,6 +1,7 @@
 ---
 name: SetAbbreviateNumberData
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - innerType: NumberAbbreviationBreakpoint
     type: table

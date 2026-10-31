@@ -1,6 +1,7 @@
 ---
 name: GetDesaturation
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: strength
   type: number

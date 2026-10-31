@@ -23,6 +23,14 @@ local function autoviv()
     return v
   end })
 end
+-- Constants tables say e.g. "Value = NUM_BAG_SLOTS": engine globals the docs do not define. Known values come
+-- from the table below; anything else resolves to 0 and is recorded so the product's synthesized.txt lists it.
+local knownEngine = {
+  NUM_BAG_SLOTS = 4, NUM_REAGENTBAG_SLOTS = 1, NUM_BANKBAGSLOTS = 7, NUM_BAG_FRAMES = 4, NUM_TOTAL_EQUIPPED_BAG_SLOTS = 5,
+  MAX_WATCHED_TOKENS = 20, NUM_CHARACTERBANK_SLOTS = 28, NUM_ACCOUNTBANK_SLOTS = 98, MAX_ACCOUNT_MACROS = 120,
+  MAX_CHARACTER_MACROS = 30, NUM_ACTIONBAR_BUTTONS = 12, NUM_ACTIONBAR_PAGES = 6, MAX_SPELLS = 1024, MAX_SKILLLINE_TABS = 8,
+}
+local engineRefs = {}
 local env = setmetatable({
   APIDocumentation = { AddDocumentationTable = function(_, t)
     t.__file = currentFile
@@ -30,7 +38,14 @@ local env = setmetatable({
   end },
   Enum = autoviv(),
   Constants = autoviv(),
-}, { __index = _G })
+}, { __index = function(_, k)
+  local v = _G[k]
+  if v ~= nil then return v end
+  if type(k) == 'string' and k:match('^[A-Z][A-Z0-9_]+$') then
+    engineRefs[k] = true
+    return knownEngine[k] or 0
+  end
+end })
 for _, f in ipairs(pldir.getfiles(docdir, '*.lua')) do
   currentFile = (plpath.basename(f):gsub('Documentation%.lua$', ''))
   local fn = assert(loadfile(f))
@@ -56,6 +71,7 @@ local prim = {
   time_t = 'number', size = 'number', uiUnit = 'number', BigInteger = 'number', BigUInteger = 'number',
   WOWMONEY = 'number', cstring = 'string', string = 'string', stringView = 'string', WOWGUID = 'string',
   textureKit = 'string', textureAtlas = 'string', uiAddon = 'string', luaFunction = 'function', table = 'table',
+  colorRGBA = 'colorRGBA', colorRGB = 'colorRGB',
 }
 -- ctx: input | output | field (structure fields and event payloads)
 local function maptype(ty, ctx)
@@ -74,6 +90,7 @@ local function rec(x, ctx)
   if x.Name and ctx ~= 'input' then r.name = x.Name end
   if x.Nilable then r.nilable = true end
   if x.Type == 'table' and x.InnerType then r.innerType = maptype(x.InnerType, 'field') end
+  if x.Mixin and ctx ~= 'input' then r.mixin = x.Mixin end
   if ctx == 'input' and x.Default ~= nil and type(x.Default) ~= 'table' then r.default = x.Default end
   return r
 end
@@ -87,6 +104,11 @@ end
 local stats = { structures = 0, apis = 0, stubs = 0, events = 0, enums = 0, constants = 0 }
 
 -- 1. structures first: stubs reference them by name and prep.lua needs their defaults
+-- colorRGBA / colorRGB are engine value types in the docs (with ColorMixin); model them as structures.
+structs.colorRGBA = structs.colorRGBA or { Name = 'colorRGBA', Type = 'Structure', Fields = {
+  { Name = 'r', Type = 'number' }, { Name = 'g', Type = 'number' }, { Name = 'b', Type = 'number' }, { Name = 'a', Type = 'number' } } }
+structs.colorRGB = structs.colorRGB or { Name = 'colorRGB', Type = 'Structure', Fields = {
+  { Name = 'r', Type = 'number' }, { Name = 'g', Type = 'number' }, { Name = 'b', Type = 'number' } } }
 for name, st in pairs(structs) do
   if not knownStructs[name] then
     local fields = {}
@@ -107,7 +129,7 @@ for _, d in ipairs(docs) do
     stats.apis = stats.apis + 1
     local path = 'data/api/' .. name .. '.yaml'
     if not plpath.exists(path) then
-      local api = { name = name, status = 'unimplemented' }
+      local api = { name = name, status = 'unimplemented', comment = 'generated from Blizzard_APIDocumentationGenerated' }
       if fn.Arguments and #fn.Arguments > 0 then
         local sig = {}
         for _, a in ipairs(fn.Arguments) do sig[#sig + 1] = rec(a, 'input') end
@@ -161,6 +183,20 @@ for name, t in pairs(consts) do
   globals.Constants[name] = c
   stats.constants = stats.constants + 1
 end
+-- 4b. engine constants the docs referenced by name become plain globals too (Blizzard Lua uses them directly)
+stats.engine = 0
+local engineList = {}
+for name in pairs(engineRefs) do
+  if globals[name] == nil then
+    globals[name] = knownEngine[name] or 0
+    stats.engine = stats.engine + 1
+  end
+  engineList[#engineList + 1] = name .. ' = ' .. tostring(knownEngine[name] or 0) .. (knownEngine[name] and '' or ' (unknown, 0)')
+end
+table.sort(engineList)
+plfile.write(('data/products/%s/engine-constants.txt'):format(product),
+  'Engine constants referenced by the API docs (Value = NAME). Curated values where known, 0 otherwise.'
+  .. string.char(10) .. table.concat(engineList, string.char(10)) .. string.char(10))
 writeyaml(globalsfile, globals)
 
 print(('apidoc2yaml %s: %d doc tables; structures +%d, apis %d (stubs +%d), events %d, enums %d, constants %d'):format(

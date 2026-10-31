@@ -1,6 +1,7 @@
 ---
 name: C_PartyInfo.GetLootMethod
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: method
   type: number

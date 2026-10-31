@@ -1,6 +1,7 @@
 ---
 name: C_ActionBar.GetBonusBarIndex
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: bonusBarIndex
   type: number

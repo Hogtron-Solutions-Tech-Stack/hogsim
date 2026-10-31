@@ -1,6 +1,7 @@
 ---
 name: C_PvP.GetUIDisplaySeason
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: uiDisplaySeason
   type: number

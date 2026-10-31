@@ -1,6 +1,7 @@
 ---
 name: GetTarget
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: target
   type: unknown

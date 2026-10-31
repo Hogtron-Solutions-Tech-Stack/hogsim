@@ -1,6 +1,7 @@
 ---
 name: GetIncomingHealOverflowPercent
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: incomingHealOverflowPercent
   type: number

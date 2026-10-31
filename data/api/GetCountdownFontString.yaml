@@ -1,6 +1,7 @@
 ---
 name: GetCountdownFontString
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: countdownString
   type: unknown

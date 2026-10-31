@@ -15,9 +15,10 @@ fields:
 - name: boolVal
   nilable: true
   type: boolean
-- name: colorVal
+- mixin: ColorMixin
+  name: colorVal
   nilable: true
-  type: unknown
+  type: colorRGB
 - name: guidVal
   nilable: true
   type: string

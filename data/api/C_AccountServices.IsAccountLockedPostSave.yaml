@@ -1,0 +1,5 @@
+---
+name: C_AccountServices.IsAccountLockedPostSave
+status: implemented
+outputs:
+- type: boolean

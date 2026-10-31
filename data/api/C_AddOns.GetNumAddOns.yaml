@@ -1,6 +1,7 @@
 ---
 name: C_AddOns.GetNumAddOns
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: numAddOns
   type: number

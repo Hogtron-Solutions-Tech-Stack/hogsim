@@ -1,6 +1,7 @@
 ---
 name: GetRemainingDuration
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - default: RealTime
     type: number

@@ -1,6 +1,7 @@
 ---
 name: C_WeeklyRewards.ShouldShowFinalRetirementMessage
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: showRetirementMessage
   type: boolean

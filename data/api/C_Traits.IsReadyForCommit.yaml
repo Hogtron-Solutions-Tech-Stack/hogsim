@@ -1,6 +1,7 @@
 ---
 name: C_Traits.IsReadyForCommit
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isReadyForCommit
   type: boolean

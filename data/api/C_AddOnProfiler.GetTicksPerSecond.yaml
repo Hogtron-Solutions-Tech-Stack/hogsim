@@ -1,6 +1,7 @@
 ---
 name: C_AddOnProfiler.GetTicksPerSecond
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: frequency
   type: number

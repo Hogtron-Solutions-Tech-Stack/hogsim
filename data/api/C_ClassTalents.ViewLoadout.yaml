@@ -1,6 +1,7 @@
 ---
 name: C_ClassTalents.ViewLoadout
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - innerType: ImportLoadoutEntryInfo
     type: table

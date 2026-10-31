@@ -1,6 +1,7 @@
 ---
 name: C_PvP.GetPersonalRatedBGBlitzSpecStats
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: specStats
   nilable: true

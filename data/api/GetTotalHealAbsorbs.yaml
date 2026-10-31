@@ -1,6 +1,7 @@
 ---
 name: GetTotalHealAbsorbs
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: totalHealAbsorbs
   type: number

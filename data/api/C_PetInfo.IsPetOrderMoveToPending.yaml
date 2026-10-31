@@ -1,6 +1,7 @@
 ---
 name: C_PetInfo.IsPetOrderMoveToPending
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isPetOrderMoveToPending
   type: boolean

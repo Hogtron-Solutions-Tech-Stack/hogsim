@@ -1,6 +1,7 @@
 ---
 name: C_PerksProgram.IsMountSpecialAnimToggleEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isMountSpecialAnimToggleEnabled
   type: boolean

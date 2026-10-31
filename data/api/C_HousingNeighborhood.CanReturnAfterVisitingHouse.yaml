@@ -1,6 +1,7 @@
 ---
 name: C_HousingNeighborhood.CanReturnAfterVisitingHouse
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canReturn
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: C_LFGListRoles.GetSavedRoles
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: roles
   type: LFGRoles

@@ -1,6 +1,7 @@
 ---
 name: C_HousingCatalog.HasFeaturedEntries
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasEntries
   type: boolean

@@ -1,7 +1,8 @@
 ---
 name: SetGradient
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
-  - type: unknown
-  - type: unknown
+  - type: colorRGBA
+  - type: colorRGBA

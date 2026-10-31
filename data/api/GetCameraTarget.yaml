@@ -1,6 +1,7 @@
 ---
 name: GetCameraTarget
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: targetX
   type: number

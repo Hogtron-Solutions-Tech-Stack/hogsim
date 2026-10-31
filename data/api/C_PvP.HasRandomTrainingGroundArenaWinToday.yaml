@@ -1,6 +1,7 @@
 ---
 name: C_PvP.HasRandomTrainingGroundArenaWinToday
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasRandomTrainingGroundArenaWinToday
   type: boolean

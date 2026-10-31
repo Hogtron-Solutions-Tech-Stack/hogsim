@@ -1,6 +1,7 @@
 ---
 name: DoesHyperlinkPropagateToParent
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canPropagate
   type: boolean

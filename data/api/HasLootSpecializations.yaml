@@ -1,6 +1,7 @@
 ---
 name: HasLootSpecializations
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasLootSpecializations
   type: boolean

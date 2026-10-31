@@ -1,6 +1,7 @@
 ---
 name: C_Weather.GetCurrentWeather
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: info
   type: WeatherInfo

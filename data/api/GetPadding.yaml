@@ -1,6 +1,7 @@
 ---
 name: GetPadding
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: right
   type: number

@@ -1,6 +1,7 @@
 ---
 name: C_BattleNet.AreTitleFriendCustomNamesEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: areTitleFriendCustomNamesEnabled
   type: boolean

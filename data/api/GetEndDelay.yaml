@@ -1,6 +1,7 @@
 ---
 name: GetEndDelay
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: delaySec
   type: number

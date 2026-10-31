@@ -1,6 +1,7 @@
 ---
 name: IsShown
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isShown
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: C_SecureTransfer.GetHousingPurchaseCost
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: totalCost
   type: number

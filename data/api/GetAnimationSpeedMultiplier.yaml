@@ -1,6 +1,7 @@
 ---
 name: GetAnimationSpeedMultiplier
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: animationSpeedMultiplier
   type: number

@@ -1,6 +1,7 @@
 ---
 name: C_EventScheduler.HasSavedReminders
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasSavedReminders
   type: boolean

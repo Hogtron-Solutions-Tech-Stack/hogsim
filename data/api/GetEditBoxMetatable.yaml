@@ -1,0 +1,7 @@
+---
+name: GetEditBoxMetatable
+status: implemented
+outputs:
+- type: table
+frameworks:
+- api

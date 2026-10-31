@@ -1,6 +1,7 @@
 ---
 name: C_HousingLayout.HasRoomPlacementBudget
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasBudget
   type: boolean

@@ -1,6 +1,5 @@
 ---
 name: C_CurveUtil.CreateCurve
-status: unimplemented
+status: implemented
 outputs:
-- name: curve
-  type: unknown
+- type: table

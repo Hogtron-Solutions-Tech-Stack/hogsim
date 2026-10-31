@@ -1,6 +1,7 @@
 ---
 name: GetSearchCount
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: searchCount
   type: number

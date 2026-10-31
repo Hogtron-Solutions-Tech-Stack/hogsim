@@ -1,6 +1,7 @@
 ---
 name: C_HousingDecor.GetSpentPetPlacementBudget
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: totalCost
   nilable: true

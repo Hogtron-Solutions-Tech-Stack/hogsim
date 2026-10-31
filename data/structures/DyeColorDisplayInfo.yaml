@@ -9,10 +9,12 @@ fields:
   type: string
 - name: sortOrder
   type: number
-- name: swatchColorStart
-  type: unknown
-- name: swatchColorEnd
-  type: unknown
+- mixin: ColorMixin
+  name: swatchColorStart
+  type: colorRGB
+- mixin: ColorMixin
+  name: swatchColorEnd
+  type: colorRGB
 - name: itemID
   nilable: true
   type: number

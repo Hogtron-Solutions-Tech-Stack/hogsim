@@ -1,6 +1,7 @@
 ---
 name: GetAutoDress
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: autoDress
   type: boolean

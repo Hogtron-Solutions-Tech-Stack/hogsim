@@ -1,6 +1,7 @@
 ---
 name: C_GuildInfo.GetMOTD
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: motd
   type: string

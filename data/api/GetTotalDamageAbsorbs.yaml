@@ -1,6 +1,7 @@
 ---
 name: GetTotalDamageAbsorbs
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: totalDamageAbsorbs
   type: number

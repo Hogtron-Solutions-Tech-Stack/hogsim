@@ -1,5 +1,6 @@
 ---
 name: AddHistoryLine
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: string

@@ -1,6 +1,7 @@
 ---
 name: C_HousingExpertMode.IsHouseExteriorSelected
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isHouseExteriorSelected
   type: boolean

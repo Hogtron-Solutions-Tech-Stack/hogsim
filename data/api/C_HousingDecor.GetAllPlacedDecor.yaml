@@ -1,6 +1,7 @@
 ---
 name: C_HousingDecor.GetAllPlacedDecor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - innerType: HousingDecorInstanceListEntry
   name: placedDecor

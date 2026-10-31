@@ -1,6 +1,7 @@
 ---
 name: GetMaxSnapshots
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: maxSnapshots
   type: number

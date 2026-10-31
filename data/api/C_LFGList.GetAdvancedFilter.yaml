@@ -1,6 +1,7 @@
 ---
 name: C_LFGList.GetAdvancedFilter
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: options
   type: AdvancedFilterOptions

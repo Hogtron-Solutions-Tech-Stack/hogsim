@@ -1,6 +1,7 @@
 ---
 name: C_BattleNet.AreRealIDFriendsEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: areRealIDFriendsEnabled
   type: boolean

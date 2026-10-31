@@ -1,6 +1,7 @@
 ---
 name: GetScriptBucketThrottleLimits
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: limits
   type: ScriptBucketThrottleLimits

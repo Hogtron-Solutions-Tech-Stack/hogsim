@@ -1,6 +1,7 @@
 ---
 name: C_TradeSkillUI.GetProfessionForCursorItem
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: profession
   nilable: true

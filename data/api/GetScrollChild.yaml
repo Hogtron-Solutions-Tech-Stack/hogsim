@@ -1,6 +1,7 @@
 ---
 name: GetScrollChild
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: scrollChild
   type: unknown

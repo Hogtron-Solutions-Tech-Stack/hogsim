@@ -1,6 +1,7 @@
 ---
 name: C_Housing.GetOthersOwnedHouses
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - nilable: true
     type: string

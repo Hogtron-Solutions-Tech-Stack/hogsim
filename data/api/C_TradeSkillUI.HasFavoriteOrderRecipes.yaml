@@ -1,6 +1,7 @@
 ---
 name: C_TradeSkillUI.HasFavoriteOrderRecipes
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasFavorites
   type: boolean

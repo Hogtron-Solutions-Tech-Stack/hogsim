@@ -1,6 +1,7 @@
 ---
 name: IsStopped
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isStopped
   type: boolean

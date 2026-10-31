@@ -1,6 +1,7 @@
 ---
 name: C_GameRules.GetForeverExperiencePreset
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: preset
   nilable: true

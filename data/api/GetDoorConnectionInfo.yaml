@@ -1,6 +1,7 @@
 ---
 name: GetDoorConnectionInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: connectionInfo
   nilable: true

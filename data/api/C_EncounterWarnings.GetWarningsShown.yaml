@@ -1,6 +1,7 @@
 ---
 name: C_EncounterWarnings.GetWarningsShown
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: shown
   type: boolean

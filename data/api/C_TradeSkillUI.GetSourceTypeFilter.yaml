@@ -1,6 +1,7 @@
 ---
 name: C_TradeSkillUI.GetSourceTypeFilter
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: sourceTypeFilter
   type: number

@@ -1,6 +1,7 @@
 ---
 name: CollapsesLayout
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: collapsesLayout
   type: boolean

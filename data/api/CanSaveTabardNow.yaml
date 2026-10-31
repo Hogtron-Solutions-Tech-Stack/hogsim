@@ -1,6 +1,7 @@
 ---
 name: CanSaveTabardNow
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canSave
   type: boolean

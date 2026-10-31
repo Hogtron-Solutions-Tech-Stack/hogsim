@@ -1,6 +1,7 @@
 ---
 name: GetParent
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: parent
   type: unknown

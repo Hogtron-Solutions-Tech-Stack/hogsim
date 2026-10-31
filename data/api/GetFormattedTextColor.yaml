@@ -1,6 +1,8 @@
 ---
 name: GetFormattedTextColor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
-- name: color
-  type: unknown
+- mixin: ColorMixin
+  name: color
+  type: colorRGBA

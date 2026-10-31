@@ -1,6 +1,7 @@
 ---
 name: IsHighlightLocked
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: locked
   type: boolean

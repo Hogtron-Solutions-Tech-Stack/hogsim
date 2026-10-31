@@ -1,6 +1,7 @@
 ---
 name: C_AddOnProfiler.CheckForPerformanceMessage
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: msg
   type: AddOnPerformanceMessage

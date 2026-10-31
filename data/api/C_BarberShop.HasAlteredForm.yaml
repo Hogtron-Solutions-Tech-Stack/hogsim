@@ -1,6 +1,7 @@
 ---
 name: C_BarberShop.HasAlteredForm
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasAlteredForm
   type: boolean

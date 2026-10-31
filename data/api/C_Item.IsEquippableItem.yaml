@@ -1,6 +1,7 @@
 ---
 name: C_Item.IsEquippableItem
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown
 outputs:

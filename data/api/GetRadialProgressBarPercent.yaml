@@ -1,6 +1,7 @@
 ---
 name: GetRadialProgressBarPercent
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: percent
   type: unknown

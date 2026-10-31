@@ -1,6 +1,7 @@
 ---
 name: C_Discord.IsUserOAuthed
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasOAuth
   type: boolean

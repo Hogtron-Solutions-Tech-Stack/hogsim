@@ -1,6 +1,7 @@
 ---
 name: C_HouseExterior.SelectCoreFixtureOption
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: number
   - default: Store

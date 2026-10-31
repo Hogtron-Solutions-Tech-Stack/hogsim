@@ -1,6 +1,7 @@
 ---
 name: C_Spell.GetTargetSpellID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: spellID
   type: number

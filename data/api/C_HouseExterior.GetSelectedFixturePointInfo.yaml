@@ -1,6 +1,7 @@
 ---
 name: C_HouseExterior.GetSelectedFixturePointInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: fixturePointInfo
   nilable: true

@@ -1,6 +1,7 @@
 ---
 name: C_FriendList.IsLegacyFriendSystemEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isLegacyFriendSystemEnabled
   type: boolean

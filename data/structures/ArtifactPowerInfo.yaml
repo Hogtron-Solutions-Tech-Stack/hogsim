@@ -23,9 +23,11 @@ fields:
   type: boolean
 - name: tier
   type: number
-- name: position
+- mixin: Vector2DMixin
+  name: position
   type: unknown
-- name: offset
+- mixin: Vector2DMixin
+  name: offset
   nilable: true
   type: unknown
 - name: linearIndex

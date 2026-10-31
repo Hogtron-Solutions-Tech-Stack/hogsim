@@ -1,8 +1,9 @@
 ---
 name: C_ColorUtil.GenerateTextColorCode
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
-- - type: unknown
+- - type: colorRGB
 outputs:
 - name: textColorCode
   type: string

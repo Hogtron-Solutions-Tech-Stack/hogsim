@@ -1,6 +1,7 @@
 ---
 name: C_CombatAudioAlert.GetSpeakerSpeed
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: speed
   type: number

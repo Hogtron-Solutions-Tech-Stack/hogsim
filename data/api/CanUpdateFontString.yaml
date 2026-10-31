@@ -1,6 +1,7 @@
 ---
 name: CanUpdateFontString
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canUpdateText
   type: boolean

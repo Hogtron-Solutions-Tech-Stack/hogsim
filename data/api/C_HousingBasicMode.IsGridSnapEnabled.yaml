@@ -1,6 +1,7 @@
 ---
 name: C_HousingBasicMode.IsGridSnapEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isGridSnapEnabled
   type: boolean

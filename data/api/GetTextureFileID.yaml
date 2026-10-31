@@ -1,6 +1,7 @@
 ---
 name: GetTextureFileID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: textureFile
   type: number

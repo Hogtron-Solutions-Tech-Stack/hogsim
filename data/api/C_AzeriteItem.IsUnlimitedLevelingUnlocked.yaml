@@ -1,6 +1,7 @@
 ---
 name: C_AzeriteItem.IsUnlimitedLevelingUnlocked
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isUnlimitedLevelingUnlocked
   type: boolean

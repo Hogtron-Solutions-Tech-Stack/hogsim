@@ -1,6 +1,7 @@
 ---
 name: IsDelaying
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isDelaying
   type: boolean

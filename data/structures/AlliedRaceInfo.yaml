@@ -22,5 +22,6 @@ fields:
   type: string
 - name: modelBackgroundAtlas
   type: string
-- name: bannerColor
-  type: unknown
+- mixin: ColorMixin
+  name: bannerColor
+  type: colorRGB

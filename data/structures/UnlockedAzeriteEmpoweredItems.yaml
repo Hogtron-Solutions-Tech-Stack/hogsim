@@ -1,7 +1,8 @@
 ---
 name: UnlockedAzeriteEmpoweredItems
 fields:
-- name: unlockedItem
+- mixin: ItemLocationMixin
+  name: unlockedItem
   type: unknown
 - name: tierIndex
   type: number

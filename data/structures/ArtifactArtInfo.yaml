@@ -5,12 +5,15 @@ fields:
   type: string
 - name: titleName
   type: string
-- name: titleColor
-  type: unknown
-- name: barConnectedColor
-  type: unknown
-- name: barDisconnectedColor
-  type: unknown
+- mixin: ColorMixin
+  name: titleColor
+  type: colorRGB
+- mixin: ColorMixin
+  name: barConnectedColor
+  type: colorRGB
+- mixin: ColorMixin
+  name: barDisconnectedColor
+  type: colorRGB
 - name: uiModelSceneID
   type: number
 - name: spellVisualKitID

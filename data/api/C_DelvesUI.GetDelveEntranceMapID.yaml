@@ -1,6 +1,7 @@
 ---
 name: C_DelvesUI.GetDelveEntranceMapID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: mapID
   type: number

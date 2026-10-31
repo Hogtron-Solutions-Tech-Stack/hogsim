@@ -1,6 +1,7 @@
 ---
 name: GetApproximationSeconds
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: approximationSeconds
   type: unknown

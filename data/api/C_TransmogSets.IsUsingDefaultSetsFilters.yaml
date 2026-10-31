@@ -1,6 +1,7 @@
 ---
 name: C_TransmogSets.IsUsingDefaultSetsFilters
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isUsingDefaultSetsFilters
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: C_PerksProgram.IsAttackAnimToggleEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isAttackAnimToggleEnabled
   type: boolean

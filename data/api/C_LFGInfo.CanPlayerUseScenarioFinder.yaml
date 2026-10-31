@@ -1,6 +1,7 @@
 ---
 name: C_LFGInfo.CanPlayerUseScenarioFinder
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canUse
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: GetAnimationGroups
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: groups
   type: unknown

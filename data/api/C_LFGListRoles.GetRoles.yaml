@@ -1,6 +1,7 @@
 ---
 name: C_LFGListRoles.GetRoles
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: roles
   type: LFGRoles

@@ -1,6 +1,7 @@
 ---
 name: GetRadialProgressBarFeather
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: feather
   type: unknown

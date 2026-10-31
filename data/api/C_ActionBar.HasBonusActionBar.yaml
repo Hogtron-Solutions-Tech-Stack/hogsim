@@ -1,6 +1,7 @@
 ---
 name: C_ActionBar.HasBonusActionBar
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasBonusActionBar
   type: boolean

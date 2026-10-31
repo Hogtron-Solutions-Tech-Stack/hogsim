@@ -1,6 +1,7 @@
 ---
 name: C_GuildBank.IsGuildBankEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: enabled
   type: boolean

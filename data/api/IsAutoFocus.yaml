@@ -1,6 +1,7 @@
 ---
 name: IsAutoFocus
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: autoFocus
   type: boolean

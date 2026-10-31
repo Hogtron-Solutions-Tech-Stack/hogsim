@@ -1,6 +1,7 @@
 ---
 name: GetHealAbsorbClampMode
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: healAbsorbClampMode
   type: number

@@ -3,5 +3,6 @@ name: LuaColorCurvePoint
 fields:
 - name: x
   type: number
-- name: y
-  type: unknown
+- mixin: ColorMixin
+  name: y
+  type: colorRGBA

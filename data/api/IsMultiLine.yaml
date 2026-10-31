@@ -1,6 +1,7 @@
 ---
 name: IsMultiLine
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: multiline
   type: boolean

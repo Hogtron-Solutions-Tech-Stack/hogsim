@@ -1,6 +1,7 @@
 ---
 name: C_NeighborhoodInitiative.GetAvailableHouseXP
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: availabeXP
   type: number

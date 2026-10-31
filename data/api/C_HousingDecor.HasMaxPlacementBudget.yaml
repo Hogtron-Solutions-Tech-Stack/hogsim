@@ -1,6 +1,7 @@
 ---
 name: C_HousingDecor.HasMaxPlacementBudget
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasMaxBudget
   type: boolean

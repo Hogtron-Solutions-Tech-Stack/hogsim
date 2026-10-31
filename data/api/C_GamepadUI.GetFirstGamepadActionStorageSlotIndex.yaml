@@ -1,6 +1,7 @@
 ---
 name: C_GamepadUI.GetFirstGamepadActionStorageSlotIndex
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: firstGamepadActionStorageSlotIndex
   type: number

@@ -1,6 +1,7 @@
 ---
 name: CanFormatText
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: canFormatText
   type: boolean

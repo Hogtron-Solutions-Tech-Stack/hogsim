@@ -1,6 +1,7 @@
 ---
 name: GetMapID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: uiMapID
   type: number

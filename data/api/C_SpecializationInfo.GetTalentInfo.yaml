@@ -1,6 +1,7 @@
 ---
 name: C_SpecializationInfo.GetTalentInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: TalentInfoQuery
 outputs:

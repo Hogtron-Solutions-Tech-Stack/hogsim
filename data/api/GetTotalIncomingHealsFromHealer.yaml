@@ -1,6 +1,7 @@
 ---
 name: GetTotalIncomingHealsFromHealer
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: totalIncomingHealsFromHealer
   type: number

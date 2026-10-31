@@ -1,6 +1,7 @@
 ---
 name: C_GamepadUI.GetFirstGamepadActionBarStorageSlotIndexForActiveStance
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: activeStanceFirstGamepadStorageSlotIndex
   nilable: true

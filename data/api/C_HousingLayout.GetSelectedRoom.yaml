@@ -1,6 +1,7 @@
 ---
 name: C_HousingLayout.GetSelectedRoom
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: roomGUID
   type: string

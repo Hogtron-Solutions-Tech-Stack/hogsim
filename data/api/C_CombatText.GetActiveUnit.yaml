@@ -1,6 +1,7 @@
 ---
 name: C_CombatText.GetActiveUnit
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: unitTarget
   type: string

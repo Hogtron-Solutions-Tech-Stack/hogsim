@@ -1,6 +1,7 @@
 ---
 name: IsPlaying
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isPlaying
   type: boolean

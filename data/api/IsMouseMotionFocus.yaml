@@ -1,6 +1,7 @@
 ---
 name: IsMouseMotionFocus
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isMouseMotionFocus
   type: boolean

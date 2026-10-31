@@ -1,6 +1,7 @@
 ---
 name: C_Bank.ShouldUsePlayerBagsInBank
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: shouldUsePlayerBagsInBank
   type: boolean

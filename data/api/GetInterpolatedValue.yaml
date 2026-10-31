@@ -1,6 +1,7 @@
 ---
 name: GetInterpolatedValue
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: value
   type: number

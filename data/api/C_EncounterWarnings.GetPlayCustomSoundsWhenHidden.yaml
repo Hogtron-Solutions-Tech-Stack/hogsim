@@ -1,6 +1,7 @@
 ---
 name: C_EncounterWarnings.GetPlayCustomSoundsWhenHidden
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: play
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: IsDraggingThumb
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isDraggingThumb
   type: boolean

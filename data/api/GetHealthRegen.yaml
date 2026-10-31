@@ -1,6 +1,7 @@
 ---
 name: GetHealthRegen
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: healthRegen
   type: number

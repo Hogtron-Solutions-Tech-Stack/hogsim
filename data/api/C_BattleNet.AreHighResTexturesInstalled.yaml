@@ -1,6 +1,7 @@
 ---
 name: C_BattleNet.AreHighResTexturesInstalled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: installed
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: C_HousingCustomizeMode.GetSelectedDecorPetInfo
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: petID
   nilable: true

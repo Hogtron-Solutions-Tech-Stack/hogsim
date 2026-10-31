@@ -1,6 +1,5 @@
 ---
 name: C_CurveUtil.CreateColorCurve
-status: unimplemented
+status: implemented
 outputs:
-- name: curve
-  type: unknown
+- type: table

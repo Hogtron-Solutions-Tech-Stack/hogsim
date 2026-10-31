@@ -1,6 +1,7 @@
 ---
 name: C_PetInfo.GetPetUIModelSceneID
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: modelSceneID
   type: number

@@ -1,6 +1,7 @@
 ---
 name: C_CurrencyInfo.DoesCurrentFilterRequireAccountCurrencyData
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: doesCurrentFilterRequireAccountCurrencyData
   type: boolean

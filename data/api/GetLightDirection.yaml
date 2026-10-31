@@ -1,6 +1,7 @@
 ---
 name: GetLightDirection
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: directionX
   type: number

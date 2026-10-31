@@ -17,8 +17,9 @@ fields:
   type: number
 - name: isDeadly
   type: boolean
-- name: color
-  type: unknown
+- mixin: ColorMixin
+  name: color
+  type: colorRGBA
 - name: duration
   type: unknown
 - name: severity

@@ -1,6 +1,7 @@
 ---
 name: GetStatusBarColor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: colorR
   type: number

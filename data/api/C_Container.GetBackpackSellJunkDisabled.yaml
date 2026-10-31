@@ -1,6 +1,7 @@
 ---
 name: C_Container.GetBackpackSellJunkDisabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isDisabled
   type: boolean

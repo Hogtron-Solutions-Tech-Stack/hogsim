@@ -1,6 +1,7 @@
 ---
 name: C_GameRules.SetSDHDToggleValue
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: boolean
   - type: number

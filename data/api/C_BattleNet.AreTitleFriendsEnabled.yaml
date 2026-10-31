@@ -1,6 +1,7 @@
 ---
 name: C_BattleNet.AreTitleFriendsEnabled
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: areTitleFriendsEnabled
   type: boolean

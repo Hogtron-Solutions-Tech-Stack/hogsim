@@ -1,5 +1,6 @@
 ---
 name: C_Sound.PlayVocalErrorSound
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: unknown

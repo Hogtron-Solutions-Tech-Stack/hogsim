@@ -1,6 +1,7 @@
 ---
 name: C_BattleNet.SetAppearOffline
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - default: true
     type: boolean

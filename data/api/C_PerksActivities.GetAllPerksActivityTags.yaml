@@ -1,6 +1,7 @@
 ---
 name: C_PerksActivities.GetAllPerksActivityTags
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: tags
   type: PerksActivityTags

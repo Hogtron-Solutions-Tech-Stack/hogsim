@@ -1,6 +1,7 @@
 ---
 name: C_MountJournal.MountEquipmentAvailable
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isMountEquipmentAvailable
   type: boolean

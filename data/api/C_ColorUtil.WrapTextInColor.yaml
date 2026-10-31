@@ -1,9 +1,10 @@
 ---
 name: C_ColorUtil.WrapTextInColor
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: string
-  - type: unknown
+  - type: colorRGB
 outputs:
 - name: coloredText
   type: string

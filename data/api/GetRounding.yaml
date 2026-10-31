@@ -1,6 +1,7 @@
 ---
 name: GetRounding
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: rounding
   type: number

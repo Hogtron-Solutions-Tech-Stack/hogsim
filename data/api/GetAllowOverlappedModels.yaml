@@ -1,6 +1,7 @@
 ---
 name: GetAllowOverlappedModels
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: allowOverlappedModels
   type: boolean

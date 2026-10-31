@@ -1,7 +1,8 @@
 ---
 name: NeighborhoodPlotMapInfo
 fields:
-- name: mapPosition
+- mixin: Vector2DMixin
+  name: mapPosition
   type: unknown
 - name: plotDataID
   type: number

@@ -1,6 +1,7 @@
 ---
 name: SetPreferredGamepadInteractTarget
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - nilable: true
     type: unit

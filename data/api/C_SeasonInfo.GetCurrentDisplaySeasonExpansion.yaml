@@ -1,6 +1,7 @@
 ---
 name: C_SeasonInfo.GetCurrentDisplaySeasonExpansion
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: expansionID
   nilable: true

@@ -1,6 +1,7 @@
 ---
 name: HasAttachedFixture
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: hasAttachedFixture
   type: boolean

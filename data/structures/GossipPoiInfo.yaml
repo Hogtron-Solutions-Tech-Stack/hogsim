@@ -5,7 +5,8 @@ fields:
   type: string
 - name: textureIndex
   type: number
-- name: position
+- mixin: Vector2DMixin
+  name: position
   type: unknown
 - name: inBattleMap
   type: boolean

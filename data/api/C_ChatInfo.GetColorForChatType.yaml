@@ -1,9 +1,11 @@
 ---
 name: C_ChatInfo.GetColorForChatType
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 inputs:
 - - type: string
 outputs:
-- name: color
+- mixin: ColorMixin
+  name: color
   nilable: true
-  type: unknown
+  type: colorRGB

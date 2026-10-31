@@ -1,6 +1,7 @@
 ---
 name: GetFogOfWarMaskAtlas
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: atlas
   type: string

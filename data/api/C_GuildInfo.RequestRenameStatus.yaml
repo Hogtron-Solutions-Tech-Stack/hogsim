@@ -1,6 +1,7 @@
 ---
 name: C_GuildInfo.RequestRenameStatus
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: ableToRequest
   type: boolean

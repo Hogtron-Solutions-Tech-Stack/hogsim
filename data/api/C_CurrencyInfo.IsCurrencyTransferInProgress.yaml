@@ -1,6 +1,7 @@
 ---
 name: C_CurrencyInfo.IsCurrencyTransferInProgress
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: currencyTransferInProgress
   type: boolean

@@ -1,6 +1,7 @@
 ---
 name: GetFlipBookRows
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: rows
   type: number

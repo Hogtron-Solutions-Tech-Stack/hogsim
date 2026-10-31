@@ -1,6 +1,7 @@
 ---
 name: C_VideoOptions.IsPBRWaterSupported
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isSupported
   type: boolean

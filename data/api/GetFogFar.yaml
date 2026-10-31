@@ -1,6 +1,7 @@
 ---
 name: GetFogFar
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: fogFar
   type: number

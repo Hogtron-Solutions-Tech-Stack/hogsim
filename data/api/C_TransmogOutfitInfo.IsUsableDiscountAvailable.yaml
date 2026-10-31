@@ -1,6 +1,7 @@
 ---
 name: C_TransmogOutfitInfo.IsUsableDiscountAvailable
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isAvailable
   type: boolean

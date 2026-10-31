@@ -1,6 +1,7 @@
 ---
 name: C_Spell.TargetSpellJumpsUpgradeTrack
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: jumpsUpgradeTrack
   type: boolean

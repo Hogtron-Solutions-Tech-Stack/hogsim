@@ -1,6 +1,7 @@
 ---
 name: C_HousingBasicMode.IsHouseExteriorHovered
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isHouseExteriorHovered
   type: boolean

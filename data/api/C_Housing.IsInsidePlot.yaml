@@ -1,6 +1,7 @@
 ---
 name: C_Housing.IsInsidePlot
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: isInside
   type: boolean

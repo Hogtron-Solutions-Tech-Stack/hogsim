@@ -1,6 +1,7 @@
 ---
 name: C_AddOns.GetScriptsDisallowedForBeta
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: disallowed
   type: boolean

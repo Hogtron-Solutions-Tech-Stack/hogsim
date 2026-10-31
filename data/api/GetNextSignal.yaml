@@ -1,6 +1,7 @@
 ---
 name: GetNextSignal
 status: unimplemented
+comment: generated from Blizzard_APIDocumentationGenerated
 outputs:
 - name: key
   type: number
