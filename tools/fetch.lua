@@ -176,7 +176,7 @@ do
     local seen = {}
     for line in io.lines('vendor/listfile/community-listfile-withcapitals.csv') do
       local id, p = line:match('^(%d+);([^;\r]+)')
-      if p and p:lower():match('^interface/addons/blizzard_[%w_]+/blizzard_[%w_]+%.toc$') then
+      if p and p:lower():match('^interface/addons/[%w_]+/[%w_]+%.toc$') then
         local dir, name = p:match('^(.-)/([^/]+)%.toc$')
         if dir and path.basename(dir):lower() == name:lower() and not seen[dir:lower()] then
           seen[dir:lower()] = true

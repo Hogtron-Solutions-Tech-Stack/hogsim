@@ -1,0 +1,5 @@
+---
+name: Clamp
+status: implemented
+outputs:
+- type: number

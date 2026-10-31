@@ -1,0 +1,5 @@
+---
+name: GetFontStringMetatable
+status: implemented
+outputs:
+- type: table

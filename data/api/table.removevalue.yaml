@@ -1,0 +1,6 @@
+---
+name: table.removevalue
+status: implemented
+outputs:
+- nilable: true
+  type: number

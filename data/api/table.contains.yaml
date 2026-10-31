@@ -1,0 +1,5 @@
+---
+name: table.contains
+status: implemented
+outputs:
+- type: boolean

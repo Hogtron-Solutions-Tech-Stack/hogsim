@@ -1,0 +1,7 @@
+local value, minValue, maxValue = ...
+if value > maxValue then
+  return maxValue
+elseif value < minValue then
+  return minValue
+end
+return value

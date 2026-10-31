@@ -1,0 +1,5 @@
+---
+name: math.saturate
+status: implemented
+outputs:
+- type: number

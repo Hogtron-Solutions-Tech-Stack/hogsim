@@ -1,0 +1,5 @@
+---
+name: table.values
+status: implemented
+outputs:
+- type: table

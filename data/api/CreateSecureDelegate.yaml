@@ -1,0 +1,5 @@
+---
+name: CreateSecureDelegate
+status: implemented
+outputs:
+- type: function

@@ -1,0 +1,5 @@
+---
+name: Mixin
+status: implemented
+outputs:
+- type: table

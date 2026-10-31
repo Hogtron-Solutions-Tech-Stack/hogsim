@@ -118,7 +118,13 @@ local function loader(api, cfg)
   local function getColor(e)
     local name = e.attr.name or e.attr.color
     if name then
-      return assert(api.env[name], ('unknown color %q'):format(name)):GetRGBA()
+      local color = api.env[name]
+      if not color then
+        -- forever-sim: Blizzard_Colors may load after the first fonts that reference it; keep the template alive.
+        api.log(1, 'unknown color %q, using white', name)
+        return 1, 1, 1, 1
+      end
+      return color:GetRGBA()
     else
       return e.attr.r or 0, e.attr.g or 0, e.attr.b or 0, e.attr.a or 1
     end
@@ -671,6 +677,8 @@ local function loader(api, cfg)
         allowed = false
       elseif gametypes and kind == 'ExcludeLoadGameType' and gametypeHit(list) then
         allowed = false
+      elseif kind == 'AllowLoad' and list:lower() == 'glue' then
+        allowed = false -- we simulate the in-game environment, never the glue (login) screens
       end
     end
     return str, allowed

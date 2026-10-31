@@ -1,0 +1,5 @@
+---
+name: CreateFromMixins
+status: implemented
+outputs:
+- type: table
