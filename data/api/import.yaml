@@ -4,4 +4,4 @@ status: implemented
 outputs:
 - type: table
 frameworks:
-- env
+- api

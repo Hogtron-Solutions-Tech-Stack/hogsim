@@ -133,9 +133,18 @@ local function loader(api, cfg)
   local function loadLuaString(filename, str, line, closureTaint, ...)
     local before = api.env.ScrollingMessageFrameMixin
     local fn = setfenv(loadstr(str, filename, line), api.env)
+    local addonName = ...
     api.CallSafely(function(...)
       debug.setnewclosuretaint(closureTaint)
-      fn(...)
+      local ret = fn(...)
+      -- forever-sim: module system. "return X" at the end of an addon file is what import() hands back.
+      if ret ~= nil and type(addonName) == 'string' then
+        local rel = filename:match('[/\]AddOns[/\][^/\]+[/\](.+)%.lua$')
+        if rel then
+          api.modules = api.modules or {}
+          api.modules[addonName .. '.' .. rel:gsub('[/\]', '.')] = ret
+        end
+      end
     end, ...)
     debug.setnewclosuretaint(nil)
     -- Super hacky hack to hook ScrollingMessageFrameMixin.AddMessage
@@ -614,6 +623,7 @@ local function loader(api, cfg)
 
     function loadFile(filename, closureTaint)
       filename = path.normalize(filename)
+      api.currentAddon = addonName
       api.CallSafely(function()
         api.log(2, 'loading file %s', filename)
         local loadFn
@@ -912,10 +922,20 @@ local function loader(api, cfg)
         table.insert(blizzardAddons, name)
       end
     end
+    -- forever-sim: without ManifestInterfaceTOCData the real client order is unknown; "## LoadFirst"
+    -- addons go first, then the product's loadfirst list (build.yaml), then file id order.
+    local rank = {}
+    for i, name in ipairs(build.loadfirst or {}) do
+      rank[name] = i
+    end
     table.sort(blizzardAddons, function(a, b)
       local fa, fb = addonData[a].attrs.LoadFirst == '1', addonData[b].attrs.LoadFirst == '1'
       if fa ~= fb then
         return fa
+      end
+      local ra, rb = rank[a] or math.huge, rank[b] or math.huge
+      if ra ~= rb then
+        return ra < rb
       end
       return addonData[a].fdid < addonData[b].fdid
     end)

@@ -470,6 +470,41 @@ Enum:
     MaxValue: 2
     MinValue: 0
     NumValues: 3
+  AccountStoreCategoryType:
+    Creature: 0
+    Icon: 1
+    Mount: 2
+    TransmogSet: 3
+  AccountStoreCategoryTypeMeta:
+    MaxValue: 3
+    MinValue: 0
+    NumValues: 4
+  AccountStoreItemFlag:
+    DisplayAsNew: 0
+    DisplayDefaultArmor: 1
+  AccountStoreItemFlagMeta:
+    MaxValue: 1
+    MinValue: 0
+    NumValues: 2
+  AccountStoreItemMode:
+    Locked: 0
+  AccountStoreItemModeMeta:
+    MaxValue: 0
+    MinValue: 0
+    NumValues: 1
+  AccountStoreItemStatus:
+    Owned: 0
+    Refundable: 1
+  AccountStoreItemStatusMeta:
+    MaxValue: 1
+    MinValue: 0
+    NumValues: 2
+  AccountStoreState:
+    Available: 0
+  AccountStoreStateMeta:
+    MaxValue: 0
+    MinValue: 0
+    NumValues: 1
   AccountTransType:
     AccountCurrencies: 26
     AccountNotifications: 38
@@ -1081,6 +1116,18 @@ Enum:
     MaxValue: 1024
     MinValue: 1
     NumValues: 11
+  BattlepayDisplayFlags:
+    CardAlwaysShowsTexture: 0
+    CardDoesNotShowModel: 1
+    HiddenPrice: 2
+    HideWhenOwned: 3
+    UseHorizontalLayoutForFullCard: 4
+    UseIconBorderWithOverrideTexture: 5
+    UseSquareIconBorder: 6
+  BattlepayDisplayFlagsMeta:
+    MaxValue: 6
+    MinValue: 0
+    NumValues: 7
   BattlepayGroupDisplayType:
     ActiveTimeOnly: 2
     Everyone: 0
@@ -1108,6 +1155,14 @@ Enum:
     MaxValue: 16
     MinValue: 1
     NumValues: 5
+  BattlepayProductGroupFlags:
+    DisableOwnedProducts: 0
+    EnabledForTrial: 1
+    EnabledForVeteran: 2
+  BattlepayProductGroupFlagsMeta:
+    MaxValue: 2
+    MinValue: 0
+    NumValues: 3
   BattlePetAbilityFlag:
     DisplayAsHostileDebuff: 1
     HideStrongWeakHints: 2
@@ -1939,6 +1994,13 @@ Enum:
     MaxValue: 9
     MinValue: 0
     NumValues: 10
+  CDMLayoutMode:
+    AccessOnly: 0
+    AllowCreate: 1
+  CDMLayoutModeMeta:
+    MaxValue: 1
+    MinValue: 0
+    NumValues: 2
   ChallengeModeHistoryFlags:
     ConfirmedLeaver: 1
     None: 0
@@ -1970,6 +2032,14 @@ Enum:
     MaxValue: 8
     MinValue: 0
     NumValues: 5
+  CharacterCreateType:
+    Boost: 0
+    Normal: 1
+    TrialBoost: 2
+  CharacterCreateTypeMeta:
+    MaxValue: 2
+    MinValue: 0
+    NumValues: 3
   CharacterServiceInfoFlag:
     AllowMaxLevelBoost: 2
     RestrictToRecommendedSpecs: 1
@@ -2434,9 +2504,7 @@ Enum:
     MaxValue: 9
     MinValue: 0
     NumValues: 10
-  CombatAudioAlertDebuffSelfAlertValues:
-    false: 0
-    DispelType: 1
+  CombatAudioAlertDebuffSelfAlertValues: {}
   CombatAudioAlertDebuffSelfAlertValuesMeta:
     MaxValue: 1
     MinValue: 0
@@ -2446,13 +2514,7 @@ Enum:
     MaxValue: 10
     MinValue: 0
     NumValues: 11
-  CombatAudioAlertPercentValues:
-    false: 0
-    Every10Percent: 1
-    Every20Percent: 2
-    Every30Percent: 3
-    Every40Percent: 4
-    Every50Percent: 5
+  CombatAudioAlertPercentValues: {}
   CombatAudioAlertPercentValuesMeta:
     MaxValue: 5
     MinValue: 0
@@ -2839,6 +2901,35 @@ Enum:
     MaxValue: 4
     MinValue: 0
     NumValues: 5
+  CooldownLayoutAction:
+    AddAlert: 0
+    AddLayout: 1
+    ChangeCategory: 2
+    ChangeOrder: 3
+  CooldownLayoutActionMeta:
+    MaxValue: 3
+    MinValue: 0
+    NumValues: 4
+  CooldownLayoutStatus:
+    AttemptToModifyDefaultLayoutWouldCreateTooManyLayouts: 0
+    InvalidLayoutName: 1
+    InvalidOrderChange: 2
+    MaxLayoutsReached: 3
+    NoValidAlerts: 4
+    Success: 5
+    TooManyAlerts: 6
+    TooManyLayouts: 7
+  CooldownLayoutStatusMeta:
+    MaxValue: 7
+    MinValue: 0
+    NumValues: 8
+  CooldownLayoutType:
+    Account: 0
+    Character: 1
+  CooldownLayoutTypeMeta:
+    MaxValue: 1
+    MinValue: 0
+    NumValues: 2
   CooldownSetLinkedSpellFlags:
     UseAsTooltip: 1
   CooldownSetLinkedSpellFlagsMeta:
@@ -3011,6 +3102,18 @@ Enum:
     War3Rooster: 65
     War3ShimmerBell: 66
     War3WolfHowl: 67
+  CooldownViewerSoundCategory:
+    Animals: 0
+    Devices: 1
+    Impacts: 2
+    Instruments: 3
+    Short: 4
+    War2: 5
+    War3: 6
+  CooldownViewerSoundCategoryMeta:
+    MaxValue: 6
+    MinValue: 0
+    NumValues: 7
   CooldownViewerSoundMeta:
     MaxValue: 93
     MinValue: 0
@@ -3242,6 +3345,33 @@ Enum:
     MaxValue: 3
     MinValue: 0
     NumValues: 4
+  CreationClassDisabledReason:
+    DoesNotHaveExpansion: 0
+    InvalidForNewPlayers: 1
+    InvalidForSelectedRace: 2
+    InvalidForTemplates: 3
+    InvalidForTimerunning: 4
+    LimitLevel: 5
+    LimitServer: 6
+    LockedByAchievement: 7
+    LockedByEntitlement: 8
+  CreationClassDisabledReasonMeta:
+    MaxValue: 8
+    MinValue: 0
+    NumValues: 9
+  CreationRaceDisabledReason:
+    DoesNotHaveAchievement: 0
+    DoesNotHaveAvailableClasses: 1
+    DoesNotHaveEntitlement: 2
+    DoesNotHaveExpansion: 3
+    InvalidForNewPlayers: 4
+    LockedByAchievement: 5
+    RaceLimitLevel: 6
+    RaceLimitServer: 7
+  CreationRaceDisabledReasonMeta:
+    MaxValue: 7
+    MinValue: 0
+    NumValues: 8
   CurioRarity:
     Common: 1
     Epic: 4
@@ -3973,6 +4103,13 @@ Enum:
     MaxValue: 2
     MinValue: 0
     NumValues: 3
+  EditModeChatFrameDisplayOnlySetting:
+    Height: 0
+    Width: 1
+  EditModeChatFrameDisplayOnlySettingMeta:
+    MaxValue: 1
+    MinValue: 0
+    NumValues: 2
   EditModeChatFrameSetting:
     HeightHundreds: 2
     HeightTensAndOnes: 3
@@ -4819,6 +4956,15 @@ Enum:
     MaxValue: 51
     MinValue: 1
     NumValues: 51
+  GameMode:
+    Foo: 0
+    Plunderstorm: 1
+    Standard: 2
+    WoWHack: 3
+  GameModeMeta:
+    MaxValue: 3
+    MinValue: 0
+    NumValues: 4
   GamepadPossessBarOverride:
     Page1BottomBar: 4
     Page1LeftBar: 2
@@ -5355,6 +5501,14 @@ Enum:
     MaxValue: 1
     MinValue: 1
     NumValues: 1
+  GuideFrameState:
+    CannotGuide: 0
+    StartGuiding: 1
+    StopGuiding: 2
+  GuideFrameStateMeta:
+    MaxValue: 2
+    MinValue: 0
+    NumValues: 3
   GuildErrorType:
     AlreadyInGuild: 2
     BadItem: 29
@@ -5513,6 +5667,26 @@ Enum:
     MaxValue: 3
     MinValue: 0
     NumValues: 4
+  HouseSettingFlags:
+    BlueprintExportAnyone: 0
+    BlueprintExportFriends: 1
+    BlueprintExportGuild: 2
+    BlueprintExportNeighbors: 3
+    BlueprintExportParty: 4
+    HouseAccessAnyone: 5
+    HouseAccessFriends: 6
+    HouseAccessGuild: 7
+    HouseAccessNeighbors: 8
+    HouseAccessParty: 9
+    PlotAccessAnyone: 10
+    PlotAccessFriends: 11
+    PlotAccessGuild: 12
+    PlotAccessNeighbors: 13
+    PlotAccessParty: 14
+  HouseSettingFlagsMeta:
+    MaxValue: 14
+    MinValue: 0
+    NumValues: 15
   HouseVisitType:
     Friend: 1
     Guild: 2
@@ -5606,6 +5780,12 @@ Enum:
     MaxValue: 69
     MinValue: 0
     NumValues: 6
+  HousingCatalogEntrySubtype:
+    Unowned: 0
+  HousingCatalogEntrySubtypeMeta:
+    MaxValue: 0
+    MinValue: 0
+    NumValues: 1
   HousingCatalogEntryType:
     Decor: 1
     Invalid: 0
@@ -6101,6 +6281,16 @@ Enum:
     MaxValue: 1
     MinValue: 0
     NumValues: 2
+  InvalidPlotScreenshotReason:
+    Facing: 0
+    NoActivePlayer: 1
+    None: 3
+    NoNeighborhoodFound: 2
+    OutOfBounds: 4
+  InvalidPlotScreenshotReasonMeta:
+    MaxValue: 4
+    MinValue: 0
+    NumValues: 5
   InventoryType:
     Index2HweaponType: 17
     IndexAmmoType: 24
@@ -6910,6 +7100,13 @@ Enum:
     MaxValue: 3
     MinValue: 0
     NumValues: 4
+  KioskExperience:
+    One: 0
+    Two: 1
+  KioskExperienceMeta:
+    MaxValue: 1
+    MinValue: 0
+    NumValues: 2
   LanguageFlag:
     HiddenFromPlayer: 2
     HideLanguageNameInChat: 4
@@ -7577,6 +7774,14 @@ Enum:
     MaxValue: 4
     MinValue: 0
     NumValues: 4
+  NeighborhoodOwnerType:
+    Charter: 0
+    Guild: 1
+    None: 2
+  NeighborhoodOwnerTypeMeta:
+    MaxValue: 2
+    MinValue: 0
+    NumValues: 3
   NewCharGear:
     Preview: 1
     Start: 0
@@ -7675,6 +7880,15 @@ Enum:
     MaxValue: 4
     MinValue: 0
     NumValues: 5
+  PartyPlaylistEntry:
+    DuoGameMode: 0
+    SoloGameMode: 1
+    TrainingGameMode: 2
+    TrioGameMode: 3
+  PartyPlaylistEntryMeta:
+    MaxValue: 3
+    MinValue: 0
+    NumValues: 4
   PartyPoseFlags:
     HideLeaveInstanceButton: 1
   PartyPoseFlagsMeta:
@@ -8735,6 +8949,21 @@ Enum:
     MaxValue: 5
     MinValue: 0
     NumValues: 6
+  PurchaseHouseDisabledReason:
+    CharterLockout: 0
+    GuildLockout: 1
+    MaxHouses: 2
+    NoExpansion: 3
+    NoGameTimeRemaining: 4
+    None: 5
+    NotInvited: 6
+    Reserved: 7
+    WrongFaction: 8
+    WrongGuild: 9
+  PurchaseHouseDisabledReasonMeta:
+    MaxValue: 9
+    MinValue: 0
+    NumValues: 10
   PurchaseResult:
     ErrorAuthorizingPayment: 37
     ErrorBattlepayDisabled: 14
@@ -8822,7 +9051,14 @@ Enum:
   PvPMatchmakingType:
     Arena: 1
     Battleground: 0
+  PvpMatchmakingType:
+    Arena: 0
+    Battleground: 1
   PvPMatchmakingTypeMeta:
+    MaxValue: 1
+    MinValue: 0
+    NumValues: 2
+  PvpMatchmakingTypeMeta:
     MaxValue: 1
     MinValue: 0
     NumValues: 2
@@ -9344,6 +9580,14 @@ Enum:
     Character: 2
     None: 0
   ReputationSortTypeMeta:
+    MaxValue: 2
+    MinValue: 0
+    NumValues: 3
+  ResidentType:
+    Manager: 0
+    Owner: 1
+    Resident: 2
+  ResidentTypeMeta:
     MaxValue: 2
     MinValue: 0
     NumValues: 3
@@ -12105,6 +12349,17 @@ Enum:
     MaxValue: 17
     MinValue: 0
     NumValues: 18
+  ValueAddedServiceType:
+    FreeCharacterTransfer: 0
+    HardcoreCharacterTransfer: 1
+    PaidCharacterTransfer: 2
+    PaidFactionChange: 3
+    PaidNameChange: 4
+    PaidRaceChange: 5
+  ValueAddedServiceTypeMeta:
+    MaxValue: 5
+    MinValue: 0
+    NumValues: 6
   VasError:
     AccountRestricted: 20082
     AllianceNotEligible: 20027
@@ -12172,6 +12427,23 @@ Enum:
     MaxValue: 7
     MinValue: 0
     NumValues: 8
+  VasQueueStatus:
+    OneToThreeHours: 0
+    Over_1_Days: 2
+    Over_2_Days: 3
+    Over_3_Days: 4
+    Over_4_Days: 5
+    Over_5_Days: 6
+    Over_6_Days: 7
+    Over_7_Days: 8
+    OverTwelveHours: 1
+    SixToTwelveHours: 9
+    ThreeToSixHours: 10
+    UnderAnHour: 11
+  VasQueueStatusMeta:
+    MaxValue: 11
+    MinValue: 0
+    NumValues: 12
   VasServiceType:
     AppearanceChange: 2
     CharacterTransfer: 4
@@ -12742,6 +13014,14 @@ Enum:
     MaxValue: 9
     MinValue: 0
     NumValues: 10
+  WoWLabsAreaType:
+    PlunderstormDropDense: 0
+    PlunderstormDropMedium: 1
+    PlunderstormDropSparse: 2
+  WoWLabsAreaTypeMeta:
+    MaxValue: 2
+    MinValue: 0
+    NumValues: 3
   ZoneControlActiveState:
     Active: 1
     Inactive: 0
