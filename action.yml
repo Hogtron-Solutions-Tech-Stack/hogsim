@@ -1,0 +1,41 @@
+name: HogSim
+description: Load your WoW addon into Blizzard's real WoW Forever UI, headless; fail on errors in your code; attach a report.
+inputs:
+  addon:
+    description: Path(s) to addon folder(s) in the workspace, space separated
+    required: true
+  product:
+    description: Client product (wowf = WoW Forever)
+    default: wowf
+  fail-on-addon-errors:
+    description: Fail the job when an error touches your addon
+    default: 'true'
+runs:
+  using: composite
+  steps:
+    - name: Restore the client data cache (first run fetches ~20 min from Blizzard's CDN)
+      uses: actions/cache@v4
+      with:
+        path: |
+          ${{ github.workspace }}/.hogsim/cache
+          ${{ github.workspace }}/.hogsim/extracts
+        key: hogsim-${{ inputs.product }}-v1
+    - name: Run HogSim
+      shell: bash
+      run: |
+        mkdir -p .hogsim/cache .hogsim/extracts .hogsim/out
+        args=(); for a in ${{ inputs.addon }}; do args+=(--addon "/work/$a"); done
+        docker run --rm \
+          -v "$PWD:/work" -v "$PWD/.hogsim/cache:/hogsim/cache" -v "$PWD/.hogsim/extracts:/hogsim/extracts" -v "$PWD/.hogsim/out:/hogsim/out" \
+          ghcr.io/hogtron-solutions-tech-stack/hogsim:latest run --product ${{ inputs.product }} --report /work/.hogsim/report "${args[@]}"
+        cat .hogsim/report/report.md >> "$GITHUB_STEP_SUMMARY"
+    - uses: actions/upload-artifact@v4
+      with:
+        name: hogsim-report
+        path: .hogsim/report
+    - name: Fail on errors touching the addon
+      if: inputs.fail-on-addon-errors == 'true'
+      shell: bash
+      run: |
+        n=$(grep -m1 -oE '^## Errors touching your addon \(([0-9]+)\)' .hogsim/report/report.md | grep -oE '[0-9]+' || echo 0)
+        echo "errors touching the addon: $n"; [ "$n" = "0" ]

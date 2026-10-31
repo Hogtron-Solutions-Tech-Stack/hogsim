@@ -1,0 +1,48 @@
+#!/bin/bash
+# hogsim: headless WoW: Forever UI simulator (HogTron). Runs from the repo root (or the Docker image's /hogsim).
+set -o pipefail
+cd "$(dirname "$(readlink -f "$0")")/.." || exit 1
+eval "$(luarocks path --lua-version 5.1 2>/dev/null)"
+ELUNE=vendor/elune/build/linux/bin/Release/lua5.1
+usage() {
+  cat <<USAGE
+hogsim <command> [options]
+  fetch   [--product wowf]                      download the product's interface code + databases (cached)
+  run     --addon <dir> [--addon <dir>...] [--product wowf] [--report <dir>] [--max-errors N] [--no-render]
+                                                load Blizzard's UI plus your addon folders, write <report>/report.md,
+                                                run.log and frame0.png
+  help
+USAGE
+}
+product=wowf; report=out/report; maxerr=100000000; render=1; addons=()
+cmd=$1; shift
+while [ $# -gt 0 ]; do
+  case "$1" in
+    --product) product=$2; shift 2 ;;
+    --addon) addons+=("$2"); shift 2 ;;
+    --report) report=$2; shift 2 ;;
+    --max-errors) maxerr=$2; shift 2 ;;
+    --no-render) render=0; shift ;;
+    *) echo "unknown option $1"; usage; exit 2 ;;
+  esac
+done
+case "$cmd" in
+  fetch)
+    [ -f build.ninja ] || lua tools/mkninja.lua
+    ninja "$product" ;;
+  run)
+    [ -d "extracts/$product" ] || { echo "product $product not fetched yet; running fetch (first time: ~20 min)"; [ -f build.ninja ] || lua tools/mkninja.lua; ninja "$product" || exit 1; }
+    mkdir -p "$report" "out/$product"
+    args=(); for a in "${addons[@]}"; do [ -d "$a" ] || { echo "addon dir not found: $a"; exit 2; }; args+=(-a "$(readlink -f "$a")"); done
+    echo "hogsim: loading Blizzard UI ($product) + ${#addons[@]} addon folder(s)"
+    $ELUNE wowless.lua -p "$product" -e "$maxerr" -l 1 "${args[@]}" > "$report/run.log" 2>&1
+    rc=$?
+    python3 tools/report.py "$report/run.log" "$report/report.md" "${addons[@]}"
+    if [ "$render" = 1 ]; then
+      ninja "out/$product/frame0.png" > /dev/null 2>&1 && cp "out/$product/frame0.png" "$report/frame0.png" 2>/dev/null
+    fi
+    echo "hogsim: report at $report/report.md (engine exit $rc)"
+    head -30 "$report/report.md" ;;
+  help|"") usage ;;
+  *) usage; exit 2 ;;
+esac
