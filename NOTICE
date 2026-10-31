@@ -1,0 +1,14 @@
+HogSim is based on wowless (https://github.com/ferronn-dev/wowless)
+Copyright (c) 2021 Ferronn, released under the MIT License.
+
+HogSim modifications Copyright (c) 2026 HogTron Solutions, LLC, released under the same MIT License (see LICENSE).
+
+Vendored components keep their own licenses:
+  vendor/elune    (meorawr/elune)       Lua 5.1 fork with WoW semantics
+  vendor/dbdefs   (wowdev/WoWDBDefs)    client database definitions
+  vendor/listfile (wowdev/wow-listfile) community listfile
+  vendor/tactkeys (wowdev/TACTKeys)     encryption keys
+
+World of Warcraft and all game data are the property of Blizzard Entertainment, Inc. HogSim downloads
+interface code from Blizzard's content network at build time, the same way the game client does, and does
+not redistribute it. HogSim is an unofficial fan project, not affiliated with or endorsed by Blizzard.
